@@ -1,0 +1,17 @@
+{
+  "name": "manga-deals",
+  "version": "0.1.0",
+  "private": true,
+  "description": "抓取各漫畫平台近期熱門作品（全年齡），並把同一作品在不同平台的售價並列",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "crawl": "node src/run.js",
+    "crawl:kr": "node src/run.js --only ridi,kakaopage,lezhin",
+    "crawl:tw": "node src/run.js --only bookwalker_tw,renta_tw",
+    "crawl:dlsite": "node src/run.js --only dlsite",
+    "build:site": "node src/site/build.js",
+    "preview": "node test/make-sample.mjs && node src/site/build.js --data data/sample --out public",
+    "test": "node --test test/*.test.js"
+  }
+}

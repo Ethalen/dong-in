@@ -1,0 +1,75 @@
+name: crawl
+
+on:
+  schedule:
+    # 每天台灣時間 05:17 與 17:17（UTC 21:17 / 09:17）。避開整點，GitHub 整點排程常延遲。
+    - cron: '17 21 * * *'
+    - cron: '17 9 * * *'
+  push:
+    branches: [main]
+    paths: ['src/site/**']
+  workflow_dispatch:
+    inputs:
+      only:
+        description: '只抓指定來源（逗號分隔，例如 ridi,kakaopage）；留空 = 全部'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm test
+      - name: Crawl
+        # 只改前端（push）時不重新抓資料，直接用現有 data/ 重建網站
+        if: github.event_name != 'push'
+        run: |
+          if [ -n "${{ github.event.inputs.only }}" ]; then
+            node src/run.js --only "${{ github.event.inputs.only }}"
+          else
+            node src/run.js
+          fi
+        env:
+          USER_AGENT: ${{ vars.CRAWLER_USER_AGENT }}
+          SINCE_DAYS: ${{ vars.SINCE_DAYS }}
+      - name: Commit data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "manga-deals-bot"
+          git config user.email "manga-deals-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "資料沒有變動"
+          else
+            git commit -m "data: update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+      - name: Build site
+        run: node src/site/build.js --data data --out public
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: crawl
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

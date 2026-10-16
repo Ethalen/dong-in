@@ -1,0 +1,429 @@
+[
+  {
+    "key": "하프오브미",
+    "region": "KR",
+    "title": "하프 오브 미",
+    "cover": "https://ccdn.lezhin.com/v2/comics/5367505697964032/images/tall.webp?width=440",
+    "authors": [
+      "samK",
+      "주한",
+      "samk"
+    ],
+    "category": null,
+    "releasedAt": "2022-07-26T15:00:00.000Z",
+    "updatedAt": "2026-01-07T15:00:00.000Z",
+    "sources": [
+      "lezhin",
+      "ridi",
+      "kakaopage"
+    ],
+    "multiStore": true,
+    "bestRank": 1,
+    "offers": [
+      {
+        "source": "lezhin",
+        "url": "https://www.lezhin.com/ko/comic/half_of_me",
+        "title": "하프 오브 미",
+        "rank": 1,
+        "rankList": "realtime:all",
+        "releasedAt": "2022-07-26T15:00:00.000Z",
+        "updatedAt": "2026-01-06T15:00:00.000Z",
+        "price": {
+          "currency": "COIN",
+          "current": 1,
+          "regular": 1,
+          "discountRate": 0,
+          "unit": "episode"
+        },
+        "promo": {
+          "freeEpisodes": 6,
+          "text": "[5화 무료, 3 → 1코인] 파격할인 이벤트!"
+        }
+      },
+      {
+        "source": "ridi",
+        "url": "https://ridibooks.com/books/1434021894",
+        "title": "하프 오브 미 1화",
+        "rank": null,
+        "rankList": "lookup",
+        "releasedAt": "2022-07-27T15:00:00.000Z",
+        "updatedAt": "2026-01-07T15:00:00.000Z",
+        "price": {
+          "currency": "KRW",
+          "current": 600,
+          "regular": 600,
+          "discountRate": 0,
+          "unit": "episode",
+          "seriesTotal": {
+            "current": 58800,
+            "regular": 58800
+          }
+        },
+        "promo": null
+      },
+      {
+        "source": "kakaopage",
+        "url": "https://page.kakao.com/content/61392730",
+        "title": "하프 오브 미",
+        "rank": null,
+        "rankList": "lookup",
+        "releasedAt": "2022-07-27T15:00:00.000Z",
+        "updatedAt": "2026-01-07T15:00:00.000Z",
+        "price": {
+          "currency": "TICKET",
+          "current": null,
+          "regular": null,
+          "discountRate": 0,
+          "unit": "episode"
+        },
+        "promo": {
+          "waitFree": true,
+          "waitFreeHours": 24,
+          "freeEpisodes": 1
+        }
+      }
+    ]
+  },
+  {
+    "key": "레가스",
+    "region": "KR",
+    "title": "레가스 [연재]",
+    "cover": "https://ccdn.lezhin.com/v2/comics/4926773083701248/images/tall.webp?width=440",
+    "authors": [
+      "이끗",
+      "댕멍",
+      "samk"
+    ],
+    "category": null,
+    "releasedAt": "2023-11-12T15:00:00.000Z",
+    "updatedAt": "2026-10-04T15:00:00.000Z",
+    "sources": [
+      "lezhin",
+      "ridi"
+    ],
+    "multiStore": true,
+    "bestRank": 4,
+    "offers": [
+      {
+        "source": "lezhin",
+        "url": "https://www.lezhin.com/ko/comic/regas",
+        "title": "레가스 [연재]",
+        "rank": 4,
+        "rankList": "realtime:all",
+        "releasedAt": "2024-09-14T15:00:00.000Z",
+        "updatedAt": "2026-10-03T15:00:00.000Z",
+        "price": {
+          "currency": "COIN",
+          "current": 3,
+          "regular": 3,
+          "discountRate": 0,
+          "unit": "episode"
+        },
+        "promo": {
+          "freeEpisodes": 2,
+          "text": null
+        }
+      },
+      {
+        "source": "ridi",
+        "url": "https://ridibooks.com/books/2968005365",
+        "title": "레가스 1화",
+        "rank": null,
+        "rankList": "lookup",
+        "releasedAt": "2023-11-12T15:00:00.000Z",
+        "updatedAt": "2026-10-04T15:00:00.000Z",
+        "price": {
+          "currency": "KRW",
+          "current": 500,
+          "regular": 500,
+          "discountRate": 0,
+          "unit": "episode",
+          "seriesTotal": {
+            "current": 57000,
+            "regular": 57000
+          }
+        },
+        "promo": {
+          "freeEpisodes": 2
+        }
+      }
+    ]
+  },
+  {
+    "key": "괴담에떨어져도출근을해야하는구나",
+    "region": "KR",
+    "title": "괴담에 떨어져도 출근을 해야 하는구나",
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3",
+    "authors": [
+      "캐롯스튜디오",
+      "쓩늉",
+      "백덕수"
+    ],
+    "category": null,
+    "releasedAt": "2026-06-04T15:00:00.000Z",
+    "updatedAt": "2026-10-08T15:00:00.000Z",
+    "sources": [
+      "kakaopage"
+    ],
+    "multiStore": false,
+    "bestRank": 1,
+    "offers": [
+      {
+        "source": "kakaopage",
+        "url": "https://page.kakao.com/content/69229506",
+        "title": "괴담에 떨어져도 출근을 해야 하는구나",
+        "rank": 1,
+        "rankList": "webtoon:monthly",
+        "releasedAt": "2026-06-04T15:00:00.000Z",
+        "updatedAt": "2026-10-08T15:00:00.000Z",
+        "price": {
+          "currency": "TICKET",
+          "current": null,
+          "regular": null,
+          "discountRate": 0,
+          "unit": "episode"
+        },
+        "promo": {
+          "waitFree": true,
+          "waitFreeHours": 3,
+          "freeEpisodes": 4
+        }
+      }
+    ]
+  },
+  {
+    "key": "던전을그리는화가",
+    "region": "KR",
+    "title": "던전을 그리는 화가",
+    "cover": null,
+    "authors": [
+      "글리",
+      "오솟"
+    ],
+    "category": null,
+    "releasedAt": "2026-07-05T15:00:00.000Z",
+    "updatedAt": "2026-10-05T15:00:00.000Z",
+    "sources": [
+      "ridi"
+    ],
+    "multiStore": false,
+    "bestRank": 1,
+    "offers": [
+      {
+        "source": "ridi",
+        "url": "https://ridibooks.com/search?q=%EB%8D%98%EC%A0%84%EC%9D%84%20%EA%B7%B8%EB%A6%AC%EB%8A%94%20%ED%99%94%EA%B0%80",
+        "title": "던전을 그리는 화가 1화",
+        "rank": 1,
+        "rankList": "webtoon:monthly",
+        "releasedAt": "2026-07-05T15:00:00.000Z",
+        "updatedAt": "2026-10-05T15:00:00.000Z",
+        "price": {
+          "currency": "KRW",
+          "current": 500,
+          "regular": 500,
+          "discountRate": 0,
+          "unit": "episode",
+          "seriesTotal": null
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "죽어서되돌아간마법학교생활을옛연인과프롤로그부터",
+    "region": "KR",
+    "title": "[코믹] 죽어서 되돌아간 마법학교 생활을, 옛 연인과 프롤로그부터",
+    "cover": "https://img.ridicdn.net/cover/1690005140/large",
+    "authors": [
+      "시라카와 긴",
+      "무츠하나 에이코"
+    ],
+    "category": null,
+    "releasedAt": "2024-04-28T15:00:00.000Z",
+    "updatedAt": "2026-09-29T15:00:00.000Z",
+    "sources": [
+      "ridi"
+    ],
+    "multiStore": false,
+    "bestRank": 1,
+    "offers": [
+      {
+        "source": "ridi",
+        "url": "https://ridibooks.com/books/1690002642",
+        "title": "[코믹] 죽어서 되돌아간 마법학교 생활을, 옛 연인과 프롤로그부터 1권",
+        "rank": 1,
+        "rankList": "comic:monthly",
+        "releasedAt": "2024-04-28T15:00:00.000Z",
+        "updatedAt": "2026-09-29T15:00:00.000Z",
+        "price": {
+          "currency": "KRW",
+          "current": 4050,
+          "regular": 4500,
+          "discountRate": 10,
+          "unit": "volume",
+          "seriesTotal": {
+            "current": 28350,
+            "regular": 28350
+          }
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "뱀가문의막내딸입니다",
+    "region": "KR",
+    "title": "뱀 가문의 막내딸입니다",
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=juu7j/dJMb992dMEB/Z0exLRBsxJMtdWsK4eK0pK&filename=th3",
+    "authors": [
+      "들깨",
+      "배즙",
+      "마랭"
+    ],
+    "category": null,
+    "releasedAt": "2026-09-22T15:00:00.000Z",
+    "updatedAt": "2026-10-05T15:00:00.000Z",
+    "sources": [
+      "kakaopage"
+    ],
+    "multiStore": false,
+    "bestRank": 2,
+    "offers": [
+      {
+        "source": "kakaopage",
+        "url": "https://page.kakao.com/content/70601591",
+        "title": "뱀 가문의 막내딸입니다",
+        "rank": 2,
+        "rankList": "webtoon:monthly",
+        "releasedAt": "2026-09-22T15:00:00.000Z",
+        "updatedAt": "2026-10-05T15:00:00.000Z",
+        "price": {
+          "currency": "TICKET",
+          "current": null,
+          "regular": null,
+          "discountRate": 0,
+          "unit": "episode"
+        },
+        "promo": {
+          "waitFree": true,
+          "waitFreeHours": 24,
+          "freeEpisodes": 3
+        }
+      }
+    ]
+  },
+  {
+    "key": "상수리나무아래",
+    "region": "KR",
+    "title": "상수리나무 아래",
+    "cover": "https://img.ridicdn.net/cover/4766000001/large",
+    "authors": [
+      "P",
+      "서말",
+      "나무",
+      "김수지"
+    ],
+    "category": null,
+    "releasedAt": "2020-08-29T15:00:00.000Z",
+    "updatedAt": "2026-10-09T15:00:00.000Z",
+    "sources": [
+      "ridi"
+    ],
+    "multiStore": false,
+    "bestRank": 2,
+    "offers": [
+      {
+        "source": "ridi",
+        "url": "https://ridibooks.com/books/4766000001",
+        "title": "상수리나무 아래 1화",
+        "rank": 2,
+        "rankList": "webtoon:monthly",
+        "releasedAt": "2020-08-29T15:00:00.000Z",
+        "updatedAt": "2026-10-09T15:00:00.000Z",
+        "price": {
+          "currency": "KRW",
+          "current": 500,
+          "regular": 500,
+          "discountRate": 0,
+          "unit": "episode",
+          "seriesTotal": null
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "메달리스트",
+    "region": "KR",
+    "title": "메달리스트",
+    "cover": null,
+    "authors": [
+      "츠루마 이카다"
+    ],
+    "category": null,
+    "releasedAt": "2022-08-28T15:00:00.000Z",
+    "updatedAt": "2026-09-21T15:00:00.000Z",
+    "sources": [
+      "ridi"
+    ],
+    "multiStore": false,
+    "bestRank": 2,
+    "offers": [
+      {
+        "source": "ridi",
+        "url": "https://ridibooks.com/search?q=%EB%A9%94%EB%8B%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8",
+        "title": "메달리스트 1권",
+        "rank": 2,
+        "rankList": "comic:monthly",
+        "releasedAt": "2022-08-28T15:00:00.000Z",
+        "updatedAt": "2026-09-21T15:00:00.000Z",
+        "price": {
+          "currency": "KRW",
+          "current": 3420,
+          "regular": 3800,
+          "discountRate": 10,
+          "unit": "volume",
+          "seriesTotal": null
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "스파이패밀리",
+    "region": "KR",
+    "title": "스파이 패밀리",
+    "cover": null,
+    "authors": [
+      "엔도 타츠야"
+    ],
+    "category": null,
+    "releasedAt": "2020-03-17T15:00:00.000Z",
+    "updatedAt": "2026-09-15T15:00:00.000Z",
+    "sources": [
+      "ridi"
+    ],
+    "multiStore": false,
+    "bestRank": 3,
+    "offers": [
+      {
+        "source": "ridi",
+        "url": "https://ridibooks.com/search?q=%EC%8A%A4%ED%8C%8C%EC%9D%B4%20%ED%8C%A8%EB%B0%80%EB%A6%AC",
+        "title": "스파이 패밀리 1권",
+        "rank": 3,
+        "rankList": "comic:monthly",
+        "releasedAt": "2020-03-17T15:00:00.000Z",
+        "updatedAt": "2026-09-15T15:00:00.000Z",
+        "price": {
+          "currency": "KRW",
+          "current": 3420,
+          "regular": 3800,
+          "discountRate": 10,
+          "unit": "volume",
+          "seriesTotal": null
+        },
+        "promo": null
+      }
+    ]
+  }
+]

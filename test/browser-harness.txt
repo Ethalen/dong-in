@@ -1,0 +1,16 @@
+const config = { maxItemsPerSource: Number(window.__MAX || 12) };
+const cutoff = new Date(Date.now() - 365 * 86400000);
+const logs = [];
+const http = {
+  getText: (u) => fetch(u, { credentials: 'omit' }).then((r) => { if (!r.ok) throw new Error(r.status + ' ' + u); return r.text(); }),
+  getJson: (u) => fetch(u, { credentials: 'omit' }).then((r) => { if (!r.ok) throw new Error(r.status + ' ' + u); return r.json(); }),
+};
+const offers = await adapter.crawl({ http, config, cutoff, log: (m) => logs.push(m) });
+return {
+  logs,
+  total: offers.length,
+  adult: offers.filter((o) => o.rating !== 'all').map((o) => o.title),
+  recent: offers.filter((o) => isRecent(o, cutoff)).length,
+  sample: offers.slice(0, 2),
+  brief: offers.map((o) => [o.rank, o.rating, o.title, o.price && o.price.current, o.price && o.price.regular, (o.releasedAt || '').slice(0, 10), (o.updatedAt || '').slice(0, 10), o.authors.join('|')].join(' ; ')).slice(0, 15),
+};
