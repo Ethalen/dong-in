@@ -1,0 +1,55 @@
+{
+  "sources": {
+    "dlsite": {
+      "ok": true,
+      "at": "2026-10-16T19:18:40.230Z",
+      "raw": 120,
+      "adult": 0,
+      "old": 0,
+      "kept": 120
+    },
+    "bookwalker_tw": {
+      "ok": true,
+      "at": "2026-10-16T19:18:40.230Z",
+      "raw": 63,
+      "adult": 0,
+      "old": 8,
+      "kept": 55
+    },
+    "renta_tw": {
+      "ok": true,
+      "at": "2026-10-16T19:18:40.230Z",
+      "raw": 40,
+      "adult": 0,
+      "old": 5,
+      "kept": 35
+    },
+    "ridi": {
+      "ok": true,
+      "at": "2026-10-16T19:18:40.230Z",
+      "raw": 120,
+      "adult": 0,
+      "old": 6,
+      "kept": 114
+    },
+    "kakaopage": {
+      "ok": true,
+      "at": "2026-10-16T19:18:40.230Z",
+      "raw": 120,
+      "adult": 17,
+      "old": 4,
+      "kept": 99
+    },
+    "lezhin": {
+      "ok": true,
+      "at": "2026-10-16T19:18:40.230Z",
+      "raw": 71,
+      "adult": 0,
+      "old": 0,
+      "kept": 71
+    }
+  },
+  "generatedAt": "2026-10-16T19:18:40.230Z",
+  "sinceDays": 365,
+  "recency": "any"
+}
