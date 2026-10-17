@@ -71,6 +71,35 @@ async function crossLookup(region, works) {
   });
 }
 
+/**
+ * 在 GitHub Actions 上執行時：
+ *  - 失敗的來源用 ::warning:: 顯示在執行結果頁的 Annotations（不用點進 log 也看得到）
+ *  - 在執行結果頁的 Summary 產生一張各來源狀態表
+ */
+async function reportToGitHub(targets, meta) {
+  if (!process.env.GITHUB_ACTIONS) return;
+  const esc = (s) => String(s).replace(/%/g, '%25').replace(/\r/g, '%0D').replace(/\n/g, '%0A');
+  const rows = [];
+  for (const a of targets) {
+    const m = meta.sources[a.name] || {};
+    if (m.ok) {
+      rows.push(`| ${a.name} | ✅ 成功 | ${m.raw} | ${m.adult} | ${m.old} | ${m.kept} | |`);
+    } else {
+      console.log(`::warning title=爬蟲失敗：${a.name}::${esc(m.lastError || '未知錯誤')}（已保留上一次的資料）`);
+      rows.push(`| ${a.name} | ❌ 失敗 | | | | | ${String(m.lastError || '').replace(/\|/g, '/').slice(0, 120)} |`);
+    }
+  }
+  const md = [
+    `## 爬蟲結果（${meta.generatedAt}）`,
+    '',
+    '| 來源 | 狀態 | 取得 | 排除成人 | 排除過舊 | 保留 | 錯誤 |',
+    '|---|---|---|---|---|---|---|',
+    ...rows,
+    '',
+  ].join('\n');
+  if (process.env.GITHUB_STEP_SUMMARY) await fs.appendFile(process.env.GITHUB_STEP_SUMMARY, md);
+}
+
 async function main() {
   const args = parseArgs(process.argv.slice(2));
   const cutoff = cutoffDate();
@@ -125,6 +154,7 @@ async function main() {
   }
   await writeJson(path.join(out, 'dlsite.json'), all.filter((o) => o.source === 'dlsite'));
   await writeJson(path.join(out, 'meta.json'), meta);
+  await reportToGitHub(targets, meta);
 
   if (failed === targets.length) process.exitCode = 1;
 }
