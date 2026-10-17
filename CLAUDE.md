@@ -19,7 +19,9 @@
   - 在 GitHub Actions 上會輸出 `::warning::` 與 Step Summary 表格
 - `src/site/`：靜態網站產生器（`build.js`、`i18n.js` 繁中/韓文字串、`assets/style.css`、`assets/app.js`）
   - 首頁 `index.html`＝排行榜（深梅紅頁首、前三名頒獎台、編號清單）
-  - `compare.html`＝多平台比價表（左側篩選、平台分欄、最便宜標綠、價差排序）
+  - `compare.html`＝多平台比價表（左側篩選、平台分欄、最便宜標綠、價差排序）；也是 Google 廣告到達頁，整頁（含內嵌 JSON）不能出現 DLsite
+  - `about.html`、`privacy.html`＝關於本站、隱私權政策（文字在 `i18n.js`）；聯絡方式預設 GitHub Issues，可用環境變數 `SITE_CONTACT` 改成網址或 email
+  - 各頁會顯示各平台價格更新時間（`meta.json` 的 `sources.<名稱>.at`）
 - `.github/workflows/crawl.yml`：每天台灣時間 05:17、17:17 抓資料→commit data→build→部署 GitHub Pages；只改 `src/site/**` 的 push 只重建網站
 
 ## 常用指令

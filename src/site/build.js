@@ -145,6 +145,14 @@ function fmtDate(iso, L) {
   return new Date(iso).toLocaleDateString(L.dateLocale, { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Taipei' });
 }
 
+/** 日期＋時間（依各語言版本的時區）；short = 不顯示年份 */
+function fmtDateTime(iso, L, short = false) {
+  return new Date(iso).toLocaleString(L.dateLocale, {
+    ...(short ? {} : { year: 'numeric' }),
+    month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23', timeZone: L.timeZone,
+  });
+}
+
 /** 佔位字：書名第一個文字或數字（略過『【等符號） */
 function initial(title) {
   return (String(title || '').match(/[\p{L}\p{N}]/u) || ['?'])[0];
@@ -207,22 +215,26 @@ function compareRow(w, i, L, platforms) {
     `</span>${cells}<button class="go" type="button" aria-haspopup="dialog">${esc(L.compare.detail)}</button></div>`;
 }
 
-function headHtml(L, title, page) {
+// 各頁的檔名（切換語言時連到另一個語言的同一頁）
+const PAGE_FILES = { rank: '', compare: 'compare.html', about: 'about.html', privacy: 'privacy.html' };
+
+function headHtml(L, title, page, description = L.description) {
+  const file = PAGE_FILES[page];
   return `<!doctype html>
 <html lang="${L.lang}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>${esc(title)}</title>
-<meta name="description" content="${esc(L.description)}">
-<link rel="alternate" hreflang="zh-Hant-TW" href="../tw/${page === 'compare' ? 'compare.html' : ''}">
-<link rel="alternate" hreflang="ko" href="../ko/${page === 'compare' ? 'compare.html' : ''}">
+<meta name="description" content="${esc(description)}">
+<link rel="alternate" hreflang="zh-Hant-TW" href="../tw/${file}">
+<link rel="alternate" hreflang="ko" href="../ko/${file}">
 <link rel="stylesheet" href="../assets/style.css">
 </head>`;
 }
 
 function barHtml(L, page) {
-  const other = L.otherLang.href + (page === 'compare' ? 'compare.html' : '');
+  const other = L.otherLang.href + PAGE_FILES[page];
   return `<div class="bar">
     <a class="brand" href="./"><span class="logo" aria-hidden="true">◆</span>${esc(L.siteName)}</a>
     <nav class="views">
@@ -234,8 +246,65 @@ function barHtml(L, page) {
 }
 
 function footHtml(L, meta) {
-  const updated = meta.generatedAt ? fmtDate(meta.generatedAt, L) : '';
-  return `<footer class="foot"><p>${esc(L.updatedAt(updated))}</p><p>${esc(L.disclaimer)}</p></footer>`;
+  const updated = meta.generatedAt ? `${fmtDateTime(meta.generatedAt, L)}（${L.tzLabel}）` : '';
+  const links = [['about.html', L.links.about], ['privacy.html', L.links.privacy], [contactHref(), L.links.contact]]
+    .map(([href, label]) => `<a href="${esc(href)}">${esc(label)}</a>`)
+    .join('');
+  return `<footer class="foot"><p>${esc(L.updatedAt(updated))}</p><p>${esc(L.disclaimer)}</p><nav class="foot-links">${links}</nav></footer>`;
+}
+
+/** 各平台最後一次成功抓到資料的時間（某平台失敗時，網站上是它上一次的價格） */
+function freshText(L, meta, platforms) {
+  const list = platforms
+    .map((pf) => {
+      const at = meta.sources?.[pf]?.at || meta.generatedAt;
+      return at ? `${L.sources[pf]} ${fmtDateTime(at, L, true)}` : null;
+    })
+    .filter(Boolean);
+  return L.fresh(list.join('・'));
+}
+
+// 聯絡方式：預設 GitHub Issues；設定 SITE_CONTACT（網址或 email）即可改掉
+const CONTACT = process.env.SITE_CONTACT || 'https://github.com/Ethalen/dong-in/issues';
+function contactHref() {
+  return /^[^\s@:/]+@[^\s@]+$/.test(CONTACT) ? `mailto:${CONTACT}` : CONTACT;
+}
+
+/** 「關於本站」「隱私權政策」這類純文字頁 */
+function docPage(L, page, meta) {
+  const D = L[page];
+  const sections = D.sections
+    .map((s) => `<section><h2>${esc(s.h)}</h2>${s.p.map((t) => `<p>${linkify(t)}</p>`).join('')}</section>`)
+    .join('');
+  return `${headHtml(L, `${D.title}｜${L.siteName}`, page, D.lead)}
+<body data-page="${page}">
+<header class="top top-compare">
+  ${barHtml(L, page)}
+  <div class="hero">
+    <h1>${esc(D.title)}</h1>
+    <p>${esc(D.lead)}</p>
+  </div>
+</header>
+<main class="wrap doc">
+  ${sections}
+  <p class="doc-contact"><a href="${esc(contactHref())}">${esc(L.links.contact)}</a></p>
+  ${D.updated ? `<p class="doc-date">${esc(D.updated)}</p>` : ''}
+  ${footHtml(L, meta)}
+</main>
+</body>
+</html>
+`;
+}
+
+/** 文字裡的 [文字](網址) 轉成連結，其餘照常跳脫 */
+function linkify(t) {
+  return String(t)
+    .split(/(\[[^\]]+\]\([^)\s]+\))/)
+    .map((part) => {
+      const m = part.match(/^\[([^\]]+)\]\(([^)\s]+)\)$/);
+      return m ? `<a href="${esc(m[2])}" rel="noopener">${esc(m[1])}</a>` : esc(part);
+    })
+    .join('');
 }
 
 function tailHtml(views, L) {
@@ -277,6 +346,7 @@ function rankPage(L, views, meta, counts) {
   <ol class="podium" id="podium">${items.slice(0, 3).join('')}</ol>
   <div class="filters"><div class="tabs">${tabs}</div>${searchHtml(L)}</div>
   <p class="count" id="count" aria-live="polite">${esc(L.count(views.length))}</p>
+  <p class="fresh">${esc(freshText(L, meta, Object.keys(L.sources).filter((k) => counts[k])))}</p>
   <ol class="ranklist" id="list">${items.slice(3).join('')}</ol>
   <p class="empty" id="empty" hidden>${esc(L.empty)}</p>
   ${footHtml(L, meta)}
@@ -284,6 +354,7 @@ function rankPage(L, views, meta, counts) {
 ${tailHtml(views, L)}`;
 }
 
+// 比價表也是廣告到達頁：只放比價平台的作品，內嵌的資料也不含 DLsite
 function comparePage(L, views, meta) {
   const platforms = Object.keys(L.sources).filter((k) => k !== 'dlsite');
   const rows = views.filter((w) => !w.sources.includes('dlsite'));
@@ -295,6 +366,7 @@ function comparePage(L, views, meta) {
     .map(([k, label]) => `<button class="sortbtn" type="button" data-sort="${k}" aria-pressed="${k === 'gap'}">${esc(label)}</button>`)
     .join('');
   const th = `<div class="th" role="row"><span></span><span>${esc(C.work)}</span>${platforms.map((pf) => `<span data-pf="${pf}" class="pfn">${esc(L.sources[pf])}</span>`).join('')}<span></span></div>`;
+  const how = C.how.items.map((t) => `<li>${esc(t)}</li>`).join('');
   return `${headHtml(L, `${C.title}｜${L.siteName}`, 'compare')}
 <body data-page="compare">
 <header class="top top-compare">
@@ -317,12 +389,14 @@ function comparePage(L, views, meta) {
   <section class="cmp-main">
     <div class="cmp-head">${searchHtml(L)}<div class="sorts">${sorts}</div></div>
     <p class="count" id="count" aria-live="polite"></p>
-    <div class="table" role="table" style="--cols:${platforms.length}">${th}<div id="rows">${rows.map((w) => compareRow(w, views.indexOf(w), L, platforms)).join('')}</div></div>
+    <p class="fresh">${esc(freshText(L, meta, platforms))}</p>
+    <div class="table" role="table" style="--cols:${platforms.length}">${th}<div id="rows">${rows.map((w, i) => compareRow(w, i, L, platforms)).join('')}</div></div>
     <p class="empty" id="empty" hidden>${esc(L.empty)}</p>
+    <section class="howto"><h2>${esc(C.how.title)}</h2><ol>${how}</ol></section>
   </section>
 </main>
 <div class="wrap">${footHtml(L, meta)}</div>
-${tailHtml(views, L)}`;
+${tailHtml(rows, L)}`;
 }
 
 function pickClientStrings(L) {
@@ -360,6 +434,9 @@ async function build() {
     await fs.mkdir(path.join(OUT, L.dir), { recursive: true });
     await fs.writeFile(path.join(OUT, L.dir, 'index.html'), rankPage(L, views, meta, counts));
     await fs.writeFile(path.join(OUT, L.dir, 'compare.html'), comparePage(L, views, meta));
+    for (const page of ['about', 'privacy']) {
+      await fs.writeFile(path.join(OUT, L.dir, `${page}.html`), docPage(L, page, meta));
+    }
     console.log(`[${L.dir}] ${views.length} 部作品（多平台 ${counts.multi}）`);
   }
   // 入口：韓文瀏覽器導向 /ko/，其他導向 /tw/

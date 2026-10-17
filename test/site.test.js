@@ -30,6 +30,18 @@ test('產生繁中、韓文兩個獨立頁面', () => {
   assert.ok(twCmp.includes('cell best') && twCmp.includes('data-filter-pf="renta_tw"'));
   assert.ok(koCmp.includes('data-filter-pf="kakaopage"') && !koCmp.includes('data-filter-pf="bookwalker_tw"'));
   assert.ok(!twCmp.includes('data-src="dlsite"')); // 比價表不放 DLsite
+  // 比價表是廣告到達頁：連內嵌資料都不能有 DLsite
+  assert.ok(!/dlsite/i.test(twCmp) && !/dlsite/i.test(koCmp));
+  assert.ok(twCmp.includes('class="howto"') && twCmp.includes('class="fresh"'));
+  // 關於本站、隱私權政策；每頁頁尾都有連結
+  for (const dir of ['tw', 'ko']) {
+    for (const f of ['about.html', 'privacy.html']) {
+      const html = fs.readFileSync(path.join(out, dir, f), 'utf8');
+      assert.match(html, /class="wrap doc"/);
+      assert.ok(html.includes('github.com/Ethalen/dong-in/issues'));
+    }
+  }
+  for (const html of [tw, ko, twCmp, koCmp]) assert.ok(html.includes('href="about.html"') && html.includes('href="privacy.html"'));
   assert.ok(fs.existsSync(path.join(out, 'index.html')));
   fs.rmSync(out, { recursive: true, force: true });
 });
