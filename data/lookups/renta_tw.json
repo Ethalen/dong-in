@@ -597,36 +597,6 @@
   {
     "source": "renta_tw",
     "region": "TW",
-    "id": "219311",
-    "url": "https://tw.myrenta.com/item/219311",
-    "title": "最弱魔物使開始了撿垃圾之旅。@漫畫版",
-    "seriesTitle": "最弱魔物使開始了撿垃圾之旅。@漫畫版",
-    "authors": [
-      "蕗野冬",
-      "ほのぼのる500",
-      "なま"
-    ],
-    "cover": "https://cover.myrenta.com/569161.jpg",
-    "category": "少年漫畫",
-    "rating": "all",
-    "rank": null,
-    "rankList": "lookup",
-    "releasedAt": "2023-02-23T00:00:00.000Z",
-    "updatedAt": "2026-08-12T00:00:00.000Z",
-    "price": {
-      "currency": "TWD",
-      "current": 98,
-      "regular": 98,
-      "discountRate": 0,
-      "unit": "volume",
-      "volume": 7
-    },
-    "promo": null,
-    "titleKey": "最弱魔物使開始了撿垃圾之旅"
-  },
-  {
-    "source": "renta_tw",
-    "region": "TW",
     "id": "801701",
     "url": "https://tw.myrenta.com/item/801701",
     "title": "楠木邸的神明庭院 (漫畫)",
@@ -763,6 +733,34 @@
     },
     "promo": null,
     "titleKey": "去參加聯誼卻發現完全沒有女生在場"
+  },
+  {
+    "source": "renta_tw",
+    "region": "TW",
+    "id": "193451",
+    "url": "https://tw.myrenta.com/item/193451",
+    "title": "入間同學入魔了！",
+    "seriesTitle": "入間同學入魔了！",
+    "authors": [
+      "西修"
+    ],
+    "cover": "https://cover.myrenta.com/493101.jpg",
+    "category": "少年漫畫",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2022-02-24T00:00:00.000Z",
+    "updatedAt": "2026-09-17T00:00:00.000Z",
+    "price": {
+      "currency": "TWD",
+      "current": 80,
+      "regular": 80,
+      "discountRate": 0,
+      "unit": "volume",
+      "volume": 44
+    },
+    "promo": null,
+    "titleKey": "入間同學入魔了"
   },
   {
     "source": "renta_tw",
@@ -1264,14 +1262,14 @@
     "rank": null,
     "rankList": "lookup",
     "releasedAt": "2025-07-16T00:00:00.000Z",
-    "updatedAt": "2026-09-08T00:00:00.000Z",
+    "updatedAt": "2026-10-18T00:00:00.000Z",
     "price": {
       "currency": "TWD",
       "current": 98,
       "regular": 98,
       "discountRate": 0,
       "unit": "volume",
-      "volume": 7
+      "volume": 8
     },
     "promo": null,
     "titleKey": "aftergod神墮之境"
