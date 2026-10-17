@@ -264,8 +264,8 @@ function freshText(L, meta, platforms) {
   return L.fresh(list.join('・'));
 }
 
-// 聯絡方式：預設 GitHub Issues；設定 SITE_CONTACT（網址或 email）即可改掉
-const CONTACT = process.env.SITE_CONTACT || 'https://github.com/Ethalen/dong-in/issues';
+// 聯絡方式：email 或網址；可用 SITE_CONTACT 覆寫
+const CONTACT = process.env.SITE_CONTACT || 'support@dong-in.net';
 function contactHref() {
   return /^[^\s@:/]+@[^\s@]+$/.test(CONTACT) ? `mailto:${CONTACT}` : CONTACT;
 }

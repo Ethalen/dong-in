@@ -38,7 +38,7 @@ test('產生繁中、韓文兩個獨立頁面', () => {
     for (const f of ['about.html', 'privacy.html']) {
       const html = fs.readFileSync(path.join(out, dir, f), 'utf8');
       assert.match(html, /class="wrap doc"/);
-      assert.ok(html.includes('github.com/Ethalen/dong-in/issues'));
+      assert.ok(html.includes('href="mailto:support@dong-in.net"'));
     }
   }
   for (const html of [tw, ko, twCmp, koCmp]) assert.ok(html.includes('href="about.html"') && html.includes('href="privacy.html"'));
