@@ -1,4 +1,4 @@
-// 由 data/*.json 產生靜態網站：public/tw/（繁中）、public/ko/（韓文）、public/index.html（依瀏覽器語言導向）
+// 由 data/*.json 產生靜態網站：public/tw/、public/ko/（首頁＝比價表，rank.html＝熱門排行），public/index.html（依瀏覽器語言導向）
 // 用法：node src/site/build.js [--data data] [--out public]
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -215,11 +215,24 @@ function compareRow(w, i, L, platforms) {
     `</span>${cells}<button class="go" type="button" aria-haspopup="dialog">${esc(L.compare.detail)}</button></div>`;
 }
 
-// 各頁的檔名（切換語言時連到另一個語言的同一頁）
-const PAGE_FILES = { rank: '', compare: 'compare.html', about: 'about.html', privacy: 'privacy.html' };
+// 各頁的檔名（切換語言時連到另一個語言的同一頁）；首頁＝比價表
+const PAGE_FILES = { compare: '', rank: 'rank.html', about: 'about.html', privacy: 'privacy.html' };
+
+// 網站的正式網址（og:image 等需要絕對網址）；綁自訂網域後用 SITE_URL 改掉
+const SITE_URL = (process.env.SITE_URL || 'https://ethalen.github.io/dong-in').replace(/\/+$/, '');
+
+/** favicon 一組；prefix = 到網站根目錄的相對路徑 */
+function iconLinks(prefix) {
+  return `<link rel="icon" href="${prefix}assets/brand/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="${prefix}assets/brand/favicon.ico" sizes="48x48">
+<link rel="apple-touch-icon" href="${prefix}assets/brand/apple-touch-icon.png">
+<meta name="theme-color" content="#3a2232">`;
+}
 
 function headHtml(L, title, page, description = L.description) {
   const file = PAGE_FILES[page];
+  // 站名用的襯線字型：只抓站名用到的字，檔案很小
+  const font = `https://fonts.googleapis.com/css2?family=${L.brandFont}:wght@900&text=${encodeURIComponent(L.siteName)}&display=swap`;
   return `<!doctype html>
 <html lang="${L.lang}">
 <head>
@@ -229,6 +242,20 @@ function headHtml(L, title, page, description = L.description) {
 <meta name="description" content="${esc(description)}">
 <link rel="alternate" hreflang="zh-Hant-TW" href="../tw/${file}">
 <link rel="alternate" hreflang="ko" href="../ko/${file}">
+${iconLinks('../')}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="${esc(L.siteName)}">
+<meta property="og:title" content="${esc(title)}">
+<meta property="og:description" content="${esc(description)}">
+<meta property="og:url" content="${esc(`${SITE_URL}/${L.dir}/${file}`)}">
+<meta property="og:image" content="${esc(`${SITE_URL}/assets/brand/og-image-${L.dir}.png`)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="${L.ogLocale}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="${esc(font)}">
 <link rel="stylesheet" href="../assets/style.css">
 </head>`;
 }
@@ -236,10 +263,10 @@ function headHtml(L, title, page, description = L.description) {
 function barHtml(L, page) {
   const other = L.otherLang.href + PAGE_FILES[page];
   return `<div class="bar">
-    <a class="brand" href="./"><span class="logo" aria-hidden="true">◆</span>${esc(L.siteName)}</a>
+    <a class="brand" href="./"><img class="logo" src="../assets/brand/mark-pink-for-dark.svg" alt="" width="34" height="34">${esc(L.siteName)}</a>
     <nav class="views">
-      <a href="./"${page === 'rank' ? ' aria-current="page"' : ''}>${esc(L.nav.rank)}</a>
-      <a href="compare.html"${page === 'compare' ? ' aria-current="page"' : ''}>${esc(L.nav.compare)}</a>
+      <a href="./"${page === 'compare' ? ' aria-current="page"' : ''}>${esc(L.nav.compare)}</a>
+      <a href="rank.html"${page === 'rank' ? ' aria-current="page"' : ''}>${esc(L.nav.rank)}</a>
     </nav>
     <a class="lang" href="${other}">${esc(L.otherLang.label)}</a>
   </div>`;
@@ -331,7 +358,7 @@ function rankPage(L, views, meta, counts) {
     .map(([k, label]) => `<button class="mode" type="button" data-mode="${k}" aria-pressed="${k === 'hot'}">${esc(label)}</button>`)
     .join('');
   const items = views.map((w, i) => rankItem(w, i, L));
-  return `${headHtml(L, L.title, 'rank')}
+  return `${headHtml(L, `${L.nav.rank}｜${L.siteName}`, 'rank')}
 <body data-page="rank" data-new-days="${L.newDays}">
 <header class="top">
   ${barHtml(L, 'rank')}
@@ -354,7 +381,7 @@ function rankPage(L, views, meta, counts) {
 ${tailHtml(views, L)}`;
 }
 
-// 比價表也是廣告到達頁：只放比價平台的作品，內嵌的資料也不含 DLsite
+// 比價表＝首頁＝廣告到達頁：只放比價平台的作品，內嵌的資料也不含 DLsite
 function comparePage(L, views, meta) {
   const platforms = Object.keys(L.sources).filter((k) => k !== 'dlsite');
   const rows = views.filter((w) => !w.sources.includes('dlsite'));
@@ -367,7 +394,7 @@ function comparePage(L, views, meta) {
     .join('');
   const th = `<div class="th" role="row"><span></span><span>${esc(C.work)}</span>${platforms.map((pf) => `<span data-pf="${pf}" class="pfn">${esc(L.sources[pf])}</span>`).join('')}<span></span></div>`;
   const how = C.how.items.map((t) => `<li>${esc(t)}</li>`).join('');
-  return `${headHtml(L, `${C.title}｜${L.siteName}`, 'compare')}
+  return `${headHtml(L, L.title, 'compare')}
 <body data-page="compare">
 <header class="top top-compare">
   ${barHtml(L, 'compare')}
@@ -416,10 +443,9 @@ function pickClientStrings(L) {
 async function build() {
   const meta = await readJson(path.join(DATA, 'meta.json'), {});
   const dlsite = await readJson(path.join(DATA, 'dlsite.json'), []);
-  await fs.mkdir(path.join(OUT, 'assets'), { recursive: true });
-  for (const f of ['style.css', 'app.js']) {
-    await fs.copyFile(path.join(here, 'assets', f), path.join(OUT, 'assets', f));
-  }
+  // assets 整個資料夾（含 brand/）複製過去；根目錄再放一份 favicon.ico 給直接請求 /favicon.ico 的瀏覽器
+  await fs.cp(path.join(here, 'assets'), path.join(OUT, 'assets'), { recursive: true });
+  await fs.copyFile(path.join(here, 'assets', 'brand', 'favicon.ico'), path.join(OUT, 'favicon.ico'));
   for (const L of Object.values(LOCALES)) {
     const works = await readJson(path.join(DATA, `works-${L.region.toLowerCase()}.json`), []);
     const all = [...works, ...dlsite.map(dlsiteToWork)];
@@ -432,8 +458,16 @@ async function build() {
     const counts = { multi: views.filter((v) => v.multi).length };
     for (const v of views) for (const s of v.sources) counts[s] = (counts[s] || 0) + 1;
     await fs.mkdir(path.join(OUT, L.dir), { recursive: true });
-    await fs.writeFile(path.join(OUT, L.dir, 'index.html'), rankPage(L, views, meta, counts));
-    await fs.writeFile(path.join(OUT, L.dir, 'compare.html'), comparePage(L, views, meta));
+    await fs.writeFile(path.join(OUT, L.dir, 'index.html'), comparePage(L, views, meta));
+    await fs.writeFile(path.join(OUT, L.dir, 'rank.html'), rankPage(L, views, meta, counts));
+    // 舊網址 compare.html（比價表以前不是首頁）：轉到首頁，保留篩選參數
+    await fs.writeFile(
+      path.join(OUT, L.dir, 'compare.html'),
+      `<!doctype html><html lang="${L.lang}"><head><meta charset="utf-8"><title>${esc(L.siteName)}</title>
+<link rel="canonical" href="${esc(`${SITE_URL}/${L.dir}/`)}"><meta http-equiv="refresh" content="0; url=./">
+<script>location.replace('./' + location.search);</script></head>
+<body><p><a href="./">${esc(L.nav.compare)}</a></p></body></html>\n`,
+    );
     for (const page of ['about', 'privacy']) {
       await fs.writeFile(path.join(OUT, L.dir, `${page}.html`), docPage(L, page, meta));
     }
@@ -444,6 +478,7 @@ async function build() {
     path.join(OUT, 'index.html'),
     `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(LOCALES.tw.siteName)} · ${esc(LOCALES.ko.siteName)}</title>
+${iconLinks('')}
 <script>location.replace(/^ko\\b/i.test(navigator.language || '') ? 'ko/' : 'tw/');</script></head>
 <body><p><a href="tw/" hreflang="zh-Hant-TW">繁體中文</a> · <a href="ko/" hreflang="ko">한국어</a></p></body></html>\n`,
   );

@@ -6,6 +6,8 @@ export const LOCALES = {
     dir: 'tw',
     region: 'TW',
     dlsiteCurrency: 'TWD',
+    brandFont: 'Noto+Serif+TC',
+    ogLocale: 'zh_TW',
     siteName: '漫畫特價雷達',
     nav: { rank: '熱門排行', compare: '多平台比價' },
     hero: { before: '最近大家都在看的', em: '漫畫', after: '' },
@@ -75,7 +77,7 @@ export const LOCALES = {
         ] },
         { h: '網站主機與第三方服務', p: [
           '本站架設在 GitHub Pages。GitHub 可能為了安全與維運記錄訪客的 IP 位址等連線資料，詳見 [GitHub 隱私權聲明](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)。',
-          '作品封面圖片直接從各平台的伺服器載入，該平台可能因此收到你的 IP 位址。點選價格前往平台後，適用該平台的隱私權政策。',
+          '作品封面圖片直接從各平台的伺服器載入，站名字型從 Google Fonts 載入，這些服務可能因此收到你的 IP 位址。點選價格前往平台後，適用該平台的隱私權政策。',
         ] },
         { h: '政策變更與聯絡', p: [
           '使用的工具或收集的資料有變動時，會先更新本頁並修改最後更新日期。',
@@ -127,6 +129,8 @@ export const LOCALES = {
     dir: 'ko',
     region: 'KR',
     dlsiteCurrency: 'KRW',
+    brandFont: 'Noto+Serif+KR',
+    ogLocale: 'ko_KR',
     siteName: '만화 할인 레이더',
     nav: { rank: '인기 랭킹', compare: '플랫폼 비교' },
     hero: { before: '요즘 가장 많이 보는 ', em: '웹툰·만화', after: '' },
@@ -196,7 +200,7 @@ export const LOCALES = {
         ] },
         { h: '호스팅과 제3자 서비스', p: [
           '이 사이트는 GitHub Pages에서 운영됩니다. GitHub는 보안과 운영을 위해 방문자의 IP 주소 등 접속 기록을 남길 수 있습니다. 자세한 내용은 [GitHub 개인정보 보호정책](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)을 참고해 주세요.',
-          '작품 표지 이미지는 각 플랫폼 서버에서 직접 불러오므로 해당 플랫폼이 IP 주소를 받을 수 있습니다. 가격을 눌러 플랫폼으로 이동한 뒤에는 해당 플랫폼의 개인정보처리방침이 적용됩니다.',
+          '작품 표지 이미지는 각 플랫폼 서버에서, 사이트 이름 글꼴은 Google Fonts에서 직접 불러오므로 해당 서비스가 IP 주소를 받을 수 있습니다. 가격을 눌러 플랫폼으로 이동한 뒤에는 해당 플랫폼의 개인정보처리방침이 적용됩니다.',
         ] },
         { h: '방침 변경과 문의', p: [
           '사용하는 도구나 수집 항목이 바뀌면 이 페이지를 먼저 수정하고 최종 수정일을 변경합니다.',

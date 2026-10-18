@@ -1,4 +1,4 @@
-// 互動：排行榜（index.html）與比價表（compare.html）的篩選、排序，以及作品詳細視窗。
+// 互動：比價表（index.html，首頁）與排行榜（rank.html）的篩選、排序，以及作品詳細視窗。
 // 所有作品已在建置時寫進 HTML（利於搜尋引擎收錄），這裡只負責顯示／隱藏與重新排列。
 (function () {
   'use strict';

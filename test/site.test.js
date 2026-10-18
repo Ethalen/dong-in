@@ -10,8 +10,12 @@ test('產生繁中、韓文兩個獨立頁面', () => {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'site-'));
   execFileSync(process.execPath, ['test/make-sample.mjs'], { stdio: 'pipe' });
   execFileSync(process.execPath, ['src/site/build.js', '--data', 'data/sample', '--out', out], { stdio: 'pipe' });
-  const tw = fs.readFileSync(path.join(out, 'tw/index.html'), 'utf8');
-  const ko = fs.readFileSync(path.join(out, 'ko/index.html'), 'utf8');
+  const read = (f) => fs.readFileSync(path.join(out, f), 'utf8');
+  // 首頁＝比價表；熱門排行在 rank.html
+  const twCmp = read('tw/index.html');
+  const koCmp = read('ko/index.html');
+  const tw = read('tw/rank.html');
+  const ko = read('ko/rank.html');
   assert.match(tw, /<html lang="zh-Hant-TW">/);
   assert.match(ko, /<html lang="ko">/);
   assert.ok(tw.includes('螢火蟲的出嫁') && !tw.includes('하프 오브 미'));
@@ -21,27 +25,38 @@ test('產生繁中、韓文兩個獨立頁面', () => {
   assert.ok(tw.includes('NT$402') && ko.includes('16,780원'));
   // 多平台時標出最便宜的
   assert.ok(tw.includes('is-cheap'));
-  // 排行榜（首頁）與比價表（compare.html）
   assert.match(tw, /data-page="rank"/);
   assert.match(tw, /id="podium"/);
-  const twCmp = fs.readFileSync(path.join(out, 'tw/compare.html'), 'utf8');
-  const koCmp = fs.readFileSync(path.join(out, 'ko/compare.html'), 'utf8');
   assert.match(twCmp, /data-page="compare"/);
   assert.ok(twCmp.includes('cell best') && twCmp.includes('data-filter-pf="renta_tw"'));
   assert.ok(koCmp.includes('data-filter-pf="kakaopage"') && !koCmp.includes('data-filter-pf="bookwalker_tw"'));
-  assert.ok(!twCmp.includes('data-src="dlsite"')); // 比價表不放 DLsite
   // 比價表是廣告到達頁：連內嵌資料都不能有 DLsite
   assert.ok(!/dlsite/i.test(twCmp) && !/dlsite/i.test(koCmp));
   assert.ok(twCmp.includes('class="howto"') && twCmp.includes('class="fresh"'));
+  // 舊網址 compare.html 轉到首頁
+  assert.match(read('tw/compare.html'), /http-equiv="refresh" content="0; url=\.\/"/);
   // 關於本站、隱私權政策；每頁頁尾都有連結
   for (const dir of ['tw', 'ko']) {
     for (const f of ['about.html', 'privacy.html']) {
-      const html = fs.readFileSync(path.join(out, dir, f), 'utf8');
+      const html = read(`${dir}/${f}`);
       assert.match(html, /class="wrap doc"/);
       assert.ok(html.includes('href="mailto:support@dong-in.net"'));
     }
   }
-  for (const html of [tw, ko, twCmp, koCmp]) assert.ok(html.includes('href="about.html"') && html.includes('href="privacy.html"'));
-  assert.ok(fs.existsSync(path.join(out, 'index.html')));
+  for (const html of [tw, ko, twCmp, koCmp]) {
+    assert.ok(html.includes('href="about.html"') && html.includes('href="privacy.html"'));
+    // favicon、logo 與社群分享縮圖（og:image 必須是 https 絕對網址）
+    assert.ok(html.includes('rel="icon" href="../assets/brand/favicon.svg"'));
+    assert.ok(html.includes('src="../assets/brand/mark-pink-for-dark.svg"'));
+    const og = html.match(/<meta property="og:image" content="([^"]+)">/);
+    assert.ok(og && /^https:\/\/[^/]+\/.+\/assets\/brand\/og-image-(tw|ko)\.png$/.test(og[1]), og?.[1]);
+  }
+  assert.ok(twCmp.includes('og-image-tw.png') && koCmp.includes('og-image-ko.png'));
+  assert.ok(twCmp.includes('family=Noto+Serif+TC') && koCmp.includes('family=Noto+Serif+KR'));
+  // 素材有複製到 public/
+  for (const f of ['assets/brand/favicon.ico', 'assets/brand/og-image-tw.png', 'assets/brand/og-image-ko.png', 'favicon.ico']) {
+    assert.ok(fs.existsSync(path.join(out, f)), f);
+  }
+  assert.ok(read('index.html').includes('href="assets/brand/favicon.svg"'));
   fs.rmSync(out, { recursive: true, force: true });
 });

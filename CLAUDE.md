@@ -18,8 +18,12 @@
   - 某來源失敗或 0 筆時保留上次資料；結果寫入 `data/meta.json`
   - 在 GitHub Actions 上會輸出 `::warning::` 與 Step Summary 表格
 - `src/site/`：靜態網站產生器（`build.js`、`i18n.js` 繁中/韓文字串、`assets/style.css`、`assets/app.js`）
-  - 首頁 `index.html`＝排行榜（深梅紅頁首、前三名頒獎台、編號清單）
-  - `compare.html`＝多平台比價表（左側篩選、平台分欄、最便宜標綠、價差排序）；也是 Google 廣告到達頁，整頁（含內嵌 JSON）不能出現 DLsite
+  - 首頁 `index.html`＝多平台比價表（左側篩選、平台分欄、最便宜標綠、價差排序）；也是 Google 廣告到達頁，整頁（含內嵌 JSON）不能出現 DLsite
+  - `rank.html`＝熱門排行（深梅紅頁首、前三名頒獎台、編號清單；含 DLsite）
+  - `compare.html`＝舊網址，只轉址到首頁（保留查詢參數）
+  - Logo：原始素材在 `brand/logo/`（說明見 `brand/logo/說明.txt`），網站用的複本在 `src/site/assets/brand/`（頁首 `mark-pink-for-dark.svg`、favicon 一組、`og-image-tw/ko.png`）；`brand/*.zip` 不進 git
+  - 站名字型：Google Fonts 的 Noto Serif TC／KR 900，用 `&text=` 只抓站名的字（`i18n.js` 的 `brandFont`）
+  - `SITE_URL`（環境變數，預設 `https://ethalen.github.io/dong-in`）：og:image、og:url、canonical 用的絕對網址；綁自訂網域後要改
   - `about.html`、`privacy.html`＝關於本站、隱私權政策（文字在 `i18n.js`）；聯絡方式預設 support@dong-in.net，可用環境變數 `SITE_CONTACT` 改成網址或 email
   - 各頁會顯示各平台價格更新時間（`meta.json` 的 `sources.<名稱>.at`）
 - `.github/workflows/crawl.yml`：每天台灣時間 05:17、17:17 抓資料→commit data→build→部署 GitHub Pages；只改 `src/site/**` 的 push 只重建網站

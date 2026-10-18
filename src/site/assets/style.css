@@ -65,8 +65,11 @@ a { color: inherit; }
 }
 .top-compare { padding-bottom: 34px; }
 .bar { max-width: 1200px; margin: 0 auto; padding: 0 24px; display: flex; align-items: center; gap: 18px; }
-.brand { font-weight: 900; font-size: 19px; letter-spacing: .04em; text-decoration: none; display: flex; align-items: center; gap: 8px; }
-.logo { color: var(--rose-light); }
+.brand {
+  font-family: "Noto Serif TC", "Noto Serif KR", "Noto Serif CJK TC", serif; font-weight: 900; font-size: 19px;
+  letter-spacing: .04em; text-decoration: none; display: flex; align-items: center; gap: 8px;
+}
+.logo { width: 34px; height: 34px; flex: none; }
 .views { display: flex; gap: 4px; margin-left: 12px; }
 .views a {
   text-decoration: none; font-size: 14px; padding: 6px 13px; border-radius: 999px; color: rgba(251, 238, 243, .78);
@@ -304,6 +307,7 @@ dialog::backdrop { background: rgba(30, 15, 25, .55); }
   .top { padding: 14px 0 92px; }
   .top-compare { padding-bottom: 24px; }
   .bar { padding: 0 14px; flex-wrap: wrap; gap: 10px; }
+  .logo { width: 28px; height: 28px; }
   .views { order: 3; margin: 0; flex-basis: 100%; }
   .hero { padding: 18px 14px 0; }
   .hero p { font-size: 13.5px; }
