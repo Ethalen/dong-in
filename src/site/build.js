@@ -272,12 +272,11 @@ function barHtml(L, page) {
   </div>`;
 }
 
-function footHtml(L, meta) {
-  const updated = meta.generatedAt ? `${fmtDateTime(meta.generatedAt, L)}（${L.tzLabel}）` : '';
+function footHtml(L) {
   const links = [['about.html', L.links.about], ['privacy.html', L.links.privacy], [contactHref(), L.links.contact]]
     .map(([href, label]) => `<a href="${esc(href)}">${esc(label)}</a>`)
     .join('');
-  return `<footer class="foot"><p>${esc(L.updatedAt(updated))}</p><p>${esc(L.disclaimer)}</p><nav class="foot-links">${links}</nav></footer>`;
+  return `<footer class="foot"><p>${esc(L.disclaimer)}</p><nav class="foot-links">${links}</nav></footer>`;
 }
 
 /** 各平台最後一次成功抓到資料的時間（某平台失敗時，網站上是它上一次的價格） */
@@ -316,7 +315,7 @@ function docPage(L, page, meta) {
   ${sections}
   <p class="doc-contact"><a href="${esc(contactHref())}">${esc(L.links.contact)}</a></p>
   ${D.updated ? `<p class="doc-date">${esc(D.updated)}</p>` : ''}
-  ${footHtml(L, meta)}
+  ${footHtml(L)}
 </main>
 </body>
 </html>
@@ -376,7 +375,7 @@ function rankPage(L, views, meta, counts) {
   <p class="fresh">${esc(freshText(L, meta, Object.keys(L.sources).filter((k) => counts[k])))}</p>
   <ol class="ranklist" id="list">${items.slice(3).join('')}</ol>
   <p class="empty" id="empty" hidden>${esc(L.empty)}</p>
-  ${footHtml(L, meta)}
+  ${footHtml(L)}
 </main>
 ${tailHtml(views, L)}`;
 }
@@ -422,7 +421,7 @@ function comparePage(L, views, meta) {
     <section class="howto"><h2>${esc(C.how.title)}</h2><ol>${how}</ol></section>
   </section>
 </main>
-<div class="wrap">${footHtml(L, meta)}</div>
+<div class="wrap">${footHtml(L)}</div>
 ${tailHtml(rows, L)}`;
 }
 
