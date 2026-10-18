@@ -156,9 +156,9 @@
       "unit": "work",
       "local": {
         "KRW": 22316,
-        "TWD": 542,
+        "TWD": 541,
         "KRW_regular": 22316,
-        "TWD_regular": 542
+        "TWD_regular": 541
       }
     },
     "promo": null,
@@ -453,9 +453,9 @@
       "unit": "work",
       "local": {
         "KRW": 58580,
-        "TWD": 1422,
+        "TWD": 1421,
         "KRW_regular": 58580,
-        "TWD_regular": 1422
+        "TWD_regular": 1421
       }
     },
     "promo": null,
@@ -629,6 +629,39 @@
   {
     "source": "dlsite",
     "region": "GLOBAL",
+    "id": "BJ03058751",
+    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ03058751.html",
+    "title": "抱いて欲しけりゃ啼いてみろ",
+    "seriesTitle": "抱いて欲しけりゃ啼いてみろ",
+    "authors": [
+      "Brilliant Prin"
+    ],
+    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ03059000/BJ03058751_img_main.jpg",
+    "category": "SOU",
+    "rating": "all",
+    "rank": 20,
+    "rankList": "trend",
+    "releasedAt": "2026-10-14T15:00:00.000Z",
+    "updatedAt": "2026-10-14T15:00:00.000Z",
+    "price": {
+      "currency": "JPY",
+      "current": 5280,
+      "regular": 5280,
+      "discountRate": 0,
+      "unit": "work",
+      "local": {
+        "KRW": 44632,
+        "TWD": 1083,
+        "KRW_regular": 44632,
+        "TWD_regular": 1083
+      }
+    },
+    "promo": null,
+    "titleKey": "抱いて欲しけりゃ啼いてみろ"
+  },
+  {
+    "source": "dlsite",
+    "region": "GLOBAL",
     "id": "BJ02627828",
     "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ02627828.html",
     "title": "【Obey Me!ASMR Birthdayシリーズ】case.ルシファー　～主導権は余韻の中に～",
@@ -639,7 +672,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02628000/BJ02627828_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 20,
+    "rank": 21,
     "rankList": "trend",
     "releasedAt": "2026-06-22T07:00:00.000Z",
     "updatedAt": "2026-06-22T07:00:00.000Z",
@@ -672,7 +705,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02952000/BJ02951035_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 21,
+    "rank": 22,
     "rankList": "trend",
     "releasedAt": "2026-09-18T07:00:00.000Z",
     "updatedAt": "2026-09-18T07:00:00.000Z",
@@ -705,7 +738,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ03049000/BJ03048976_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 22,
+    "rank": 23,
     "rankList": "trend",
     "releasedAt": "2026-12-25T07:00:00.000Z",
     "updatedAt": "2026-12-25T07:00:00.000Z",
@@ -717,46 +750,13 @@
       "unit": "work",
       "local": {
         "KRW": 43702,
-        "TWD": 1061,
+        "TWD": 1060,
         "KRW_regular": 43702,
-        "TWD_regular": 1061
+        "TWD_regular": 1060
       }
     },
     "promo": null,
     "titleKey": "ピットスポルム"
-  },
-  {
-    "source": "dlsite",
-    "region": "GLOBAL",
-    "id": "BJ03058751",
-    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ03058751.html",
-    "title": "抱いて欲しけりゃ啼いてみろ",
-    "seriesTitle": "抱いて欲しけりゃ啼いてみろ",
-    "authors": [
-      "Brilliant Prin"
-    ],
-    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ03059000/BJ03058751_img_main.jpg",
-    "category": "SOU",
-    "rating": "all",
-    "rank": 23,
-    "rankList": "trend",
-    "releasedAt": "2026-10-14T15:00:00.000Z",
-    "updatedAt": "2026-10-14T15:00:00.000Z",
-    "price": {
-      "currency": "JPY",
-      "current": 5280,
-      "regular": 5280,
-      "discountRate": 0,
-      "unit": "work",
-      "local": {
-        "KRW": 44632,
-        "TWD": 1083,
-        "KRW_regular": 44632,
-        "TWD_regular": 1083
-      }
-    },
-    "promo": null,
-    "titleKey": "抱いて欲しけりゃ啼いてみろ"
   },
   {
     "source": "dlsite",
@@ -882,9 +882,9 @@
       "unit": "work",
       "local": {
         "KRW": 37194,
-        "TWD": 903,
+        "TWD": 902,
         "KRW_regular": 37194,
-        "TWD_regular": 903
+        "TWD_regular": 902
       }
     },
     "promo": null,
@@ -1014,9 +1014,9 @@
       "unit": "work",
       "local": {
         "KRW": 37194,
-        "TWD": 903,
+        "TWD": 902,
         "KRW_regular": 37194,
-        "TWD_regular": 903
+        "TWD_regular": 902
       }
     },
     "promo": null,
@@ -1245,9 +1245,9 @@
       "unit": "work",
       "local": {
         "KRW": 43702,
-        "TWD": 1061,
+        "TWD": 1060,
         "KRW_regular": 43702,
-        "TWD_regular": 1061
+        "TWD_regular": 1060
       }
     },
     "promo": null,
@@ -2609,39 +2609,6 @@
   {
     "source": "dlsite",
     "region": "GLOBAL",
-    "id": "BJ02193622",
-    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ02193622.html",
-    "title": "ドラマCD「キスミークライング Kiss me crying 2」",
-    "seriesTitle": "キスミークライング",
-    "authors": [
-      "フロンティアワークス 音声ドラマ"
-    ],
-    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02194000/BJ02193622_img_main.jpg",
-    "category": "SOU",
-    "rating": "all",
-    "rank": 80,
-    "rankList": "trend",
-    "releasedAt": "2025-11-10T07:00:00.000Z",
-    "updatedAt": "2025-11-10T07:00:00.000Z",
-    "price": {
-      "currency": "JPY",
-      "current": 4620,
-      "regular": 4620,
-      "discountRate": 0,
-      "unit": "work",
-      "local": {
-        "KRW": 39053,
-        "TWD": 948,
-        "KRW_regular": 39053,
-        "TWD_regular": 948
-      }
-    },
-    "promo": null,
-    "titleKey": "キスミークライング"
-  },
-  {
-    "source": "dlsite",
-    "region": "GLOBAL",
     "id": "BJ02338287",
     "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ02338287.html",
     "title": "箱詰めCD　３　お狐様と一緒に箱詰め",
@@ -2652,7 +2619,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02339000/BJ02338287_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 81,
+    "rank": 80,
     "rankList": "trend",
     "releasedAt": "2026-01-28T07:00:00.000Z",
     "updatedAt": "2026-01-28T07:00:00.000Z",
@@ -2671,6 +2638,39 @@
     },
     "promo": null,
     "titleKey": "箱詰めcd"
+  },
+  {
+    "source": "dlsite",
+    "region": "GLOBAL",
+    "id": "BJ02193622",
+    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ02193622.html",
+    "title": "ドラマCD「キスミークライング Kiss me crying 2」",
+    "seriesTitle": "キスミークライング",
+    "authors": [
+      "フロンティアワークス 音声ドラマ"
+    ],
+    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02194000/BJ02193622_img_main.jpg",
+    "category": "SOU",
+    "rating": "all",
+    "rank": 81,
+    "rankList": "trend",
+    "releasedAt": "2025-11-10T07:00:00.000Z",
+    "updatedAt": "2025-11-10T07:00:00.000Z",
+    "price": {
+      "currency": "JPY",
+      "current": 4620,
+      "regular": 4620,
+      "discountRate": 0,
+      "unit": "work",
+      "local": {
+        "KRW": 39053,
+        "TWD": 948,
+        "KRW_regular": 39053,
+        "TWD_regular": 948
+      }
+    },
+    "promo": null,
+    "titleKey": "キスミークライング"
   },
   {
     "source": "dlsite",
@@ -3192,9 +3192,9 @@
       "unit": "work",
       "local": {
         "KRW": 50211,
-        "TWD": 1219,
+        "TWD": 1218,
         "KRW_regular": 50211,
-        "TWD_regular": 1219
+        "TWD_regular": 1218
       }
     },
     "promo": null,
@@ -3258,9 +3258,9 @@
       "unit": "work",
       "local": {
         "KRW": 22316,
-        "TWD": 542,
+        "TWD": 541,
         "KRW_regular": 22316,
-        "TWD_regular": 542
+        "TWD_regular": 541
       }
     },
     "promo": null,
@@ -3654,9 +3654,9 @@
       "unit": "work",
       "local": {
         "KRW": 22316,
-        "TWD": 542,
+        "TWD": 541,
         "KRW_regular": 22316,
-        "TWD_regular": 542
+        "TWD_regular": 541
       }
     },
     "promo": null,
@@ -3753,9 +3753,9 @@
       "unit": "work",
       "local": {
         "KRW": 22316,
-        "TWD": 542,
+        "TWD": 541,
         "KRW_regular": 22316,
-        "TWD_regular": 542
+        "TWD_regular": 541
       }
     },
     "promo": null,
@@ -3852,9 +3852,9 @@
       "unit": "work",
       "local": {
         "KRW": 22316,
-        "TWD": 542,
+        "TWD": 541,
         "KRW_regular": 22316,
-        "TWD_regular": 542
+        "TWD_regular": 541
       }
     },
     "promo": null,
