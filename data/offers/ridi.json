@@ -405,48 +405,6 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "1746023143",
-    "url": "https://ridibooks.com/books/1746023143",
-    "title": "세상만 구하고 은퇴하겠습니다 1화",
-    "seriesTitle": "세상만 구하고 은퇴하겠습니다",
-    "authors": [
-      "손",
-      "스튜디오 담",
-      "푸르세르",
-      "밀렘"
-    ],
-    "cover": "https://img.ridicdn.net/cover/1746036679/large#1",
-    "category": "판타지/SF / 웹툰",
-    "rating": "all",
-    "rank": 11,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2024-05-22T15:00:00.000Z",
-    "updatedAt": "2026-10-12T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 500,
-      "regular": 500,
-      "discountRate": 0,
-      "unit": "episode",
-      "seriesTotal": {
-        "current": 53500,
-        "regular": 53500,
-        "count": 107
-      },
-      "rentalTotal": {
-        "current": 29700,
-        "regular": 29700
-      }
-    },
-    "promo": {
-      "freeEpisodes": 8,
-      "text": null
-    },
-    "titleKey": "세상만구하고은퇴하겠습니다"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
     "id": "4158001267",
     "url": "https://ridibooks.com/books/4158001267",
     "title": "국경의 아샤 프롤로그",
@@ -457,7 +415,7 @@
     "cover": "https://img.ridicdn.net/cover/4158001306/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 12,
+    "rank": 11,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-09-13T15:00:00.000Z",
     "updatedAt": "2026-10-18T15:00:00.000Z",
@@ -482,6 +440,48 @@
       "text": null
     },
     "titleKey": "국경의아샤"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "1746023143",
+    "url": "https://ridibooks.com/books/1746023143",
+    "title": "세상만 구하고 은퇴하겠습니다 1화",
+    "seriesTitle": "세상만 구하고 은퇴하겠습니다",
+    "authors": [
+      "손",
+      "스튜디오 담",
+      "푸르세르",
+      "밀렘"
+    ],
+    "cover": "https://img.ridicdn.net/cover/1746036771/large#1",
+    "category": "판타지/SF / 웹툰",
+    "rating": "all",
+    "rank": 12,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2024-05-22T15:00:00.000Z",
+    "updatedAt": "2026-10-20T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 500,
+      "regular": 500,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 54000,
+        "regular": 54000,
+        "count": 108
+      },
+      "rentalTotal": {
+        "current": 30000,
+        "regular": 30000
+      }
+    },
+    "promo": {
+      "freeEpisodes": 8,
+      "text": null
+    },
+    "titleKey": "세상만구하고은퇴하겠습니다"
   },
   {
     "source": "ridi",
@@ -1011,23 +1011,22 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "6283000001",
-    "url": "https://ridibooks.com/books/6283000001",
-    "title": "언아더 헤븐 프롤로그",
-    "seriesTitle": "언아더 헤븐",
+    "id": "4327007267",
+    "url": "https://ridibooks.com/books/4327007267",
+    "title": "비즈니스 키스[개정판] 1화",
+    "seriesTitle": "비즈니스 키스[개정판]",
     "authors": [
-      "아트리",
-      "단하루",
-      "오쏘",
-      "황유하"
+      "upu",
+      "덕지",
+      "문정민"
     ],
-    "cover": "https://img.ridicdn.net/cover/6283000102/large#1",
-    "category": "로판 / 웹툰",
+    "cover": "https://img.ridicdn.net/cover/4327007297/large#1",
+    "category": "로맨스 / 웹툰",
     "rating": "all",
     "rank": 26,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2026-06-22T15:00:00.000Z",
-    "updatedAt": "2026-10-13T15:00:00.000Z",
+    "releasedAt": "2026-10-08T15:00:00.000Z",
+    "updatedAt": "2026-09-30T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 500,
@@ -1035,20 +1034,20 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 36000,
-        "regular": 36000,
-        "count": 72
+        "current": 7500,
+        "regular": 7500,
+        "count": 15
       },
       "rentalTotal": {
-        "current": 20400,
-        "regular": 20400
+        "current": 4200,
+        "regular": 4200
       }
     },
     "promo": {
-      "freeEpisodes": 4,
+      "freeEpisodes": 1,
       "text": null
     },
-    "titleKey": "언아더헤븐"
+    "titleKey": "비즈니스키스"
   },
   {
     "source": "ridi",
@@ -1093,46 +1092,6 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "6032000069",
-    "url": "https://ridibooks.com/books/6032000069",
-    "title": "너를 속이는 밤 1화",
-    "seriesTitle": "너를 속이는 밤",
-    "authors": [
-      "스르륵코믹스",
-      "정은동"
-    ],
-    "cover": "https://img.ridicdn.net/cover/6032000177/large#1",
-    "category": "로맨스 / 웹툰",
-    "rating": "all",
-    "rank": 28,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2026-02-23T15:00:00.000Z",
-    "updatedAt": "2026-10-19T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 500,
-      "regular": 500,
-      "discountRate": 0,
-      "unit": "episode",
-      "seriesTotal": {
-        "current": 20500,
-        "regular": 20500,
-        "count": 41
-      },
-      "rentalTotal": {
-        "current": 11400,
-        "regular": 11400
-      }
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "text": null
-    },
-    "titleKey": "너를속이는밤"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
     "id": "4328000361",
     "url": "https://ridibooks.com/books/4328000361",
     "title": "백조 무덤 [개정판] 1화",
@@ -1145,7 +1104,7 @@
     "cover": "https://img.ridicdn.net/cover/4328000361/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 29,
+    "rank": 28,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-12-05T15:00:00.000Z",
     "updatedAt": "2026-08-28T15:00:00.000Z",
@@ -1174,22 +1133,21 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "4327007267",
-    "url": "https://ridibooks.com/books/4327007267",
-    "title": "비즈니스 키스[개정판] 1화",
-    "seriesTitle": "비즈니스 키스[개정판]",
+    "id": "6032000069",
+    "url": "https://ridibooks.com/books/6032000069",
+    "title": "너를 속이는 밤 1화",
+    "seriesTitle": "너를 속이는 밤",
     "authors": [
-      "upu",
-      "덕지",
-      "문정민"
+      "스르륵코믹스",
+      "정은동"
     ],
-    "cover": "https://img.ridicdn.net/cover/4327007297/large#1",
+    "cover": "https://img.ridicdn.net/cover/6032000177/large#1",
     "category": "로맨스 / 웹툰",
     "rating": "all",
-    "rank": 30,
+    "rank": 29,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2026-10-08T15:00:00.000Z",
-    "updatedAt": "2026-09-30T15:00:00.000Z",
+    "releasedAt": "2026-02-23T15:00:00.000Z",
+    "updatedAt": "2026-10-19T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 500,
@@ -1197,20 +1155,20 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 7500,
-        "regular": 7500,
-        "count": 15
+        "current": 20500,
+        "regular": 20500,
+        "count": 41
       },
       "rentalTotal": {
-        "current": 4200,
-        "regular": 4200
+        "current": 11400,
+        "regular": 11400
       }
     },
     "promo": {
-      "freeEpisodes": 1,
+      "freeEpisodes": 3,
       "text": null
     },
-    "titleKey": "비즈니스키스"
+    "titleKey": "너를속이는밤"
   },
   {
     "source": "ridi",
@@ -1227,7 +1185,7 @@
     "cover": "https://img.ridicdn.net/cover/6067000178/large#1",
     "category": "로맨스 / 웹툰",
     "rating": "all",
-    "rank": 31,
+    "rank": 30,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-02-12T15:00:00.000Z",
     "updatedAt": "2026-02-12T15:00:00.000Z",
@@ -1269,7 +1227,7 @@
     "cover": "https://img.ridicdn.net/cover/1746036704/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 32,
+    "rank": 31,
     "rankList": "webtoon:monthly",
     "releasedAt": "2024-08-22T15:00:00.000Z",
     "updatedAt": "2026-10-14T15:00:00.000Z",
@@ -1309,7 +1267,7 @@
     "cover": "https://img.ridicdn.net/cover/1746036706/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 33,
+    "rank": 32,
     "rankList": "webtoon:monthly",
     "releasedAt": "2023-10-27T15:00:00.000Z",
     "updatedAt": "2026-10-16T15:00:00.000Z",
@@ -1334,6 +1292,48 @@
       "text": null
     },
     "titleKey": "약탈혼"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "6283000001",
+    "url": "https://ridibooks.com/books/6283000001",
+    "title": "언아더 헤븐 프롤로그",
+    "seriesTitle": "언아더 헤븐",
+    "authors": [
+      "아트리",
+      "단하루",
+      "오쏘",
+      "황유하"
+    ],
+    "cover": "https://img.ridicdn.net/cover/6283000102/large#1",
+    "category": "로판 / 웹툰",
+    "rating": "all",
+    "rank": 34,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2026-06-22T15:00:00.000Z",
+    "updatedAt": "2026-10-13T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 500,
+      "regular": 500,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 36000,
+        "regular": 36000,
+        "count": 72
+      },
+      "rentalTotal": {
+        "current": 20400,
+        "regular": 20400
+      }
+    },
+    "promo": {
+      "freeEpisodes": 4,
+      "text": null
+    },
+    "titleKey": "언아더헤븐"
   },
   {
     "source": "ridi",
@@ -1379,45 +1379,6 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "505096916",
-    "url": "https://ridibooks.com/books/505096916",
-    "title": "두근두근 공략기 1화",
-    "seriesTitle": "두근두근 공략기",
-    "authors": [
-      "퓨키"
-    ],
-    "cover": "https://img.ridicdn.net/cover/505112100/large#1",
-    "category": "로판 / 웹툰",
-    "rating": "all",
-    "rank": 36,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2025-07-31T15:00:00.000Z",
-    "updatedAt": "2026-10-19T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 500,
-      "regular": 500,
-      "discountRate": 0,
-      "unit": "episode",
-      "seriesTotal": {
-        "current": 76000,
-        "regular": 76000,
-        "count": 152
-      },
-      "rentalTotal": {
-        "current": 39600,
-        "regular": 39600
-      }
-    },
-    "promo": {
-      "freeEpisodes": 20,
-      "text": null
-    },
-    "titleKey": "두근두근공략기"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
     "id": "5659000001",
     "url": "https://ridibooks.com/books/5659000001",
     "title": "속죄, 그 잔혹함에 대하여 [개정판] 프롤로그",
@@ -1429,7 +1390,7 @@
     "cover": "https://img.ridicdn.net/cover/5659000062/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 38,
+    "rank": 37,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-05-08T15:00:00.000Z",
     "updatedAt": "2026-05-08T15:00:00.000Z",
@@ -1458,20 +1419,20 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "4158001206",
-    "url": "https://ridibooks.com/books/4158001206",
-    "title": "파륜(破倫) [개정판] 1화",
-    "seriesTitle": "파륜(破倫) [개정판]",
+    "id": "505096916",
+    "url": "https://ridibooks.com/books/505096916",
+    "title": "두근두근 공략기 1화",
+    "seriesTitle": "두근두근 공략기",
     "authors": [
-      "핫퍼지코믹스"
+      "퓨키"
     ],
-    "cover": "https://img.ridicdn.net/cover/4158001287/large#1",
-    "category": "로맨스 / 웹툰",
+    "cover": "https://img.ridicdn.net/cover/505112100/large#1",
+    "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 39,
+    "rank": 38,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2026-05-04T15:00:00.000Z",
-    "updatedAt": "2026-09-21T15:00:00.000Z",
+    "releasedAt": "2025-07-31T15:00:00.000Z",
+    "updatedAt": "2026-10-19T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 500,
@@ -1479,20 +1440,20 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 15000,
-        "regular": 15000,
-        "count": 30
+        "current": 76000,
+        "regular": 76000,
+        "count": 152
       },
       "rentalTotal": {
-        "current": 8100,
-        "regular": 8100
+        "current": 39600,
+        "regular": 39600
       }
     },
     "promo": {
-      "freeEpisodes": 3,
+      "freeEpisodes": 20,
       "text": null
     },
-    "titleKey": "파륜破倫"
+    "titleKey": "두근두근공략기"
   },
   {
     "source": "ridi",
@@ -1508,7 +1469,7 @@
     "cover": "https://img.ridicdn.net/cover/2968010871/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 40,
+    "rank": 39,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-04-16T15:00:00.000Z",
     "updatedAt": "2026-10-15T15:00:00.000Z",
@@ -1537,47 +1498,6 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "4343003466",
-    "url": "https://ridibooks.com/books/4343003466",
-    "title": "음침한 옆집 색기 [개정판] [프롤로그]",
-    "seriesTitle": "음침한 옆집 색기 [개정판]",
-    "authors": [
-      "순두",
-      "마루 더 레드",
-      "진새벽"
-    ],
-    "cover": "https://img.ridicdn.net/cover/4343003466/large#1",
-    "category": "로맨스 / 웹툰",
-    "rating": "all",
-    "rank": 41,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2026-04-16T15:00:00.000Z",
-    "updatedAt": "2026-10-01T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 0,
-      "regular": 0,
-      "discountRate": 0,
-      "unit": "episode",
-      "seriesTotal": {
-        "current": 12500,
-        "regular": 12500,
-        "count": 26
-      },
-      "rentalTotal": {
-        "current": 7500,
-        "regular": 7500
-      }
-    },
-    "promo": {
-      "freeEpisodes": 1,
-      "text": null
-    },
-    "titleKey": "음침한옆집색기"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
     "id": "4801000093",
     "url": "https://ridibooks.com/books/4801000093",
     "title": "구원 방정식 1화",
@@ -1589,7 +1509,7 @@
     "cover": "https://img.ridicdn.net/cover/4801000093/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 42,
+    "rank": 40,
     "rankList": "webtoon:monthly",
     "releasedAt": "2024-01-16T15:00:00.000Z",
     "updatedAt": "2026-01-06T15:00:00.000Z",
@@ -1631,7 +1551,7 @@
     "cover": "https://img.ridicdn.net/cover/1434022962/large#1",
     "category": "로맨스 / 웹툰",
     "rating": "all",
-    "rank": 43,
+    "rank": 41,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-08-24T15:00:00.000Z",
     "updatedAt": "2026-10-18T15:00:00.000Z",
@@ -1660,6 +1580,127 @@
   {
     "source": "ridi",
     "region": "KR",
+    "id": "4158001206",
+    "url": "https://ridibooks.com/books/4158001206",
+    "title": "파륜(破倫) [개정판] 1화",
+    "seriesTitle": "파륜(破倫) [개정판]",
+    "authors": [
+      "핫퍼지코믹스"
+    ],
+    "cover": "https://img.ridicdn.net/cover/4158001287/large#1",
+    "category": "로맨스 / 웹툰",
+    "rating": "all",
+    "rank": 42,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2026-05-04T15:00:00.000Z",
+    "updatedAt": "2026-09-21T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 500,
+      "regular": 500,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 15000,
+        "regular": 15000,
+        "count": 30
+      },
+      "rentalTotal": {
+        "current": 8100,
+        "regular": 8100
+      }
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "text": null
+    },
+    "titleKey": "파륜破倫"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "4343003466",
+    "url": "https://ridibooks.com/books/4343003466",
+    "title": "음침한 옆집 색기 [개정판] [프롤로그]",
+    "seriesTitle": "음침한 옆집 색기 [개정판]",
+    "authors": [
+      "순두",
+      "마루 더 레드",
+      "진새벽"
+    ],
+    "cover": "https://img.ridicdn.net/cover/4343003466/large#1",
+    "category": "로맨스 / 웹툰",
+    "rating": "all",
+    "rank": 43,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2026-04-16T15:00:00.000Z",
+    "updatedAt": "2026-10-01T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 0,
+      "regular": 0,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 12500,
+        "regular": 12500,
+        "count": 26
+      },
+      "rentalTotal": {
+        "current": 7500,
+        "regular": 7500
+      }
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "text": null
+    },
+    "titleKey": "음침한옆집색기"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "6067000111",
+    "url": "https://ridibooks.com/books/6067000111",
+    "title": "화려한 후회를 부탁해 [개정판] 1화",
+    "seriesTitle": "화려한 후회를 부탁해 [개정판]",
+    "authors": [
+      "랑히",
+      "지구",
+      "심차돌"
+    ],
+    "cover": "https://img.ridicdn.net/cover/6067000196/large#1",
+    "category": "로판 / 웹툰",
+    "rating": "all",
+    "rank": 44,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2026-09-02T15:00:00.000Z",
+    "updatedAt": "2026-09-02T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 600,
+      "regular": 600,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 13200,
+        "regular": 13200,
+        "count": 22
+      },
+      "rentalTotal": {
+        "current": 5700,
+        "regular": 5700
+      }
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "text": null
+    },
+    "titleKey": "화려한후회를부탁해"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
     "id": "5459000001",
     "url": "https://ridibooks.com/books/5459000001",
     "title": "계약 결혼일 뿐이었다 프롤로그",
@@ -1671,7 +1712,7 @@
     "cover": "https://img.ridicdn.net/cover/5459000001/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 44,
+    "rank": 45,
     "rankList": "webtoon:monthly",
     "releasedAt": "2023-12-14T15:00:00.000Z",
     "updatedAt": "2026-03-26T15:00:00.000Z",
@@ -1700,43 +1741,33 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "6067000111",
-    "url": "https://ridibooks.com/books/6067000111",
-    "title": "화려한 후회를 부탁해 [개정판] 1화",
-    "seriesTitle": "화려한 후회를 부탁해 [개정판]",
+    "id": "111150208",
+    "url": "https://ridibooks.com/books/111150208",
+    "title": "[시즌 5 세트] <상수리나무 아래>",
+    "seriesTitle": "[시즌 5 세트] <상수리나무 아래>",
     "authors": [
-      "랑히",
-      "지구",
-      "심차돌"
+      "P",
+      "서말",
+      "김수지"
     ],
-    "cover": "https://img.ridicdn.net/cover/6067000190/large#1",
+    "cover": null,
     "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 45,
+    "rank": 46,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2026-09-02T15:00:00.000Z",
-    "updatedAt": "2026-09-02T15:00:00.000Z",
+    "releasedAt": "2025-11-22T15:00:00.000Z",
+    "updatedAt": "2025-11-22T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 600,
-      "regular": 600,
+      "current": 16100,
+      "regular": 16100,
       "discountRate": 0,
-      "unit": "episode",
-      "seriesTotal": {
-        "current": 12600,
-        "regular": 12600,
-        "count": 21
-      },
-      "rentalTotal": {
-        "current": 5400,
-        "regular": 5400
-      }
+      "unit": "volume",
+      "seriesTotal": null,
+      "rentalTotal": null
     },
-    "promo": {
-      "freeEpisodes": 3,
-      "text": null
-    },
-    "titleKey": "화려한후회를부탁해"
+    "promo": null,
+    "titleKey": "시즌5세트상수리나무아래"
   },
   {
     "source": "ridi",
@@ -1753,7 +1784,7 @@
     "cover": "https://img.ridicdn.net/cover/4343003549/large#1",
     "category": "로맨스 / 웹툰",
     "rating": "all",
-    "rank": 46,
+    "rank": 47,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-05-21T15:00:00.000Z",
     "updatedAt": "2026-05-21T15:00:00.000Z",
@@ -1778,37 +1809,6 @@
       "text": null
     },
     "titleKey": "야릇한동거"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "111150208",
-    "url": "https://ridibooks.com/books/111150208",
-    "title": "[시즌 5 세트] <상수리나무 아래>",
-    "seriesTitle": "[시즌 5 세트] <상수리나무 아래>",
-    "authors": [
-      "P",
-      "서말",
-      "김수지"
-    ],
-    "cover": null,
-    "category": "로판 / 웹툰",
-    "rating": "all",
-    "rank": 47,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2025-11-22T15:00:00.000Z",
-    "updatedAt": "2025-11-22T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 16100,
-      "regular": 16100,
-      "discountRate": 0,
-      "unit": "volume",
-      "seriesTotal": null,
-      "rentalTotal": null
-    },
-    "promo": null,
-    "titleKey": "시즌5세트상수리나무아래"
   },
   {
     "source": "ridi",
@@ -1854,6 +1854,45 @@
   {
     "source": "ridi",
     "region": "KR",
+    "id": "4158001245",
+    "url": "https://ridibooks.com/books/4158001245",
+    "title": "블랙우드 경은 하녀의 죽음에 책임이 있다 1화",
+    "seriesTitle": "블랙우드 경은 하녀의 죽음에 책임이 있다",
+    "authors": [
+      "리디부"
+    ],
+    "cover": "https://img.ridicdn.net/cover/4158001303/large#1",
+    "category": "로판 / 웹툰",
+    "rating": "all",
+    "rank": 49,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2026-10-21T15:00:00.000Z",
+    "updatedAt": "2026-10-21T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 500,
+      "regular": 500,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 6500,
+        "regular": 6500,
+        "count": 13
+      },
+      "rentalTotal": {
+        "current": 3000,
+        "regular": 3000
+      }
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "text": null
+    },
+    "titleKey": "블랙우드경은하녀의죽음에책임이있다"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
     "id": "3498025521",
     "url": "https://ridibooks.com/books/3498025521",
     "title": "괴물 황자를 길들여버렸다 1화",
@@ -1865,7 +1904,7 @@
     "cover": "https://img.ridicdn.net/cover/3498027112/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 49,
+    "rank": 50,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-05-24T15:00:00.000Z",
     "updatedAt": "2026-10-17T15:00:00.000Z",
@@ -1905,7 +1944,7 @@
     "cover": "https://img.ridicdn.net/cover/3240000001/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 50,
+    "rank": 51,
     "rankList": "webtoon:monthly",
     "releasedAt": "2017-12-19T15:00:00.000Z",
     "updatedAt": "2025-12-11T15:00:00.000Z",
@@ -1945,7 +1984,7 @@
     "cover": "https://img.ridicdn.net/cover/5794000063/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 51,
+    "rank": 52,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-03-07T15:00:00.000Z",
     "updatedAt": "2026-10-18T15:00:00.000Z",
@@ -1970,47 +2009,6 @@
       "text": null
     },
     "titleKey": "남편에게쫓기고있습니다"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "4946000002",
-    "url": "https://ridibooks.com/books/4946000002",
-    "title": "프리즌 러브 [개정판] 1화",
-    "seriesTitle": "프리즌 러브 [개정판]",
-    "authors": [
-      "함지",
-      "김두유",
-      "Magoing"
-    ],
-    "cover": "https://img.ridicdn.net/cover/4946000002/large#1",
-    "category": "로판 / 웹툰",
-    "rating": "all",
-    "rank": 52,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2024-06-08T15:00:00.000Z",
-    "updatedAt": "2026-02-07T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 500,
-      "regular": 500,
-      "discountRate": 0,
-      "unit": "episode",
-      "seriesTotal": {
-        "current": 50000,
-        "regular": 50000,
-        "count": 101
-      },
-      "rentalTotal": {
-        "current": 29100,
-        "regular": 29100
-      }
-    },
-    "promo": {
-      "freeEpisodes": 4,
-      "text": null
-    },
-    "titleKey": "프리즌러브"
   },
   {
     "source": "ridi",
@@ -2096,21 +2094,22 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "4800000346",
-    "url": "https://ridibooks.com/books/4800000346",
-    "title": "여러 해를 사는 나무여 [개정판] 1화",
-    "seriesTitle": "여러 해를 사는 나무여 [개정판]",
+    "id": "4946000002",
+    "url": "https://ridibooks.com/books/4946000002",
+    "title": "프리즌 러브 [개정판] 1화",
+    "seriesTitle": "프리즌 러브 [개정판]",
     "authors": [
-      "핫퍼지코믹스",
-      "디키탈리스"
+      "함지",
+      "김두유",
+      "Magoing"
     ],
-    "cover": "https://img.ridicdn.net/cover/4800000383/large#1",
+    "cover": "https://img.ridicdn.net/cover/4946000002/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
     "rank": 55,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2026-09-25T15:00:00.000Z",
-    "updatedAt": "2026-10-19T15:00:00.000Z",
+    "releasedAt": "2024-06-08T15:00:00.000Z",
+    "updatedAt": "2026-02-07T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 500,
@@ -2118,20 +2117,20 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 10000,
-        "regular": 10000,
-        "count": 20
+        "current": 50000,
+        "regular": 50000,
+        "count": 101
       },
       "rentalTotal": {
-        "current": 5100,
-        "regular": 5100
+        "current": 29100,
+        "regular": 29100
       }
     },
     "promo": {
-      "freeEpisodes": 3,
+      "freeEpisodes": 4,
       "text": null
     },
-    "titleKey": "여러해를사는나무여"
+    "titleKey": "프리즌러브"
   },
   {
     "source": "ridi",
@@ -2148,7 +2147,7 @@
     "cover": "https://img.ridicdn.net/cover/4343003831/large#1",
     "category": "로맨스 / 웹툰",
     "rating": "all",
-    "rank": 57,
+    "rank": 56,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-10-15T15:00:00.000Z",
     "updatedAt": "2026-10-15T15:00:00.000Z",
@@ -2177,21 +2176,21 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "5672000001",
-    "url": "https://ridibooks.com/books/5672000001",
-    "title": "괴물 아가씨와 성기사 1화",
-    "seriesTitle": "괴물 아가씨와 성기사",
+    "id": "4800000346",
+    "url": "https://ridibooks.com/books/4800000346",
+    "title": "여러 해를 사는 나무여 [개정판] 1화",
+    "seriesTitle": "여러 해를 사는 나무여 [개정판]",
     "authors": [
-      "스르륵코믹스",
-      "손금"
+      "핫퍼지코믹스",
+      "디키탈리스"
     ],
-    "cover": "https://img.ridicdn.net/cover/5672000001/large#1",
+    "cover": "https://img.ridicdn.net/cover/4800000383/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
-    "rank": 58,
+    "rank": 57,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2024-10-14T15:00:00.000Z",
-    "updatedAt": "2026-07-13T15:00:00.000Z",
+    "releasedAt": "2026-09-25T15:00:00.000Z",
+    "updatedAt": "2026-10-19T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 500,
@@ -2199,60 +2198,20 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 40000,
-        "regular": 40000,
-        "count": 81
+        "current": 10000,
+        "regular": 10000,
+        "count": 20
       },
       "rentalTotal": {
-        "current": 23100,
-        "regular": 23100
-      }
-    },
-    "promo": {
-      "freeEpisodes": 4,
-      "text": null
-    },
-    "titleKey": "괴물아가씨와성기사"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "5646000002",
-    "url": "https://ridibooks.com/books/5646000002",
-    "title": "에프 마이 엑스 [개정판] 1화",
-    "seriesTitle": "에프 마이 엑스 [개정판]",
-    "authors": [
-      "tickle",
-      "그일도"
-    ],
-    "cover": "https://img.ridicdn.net/cover/5646000002/large#1",
-    "category": "로맨스 / 웹툰",
-    "rating": "all",
-    "rank": 59,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2024-12-29T15:00:00.000Z",
-    "updatedAt": "2025-11-30T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 500,
-      "regular": 500,
-      "discountRate": 0,
-      "unit": "episode",
-      "seriesTotal": {
-        "current": 32000,
-        "regular": 32000,
-        "count": 65
-      },
-      "rentalTotal": {
-        "current": 18300,
-        "regular": 18300
+        "current": 5100,
+        "regular": 5100
       }
     },
     "promo": {
       "freeEpisodes": 3,
       "text": null
     },
-    "titleKey": "에프마이엑스"
+    "titleKey": "여러해를사는나무여"
   },
   {
     "source": "ridi",
@@ -2369,45 +2328,6 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "297051298",
-    "url": "https://ridibooks.com/books/297051298",
-    "title": "황천의 츠가이 1권",
-    "seriesTitle": "황천의 츠가이",
-    "authors": [
-      "아라카와 히로무"
-    ],
-    "cover": "https://img.ridicdn.net/cover/297092753/large#1",
-    "category": "판타지/SF / 액션 / 만화 e북",
-    "rating": "all",
-    "rank": 3,
-    "rankList": "comic:monthly",
-    "releasedAt": "2022-10-27T15:00:00.000Z",
-    "updatedAt": "2026-09-22T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 3150,
-      "regular": 3500,
-      "discountRate": 10,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 37800,
-        "regular": 42000,
-        "count": 12
-      },
-      "rentalTotal": {
-        "current": 0,
-        "regular": 0
-      }
-    },
-    "promo": {
-      "freeEpisodes": 1,
-      "text": null
-    },
-    "titleKey": "황천의츠가이"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
     "id": "3010004008",
     "url": "https://ridibooks.com/books/3010004008",
     "title": "스킵과 로퍼 1권",
@@ -2418,7 +2338,7 @@
     "cover": "https://img.ridicdn.net/cover/3010024526/large#1",
     "category": "해외 순정 / 드라마 / 만화 e북",
     "rating": "all",
-    "rank": 4,
+    "rank": 3,
     "rankList": "comic:monthly",
     "releasedAt": "2020-12-02T15:00:00.000Z",
     "updatedAt": "2026-10-17T15:00:00.000Z",
@@ -2443,6 +2363,45 @@
       "text": null
     },
     "titleKey": "스킵과로퍼"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "297051298",
+    "url": "https://ridibooks.com/books/297051298",
+    "title": "황천의 츠가이 1권",
+    "seriesTitle": "황천의 츠가이",
+    "authors": [
+      "아라카와 히로무"
+    ],
+    "cover": "https://img.ridicdn.net/cover/297092753/large#1",
+    "category": "판타지/SF / 액션 / 만화 e북",
+    "rating": "all",
+    "rank": 4,
+    "rankList": "comic:monthly",
+    "releasedAt": "2022-10-27T15:00:00.000Z",
+    "updatedAt": "2026-09-22T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 3150,
+      "regular": 3500,
+      "discountRate": 10,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 37800,
+        "regular": 42000,
+        "count": 12
+      },
+      "rentalTotal": {
+        "current": 0,
+        "regular": 0
+      }
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "text": null
+    },
+    "titleKey": "황천의츠가이"
   },
   {
     "source": "ridi",
@@ -2581,35 +2540,41 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "1019011390",
-    "url": "https://ridibooks.com/books/1019011390",
-    "title": "스파이 패밀리 1권",
-    "seriesTitle": "스파이 패밀리",
+    "id": "297062654",
+    "url": "https://ridibooks.com/books/297062654",
+    "title": "향기로운 꽃은 늠름하게 핀다 1권",
+    "seriesTitle": "향기로운 꽃은 늠름하게 핀다",
     "authors": [
-      "엔도 타츠야"
+      "미카미 사카"
     ],
-    "cover": "https://img.ridicdn.net/cover/1019123414/large#1",
-    "category": "액션 / 판타지/SF / 만화 e북",
+    "cover": "https://img.ridicdn.net/cover/297092756/large#1",
+    "category": "해외 순정 / 학원 / 만화 e북",
     "rating": "all",
     "rank": 9,
     "rankList": "comic:monthly",
-    "releasedAt": "2020-03-18T15:00:00.000Z",
-    "updatedAt": "2026-09-16T15:00:00.000Z",
+    "releasedAt": "2023-10-05T15:00:00.000Z",
+    "updatedAt": "2026-09-22T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 3420,
-      "regular": 3800,
+      "current": 3150,
+      "regular": 3500,
       "discountRate": 10,
       "unit": "volume",
       "seriesTotal": {
-        "current": 58140,
-        "regular": 64600,
-        "count": 17
+        "current": 66150,
+        "regular": 73500,
+        "count": 21
       },
-      "rentalTotal": null
+      "rentalTotal": {
+        "current": 0,
+        "regular": 0
+      }
     },
-    "promo": null,
-    "titleKey": "스파이패밀리"
+    "promo": {
+      "freeEpisodes": 2,
+      "text": null
+    },
+    "titleKey": "향기로운꽃은늠름하게핀다"
   },
   {
     "source": "ridi",
@@ -2647,74 +2612,35 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "297062654",
-    "url": "https://ridibooks.com/books/297062654",
-    "title": "향기로운 꽃은 늠름하게 핀다 1권",
-    "seriesTitle": "향기로운 꽃은 늠름하게 핀다",
+    "id": "1019011390",
+    "url": "https://ridibooks.com/books/1019011390",
+    "title": "스파이 패밀리 1권",
+    "seriesTitle": "스파이 패밀리",
     "authors": [
-      "미카미 사카"
+      "엔도 타츠야"
     ],
-    "cover": "https://img.ridicdn.net/cover/297092756/large#1",
-    "category": "해외 순정 / 학원 / 만화 e북",
+    "cover": "https://img.ridicdn.net/cover/1019123414/large#1",
+    "category": "액션 / 판타지/SF / 만화 e북",
     "rating": "all",
     "rank": 11,
     "rankList": "comic:monthly",
-    "releasedAt": "2023-10-05T15:00:00.000Z",
-    "updatedAt": "2026-09-22T15:00:00.000Z",
+    "releasedAt": "2020-03-18T15:00:00.000Z",
+    "updatedAt": "2026-09-16T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 3150,
-      "regular": 3500,
+      "current": 3420,
+      "regular": 3800,
       "discountRate": 10,
       "unit": "volume",
       "seriesTotal": {
-        "current": 66150,
-        "regular": 73500,
-        "count": 21
-      },
-      "rentalTotal": {
-        "current": 0,
-        "regular": 0
-      }
-    },
-    "promo": {
-      "freeEpisodes": 2,
-      "text": null
-    },
-    "titleKey": "향기로운꽃은늠름하게핀다"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "1690000520",
-    "url": "https://ridibooks.com/books/1690000520",
-    "title": "이세계 삼촌 1권",
-    "seriesTitle": "이세계 삼촌",
-    "authors": [
-      "호톤도신데이루"
-    ],
-    "cover": "https://img.ridicdn.net/cover/1690005127/large#1",
-    "category": "판타지/SF / 코믹 / 만화 e북",
-    "rating": "all",
-    "rank": 12,
-    "rankList": "comic:monthly",
-    "releasedAt": "2019-10-07T15:00:00.000Z",
-    "updatedAt": "2026-09-20T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 3500,
-      "regular": 3500,
-      "discountRate": 0,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 58000,
-        "regular": 58000,
-        "count": 14
+        "current": 58140,
+        "regular": 64600,
+        "count": 17
       },
       "rentalTotal": null
     },
     "promo": null,
-    "titleKey": "이세계삼촌"
+    "titleKey": "스파이패밀리"
   },
   {
     "source": "ridi",
@@ -2730,7 +2656,7 @@
     "cover": "https://img.ridicdn.net/cover/1019123542/large#1",
     "category": "판타지/SF / 만화 e북",
     "rating": "all",
-    "rank": 13,
+    "rank": 12,
     "rankList": "comic:monthly",
     "releasedAt": "2025-10-12T15:00:00.000Z",
     "updatedAt": "2026-10-01T15:00:00.000Z",
@@ -2763,7 +2689,7 @@
     "cover": "https://img.ridicdn.net/cover/1019121090/large#1",
     "category": "해외 순정 / 만화 e북",
     "rating": "all",
-    "rank": 14,
+    "rank": 13,
     "rankList": "comic:monthly",
     "releasedAt": "2024-07-31T15:00:00.000Z",
     "updatedAt": "2026-07-31T15:00:00.000Z",
@@ -2788,6 +2714,40 @@
       "text": null
     },
     "titleKey": "반딧불이의혼례"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "4633000393",
+    "url": "https://ridibooks.com/books/4633000393",
+    "title": "이세계 메이드의 3성급 미식 1권",
+    "seriesTitle": "이세계 메이드의 3성급 미식",
+    "authors": [
+      "U4",
+      "모리타"
+    ],
+    "cover": "https://img.ridicdn.net/cover/4633000706/large#1",
+    "category": "판타지/SF / 만화 e북",
+    "rating": "all",
+    "rank": 14,
+    "rankList": "comic:monthly",
+    "releasedAt": "2024-06-20T15:00:00.000Z",
+    "updatedAt": "2026-10-01T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 3150,
+      "regular": 3500,
+      "discountRate": 10,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 12600,
+        "regular": 14000,
+        "count": 4
+      },
+      "rentalTotal": null
+    },
+    "promo": null,
+    "titleKey": "이세계메이드의3성급미식"
   },
   {
     "source": "ridi",
@@ -2826,40 +2786,6 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "4633000393",
-    "url": "https://ridibooks.com/books/4633000393",
-    "title": "이세계 메이드의 3성급 미식 1권",
-    "seriesTitle": "이세계 메이드의 3성급 미식",
-    "authors": [
-      "U4",
-      "모리타"
-    ],
-    "cover": "https://img.ridicdn.net/cover/4633000706/large#1",
-    "category": "판타지/SF / 만화 e북",
-    "rating": "all",
-    "rank": 16,
-    "rankList": "comic:monthly",
-    "releasedAt": "2024-06-20T15:00:00.000Z",
-    "updatedAt": "2026-10-01T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 3150,
-      "regular": 3500,
-      "discountRate": 10,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 12600,
-        "regular": 14000,
-        "count": 4
-      },
-      "rentalTotal": null
-    },
-    "promo": null,
-    "titleKey": "이세계메이드의3성급미식"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
     "id": "3333000072",
     "url": "https://ridibooks.com/books/3333000072",
     "title": "꽃을 숨긴 너의 유성 1권",
@@ -2870,7 +2796,7 @@
     "cover": "https://img.ridicdn.net/cover/3333000130/large#1",
     "category": "해외 순정 / 만화 e북",
     "rating": "all",
-    "rank": 17,
+    "rank": 16,
     "rankList": "comic:monthly",
     "releasedAt": "2025-05-13T15:00:00.000Z",
     "updatedAt": "2026-10-01T15:00:00.000Z",
@@ -2893,45 +2819,6 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "505004219",
-    "url": "https://ridibooks.com/books/505004219",
-    "title": "새벽의 연화 1권",
-    "seriesTitle": "새벽의 연화",
-    "authors": [
-      "쿠사나기 미즈호"
-    ],
-    "cover": "https://img.ridicdn.net/cover/505110186/large#1",
-    "category": "해외 순정 / 판타지/SF / 만화 e북",
-    "rating": "all",
-    "rank": 18,
-    "rankList": "comic:monthly",
-    "releasedAt": "2015-06-25T15:00:00.000Z",
-    "updatedAt": "2026-09-20T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 3420,
-      "regular": 3800,
-      "discountRate": 10,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 160740,
-        "regular": 178600,
-        "count": 47
-      },
-      "rentalTotal": {
-        "current": 0,
-        "regular": 0
-      }
-    },
-    "promo": {
-      "freeEpisodes": 1,
-      "text": null
-    },
-    "titleKey": "새벽의연화"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
     "id": "845033869",
     "url": "https://ridibooks.com/books/845033869",
     "title": "은둔형 외톨이 영애는 말이 통하는 성수 돌보미 1권",
@@ -2944,7 +2831,7 @@
     "cover": "https://img.ridicdn.net/cover/845058126/large#1",
     "category": "해외 순정 / 판타지/SF / 만화 e북",
     "rating": "all",
-    "rank": 19,
+    "rank": 17,
     "rankList": "comic:monthly",
     "releasedAt": "2022-09-19T15:00:00.000Z",
     "updatedAt": "2026-09-30T15:00:00.000Z",
@@ -2984,7 +2871,7 @@
     "cover": "https://img.ridicdn.net/cover/777190532/large#1",
     "category": "해외 순정 / 드라마 / 만화 e북",
     "rating": "all",
-    "rank": 20,
+    "rank": 18,
     "rankList": "comic:monthly",
     "releasedAt": "2026-01-04T15:00:00.000Z",
     "updatedAt": "2026-09-28T15:00:00.000Z",
@@ -3017,7 +2904,7 @@
     "cover": "https://img.ridicdn.net/cover/505111822/large#1",
     "category": "해외 순정 / 드라마 / 만화 e북",
     "rating": "all",
-    "rank": 21,
+    "rank": 19,
     "rankList": "comic:monthly",
     "releasedAt": "2022-10-31T15:00:00.000Z",
     "updatedAt": "2026-10-12T15:00:00.000Z",
@@ -3042,6 +2929,74 @@
       "text": null
     },
     "titleKey": "손끝과연연"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "1690001066",
+    "url": "https://ridibooks.com/books/1690001066",
+    "title": "[코믹] 악역영애 레벨 99 1권",
+    "seriesTitle": "[코믹] 악역영애 레벨 99",
+    "authors": [
+      "노코미",
+      "타나바타 사토리",
+      "Tea"
+    ],
+    "cover": "https://img.ridicdn.net/cover/1690005129/large#1",
+    "category": "판타지/SF / 만화 e북",
+    "rating": "all",
+    "rank": 21,
+    "rankList": "comic:monthly",
+    "releasedAt": "2022-03-15T15:00:00.000Z",
+    "updatedAt": "2026-09-21T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 4000,
+      "regular": 4000,
+      "discountRate": 0,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 20000,
+        "regular": 20000,
+        "count": 5
+      },
+      "rentalTotal": null
+    },
+    "promo": null,
+    "titleKey": "악역영애레벨"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "297087073",
+    "url": "https://ridibooks.com/books/297087073",
+    "title": "사악한 신의 도시락 가게 1권",
+    "seriesTitle": "사악한 신의 도시락 가게",
+    "authors": [
+      "이시코"
+    ],
+    "cover": "https://img.ridicdn.net/cover/297087073/large#1",
+    "category": "판타지/SF / 만화 e북",
+    "rating": "all",
+    "rank": 22,
+    "rankList": "comic:monthly",
+    "releasedAt": "2026-02-02T15:00:00.000Z",
+    "updatedAt": "2026-10-14T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 3600,
+      "regular": 4000,
+      "discountRate": 10,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 14400,
+        "regular": 16000,
+        "count": 4
+      },
+      "rentalTotal": null
+    },
+    "promo": null,
+    "titleKey": "사악한신의도시락가게"
   },
   {
     "source": "ridi",
@@ -3079,74 +3034,6 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "1690001066",
-    "url": "https://ridibooks.com/books/1690001066",
-    "title": "[코믹] 악역영애 레벨 99 1권",
-    "seriesTitle": "[코믹] 악역영애 레벨 99",
-    "authors": [
-      "노코미",
-      "타나바타 사토리",
-      "Tea"
-    ],
-    "cover": "https://img.ridicdn.net/cover/1690005129/large#1",
-    "category": "판타지/SF / 만화 e북",
-    "rating": "all",
-    "rank": 24,
-    "rankList": "comic:monthly",
-    "releasedAt": "2022-03-15T15:00:00.000Z",
-    "updatedAt": "2026-09-21T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 4000,
-      "regular": 4000,
-      "discountRate": 0,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 20000,
-        "regular": 20000,
-        "count": 5
-      },
-      "rentalTotal": null
-    },
-    "promo": null,
-    "titleKey": "악역영애레벨"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "297087073",
-    "url": "https://ridibooks.com/books/297087073",
-    "title": "사악한 신의 도시락 가게 1권",
-    "seriesTitle": "사악한 신의 도시락 가게",
-    "authors": [
-      "이시코"
-    ],
-    "cover": "https://img.ridicdn.net/cover/297087073/large#1",
-    "category": "판타지/SF / 만화 e북",
-    "rating": "all",
-    "rank": 25,
-    "rankList": "comic:monthly",
-    "releasedAt": "2026-02-02T15:00:00.000Z",
-    "updatedAt": "2026-10-14T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 3600,
-      "regular": 4000,
-      "discountRate": 10,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 14400,
-        "regular": 16000,
-        "count": 4
-      },
-      "rentalTotal": null
-    },
-    "promo": null,
-    "titleKey": "사악한신의도시락가게"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
     "id": "3802000473",
     "url": "https://ridibooks.com/books/3802000473",
     "title": "레이와의 다라 씨 1권",
@@ -3157,7 +3044,7 @@
     "cover": "https://img.ridicdn.net/cover/3802000779/large#1",
     "category": "공포/추리 / 코믹 / 만화 e북",
     "rating": "all",
-    "rank": 26,
+    "rank": 24,
     "rankList": "comic:monthly",
     "releasedAt": "2024-03-19T15:00:00.000Z",
     "updatedAt": "2026-10-12T15:00:00.000Z",
@@ -3191,18 +3078,18 @@
     "cover": "https://img.ridicdn.net/cover/1561018717/large#1",
     "category": "코믹 / 만화 e북",
     "rating": "all",
-    "rank": 27,
+    "rank": 25,
     "rankList": "comic:monthly",
     "releasedAt": "2025-05-11T15:00:00.000Z",
     "updatedAt": "2026-09-21T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 3600,
+      "current": 4000,
       "regular": 4000,
-      "discountRate": 10,
+      "discountRate": 0,
       "unit": "volume",
       "seriesTotal": {
-        "current": 10800,
+        "current": 12000,
         "regular": 12000,
         "count": 3
       },
@@ -3224,7 +3111,7 @@
     "cover": "https://img.ridicdn.net/cover/777192829/large#1",
     "category": "해외 순정 / 만화 e북",
     "rating": "all",
-    "rank": 28,
+    "rank": 26,
     "rankList": "comic:monthly",
     "releasedAt": "2024-02-07T15:00:00.000Z",
     "updatedAt": "2026-10-13T15:00:00.000Z",
@@ -3243,6 +3130,78 @@
     },
     "promo": null,
     "titleKey": "누나의친구가성가신이야기"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "1690000520",
+    "url": "https://ridibooks.com/books/1690000520",
+    "title": "이세계 삼촌 1권",
+    "seriesTitle": "이세계 삼촌",
+    "authors": [
+      "호톤도신데이루"
+    ],
+    "cover": "https://img.ridicdn.net/cover/1690005127/large#1",
+    "category": "판타지/SF / 코믹 / 만화 e북",
+    "rating": "all",
+    "rank": 27,
+    "rankList": "comic:monthly",
+    "releasedAt": "2019-10-07T15:00:00.000Z",
+    "updatedAt": "2026-09-20T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 3500,
+      "regular": 3500,
+      "discountRate": 0,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 58000,
+        "regular": 58000,
+        "count": 14
+      },
+      "rentalTotal": null
+    },
+    "promo": null,
+    "titleKey": "이세계삼촌"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "505004219",
+    "url": "https://ridibooks.com/books/505004219",
+    "title": "새벽의 연화 1권",
+    "seriesTitle": "새벽의 연화",
+    "authors": [
+      "쿠사나기 미즈호"
+    ],
+    "cover": "https://img.ridicdn.net/cover/505110186/large#1",
+    "category": "해외 순정 / 판타지/SF / 만화 e북",
+    "rating": "all",
+    "rank": 28,
+    "rankList": "comic:monthly",
+    "releasedAt": "2015-06-25T15:00:00.000Z",
+    "updatedAt": "2026-09-20T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 3420,
+      "regular": 3800,
+      "discountRate": 10,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 160740,
+        "regular": 178600,
+        "count": 47
+      },
+      "rentalTotal": {
+        "current": 0,
+        "regular": 0
+      }
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "text": null
+    },
+    "titleKey": "새벽의연화"
   },
   {
     "source": "ridi",
@@ -3291,7 +3250,7 @@
     "cover": "https://img.ridicdn.net/cover/3010024059/large#1",
     "category": "드라마 / 만화 e북",
     "rating": "all",
-    "rank": 30,
+    "rank": 31,
     "rankList": "comic:monthly",
     "releasedAt": "2026-09-10T15:00:00.000Z",
     "updatedAt": "2026-09-10T15:00:00.000Z",
@@ -3353,35 +3312,35 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "1019066071",
-    "url": "https://ridibooks.com/books/1019066071",
-    "title": "사카모토 데이즈 1권",
-    "seriesTitle": "사카모토 데이즈",
+    "id": "777130104",
+    "url": "https://ridibooks.com/books/777130104",
+    "title": "친구의 누나를 사랑한 이야기 1권",
+    "seriesTitle": "친구의 누나를 사랑한 이야기",
     "authors": [
-      "스즈키 유우토"
+      "아즈사 키나"
     ],
-    "cover": "https://img.ridicdn.net/cover/1019123410/large#1",
-    "category": "액션 / 코믹 / 만화 e북",
+    "cover": "https://img.ridicdn.net/cover/777192823/large#1",
+    "category": "해외 순정 / 만화 e북",
     "rating": "all",
     "rank": 33,
     "rankList": "comic:monthly",
-    "releasedAt": "2022-05-11T15:00:00.000Z",
-    "updatedAt": "2026-09-16T15:00:00.000Z",
+    "releasedAt": "2024-02-07T15:00:00.000Z",
+    "updatedAt": "2026-10-13T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 3500,
-      "regular": 3500,
-      "discountRate": 0,
+      "current": 2700,
+      "regular": 3000,
+      "discountRate": 10,
       "unit": "volume",
       "seriesTotal": {
-        "current": 94500,
-        "regular": 94500,
-        "count": 27
+        "current": 11250,
+        "regular": 12500,
+        "count": 4
       },
       "rentalTotal": null
     },
     "promo": null,
-    "titleKey": "사카모토데이즈"
+    "titleKey": "친구의누나를사랑한이야기"
   },
   {
     "source": "ridi",
@@ -3426,54 +3385,20 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "777130104",
-    "url": "https://ridibooks.com/books/777130104",
-    "title": "친구의 누나를 사랑한 이야기 1권",
-    "seriesTitle": "친구의 누나를 사랑한 이야기",
+    "id": "1019066071",
+    "url": "https://ridibooks.com/books/1019066071",
+    "title": "사카모토 데이즈 1권",
+    "seriesTitle": "사카모토 데이즈",
     "authors": [
-      "아즈사 키나"
+      "스즈키 유우토"
     ],
-    "cover": "https://img.ridicdn.net/cover/777192823/large#1",
-    "category": "해외 순정 / 만화 e북",
+    "cover": "https://img.ridicdn.net/cover/1019123410/large#1",
+    "category": "액션 / 코믹 / 만화 e북",
     "rating": "all",
     "rank": 35,
     "rankList": "comic:monthly",
-    "releasedAt": "2024-02-07T15:00:00.000Z",
-    "updatedAt": "2026-10-13T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 2700,
-      "regular": 3000,
-      "discountRate": 10,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 11250,
-        "regular": 12500,
-        "count": 4
-      },
-      "rentalTotal": null
-    },
-    "promo": null,
-    "titleKey": "친구의누나를사랑한이야기"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "1019059438",
-    "url": "https://ridibooks.com/books/1019059438",
-    "title": "장송의 프리렌 1권",
-    "seriesTitle": "장송의 프리렌",
-    "authors": [
-      "아베 츠카사",
-      "야마다 카네히토"
-    ],
-    "cover": "https://img.ridicdn.net/cover/1019121079/large#1",
-    "category": "판타지/SF / 드라마 / 만화 e북",
-    "rating": "all",
-    "rank": 36,
-    "rankList": "comic:monthly",
-    "releasedAt": "2021-12-29T15:00:00.000Z",
-    "updatedAt": "2026-07-29T15:00:00.000Z",
+    "releasedAt": "2022-05-11T15:00:00.000Z",
+    "updatedAt": "2026-09-16T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 3500,
@@ -3481,14 +3406,14 @@
       "discountRate": 0,
       "unit": "volume",
       "seriesTotal": {
-        "current": 52500,
-        "regular": 52500,
-        "count": 15
+        "current": 94500,
+        "regular": 94500,
+        "count": 27
       },
       "rentalTotal": null
     },
     "promo": null,
-    "titleKey": "장송의프리렌"
+    "titleKey": "사카모토데이즈"
   },
   {
     "source": "ridi",
@@ -3503,7 +3428,7 @@
     "cover": "https://img.ridicdn.net/cover/1019123419/large#1",
     "category": "무협 / 액션 / 만화 e북",
     "rating": "all",
-    "rank": 37,
+    "rank": 36,
     "rankList": "comic:monthly",
     "releasedAt": "2014-02-26T15:00:00.000Z",
     "updatedAt": "2026-09-22T15:00:00.000Z",
@@ -3526,66 +3451,62 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "3010022024",
-    "url": "https://ridibooks.com/books/3010022024",
-    "title": "[코믹] 대장간에서 시작하는 이세계 슬로 라이프 1권",
-    "seriesTitle": "[코믹] 대장간에서 시작하는 이세계 슬로 라이프",
+    "id": "1019059438",
+    "url": "https://ridibooks.com/books/1019059438",
+    "title": "장송의 프리렌 1권",
+    "seriesTitle": "장송의 프리렌",
     "authors": [
-      "히모리 요시노",
-      "타마마루",
-      "킨타"
+      "아베 츠카사",
+      "야마다 카네히토"
     ],
-    "cover": "https://img.ridicdn.net/cover/3010024358/large#1",
-    "category": "판타지/SF / 만화 e북",
+    "cover": "https://img.ridicdn.net/cover/1019121079/large#1",
+    "category": "판타지/SF / 드라마 / 만화 e북",
     "rating": "all",
-    "rank": 38,
+    "rank": 37,
     "rankList": "comic:monthly",
-    "releasedAt": "2026-02-24T15:00:00.000Z",
-    "updatedAt": "2026-09-20T15:00:00.000Z",
+    "releasedAt": "2021-12-29T15:00:00.000Z",
+    "updatedAt": "2026-07-29T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 4000,
-      "regular": 4000,
+      "current": 3500,
+      "regular": 3500,
       "discountRate": 0,
       "unit": "volume",
       "seriesTotal": {
-        "current": 20000,
-        "regular": 20000,
-        "count": 5
+        "current": 52500,
+        "regular": 52500,
+        "count": 15
       },
-      "rentalTotal": {
-        "current": 10000,
-        "regular": 10000
-      }
+      "rentalTotal": null
     },
     "promo": null,
-    "titleKey": "대장간에서시작하는이세계슬로라이프"
+    "titleKey": "장송의프리렌"
   },
   {
     "source": "ridi",
     "region": "KR",
-    "id": "505110124",
-    "url": "https://ridibooks.com/books/505110124",
-    "title": "더 풀 (THE POOL) [한정판]",
+    "id": "505110125",
+    "url": "https://ridibooks.com/books/505110125",
+    "title": "더 풀 (THE POOL)",
     "seriesTitle": "더 풀 (THE POOL)",
     "authors": [
       "사쿠라이 가몬"
     ],
-    "cover": "https://img.ridicdn.net/cover/505110124/large#1",
+    "cover": "https://img.ridicdn.net/cover/505110125/large#1",
     "category": "판타지/SF / 액션 / 만화 e북",
     "rating": "all",
-    "rank": 39,
+    "rank": 38,
     "rankList": "comic:monthly",
-    "releasedAt": "2026-09-16T15:00:00.000Z",
-    "updatedAt": "2026-09-16T15:00:00.000Z",
+    "releasedAt": "2026-10-21T15:00:00.000Z",
+    "updatedAt": "2026-10-21T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 9000,
+      "current": 10000,
       "regular": 10000,
-      "discountRate": 10,
+      "discountRate": 0,
       "unit": "volume",
       "seriesTotal": {
-        "current": 9000,
+        "current": 10000,
         "regular": 10000,
         "count": 1
       },
@@ -3593,6 +3514,35 @@
     },
     "promo": null,
     "titleKey": "더풀thepool"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "111150031",
+    "url": "https://ridibooks.com/books/111150031",
+    "title": "[특별 세트] 옆자리 녀석이 그런 눈으로 쳐다본다 (총 3권)",
+    "seriesTitle": "[특별 세트] 옆자리 녀석이 그런 눈으로 쳐다본다 (총 3권)",
+    "authors": [
+      "mmk"
+    ],
+    "cover": null,
+    "category": "해외 순정 / 만화 e북",
+    "rating": "all",
+    "rank": 39,
+    "rankList": "comic:monthly",
+    "releasedAt": "2026-08-26T15:00:00.000Z",
+    "updatedAt": "2026-08-26T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 11520,
+      "regular": 11520,
+      "discountRate": 0,
+      "unit": "volume",
+      "seriesTotal": null,
+      "rentalTotal": null
+    },
+    "promo": null,
+    "titleKey": "특별세트옆자리녀석이그런눈으로쳐다본다총3권"
   },
   {
     "source": "ridi",
@@ -3630,35 +3580,6 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "111150031",
-    "url": "https://ridibooks.com/books/111150031",
-    "title": "[특별 세트] 옆자리 녀석이 그런 눈으로 쳐다본다 (총 3권)",
-    "seriesTitle": "[특별 세트] 옆자리 녀석이 그런 눈으로 쳐다본다 (총 3권)",
-    "authors": [
-      "mmk"
-    ],
-    "cover": null,
-    "category": "해외 순정 / 만화 e북",
-    "rating": "all",
-    "rank": 41,
-    "rankList": "comic:monthly",
-    "releasedAt": "2026-08-26T15:00:00.000Z",
-    "updatedAt": "2026-08-26T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 11520,
-      "regular": 11520,
-      "discountRate": 0,
-      "unit": "volume",
-      "seriesTotal": null,
-      "rentalTotal": null
-    },
-    "promo": null,
-    "titleKey": "특별세트옆자리녀석이그런눈으로쳐다본다총3권"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
     "id": "297011590",
     "url": "https://ridibooks.com/books/297011590",
     "title": "이세계 주점 노부 1권",
@@ -3671,7 +3592,7 @@
     "cover": "https://img.ridicdn.net/cover/297093190/large#1",
     "category": "판타지/SF / 드라마 / 만화 e북",
     "rating": "all",
-    "rank": 42,
+    "rank": 41,
     "rankList": "comic:monthly",
     "releasedAt": "2017-09-26T15:00:00.000Z",
     "updatedAt": "2026-10-15T15:00:00.000Z",
@@ -3710,7 +3631,7 @@
     "cover": "https://img.ridicdn.net/cover/297092667/large#1",
     "category": "해외 순정 / 드라마 / 만화 e북",
     "rating": "all",
-    "rank": 43,
+    "rank": 42,
     "rankList": "comic:monthly",
     "releasedAt": "2026-09-28T15:00:00.000Z",
     "updatedAt": "2026-09-28T15:00:00.000Z",
@@ -3745,7 +3666,7 @@
     "cover": "https://img.ridicdn.net/cover/3010024493/large#1",
     "category": "판타지/SF / 만화 e북",
     "rating": "all",
-    "rank": 44,
+    "rank": 43,
     "rankList": "comic:monthly",
     "releasedAt": "2021-03-28T15:00:00.000Z",
     "updatedAt": "2026-10-01T15:00:00.000Z",
@@ -3783,7 +3704,7 @@
     "cover": "https://img.ridicdn.net/cover/845058141/large#1",
     "category": "판타지/SF / 액션 / 만화 e북",
     "rating": "all",
-    "rank": 45,
+    "rank": 44,
     "rankList": "comic:monthly",
     "releasedAt": "2021-03-03T15:00:00.000Z",
     "updatedAt": "2026-09-30T15:00:00.000Z",
@@ -3812,40 +3733,6 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "4466000570",
-    "url": "https://ridibooks.com/books/4466000570",
-    "title": "고압적인 황녀는 가만히 있지 않는다 1권",
-    "seriesTitle": "고압적인 황녀는 가만히 있지 않는다",
-    "authors": [
-      "게니 유우",
-      "히이라기토아카리"
-    ],
-    "cover": "https://img.ridicdn.net/cover/4466000970/large#1",
-    "category": "해외 순정 / 판타지/SF / 만화 e북",
-    "rating": "all",
-    "rank": 46,
-    "rankList": "comic:monthly",
-    "releasedAt": "2024-07-04T15:00:00.000Z",
-    "updatedAt": "2026-09-20T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 3500,
-      "regular": 3500,
-      "discountRate": 0,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 14000,
-        "regular": 14000,
-        "count": 4
-      },
-      "rentalTotal": null
-    },
-    "promo": null,
-    "titleKey": "고압적인황녀는가만히있지않는다"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
     "id": "1019096694",
     "url": "https://ridibooks.com/books/1019096694",
     "title": "이거 그리고 죽어 1권",
@@ -3856,7 +3743,7 @@
     "cover": "https://img.ridicdn.net/cover/1019124061/large#1",
     "category": "드라마 / 만화 e북",
     "rating": "all",
-    "rank": 47,
+    "rank": 45,
     "rankList": "comic:monthly",
     "releasedAt": "2024-09-11T15:00:00.000Z",
     "updatedAt": "2026-10-07T15:00:00.000Z",
@@ -3879,35 +3766,68 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "1019109784",
-    "url": "https://ridibooks.com/books/1019109784",
-    "title": "찍히지 않습니다 1권",
-    "seriesTitle": "찍히지 않습니다",
+    "id": "1019095924",
+    "url": "https://ridibooks.com/books/1019095924",
+    "title": "카구라바치 1권",
+    "seriesTitle": "카구라바치",
     "authors": [
-      "코노시마 루카"
+      "호카조노 타케루"
     ],
-    "cover": "https://img.ridicdn.net/cover/1019122510/large#1",
-    "category": "공포/추리 / 만화 e북",
+    "cover": "https://img.ridicdn.net/cover/1019123917/large#1",
+    "category": "액션 / 만화 e북",
     "rating": "all",
-    "rank": 48,
+    "rank": 46,
     "rankList": "comic:monthly",
-    "releasedAt": "2025-10-29T15:00:00.000Z",
-    "updatedAt": "2026-09-13T15:00:00.000Z",
+    "releasedAt": "2024-08-28T15:00:00.000Z",
+    "updatedAt": "2026-10-13T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 4500,
+      "current": 4050,
       "regular": 4500,
-      "discountRate": 0,
+      "discountRate": 10,
       "unit": "volume",
       "seriesTotal": {
-        "current": 31500,
-        "regular": 31500,
-        "count": 7
+        "current": 44550,
+        "regular": 49500,
+        "count": 11
       },
       "rentalTotal": null
     },
     "promo": null,
-    "titleKey": "찍히지않습니다"
+    "titleKey": "카구라바치"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "4239000394",
+    "url": "https://ridibooks.com/books/4239000394",
+    "title": "전희 서바이벌 사가 1권",
+    "seriesTitle": "전희 서바이벌 사가",
+    "authors": [
+      "오토사마"
+    ],
+    "cover": "https://img.ridicdn.net/cover/4239000495/large#1",
+    "category": "판타지/SF / 만화 e북",
+    "rating": "all",
+    "rank": 47,
+    "rankList": "comic:monthly",
+    "releasedAt": "2026-04-16T15:00:00.000Z",
+    "updatedAt": "2026-10-14T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 3600,
+      "regular": 4000,
+      "discountRate": 10,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 14400,
+        "regular": 16000,
+        "count": 4
+      },
+      "rentalTotal": null
+    },
+    "promo": null,
+    "titleKey": "전희서바이벌사가"
   },
   {
     "source": "ridi",
@@ -3923,7 +3843,7 @@
     "cover": "https://img.ridicdn.net/cover/1019064784/large#1",
     "category": "코믹 / 판타지/SF / 만화 e북",
     "rating": "all",
-    "rank": 49,
+    "rank": 48,
     "rankList": "comic:monthly",
     "releasedAt": "2022-04-20T15:00:00.000Z",
     "updatedAt": "2026-10-07T15:00:00.000Z",
@@ -3963,7 +3883,7 @@
     "cover": "https://img.ridicdn.net/cover/297092951/large#1",
     "category": "코믹 / 만화 e북",
     "rating": "all",
-    "rank": 50,
+    "rank": 49,
     "rankList": "comic:monthly",
     "releasedAt": "2018-05-15T15:00:00.000Z",
     "updatedAt": "2026-10-01T15:00:00.000Z",
@@ -4002,7 +3922,7 @@
     "cover": "https://img.ridicdn.net/cover/5385000013/large#1",
     "category": "판타지/SF / 만화 e북",
     "rating": "all",
-    "rank": 51,
+    "rank": 50,
     "rankList": "comic:monthly",
     "releasedAt": "2026-02-05T15:00:00.000Z",
     "updatedAt": "2026-09-22T15:00:00.000Z",
@@ -4025,105 +3945,6 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "1019095924",
-    "url": "https://ridibooks.com/books/1019095924",
-    "title": "카구라바치 1권",
-    "seriesTitle": "카구라바치",
-    "authors": [
-      "호카조노 타케루"
-    ],
-    "cover": "https://img.ridicdn.net/cover/1019123917/large#1",
-    "category": "액션 / 만화 e북",
-    "rating": "all",
-    "rank": 52,
-    "rankList": "comic:monthly",
-    "releasedAt": "2024-08-28T15:00:00.000Z",
-    "updatedAt": "2026-10-13T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 4050,
-      "regular": 4500,
-      "discountRate": 10,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 44550,
-        "regular": 49500,
-        "count": 11
-      },
-      "rentalTotal": null
-    },
-    "promo": null,
-    "titleKey": "카구라바치"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "4239000394",
-    "url": "https://ridibooks.com/books/4239000394",
-    "title": "전희 서바이벌 사가 1권",
-    "seriesTitle": "전희 서바이벌 사가",
-    "authors": [
-      "오토사마"
-    ],
-    "cover": "https://img.ridicdn.net/cover/4239000495/large#1",
-    "category": "판타지/SF / 만화 e북",
-    "rating": "all",
-    "rank": 53,
-    "rankList": "comic:monthly",
-    "releasedAt": "2026-04-16T15:00:00.000Z",
-    "updatedAt": "2026-10-14T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 3600,
-      "regular": 4000,
-      "discountRate": 10,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 14400,
-        "regular": 16000,
-        "count": 4
-      },
-      "rentalTotal": null
-    },
-    "promo": null,
-    "titleKey": "전희서바이벌사가"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "1019089267",
-    "url": "https://ridibooks.com/books/1019089267",
-    "title": "애프터 갓 1권",
-    "seriesTitle": "애프터 갓",
-    "authors": [
-      "에노 스미"
-    ],
-    "cover": "https://img.ridicdn.net/cover/1019124072/large#1",
-    "category": "판타지/SF / 만화 e북",
-    "rating": "all",
-    "rank": 54,
-    "rankList": "comic:monthly",
-    "releasedAt": "2024-02-28T15:00:00.000Z",
-    "updatedAt": "2026-10-07T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 3600,
-      "regular": 4000,
-      "discountRate": 10,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 36000,
-        "regular": 40000,
-        "count": 10
-      },
-      "rentalTotal": null
-    },
-    "promo": null,
-    "titleKey": "애프터갓"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
     "id": "297066248",
     "url": "https://ridibooks.com/books/297066248",
     "title": "[코믹] 책벌레의 하극상 제4부 1권",
@@ -4135,7 +3956,7 @@
     "cover": "https://img.ridicdn.net/cover/297093198/large#1",
     "category": "판타지/SF / 만화 e북",
     "rating": "all",
-    "rank": 55,
+    "rank": 51,
     "rankList": "comic:monthly",
     "releasedAt": "2024-01-25T15:00:00.000Z",
     "updatedAt": "2026-10-15T15:00:00.000Z",
@@ -4164,20 +3985,20 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "3010010103",
-    "url": "https://ridibooks.com/books/3010010103",
-    "title": "스튜디오 카바나 1권",
-    "seriesTitle": "스튜디오 카바나",
+    "id": "1019089267",
+    "url": "https://ridibooks.com/books/1019089267",
+    "title": "애프터 갓 1권",
+    "seriesTitle": "애프터 갓",
     "authors": [
-      "우마 아구리"
+      "에노 스미"
     ],
-    "cover": "https://img.ridicdn.net/cover/3010024314/large#1",
-    "category": "드라마 / 해외 순정 / 만화 e북",
+    "cover": "https://img.ridicdn.net/cover/1019124072/large#1",
+    "category": "판타지/SF / 만화 e북",
     "rating": "all",
-    "rank": 56,
+    "rank": 52,
     "rankList": "comic:monthly",
-    "releasedAt": "2022-05-29T15:00:00.000Z",
-    "updatedAt": "2026-09-14T15:00:00.000Z",
+    "releasedAt": "2024-02-28T15:00:00.000Z",
+    "updatedAt": "2026-10-07T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 3600,
@@ -4185,20 +4006,47 @@
       "discountRate": 10,
       "unit": "volume",
       "seriesTotal": {
-        "current": 25200,
-        "regular": 28000,
-        "count": 7
+        "current": 36000,
+        "regular": 40000,
+        "count": 10
       },
-      "rentalTotal": {
-        "current": 12000,
-        "regular": 12000
-      }
+      "rentalTotal": null
     },
-    "promo": {
-      "freeEpisodes": 1,
-      "text": null
+    "promo": null,
+    "titleKey": "애프터갓"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "845051913",
+    "url": "https://ridibooks.com/books/845051913",
+    "title": "캐릭캐릭 체인지! Jewel Joker (주얼 조커) 1권",
+    "seriesTitle": "캐릭캐릭 체인지! Jewel Joker (주얼 조커)",
+    "authors": [
+      "PEACH-PIT"
+    ],
+    "cover": "https://img.ridicdn.net/cover/845058299/large#1",
+    "category": "해외 순정 / 드라마 / 만화 e북",
+    "rating": "all",
+    "rank": 53,
+    "rankList": "comic:monthly",
+    "releasedAt": "2025-09-30T15:00:00.000Z",
+    "updatedAt": "2026-10-12T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 3150,
+      "regular": 3500,
+      "discountRate": 10,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 12600,
+        "regular": 14000,
+        "count": 4
+      },
+      "rentalTotal": null
     },
-    "titleKey": "스튜디오카바나"
+    "promo": null,
+    "titleKey": "캐릭캐릭체인지jeweljoker주얼조커"
   },
   {
     "source": "ridi",
@@ -4213,7 +4061,7 @@
     "cover": "https://img.ridicdn.net/cover/297092834/large#1",
     "category": "해외 순정 / 만화 e북",
     "rating": "all",
-    "rank": 57,
+    "rank": 54,
     "rankList": "comic:monthly",
     "releasedAt": "2024-02-01T15:00:00.000Z",
     "updatedAt": "2026-09-30T15:00:00.000Z",
@@ -4242,6 +4090,72 @@
   {
     "source": "ridi",
     "region": "KR",
+    "id": "505107545",
+    "url": "https://ridibooks.com/books/505107545",
+    "title": "디그 잇 1권",
+    "seriesTitle": "디그 잇",
+    "authors": [
+      "요시다마루"
+    ],
+    "cover": "https://img.ridicdn.net/cover/505111151/large#1",
+    "category": "스포츠 / 만화 e북",
+    "rating": "all",
+    "rank": 55,
+    "rankList": "comic:monthly",
+    "releasedAt": "2026-07-02T15:00:00.000Z",
+    "updatedAt": "2026-10-07T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 4950,
+      "regular": 5500,
+      "discountRate": 10,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 14850,
+        "regular": 16500,
+        "count": 3
+      },
+      "rentalTotal": null
+    },
+    "promo": null,
+    "titleKey": "디그잇"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "1019109784",
+    "url": "https://ridibooks.com/books/1019109784",
+    "title": "찍히지 않습니다 1권",
+    "seriesTitle": "찍히지 않습니다",
+    "authors": [
+      "코노시마 루카"
+    ],
+    "cover": "https://img.ridicdn.net/cover/1019122510/large#1",
+    "category": "공포/추리 / 만화 e북",
+    "rating": "all",
+    "rank": 56,
+    "rankList": "comic:monthly",
+    "releasedAt": "2025-10-29T15:00:00.000Z",
+    "updatedAt": "2026-09-13T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 4500,
+      "regular": 4500,
+      "discountRate": 0,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 31500,
+        "regular": 31500,
+        "count": 7
+      },
+      "rentalTotal": null
+    },
+    "promo": null,
+    "titleKey": "찍히지않습니다"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
     "id": "840081835",
     "url": "https://ridibooks.com/books/840081835",
     "title": "죽을 예정인 모브 영애로 환생했습니다 -낯선 공작님과의 약혼은 예상외- @COMIC 1권",
@@ -4253,7 +4167,7 @@
     "cover": "https://img.ridicdn.net/cover/840081835/large#1",
     "category": "해외 순정 / 만화 e북",
     "rating": "all",
-    "rank": 58,
+    "rank": 57,
     "rankList": "comic:monthly",
     "releasedAt": "2026-10-05T15:00:00.000Z",
     "updatedAt": "2026-10-05T15:00:00.000Z",
@@ -4279,30 +4193,70 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "297011646",
-    "url": "https://ridibooks.com/books/297011646",
-    "title": "메이드 인 어비스 1권",
-    "seriesTitle": "메이드 인 어비스",
+    "id": "3010010103",
+    "url": "https://ridibooks.com/books/3010010103",
+    "title": "스튜디오 카바나 1권",
+    "seriesTitle": "스튜디오 카바나",
     "authors": [
-      "츠쿠시 아키히토"
+      "우마 아구리"
     ],
-    "cover": "https://img.ridicdn.net/cover/297092605/large#1",
-    "category": "판타지/SF / 만화 e북",
+    "cover": "https://img.ridicdn.net/cover/3010024314/large#1",
+    "category": "드라마 / 해외 순정 / 만화 e북",
     "rating": "all",
-    "rank": 59,
+    "rank": 58,
     "rankList": "comic:monthly",
-    "releasedAt": "2017-10-17T15:00:00.000Z",
-    "updatedAt": "2026-09-17T15:00:00.000Z",
+    "releasedAt": "2022-05-29T15:00:00.000Z",
+    "updatedAt": "2026-09-14T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 2700,
-      "regular": 3000,
+      "current": 3600,
+      "regular": 4000,
       "discountRate": 10,
       "unit": "volume",
       "seriesTotal": {
-        "current": 37800,
-        "regular": 42000,
-        "count": 14
+        "current": 25200,
+        "regular": 28000,
+        "count": 7
+      },
+      "rentalTotal": {
+        "current": 12000,
+        "regular": 12000
+      }
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "text": null
+    },
+    "titleKey": "스튜디오카바나"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "505027557",
+    "url": "https://ridibooks.com/books/505027557",
+    "title": "블루 록 1권",
+    "seriesTitle": "블루 록",
+    "authors": [
+      "노무라 유스케",
+      "카네시로 무네유키"
+    ],
+    "cover": "https://img.ridicdn.net/cover/505110918/large#1",
+    "category": "스포츠 / 드라마 / 만화 e북",
+    "rating": "all",
+    "rank": 59,
+    "rankList": "comic:monthly",
+    "releasedAt": "2021-02-17T15:00:00.000Z",
+    "updatedAt": "2026-09-27T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 3600,
+      "regular": 4000,
+      "discountRate": 10,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 129600,
+        "regular": 144000,
+        "count": 36
       },
       "rentalTotal": {
         "current": 0,
@@ -4313,39 +4267,41 @@
       "freeEpisodes": 1,
       "text": null
     },
-    "titleKey": "메이드인어비스"
+    "titleKey": "블루록"
   },
   {
     "source": "ridi",
     "region": "KR",
-    "id": "4633000005",
-    "url": "https://ridibooks.com/books/4633000005",
-    "title": "WIND BREAKER -윈브레- 1권",
-    "seriesTitle": "WIND BREAKER -윈브레-",
+    "id": "297092804",
+    "url": "https://ridibooks.com/books/297092804",
+    "title": "SCP가 뭔가요? 1권",
+    "seriesTitle": "SCP가 뭔가요?",
     "authors": [
-      "니이 사토루"
+      "미야마 타카",
+      "하치훈",
+      "나시"
     ],
-    "cover": "https://img.ridicdn.net/cover/4633000695/large#1",
-    "category": "액션 / 학원 / 만화 e북",
+    "cover": "https://img.ridicdn.net/cover/297092806/large#1",
+    "category": "드라마 / 공포/추리 / 만화 e북",
     "rating": "all",
     "rank": 60,
     "rankList": "comic:monthly",
-    "releasedAt": "2022-01-10T15:00:00.000Z",
-    "updatedAt": "2026-08-26T15:00:00.000Z",
+    "releasedAt": "2026-09-30T15:00:00.000Z",
+    "updatedAt": "2026-09-30T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 3500,
-      "regular": 3500,
-      "discountRate": 0,
+      "current": 3600,
+      "regular": 4000,
+      "discountRate": 10,
       "unit": "volume",
       "seriesTotal": {
-        "current": 87500,
-        "regular": 87500,
-        "count": 25
+        "current": 10800,
+        "regular": 12000,
+        "count": 3
       },
       "rentalTotal": null
     },
     "promo": null,
-    "titleKey": "windbreaker윈브레"
+    "titleKey": "scp가뭔가요"
   }
 ]
