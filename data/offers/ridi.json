@@ -2523,12 +2523,12 @@
     "updatedAt": "2026-10-01T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 3800,
+      "current": 3420,
       "regular": 3800,
-      "discountRate": 0,
+      "discountRate": 10,
       "unit": "volume",
       "seriesTotal": {
-        "current": 3800,
+        "current": 3420,
         "regular": 3800,
         "count": 1
       },
