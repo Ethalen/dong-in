@@ -45,9 +45,9 @@
         "updatedAt": "2026-02-04T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 112,
+          "current": 84,
           "regular": 112,
-          "discountRate": 0,
+          "discountRate": 25,
           "unit": "volume",
           "rental": 14,
           "isbn": "9786264367691",
@@ -85,9 +85,9 @@
         "updatedAt": "2026-03-27T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 105,
+          "current": 79,
           "regular": 105,
-          "discountRate": 0,
+          "discountRate": 25,
           "unit": "volume",
           "rental": 13,
           "isbn": "9786264452687",
@@ -144,9 +144,9 @@
         "updatedAt": "2026-02-19T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 80,
+          "current": 64,
           "regular": 80,
-          "discountRate": 0,
+          "discountRate": 20,
           "unit": "volume",
           "rental": 10,
           "isbn": null,
@@ -202,9 +202,9 @@
         "updatedAt": "2026-02-06T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 115,
+          "current": 86,
           "regular": 115,
-          "discountRate": 0,
+          "discountRate": 25,
           "unit": "volume",
           "rental": 14,
           "isbn": "9786264450058",
@@ -260,9 +260,9 @@
         "updatedAt": "2026-02-19T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 80,
+          "current": 64,
           "regular": 80,
-          "discountRate": 0,
+          "discountRate": 20,
           "unit": "volume",
           "rental": 10,
           "isbn": null,
@@ -285,6 +285,66 @@
           "discountRate": 0,
           "unit": "volume",
           "volume": 22
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "最弱魔物使開始了撿垃圾之旅",
+    "region": "TW",
+    "title": "最弱魔物使開始了撿垃圾之旅。@漫畫版",
+    "cover": "https://cover.myrenta.com/569161.jpg",
+    "authors": [
+      "蕗野冬",
+      "ほのぼのる500",
+      "なま"
+    ],
+    "category": "少年漫畫",
+    "releasedAt": "2023-02-23T00:00:00.000Z",
+    "updatedAt": "2026-08-12T00:00:00.000Z",
+    "sources": [
+      "bookwalker_tw",
+      "renta_tw"
+    ],
+    "multiStore": true,
+    "bestRank": 19,
+    "offers": [
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/219311",
+        "title": "最弱魔物使開始了撿垃圾之旅。@漫畫版",
+        "rank": 19,
+        "rankList": "week",
+        "releasedAt": "2023-02-23T00:00:00.000Z",
+        "updatedAt": "2026-08-12T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 98,
+          "regular": 98,
+          "discountRate": 0,
+          "unit": "volume",
+          "volume": 7
+        },
+        "promo": null
+      },
+      {
+        "source": "bookwalker_tw",
+        "url": "https://www.bookwalker.com.tw/product/285524",
+        "title": "最弱魔物使開始了撿垃圾之旅。@漫畫版(06)",
+        "rank": 99,
+        "rankList": "rank",
+        "releasedAt": "2026-03-04T00:00:00.000Z",
+        "updatedAt": "2026-03-04T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 74,
+          "regular": 98,
+          "discountRate": 24,
+          "unit": "volume",
+          "rental": 12,
+          "isbn": "9786264490719",
+          "volume": 7
         },
         "promo": null
       }
@@ -318,9 +378,9 @@
         "updatedAt": "2026-02-04T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 100,
+          "current": 75,
           "regular": 100,
-          "discountRate": 0,
+          "discountRate": 25,
           "unit": "volume",
           "rental": 13,
           "isbn": "9786264308878",
@@ -349,118 +409,58 @@
     ]
   },
   {
-    "key": "最弱魔物使開始了撿垃圾之旅",
+    "key": "我在意的對象並不是男人",
     "region": "TW",
-    "title": "最弱魔物使開始了撿垃圾之旅。@漫畫版",
-    "cover": "https://cover.myrenta.com/569161.jpg",
+    "title": "我在意的對象並不是男人",
+    "cover": "https://cover.myrenta.com/733491.jpg",
     "authors": [
-      "蕗野冬",
-      "ほのぼのる500",
-      "なま"
+      "新井すみこ"
     ],
-    "category": "少年漫畫",
-    "releasedAt": "2023-02-23T00:00:00.000Z",
-    "updatedAt": "2026-08-12T00:00:00.000Z",
+    "category": "百合漫畫",
+    "releasedAt": "2024-02-25T00:00:00.000Z",
+    "updatedAt": "2026-02-28T00:00:00.000Z",
     "sources": [
       "bookwalker_tw",
       "renta_tw"
     ],
     "multiStore": true,
-    "bestRank": 22,
+    "bestRank": 23,
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/219311",
-        "title": "最弱魔物使開始了撿垃圾之旅。@漫畫版",
-        "rank": 22,
+        "url": "https://tw.myrenta.com/item/277691",
+        "title": "我在意的對象並不是男人",
+        "rank": 23,
         "rankList": "week",
-        "releasedAt": "2023-02-23T00:00:00.000Z",
-        "updatedAt": "2026-08-12T00:00:00.000Z",
+        "releasedAt": "2024-02-25T00:00:00.000Z",
+        "updatedAt": "2026-02-28T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 98,
-          "regular": 98,
+          "current": 210,
+          "regular": 210,
           "discountRate": 0,
           "unit": "volume",
-          "volume": 7
+          "volume": 3
         },
         "promo": null
       },
       {
         "source": "bookwalker_tw",
-        "url": "https://www.bookwalker.com.tw/product/285524",
-        "title": "最弱魔物使開始了撿垃圾之旅。@漫畫版(06)",
-        "rank": 99,
+        "url": "https://www.bookwalker.com.tw/product/279721",
+        "title": "我在意的對象並不是男人 (3)",
+        "rank": 94,
         "rankList": "rank",
-        "releasedAt": "2026-03-04T00:00:00.000Z",
-        "updatedAt": "2026-03-04T00:00:00.000Z",
+        "releasedAt": "2026-02-06T00:00:00.000Z",
+        "updatedAt": "2026-02-06T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 98,
-          "regular": 98,
-          "discountRate": 0,
+          "current": 158,
+          "regular": 210,
+          "discountRate": 25,
           "unit": "volume",
-          "rental": 12,
-          "isbn": "9786264490719",
-          "volume": 7
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "皎潔深宵之月",
-    "region": "TW",
-    "title": "皎潔深宵之月",
-    "cover": "https://cover.myrenta.com/503831.jpg",
-    "authors": [
-      "山森三香"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2022-04-14T00:00:00.000Z",
-    "updatedAt": "2026-09-17T00:00:00.000Z",
-    "sources": [
-      "bookwalker_tw",
-      "renta_tw"
-    ],
-    "multiStore": true,
-    "bestRank": 24,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/197051",
-        "title": "皎潔深宵之月",
-        "rank": 24,
-        "rankList": "month",
-        "releasedAt": "2022-04-14T00:00:00.000Z",
-        "updatedAt": "2026-09-17T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 80,
-          "regular": 80,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 10
-        },
-        "promo": null
-      },
-      {
-        "source": "bookwalker_tw",
-        "url": "https://www.bookwalker.com.tw/product/285571",
-        "title": "皎潔深宵之月 (9)",
-        "rank": 75,
-        "rankList": "rank",
-        "releasedAt": "2026-03-05T00:00:00.000Z",
-        "updatedAt": "2026-03-05T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 80,
-          "regular": 80,
-          "discountRate": 0,
-          "unit": "volume",
-          "rental": 10,
-          "isbn": null,
-          "volume": 10
+          "rental": 26,
+          "isbn": "9786264359948",
+          "volume": 3
         },
         "promo": null
       }
@@ -494,9 +494,9 @@
         "updatedAt": "2026-01-23T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 105,
+          "current": 79,
           "regular": 105,
-          "discountRate": 0,
+          "discountRate": 25,
           "unit": "volume",
           "rental": 13,
           "isbn": "9786264359993",
@@ -552,9 +552,9 @@
         "updatedAt": "2026-02-06T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 100,
+          "current": 75,
           "regular": 100,
-          "discountRate": 0,
+          "discountRate": 25,
           "unit": "volume",
           "rental": 13,
           "isbn": "9786264450003",
@@ -612,9 +612,9 @@
         "updatedAt": "2026-03-09T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 98,
+          "current": 74,
           "regular": 98,
-          "discountRate": 0,
+          "discountRate": 24,
           "unit": "volume",
           "rental": 12,
           "isbn": "9786264490573",
@@ -670,9 +670,9 @@
         "updatedAt": "2026-02-19T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 80,
+          "current": 64,
           "regular": 80,
-          "discountRate": 0,
+          "discountRate": 20,
           "unit": "volume",
           "rental": 10,
           "isbn": null,
@@ -730,9 +730,9 @@
         "updatedAt": "2025-11-19T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 98,
+          "current": 74,
           "regular": 98,
-          "discountRate": 0,
+          "discountRate": 24,
           "unit": "volume",
           "rental": 12,
           "isbn": "9786264364645",
@@ -788,9 +788,9 @@
         "updatedAt": "2026-09-17T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 80,
+          "current": 64,
           "regular": 80,
-          "discountRate": 0,
+          "discountRate": 20,
           "unit": "volume",
           "rental": 10,
           "isbn": null,
@@ -846,9 +846,9 @@
         "updatedAt": "2026-02-10T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 105,
+          "current": 79,
           "regular": 105,
-          "discountRate": 0,
+          "discountRate": 25,
           "unit": "volume",
           "rental": 13,
           "isbn": "9786264347396",
@@ -904,9 +904,9 @@
         "updatedAt": "2026-02-02T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 98,
+          "current": 74,
           "regular": 98,
-          "discountRate": 0,
+          "discountRate": 24,
           "unit": "volume",
           "rental": 12,
           "isbn": "9786264369275",
@@ -962,9 +962,9 @@
         "updatedAt": "2026-03-04T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 105,
+          "current": 79,
           "regular": 105,
-          "discountRate": 0,
+          "discountRate": 25,
           "unit": "volume",
           "rental": 13,
           "isbn": "9786264530781",
@@ -1026,9 +1026,9 @@
         "updatedAt": "2026-03-05T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 105,
+          "current": 84,
           "regular": 105,
-          "discountRate": 0,
+          "discountRate": 20,
           "unit": "volume",
           "rental": 13,
           "isbn": null,
@@ -1084,9 +1084,9 @@
         "updatedAt": "2026-03-05T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 105,
+          "current": 84,
           "regular": 105,
-          "discountRate": 0,
+          "discountRate": 20,
           "unit": "volume",
           "rental": 13,
           "isbn": null,
@@ -1142,9 +1142,9 @@
         "updatedAt": "2026-03-19T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 80,
+          "current": 64,
           "regular": 80,
-          "discountRate": 0,
+          "discountRate": 20,
           "unit": "volume",
           "rental": 10,
           "isbn": null,
@@ -1200,9 +1200,9 @@
         "updatedAt": "2026-02-19T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 80,
+          "current": 64,
           "regular": 80,
-          "discountRate": 0,
+          "discountRate": 20,
           "unit": "volume",
           "rental": 10,
           "isbn": null,
@@ -1225,6 +1225,64 @@
           "discountRate": 0,
           "unit": "volume",
           "volume": 21
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "皎潔深宵之月",
+    "region": "TW",
+    "title": "皎潔深宵之月",
+    "cover": "https://taiwan-image.bookwalker.com.tw/product/285571/285571_1.jpg",
+    "authors": [
+      "山森三香"
+    ],
+    "category": "漫畫",
+    "releasedAt": "2022-04-14T00:00:00.000Z",
+    "updatedAt": "2026-09-17T00:00:00.000Z",
+    "sources": [
+      "bookwalker_tw",
+      "renta_tw"
+    ],
+    "multiStore": true,
+    "bestRank": 75,
+    "offers": [
+      {
+        "source": "bookwalker_tw",
+        "url": "https://www.bookwalker.com.tw/product/285571",
+        "title": "皎潔深宵之月 (9)",
+        "rank": 75,
+        "rankList": "rank",
+        "releasedAt": "2026-03-05T00:00:00.000Z",
+        "updatedAt": "2026-03-05T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 64,
+          "regular": 80,
+          "discountRate": 20,
+          "unit": "volume",
+          "rental": 10,
+          "isbn": null,
+          "volume": 10
+        },
+        "promo": null
+      },
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/197051",
+        "title": "皎潔深宵之月",
+        "rank": null,
+        "rankList": "lookup",
+        "releasedAt": "2022-04-14T00:00:00.000Z",
+        "updatedAt": "2026-09-17T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 80,
+          "regular": 80,
+          "discountRate": 0,
+          "unit": "volume",
+          "volume": 10
         },
         "promo": null
       }
@@ -1259,9 +1317,9 @@
         "updatedAt": "2026-02-24T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 98,
+          "current": 86,
           "regular": 115,
-          "discountRate": 15,
+          "discountRate": 25,
           "unit": "volume",
           "rental": 14,
           "isbn": "9786264451307",
@@ -1317,9 +1375,9 @@
         "updatedAt": "2026-02-19T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 105,
+          "current": 84,
           "regular": 105,
-          "discountRate": 0,
+          "discountRate": 20,
           "unit": "volume",
           "rental": 13,
           "isbn": null,
@@ -1375,9 +1433,9 @@
         "updatedAt": "2026-05-20T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 350,
+          "current": 263,
           "regular": 350,
-          "discountRate": 0,
+          "discountRate": 25,
           "unit": "volume",
           "rental": 44,
           "isbn": null,
@@ -1400,64 +1458,6 @@
           "discountRate": 0,
           "unit": "episode",
           "volume": 2
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "我在意的對象並不是男人",
-    "region": "TW",
-    "title": "我在意的對象並不是男人",
-    "cover": "https://taiwan-image.bookwalker.com.tw/product/279721/279721_1.jpg",
-    "authors": [
-      "新井すみこ"
-    ],
-    "category": "漫畫",
-    "releasedAt": "2024-02-25T00:00:00.000Z",
-    "updatedAt": "2026-02-28T00:00:00.000Z",
-    "sources": [
-      "bookwalker_tw",
-      "renta_tw"
-    ],
-    "multiStore": true,
-    "bestRank": 94,
-    "offers": [
-      {
-        "source": "bookwalker_tw",
-        "url": "https://www.bookwalker.com.tw/product/279721",
-        "title": "我在意的對象並不是男人 (3)",
-        "rank": 94,
-        "rankList": "rank",
-        "releasedAt": "2026-02-06T00:00:00.000Z",
-        "updatedAt": "2026-02-06T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 210,
-          "regular": 210,
-          "discountRate": 0,
-          "unit": "volume",
-          "rental": 26,
-          "isbn": "9786264359948",
-          "volume": 3
-        },
-        "promo": null
-      },
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/277691",
-        "title": "我在意的對象並不是男人",
-        "rank": null,
-        "rankList": "lookup",
-        "releasedAt": "2024-02-25T00:00:00.000Z",
-        "updatedAt": "2026-02-28T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 210,
-          "regular": 210,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 3
         },
         "promo": null
       }
@@ -1493,9 +1493,9 @@
         "updatedAt": "2026-02-13T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 105,
+          "current": 79,
           "regular": 105,
-          "discountRate": 0,
+          "discountRate": 25,
           "unit": "volume",
           "rental": 13,
           "isbn": "9786264451390",
@@ -1551,9 +1551,9 @@
         "updatedAt": "2026-02-19T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 136,
+          "current": 128,
           "regular": 160,
-          "discountRate": 15,
+          "discountRate": 20,
           "unit": "volume",
           "rental": 20,
           "isbn": null,
@@ -1610,9 +1610,9 @@
         "updatedAt": "2026-01-07T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 98,
+          "current": 74,
           "regular": 98,
-          "discountRate": 0,
+          "discountRate": 24,
           "unit": "volume",
           "rental": 12,
           "isbn": "9786264371780",
@@ -1668,9 +1668,9 @@
         "updatedAt": "2026-02-05T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 80,
+          "current": 64,
           "regular": 80,
-          "discountRate": 0,
+          "discountRate": 20,
           "unit": "volume",
           "rental": 10,
           "isbn": null,
@@ -1726,9 +1726,9 @@
         "updatedAt": "2026-01-28T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 77,
+          "current": 74,
           "regular": 98,
-          "discountRate": 21,
+          "discountRate": 24,
           "unit": "volume",
           "rental": 12,
           "isbn": "9786264367622",
@@ -1831,43 +1831,6 @@
     ]
   },
   {
-    "key": "windbreaker防風少年",
-    "region": "TW",
-    "title": "WIND BREAKER—防風少年—",
-    "cover": "https://cover.myrenta.com/530121.jpg",
-    "authors": [
-      "にいさとる"
-    ],
-    "category": "青年漫畫",
-    "releasedAt": "2022-08-08T00:00:00.000Z",
-    "updatedAt": "2026-07-24T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 3,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/207191",
-        "title": "WIND BREAKER—防風少年—",
-        "rank": 3,
-        "rankList": "week",
-        "releasedAt": "2022-08-08T00:00:00.000Z",
-        "updatedAt": "2026-07-24T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 98,
-          "regular": 98,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 23
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
     "key": "我獨自升級",
     "region": "TW",
     "title": "我獨自升級  漫畫版",
@@ -1942,6 +1905,43 @@
     ]
   },
   {
+    "key": "從不走運開始的溺愛人生被安排好的戀愛對象是高規格社長",
+    "region": "TW",
+    "title": "從不走運開始的溺愛人生～被安排好的戀愛對象是高規格社長～",
+    "cover": "https://cover.myrenta.com/823751.jpg",
+    "authors": [
+      "shiji"
+    ],
+    "category": "少女漫畫",
+    "releasedAt": "2024-06-08T00:00:00.000Z",
+    "updatedAt": "2026-10-12T00:00:00.000Z",
+    "sources": [
+      "renta_tw"
+    ],
+    "multiStore": false,
+    "bestRank": 5,
+    "offers": [
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/340681",
+        "title": "從不走運開始的溺愛人生～被安排好的戀愛對象是高規格社長～",
+        "rank": 5,
+        "rankList": "month",
+        "releasedAt": "2024-06-08T00:00:00.000Z",
+        "updatedAt": "2026-10-12T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 39,
+          "regular": 39,
+          "discountRate": 0,
+          "unit": "episode",
+          "volume": 26
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
     "key": "要想談戀愛還早了100年",
     "region": "TW",
     "title": "要想談戀愛還早了100年",
@@ -1956,13 +1956,13 @@
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 5,
+    "bestRank": 6,
     "offers": [
       {
         "source": "renta_tw",
         "url": "https://tw.myrenta.com/item/613091",
         "title": "要想談戀愛還早了100年",
-        "rank": 5,
+        "rank": 6,
         "rankList": "month",
         "releasedAt": "2025-04-29T00:00:00.000Z",
         "updatedAt": "2026-07-22T00:00:00.000Z",
@@ -1979,16 +1979,17 @@
     ]
   },
   {
-    "key": "從不走運開始的溺愛人生被安排好的戀愛對象是高規格社長",
+    "key": "藥師少女的獨語",
     "region": "TW",
-    "title": "從不走運開始的溺愛人生～被安排好的戀愛對象是高規格社長～",
-    "cover": "https://cover.myrenta.com/823751.jpg",
+    "title": "藥師少女的獨語",
+    "cover": "https://cover.myrenta.com/1702001.jpg",
     "authors": [
-      "shiji"
+      "日向夏",
+      "ねこクラゲ"
     ],
-    "category": "少女漫畫",
-    "releasedAt": "2024-06-08T00:00:00.000Z",
-    "updatedAt": "2026-10-12T00:00:00.000Z",
+    "category": "少年漫畫",
+    "releasedAt": "2026-06-18T00:00:00.000Z",
+    "updatedAt": "2026-08-06T00:00:00.000Z",
     "sources": [
       "renta_tw"
     ],
@@ -1997,19 +1998,19 @@
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/340681",
-        "title": "從不走運開始的溺愛人生～被安排好的戀愛對象是高規格社長～",
+        "url": "https://tw.myrenta.com/item/886441",
+        "title": "藥師少女的獨語",
         "rank": 6,
-        "rankList": "month",
-        "releasedAt": "2024-06-08T00:00:00.000Z",
-        "updatedAt": "2026-10-12T00:00:00.000Z",
+        "rankList": "week",
+        "releasedAt": "2026-06-18T00:00:00.000Z",
+        "updatedAt": "2026-08-06T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 39,
-          "regular": 39,
+          "current": 105,
+          "regular": 105,
           "discountRate": 0,
-          "unit": "episode",
-          "volume": 26
+          "unit": "volume",
+          "volume": 16
         },
         "promo": null
       }
@@ -2053,43 +2054,6 @@
     ]
   },
   {
-    "key": "skipbeat華麗的挑戰",
-    "region": "TW",
-    "title": "SKIP‧BEAT！─華麗的挑戰─",
-    "cover": "https://cover.myrenta.com/205511.jpg",
-    "authors": [
-      "仲村佳樹"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2019-07-11T00:00:00.000Z",
-    "updatedAt": "2026-07-16T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 8,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/114711",
-        "title": "SKIP‧BEAT！─華麗的挑戰─",
-        "rank": 8,
-        "rankList": "month",
-        "releasedAt": "2019-07-11T00:00:00.000Z",
-        "updatedAt": "2026-07-16T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 80,
-          "regular": 80,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 52
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
     "key": "被低體溫男子纏上了",
     "region": "TW",
     "title": "被低體溫男子纏上了。",
@@ -2104,13 +2068,13 @@
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 9,
+    "bestRank": 8,
     "offers": [
       {
         "source": "renta_tw",
         "url": "https://tw.myrenta.com/item/262421",
         "title": "被低體溫男子纏上了。",
-        "rank": 9,
+        "rank": 8,
         "rankList": "month",
         "releasedAt": "2023-12-07T00:00:00.000Z",
         "updatedAt": "2026-10-01T00:00:00.000Z",
@@ -2127,16 +2091,53 @@
     ]
   },
   {
-    "key": "煙與蜜",
+    "key": "skipbeat華麗的挑戰",
     "region": "TW",
-    "title": "煙與蜜",
-    "cover": "https://cover.myrenta.com/439091.jpg",
+    "title": "SKIP‧BEAT！─華麗的挑戰─",
+    "cover": "https://cover.myrenta.com/205511.jpg",
     "authors": [
-      "長蔵ヒロコ"
+      "仲村佳樹"
     ],
     "category": "少女漫畫",
-    "releasedAt": "2021-05-03T00:00:00.000Z",
-    "updatedAt": "2026-04-16T00:00:00.000Z",
+    "releasedAt": "2019-07-11T00:00:00.000Z",
+    "updatedAt": "2026-07-16T00:00:00.000Z",
+    "sources": [
+      "renta_tw"
+    ],
+    "multiStore": false,
+    "bestRank": 9,
+    "offers": [
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/114711",
+        "title": "SKIP‧BEAT！─華麗的挑戰─",
+        "rank": 9,
+        "rankList": "month",
+        "releasedAt": "2019-07-11T00:00:00.000Z",
+        "updatedAt": "2026-07-16T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 80,
+          "regular": 80,
+          "discountRate": 0,
+          "unit": "volume",
+          "volume": 52
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "影宅電子全彩版",
+    "region": "TW",
+    "title": "影宅 電子全彩版",
+    "cover": "https://cover.myrenta.com/437771.jpg",
+    "authors": [
+      "ソウマトウ"
+    ],
+    "category": "少年漫畫",
+    "releasedAt": "2021-04-26T00:00:00.000Z",
+    "updatedAt": "2026-06-10T00:00:00.000Z",
     "sources": [
       "renta_tw"
     ],
@@ -2145,168 +2146,19 @@
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/171911",
-        "title": "煙與蜜",
+        "url": "https://tw.myrenta.com/item/171581",
+        "title": "影宅 電子全彩版",
         "rank": 10,
-        "rankList": "week",
-        "releasedAt": "2021-05-03T00:00:00.000Z",
-        "updatedAt": "2026-04-16T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 105,
-          "regular": 105,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 6
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "我們的愛情不正常",
-    "region": "TW",
-    "title": "我們的愛情不正常",
-    "cover": "https://cover.myrenta.com/296071.jpg",
-    "authors": [
-      "安藤夏美"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2019-11-29T00:00:00.000Z",
-    "updatedAt": "2026-10-14T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 11,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/131141",
-        "title": "我們的愛情不正常",
-        "rank": 11,
         "rankList": "month",
-        "releasedAt": "2019-11-29T00:00:00.000Z",
-        "updatedAt": "2026-10-14T00:00:00.000Z",
+        "releasedAt": "2021-04-26T00:00:00.000Z",
+        "updatedAt": "2026-06-10T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 100,
-          "regular": 100,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 12
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "指尖相觸戀戀不捨",
-    "region": "TW",
-    "title": "指尖相觸戀戀不捨",
-    "cover": "https://cover.myrenta.com/1529801.jpg",
-    "authors": [
-      "森下suu"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2026-01-21T00:00:00.000Z",
-    "updatedAt": "2026-10-16T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 11,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/777591",
-        "title": "指尖相觸戀戀不捨",
-        "rank": 11,
-        "rankList": "week",
-        "releasedAt": "2026-01-21T00:00:00.000Z",
-        "updatedAt": "2026-10-16T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 126,
-          "regular": 126,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 7
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "黒妖的新娘直到人人厭惡的我獲得冷酷上尉的寵愛",
-    "region": "TW",
-    "title": "黒妖的新娘～直到人人厭惡的我獲得冷酷上尉的寵愛～",
-    "cover": "https://cover.myrenta.com/1254241.jpg",
-    "authors": [
-      "音中さわき",
-      "宮之みやこ"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2025-05-25T00:00:00.000Z",
-    "updatedAt": "2026-08-31T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 12,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/625621",
-        "title": "黒妖的新娘～直到人人厭惡的我獲得冷酷上尉的寵愛～",
-        "rank": 12,
-        "rankList": "month",
-        "releasedAt": "2025-05-25T00:00:00.000Z",
-        "updatedAt": "2026-08-31T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 39,
-          "regular": 39,
+          "current": 40,
+          "regular": 40,
           "discountRate": 0,
           "unit": "episode",
-          "volume": 16
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "說謊的葉月抑制不了對我的溺愛",
-    "region": "TW",
-    "title": "說謊的葉月抑制不了對我的溺愛",
-    "cover": "https://cover.myrenta.com/1376021.jpg",
-    "authors": [
-      "Matsumoto Uruko"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2025-08-18T00:00:00.000Z",
-    "updatedAt": "2026-10-19T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 13,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/680021",
-        "title": "說謊的葉月抑制不了對我的溺愛",
-        "rank": 13,
-        "rankList": "month",
-        "releasedAt": "2025-08-18T00:00:00.000Z",
-        "updatedAt": "2026-10-19T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 39,
-          "regular": 39,
-          "discountRate": 0,
-          "unit": "episode",
-          "volume": 18
+          "volume": 102
         },
         "promo": null
       }
@@ -2328,13 +2180,13 @@
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 13,
+    "bestRank": 11,
     "offers": [
       {
         "source": "renta_tw",
         "url": "https://tw.myrenta.com/item/614471",
         "title": "勇者鬥惡龍 達伊的大冒險 勇者阿邦與獄炎魔王",
-        "rank": 13,
+        "rank": 11,
         "rankList": "week",
         "releasedAt": "2025-05-20T00:00:00.000Z",
         "updatedAt": "2026-07-08T00:00:00.000Z",
@@ -2345,6 +2197,81 @@
           "discountRate": 0,
           "unit": "volume",
           "volume": 13
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "我們的愛情不正常",
+    "region": "TW",
+    "title": "我們的愛情不正常",
+    "cover": "https://cover.myrenta.com/296071.jpg",
+    "authors": [
+      "安藤夏美"
+    ],
+    "category": "少女漫畫",
+    "releasedAt": "2019-11-29T00:00:00.000Z",
+    "updatedAt": "2026-10-14T00:00:00.000Z",
+    "sources": [
+      "renta_tw"
+    ],
+    "multiStore": false,
+    "bestRank": 12,
+    "offers": [
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/131141",
+        "title": "我們的愛情不正常",
+        "rank": 12,
+        "rankList": "month",
+        "releasedAt": "2019-11-29T00:00:00.000Z",
+        "updatedAt": "2026-10-14T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 100,
+          "regular": 100,
+          "discountRate": 0,
+          "unit": "volume",
+          "volume": 12
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "黒妖的新娘直到人人厭惡的我獲得冷酷上尉的寵愛",
+    "region": "TW",
+    "title": "黒妖的新娘～直到人人厭惡的我獲得冷酷上尉的寵愛～",
+    "cover": "https://cover.myrenta.com/1254241.jpg",
+    "authors": [
+      "音中さわき",
+      "宮之みやこ"
+    ],
+    "category": "少女漫畫",
+    "releasedAt": "2025-05-25T00:00:00.000Z",
+    "updatedAt": "2026-08-31T00:00:00.000Z",
+    "sources": [
+      "renta_tw"
+    ],
+    "multiStore": false,
+    "bestRank": 13,
+    "offers": [
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/625621",
+        "title": "黒妖的新娘～直到人人厭惡的我獲得冷酷上尉的寵愛～",
+        "rank": 13,
+        "rankList": "month",
+        "releasedAt": "2025-05-25T00:00:00.000Z",
+        "updatedAt": "2026-08-31T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 39,
+          "regular": 39,
+          "discountRate": 0,
+          "unit": "episode",
+          "volume": 16
         },
         "promo": null
       }
@@ -2377,9 +2304,9 @@
         "updatedAt": "2026-02-11T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 70,
+          "current": 53,
           "regular": 70,
-          "discountRate": 0,
+          "discountRate": 24,
           "unit": "volume",
           "rental": 9,
           "isbn": null,
@@ -2390,16 +2317,16 @@
     ]
   },
   {
-    "key": "哆啦a夢",
+    "key": "說謊的葉月抑制不了對我的溺愛",
     "region": "TW",
-    "title": "哆啦A夢",
-    "cover": "https://cover.myrenta.com/1795601.jpg",
+    "title": "說謊的葉月抑制不了對我的溺愛",
+    "cover": "https://cover.myrenta.com/1376021.jpg",
     "authors": [
-      "藤子・F・不二雄"
+      "Matsumoto Uruko"
     ],
-    "category": "少年漫畫",
-    "releasedAt": "2026-09-03T00:00:00.000Z",
-    "updatedAt": "2026-09-03T00:00:00.000Z",
+    "category": "少女漫畫",
+    "releasedAt": "2025-08-18T00:00:00.000Z",
+    "updatedAt": "2026-10-19T00:00:00.000Z",
     "sources": [
       "renta_tw"
     ],
@@ -2408,19 +2335,19 @@
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/953431",
-        "title": "哆啦A夢",
+        "url": "https://tw.myrenta.com/item/680021",
+        "title": "說謊的葉月抑制不了對我的溺愛",
         "rank": 14,
         "rankList": "month",
-        "releasedAt": "2026-09-03T00:00:00.000Z",
-        "updatedAt": "2026-09-03T00:00:00.000Z",
+        "releasedAt": "2025-08-18T00:00:00.000Z",
+        "updatedAt": "2026-10-19T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 98,
-          "regular": 98,
+          "current": 39,
+          "regular": 39,
           "discountRate": 0,
-          "unit": "volume",
-          "volume": 45
+          "unit": "episode",
+          "volume": 18
         },
         "promo": null
       }
@@ -2464,37 +2391,37 @@
     ]
   },
   {
-    "key": "約定的灰姑娘",
+    "key": "學生會也有洞",
     "region": "TW",
-    "title": "約定的灰姑娘",
-    "cover": "https://cover.myrenta.com/1529961.jpg",
+    "title": "學生會也有洞！",
+    "cover": "https://cover.myrenta.com/614811.jpg",
     "authors": [
-      "橘オレコ"
+      "無知麻呂"
     ],
-    "category": "少女漫畫",
-    "releasedAt": "2026-01-28T00:00:00.000Z",
-    "updatedAt": "2026-10-01T00:00:00.000Z",
+    "category": "少年漫畫",
+    "releasedAt": "2023-08-10T00:00:00.000Z",
+    "updatedAt": "2026-09-17T00:00:00.000Z",
     "sources": [
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 16,
+    "bestRank": 15,
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/777631",
-        "title": "約定的灰姑娘",
-        "rank": 16,
+        "url": "https://tw.myrenta.com/item/230991",
+        "title": "學生會也有洞！",
+        "rank": 15,
         "rankList": "week",
-        "releasedAt": "2026-01-28T00:00:00.000Z",
-        "updatedAt": "2026-10-01T00:00:00.000Z",
+        "releasedAt": "2023-08-10T00:00:00.000Z",
+        "updatedAt": "2026-09-17T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 98,
-          "regular": 98,
+          "current": 105,
+          "regular": 105,
           "discountRate": 0,
           "unit": "volume",
-          "volume": 10
+          "volume": 11
         },
         "promo": null
       }
@@ -2538,43 +2465,6 @@
     ]
   },
   {
-    "key": "學生會也有洞",
-    "region": "TW",
-    "title": "學生會也有洞！",
-    "cover": "https://cover.myrenta.com/614811.jpg",
-    "authors": [
-      "無知麻呂"
-    ],
-    "category": "少年漫畫",
-    "releasedAt": "2023-08-10T00:00:00.000Z",
-    "updatedAt": "2026-09-17T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 17,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/230991",
-        "title": "學生會也有洞！",
-        "rank": 17,
-        "rankList": "week",
-        "releasedAt": "2023-08-10T00:00:00.000Z",
-        "updatedAt": "2026-09-17T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 105,
-          "regular": 105,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 11
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
     "key": "與土共舞的艾蕾娜公主",
     "region": "TW",
     "title": "與土共舞的艾蕾娜公主",
@@ -2589,13 +2479,13 @@
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 18,
+    "bestRank": 17,
     "offers": [
       {
         "source": "renta_tw",
         "url": "https://tw.myrenta.com/item/502431",
         "title": "與土共舞的艾蕾娜公主",
-        "rank": 18,
+        "rank": 17,
         "rankList": "week",
         "releasedAt": "2025-01-02T00:00:00.000Z",
         "updatedAt": "2026-10-14T00:00:00.000Z",
@@ -2606,43 +2496,6 @@
           "discountRate": 0,
           "unit": "volume",
           "volume": 4
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "胖子與愛情以及過錯",
-    "region": "TW",
-    "title": "胖子與愛情以及過錯！",
-    "cover": "https://cover.myrenta.com/346781.jpg",
-    "authors": [
-      "mamakari"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2020-05-04T00:00:00.000Z",
-    "updatedAt": "2026-10-22T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 19,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/142941",
-        "title": "胖子與愛情以及過錯！",
-        "rank": 19,
-        "rankList": "month",
-        "releasedAt": "2020-05-04T00:00:00.000Z",
-        "updatedAt": "2026-10-22T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 39,
-          "regular": 39,
-          "discountRate": 0,
-          "unit": "episode",
-          "volume": 79
         },
         "promo": null
       }
@@ -2664,13 +2517,13 @@
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 20,
+    "bestRank": 19,
     "offers": [
       {
         "source": "renta_tw",
         "url": "https://tw.myrenta.com/item/43412",
         "title": "初次見面你好，請跟我離婚",
-        "rank": 20,
+        "rank": 19,
         "rankList": "month",
         "releasedAt": "2022-08-22T00:00:00.000Z",
         "updatedAt": "2026-01-20T00:00:00.000Z",
@@ -2687,16 +2540,16 @@
     ]
   },
   {
-    "key": "戀愛吧假面天使",
+    "key": "胖子與愛情以及過錯",
     "region": "TW",
-    "title": "戀愛吧，假面天使！",
-    "cover": "https://cover.myrenta.com/964281.jpg",
+    "title": "胖子與愛情以及過錯！",
+    "cover": "https://cover.myrenta.com/346781.jpg",
     "authors": [
-      "卯月coco"
+      "mamakari"
     ],
     "category": "少女漫畫",
-    "releasedAt": "2024-10-10T00:00:00.000Z",
-    "updatedAt": "2026-09-17T00:00:00.000Z",
+    "releasedAt": "2020-05-04T00:00:00.000Z",
+    "updatedAt": "2026-10-22T00:00:00.000Z",
     "sources": [
       "renta_tw"
     ],
@@ -2705,19 +2558,56 @@
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/441571",
-        "title": "戀愛吧，假面天使！",
+        "url": "https://tw.myrenta.com/item/142941",
+        "title": "胖子與愛情以及過錯！",
         "rank": 20,
-        "rankList": "week",
-        "releasedAt": "2024-10-10T00:00:00.000Z",
-        "updatedAt": "2026-09-17T00:00:00.000Z",
+        "rankList": "month",
+        "releasedAt": "2020-05-04T00:00:00.000Z",
+        "updatedAt": "2026-10-22T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 80,
-          "regular": 80,
+          "current": 39,
+          "regular": 39,
           "discountRate": 0,
-          "unit": "volume",
-          "volume": 6
+          "unit": "episode",
+          "volume": 79
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "反派千金甜點師的有效主推攻略",
+    "region": "TW",
+    "title": "反派千金甜點師的有效主推攻略 （單話）",
+    "cover": "https://cover.myrenta.com/1127681.jpg",
+    "authors": [
+      "桐原いづみ"
+    ],
+    "category": "少女漫畫",
+    "releasedAt": "2025-03-03T00:00:00.000Z",
+    "updatedAt": "2026-09-20T00:00:00.000Z",
+    "sources": [
+      "renta_tw"
+    ],
+    "multiStore": false,
+    "bestRank": 20,
+    "offers": [
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/558871",
+        "title": "反派千金甜點師的有效主推攻略 （單話）",
+        "rank": 20,
+        "rankList": "week",
+        "releasedAt": "2025-03-03T00:00:00.000Z",
+        "updatedAt": "2026-09-20T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 20,
+          "regular": 20,
+          "discountRate": 0,
+          "unit": "episode",
+          "volume": 34
         },
         "promo": null
       }
@@ -2756,6 +2646,45 @@
           "discountRate": 0,
           "unit": "episode",
           "volume": 21
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "惡役千金的尊嚴轉生20次終於成為女主但這次也要貫徹惡役人設",
+    "region": "TW",
+    "title": "惡役千金的尊嚴 轉生20次終於成為女主，但這次也要貫徹惡役人設！",
+    "cover": "https://cover.myrenta.com/409062.jpg",
+    "authors": [
+      "ソラ子",
+      "幸路ことは",
+      "蓮乗寺メイ"
+    ],
+    "category": "少女漫畫",
+    "releasedAt": "2026-05-04T00:00:00.000Z",
+    "updatedAt": "2026-10-10T00:00:00.000Z",
+    "sources": [
+      "renta_tw"
+    ],
+    "multiStore": false,
+    "bestRank": 21,
+    "offers": [
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/56192",
+        "title": "惡役千金的尊嚴 轉生20次終於成為女主，但這次也要貫徹惡役人設！",
+        "rank": 21,
+        "rankList": "week",
+        "releasedAt": "2026-05-04T00:00:00.000Z",
+        "updatedAt": "2026-10-10T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 40,
+          "regular": 40,
+          "discountRate": 0,
+          "unit": "episode",
+          "volume": 11
         },
         "promo": null
       }
@@ -2836,53 +2765,16 @@
     ]
   },
   {
-    "key": "養蛾的日常",
+    "key": "約定的灰姑娘",
     "region": "TW",
-    "title": "養蛾的日常",
-    "cover": "https://cover.myrenta.com/1478081.jpg",
+    "title": "約定的灰姑娘",
+    "cover": "https://cover.myrenta.com/1529961.jpg",
     "authors": [
-      "大谷えいち"
-    ],
-    "category": "少年漫畫",
-    "releasedAt": "2025-12-04T00:00:00.000Z",
-    "updatedAt": "2026-10-14T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 23,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/740851",
-        "title": "養蛾的日常",
-        "rank": 23,
-        "rankList": "week",
-        "releasedAt": "2025-12-04T00:00:00.000Z",
-        "updatedAt": "2026-10-14T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 98,
-          "regular": 98,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 2
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "出嫁準備進行曲大正富二代的強勢求婚",
-    "region": "TW",
-    "title": "出嫁準備進行曲～大正富二代的強勢求婚～",
-    "cover": "https://cover.myrenta.com/225602.jpg",
-    "authors": [
-      "福嶋ユッカ"
+      "橘オレコ"
     ],
     "category": "少女漫畫",
-    "releasedAt": "2022-03-28T00:00:00.000Z",
-    "updatedAt": "2026-10-15T00:00:00.000Z",
+    "releasedAt": "2026-01-28T00:00:00.000Z",
+    "updatedAt": "2026-10-01T00:00:00.000Z",
     "sources": [
       "renta_tw"
     ],
@@ -2891,19 +2783,19 @@
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/41132",
-        "title": "出嫁準備進行曲～大正富二代的強勢求婚～",
+        "url": "https://tw.myrenta.com/item/777631",
+        "title": "約定的灰姑娘",
         "rank": 24,
-        "rankList": "week",
-        "releasedAt": "2022-03-28T00:00:00.000Z",
-        "updatedAt": "2026-10-15T00:00:00.000Z",
+        "rankList": "month",
+        "releasedAt": "2026-01-28T00:00:00.000Z",
+        "updatedAt": "2026-10-01T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 40,
-          "regular": 40,
+          "current": 98,
+          "regular": 98,
           "discountRate": 0,
-          "unit": "episode",
-          "volume": 29
+          "unit": "volume",
+          "volume": 10
         },
         "promo": null
       }
@@ -2936,9 +2828,9 @@
         "updatedAt": "2026-02-11T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 154,
+          "current": 116,
           "regular": 154,
-          "discountRate": 0,
+          "discountRate": 25,
           "unit": "volume",
           "rental": 19,
           "isbn": "9786264373272",
