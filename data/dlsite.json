@@ -2906,39 +2906,6 @@
   {
     "source": "dlsite",
     "region": "GLOBAL",
-    "id": "BJ02485203",
-    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ02485203.html",
-    "title": "フェイクファクトリップス break",
-    "seriesTitle": "フェイクファクトリップス",
-    "authors": [
-      "マリン・エンタテインメント"
-    ],
-    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02486000/BJ02485203_img_main.jpg",
-    "category": "SOU",
-    "rating": "all",
-    "rank": 89,
-    "rankList": "trend",
-    "releasedAt": "2026-04-22T15:00:00.000Z",
-    "updatedAt": "2026-04-22T15:00:00.000Z",
-    "price": {
-      "currency": "JPY",
-      "current": 5720,
-      "regular": 5720,
-      "discountRate": 0,
-      "unit": "work",
-      "local": {
-        "KRW": 48352,
-        "TWD": 1188,
-        "KRW_regular": 48352,
-        "TWD_regular": 1188
-      }
-    },
-    "promo": null,
-    "titleKey": "フェイクファクトリップス"
-  },
-  {
-    "source": "dlsite",
-    "region": "GLOBAL",
     "id": "BJ02470733",
     "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ02470733.html",
     "title": "【薄桜鬼 真改×となモグ】巡察終わりに～藤堂・永倉編～",
@@ -2949,7 +2916,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02471000/BJ02470733_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 90,
+    "rank": 89,
     "rankList": "trend",
     "releasedAt": "2026-05-26T15:00:00.000Z",
     "updatedAt": "2026-05-26T15:00:00.000Z",
@@ -2968,6 +2935,39 @@
     },
     "promo": null,
     "titleKey": "となモグ"
+  },
+  {
+    "source": "dlsite",
+    "region": "GLOBAL",
+    "id": "BJ02485203",
+    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ02485203.html",
+    "title": "フェイクファクトリップス break",
+    "seriesTitle": "フェイクファクトリップス",
+    "authors": [
+      "マリン・エンタテインメント"
+    ],
+    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02486000/BJ02485203_img_main.jpg",
+    "category": "SOU",
+    "rating": "all",
+    "rank": 90,
+    "rankList": "trend",
+    "releasedAt": "2026-04-22T15:00:00.000Z",
+    "updatedAt": "2026-04-22T15:00:00.000Z",
+    "price": {
+      "currency": "JPY",
+      "current": 5720,
+      "regular": 5720,
+      "discountRate": 0,
+      "unit": "work",
+      "local": {
+        "KRW": 48352,
+        "TWD": 1188,
+        "KRW_regular": 48352,
+        "TWD_regular": 1188
+      }
+    },
+    "promo": null,
+    "titleKey": "フェイクファクトリップス"
   },
   {
     "source": "dlsite",
