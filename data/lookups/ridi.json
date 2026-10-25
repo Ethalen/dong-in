@@ -2,43 +2,41 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "3000015590",
-    "url": "https://ridibooks.com/books/3000015590",
-    "title": "끊을 수 없는 나쁜 짓 [개정판] 1화",
-    "seriesTitle": "끊을 수 없는 나쁜 짓 [개정판]",
+    "id": "120089889",
+    "url": "https://ridibooks.com/books/120089889",
+    "title": "비상! 청춘기록부 1화",
+    "seriesTitle": "비상! 청춘기록부",
     "authors": [
-      "플랜비",
-      "쿠키문",
-      "안테"
+      "이삼호"
     ],
-    "cover": "https://img.ridicdn.net/cover/3000015590/large#1",
-    "category": "로맨스",
+    "cover": "https://img.ridicdn.net/cover/120089889/large#1",
+    "category": "BL 웹툰",
     "rating": "all",
     "rank": null,
     "rankList": "lookup",
-    "releasedAt": "2026-01-02T15:00:00.000Z",
-    "updatedAt": "2026-01-02T15:00:00.000Z",
+    "releasedAt": "2025-08-26T15:00:00.000Z",
+    "updatedAt": "2026-02-23T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 600,
-      "regular": 600,
+      "current": 400,
+      "regular": 400,
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 51000,
-        "regular": 51000,
-        "count": 85
+        "current": 20800,
+        "regular": 20800,
+        "count": 54
       },
       "rentalTotal": {
-        "current": 24900,
-        "regular": 24900
+        "current": 10200,
+        "regular": 10200
       }
     },
     "promo": {
-      "freeEpisodes": 2,
-      "waitFree": true
+      "freeEpisodes": 3,
+      "waitFree": false
     },
-    "titleKey": "끊을수없는나쁜짓"
+    "titleKey": "비상청춘기록부"
   },
   {
     "source": "ridi",
@@ -83,94 +81,22 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "777188629",
-    "url": "https://ridibooks.com/books/777188629",
-    "title": "노노코 양의 여자친구 군 1권",
-    "seriesTitle": "노노코 양의 여자친구 군",
+    "id": "3075003175",
+    "url": "https://ridibooks.com/books/3075003175",
+    "title": "이리 [개정판] 프롤로그",
+    "seriesTitle": "이리 [개정판]",
     "authors": [
-      "하치와카마루"
+      "재히몬",
+      "지은수",
+      "피숙혜"
     ],
-    "cover": "https://img.ridicdn.net/cover/777188629/large#1",
-    "category": "해외 순정 / 학원",
-    "rating": "all",
-    "rank": null,
-    "rankList": "lookup",
-    "releasedAt": "2026-08-18T15:00:00.000Z",
-    "updatedAt": "2026-08-18T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 3000,
-      "regular": 3000,
-      "discountRate": 0,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 6000,
-        "regular": 6000,
-        "count": 2
-      },
-      "rentalTotal": null
-    },
-    "promo": null,
-    "titleKey": "노노코양의여자친구군"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "2968010852",
-    "url": "https://ridibooks.com/books/2968010852",
-    "title": "나의 천사를 찾아서 1화",
-    "seriesTitle": "나의 천사를 찾아서",
-    "authors": [
-      "엠구M9"
-    ],
-    "cover": "https://img.ridicdn.net/cover/2968010852/large#1",
-    "category": "BL 웹툰",
-    "rating": "all",
-    "rank": null,
-    "rankList": "lookup",
-    "releasedAt": "2026-10-17T15:00:00.000Z",
-    "updatedAt": "2026-10-24T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 300,
-      "regular": 500,
-      "discountRate": 40,
-      "unit": "episode",
-      "seriesTotal": {
-        "current": 4700,
-        "regular": 7500,
-        "count": 15
-      },
-      "rentalTotal": {
-        "current": 3600,
-        "regular": 3600
-      }
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "waitFree": false
-    },
-    "titleKey": "나의천사를찾아서"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "1632013706",
-    "url": "https://ridibooks.com/books/1632013706",
-    "title": "베드 씬 [개정판] 1화",
-    "seriesTitle": "베드 씬 [개정판]",
-    "authors": [
-      "금담",
-      "흥남",
-      "임하얌"
-    ],
-    "cover": "https://img.ridicdn.net/cover/1632013706/large#1",
+    "cover": "https://img.ridicdn.net/cover/3075003175/large#1",
     "category": "로맨스",
     "rating": "all",
     "rank": null,
     "rankList": "lookup",
-    "releasedAt": "2026-09-08T15:00:00.000Z",
-    "updatedAt": "2026-09-08T15:00:00.000Z",
+    "releasedAt": "2026-04-10T15:00:00.000Z",
+    "updatedAt": "2026-04-10T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 500,
@@ -178,243 +104,20 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 31500,
-        "regular": 31500,
-        "count": 63
+        "current": 13500,
+        "regular": 13500,
+        "count": 27
       },
       "rentalTotal": {
-        "current": 18300,
-        "regular": 18300
+        "current": 7800,
+        "regular": 7800
       }
     },
     "promo": {
-      "freeEpisodes": 2,
-      "waitFree": true
-    },
-    "titleKey": "베드씬"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "2066009240",
-    "url": "https://ridibooks.com/books/2066009240",
-    "title": "안 건강한 연애와 건강한 연애의 창과 방패 같은 사랑 1권",
-    "seriesTitle": "안 건강한 연애와 건강한 연애의 창과 방패 같은 사랑",
-    "authors": [
-      "싱생송"
-    ],
-    "cover": "https://img.ridicdn.net/cover/2066009240/large#1",
-    "category": "국내 만화",
-    "rating": "all",
-    "rank": null,
-    "rankList": "lookup",
-    "releasedAt": "2026-09-08T15:00:00.000Z",
-    "updatedAt": "2026-09-08T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 8000,
-      "regular": 8000,
-      "discountRate": 0,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 16000,
-        "regular": 16000,
-        "count": 2
-      },
-      "rentalTotal": {
-        "current": 8000,
-        "regular": 8000
-      }
-    },
-    "promo": null,
-    "titleKey": "안건강한연애와건강한연애의창과방패같은사랑"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "6052003863",
-    "url": "https://ridibooks.com/books/6052003863",
-    "title": "거짓말로 시작하는 결혼 ~너와 달콤한 로맨스를 하고 싶어~ 1권",
-    "seriesTitle": "거짓말로 시작하는 결혼 ~너와 달콤한 로맨스를 하고 싶어~",
-    "authors": [
-      "호노미 카나",
-      "오사와 나나"
-    ],
-    "cover": "https://img.ridicdn.net/cover/6052003863/large#1",
-    "category": "드라마",
-    "rating": "all",
-    "rank": null,
-    "rankList": "lookup",
-    "releasedAt": "2026-10-18T15:00:00.000Z",
-    "updatedAt": "2026-10-22T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 3150,
-      "regular": 3500,
-      "discountRate": 10,
-      "unit": "volume",
-      "seriesTotal": {
-        "current": 6300,
-        "regular": 7000,
-        "count": 2
-      },
-      "rentalTotal": {
-        "current": 3240,
-        "regular": 3240
-      }
-    },
-    "promo": null,
-    "titleKey": "거짓말로시작하는결혼너와달콤한로맨스를하고싶어"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "4327006210",
-    "url": "https://ridibooks.com/books/4327006210",
-    "title": "오버타임[개정판] 1화",
-    "seriesTitle": "오버타임[개정판]",
-    "authors": [
-      "이매",
-      "설기",
-      "문정민"
-    ],
-    "cover": "https://img.ridicdn.net/cover/4327006210/large#1",
-    "category": "로맨스",
-    "rating": "all",
-    "rank": null,
-    "rankList": "lookup",
-    "releasedAt": "2025-04-07T15:00:00.000Z",
-    "updatedAt": "2026-01-08T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 500,
-      "regular": 500,
-      "discountRate": 0,
-      "unit": "episode",
-      "seriesTotal": {
-        "current": 23500,
-        "regular": 23500,
-        "count": 47
-      },
-      "rentalTotal": {
-        "current": 13200,
-        "regular": 13200
-      }
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "waitFree": true
-    },
-    "titleKey": "오버타임"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "840081412",
-    "url": "https://ridibooks.com/books/840081412",
-    "title": "「너는 이미 네 번 죽었다」며 얼음 황제가 나를 과보호한다",
-    "seriesTitle": "「너는 이미 네 번 죽었다」며 얼음 황제가 나를 과보호한다",
-    "authors": [
-      "히모리 유하라",
-      "오카다치 에마"
-    ],
-    "cover": "https://img.ridicdn.net/cover/840081412/large#1",
-    "category": "해외 순정",
-    "rating": "all",
-    "rank": null,
-    "rankList": "lookup",
-    "releasedAt": "2026-09-15T15:00:00.000Z",
-    "updatedAt": "2026-09-15T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 2000,
-      "regular": 2000,
-      "discountRate": 0,
-      "unit": "volume",
-      "seriesTotal": null,
-      "rentalTotal": null
-    },
-    "promo": null,
-    "titleKey": "너는이미네번죽었다며얼음황제가나를과보호한다"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "4379001771",
-    "url": "https://ridibooks.com/books/4379001771",
-    "title": "디옵터(Diopter)[개정판] 프롤로그",
-    "seriesTitle": "디옵터(Diopter)[개정판]",
-    "authors": [
-      "킴녕"
-    ],
-    "cover": "https://img.ridicdn.net/cover/4379001771/large#1",
-    "category": "BL 웹툰",
-    "rating": "all",
-    "rank": null,
-    "rankList": "lookup",
-    "releasedAt": "2026-06-19T15:00:00.000Z",
-    "updatedAt": "2026-06-29T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 0,
-      "regular": 0,
-      "discountRate": 0,
-      "unit": "episode",
-      "seriesTotal": {
-        "current": 13800,
-        "regular": 13800,
-        "count": 25
-      },
-      "rentalTotal": {
-        "current": 6600,
-        "regular": 6600
-      }
-    },
-    "promo": {
-      "freeEpisodes": 3,
+      "freeEpisodes": 1,
       "waitFree": false
     },
-    "titleKey": "디옵터diopter"
-  },
-  {
-    "source": "ridi",
-    "region": "KR",
-    "id": "3348002155",
-    "url": "https://ridibooks.com/books/3348002155",
-    "title": "알고 보니 찐 댕댕남 1화",
-    "seriesTitle": "알고 보니 찐 댕댕남",
-    "authors": [
-      "Armode Culture",
-      "crown"
-    ],
-    "cover": "https://img.ridicdn.net/cover/3348002155/large#1",
-    "category": "해외 순정",
-    "rating": "all",
-    "rank": null,
-    "rankList": "lookup",
-    "releasedAt": "2025-07-24T15:00:00.000Z",
-    "updatedAt": "2026-02-08T15:00:00.000Z",
-    "price": {
-      "currency": "KRW",
-      "current": 500,
-      "regular": 500,
-      "discountRate": 0,
-      "unit": "episode",
-      "seriesTotal": {
-        "current": 24500,
-        "regular": 24500,
-        "count": 49
-      },
-      "rentalTotal": {
-        "current": 9200,
-        "regular": 9200
-      }
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "waitFree": false
-    },
-    "titleKey": "알고보니찐댕댕남"
+    "titleKey": "이리"
   },
   {
     "source": "ridi",
@@ -454,6 +157,120 @@
       "waitFree": false
     },
     "titleKey": "결벽증동기의망상익애"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "777188629",
+    "url": "https://ridibooks.com/books/777188629",
+    "title": "노노코 양의 여자친구 군 1권",
+    "seriesTitle": "노노코 양의 여자친구 군",
+    "authors": [
+      "하치와카마루"
+    ],
+    "cover": "https://img.ridicdn.net/cover/777188629/large#1",
+    "category": "해외 순정 / 학원",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2026-08-18T15:00:00.000Z",
+    "updatedAt": "2026-08-18T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 3000,
+      "regular": 3000,
+      "discountRate": 0,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 6000,
+        "regular": 6000,
+        "count": 2
+      },
+      "rentalTotal": null
+    },
+    "promo": null,
+    "titleKey": "노노코양의여자친구군"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "3498017872",
+    "url": "https://ridibooks.com/books/3498017872",
+    "title": "황후궁 체대생 프롤로그",
+    "seriesTitle": "황후궁 체대생",
+    "authors": [
+      "팀넋부랑",
+      "진야기"
+    ],
+    "cover": "https://img.ridicdn.net/cover/3498017872/large#1",
+    "category": "로판 / 드라마",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2022-09-15T15:00:00.000Z",
+    "updatedAt": "2026-10-23T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 500,
+      "regular": 500,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 92000,
+        "regular": 92000,
+        "count": 184
+      },
+      "rentalTotal": {
+        "current": 36200,
+        "regular": 36200
+      }
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "waitFree": true
+    },
+    "titleKey": "황후궁체대생"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "3000017624",
+    "url": "https://ridibooks.com/books/3000017624",
+    "title": "쓰레기에서 레벨업 1화",
+    "seriesTitle": "쓰레기에서 레벨업",
+    "authors": [
+      "K",
+      "유마스튜디오",
+      "소치"
+    ],
+    "cover": "https://img.ridicdn.net/cover/3000017624/large#1",
+    "category": "판타지/SF / 액션/무협",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2026-10-06T15:00:00.000Z",
+    "updatedAt": "2026-10-20T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 500,
+      "regular": 500,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 16000,
+        "regular": 16000,
+        "count": 32
+      },
+      "rentalTotal": {
+        "current": 7800,
+        "regular": 7800
+      }
+    },
+    "promo": {
+      "freeEpisodes": 6,
+      "waitFree": false
+    },
+    "titleKey": "쓰레기에서레벨업"
   },
   {
     "source": "ridi",
@@ -499,23 +316,58 @@
   {
     "source": "ridi",
     "region": "KR",
-    "id": "5078002636",
-    "url": "https://ridibooks.com/books/5078002636",
-    "title": "미치도록 찬란하게 1화",
-    "seriesTitle": "미치도록 찬란하게",
+    "id": "6160002983",
+    "url": "https://ridibooks.com/books/6160002983",
+    "title": "거짓말쟁이들의 애정극 1권",
+    "seriesTitle": "거짓말쟁이들의 애정극",
     "authors": [
-      "예나",
-      "태이",
-      "복숭아",
-      "아일리파로"
+      "오카지 하루오미"
     ],
-    "cover": "https://img.ridicdn.net/cover/5078002636/large#1",
-    "category": "로판",
+    "cover": "https://img.ridicdn.net/cover/6160002983/large#1",
+    "category": "해외 만화",
     "rating": "all",
     "rank": null,
     "rankList": "lookup",
-    "releasedAt": "2024-09-22T15:00:00.000Z",
-    "updatedAt": "2025-06-08T15:00:00.000Z",
+    "releasedAt": "2026-10-15T15:00:00.000Z",
+    "updatedAt": "2026-10-15T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 4050,
+      "regular": 4500,
+      "discountRate": 10,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 4050,
+        "regular": 4500,
+        "count": 1
+      },
+      "rentalTotal": {
+        "current": 2160,
+        "regular": 2160
+      }
+    },
+    "promo": null,
+    "titleKey": "거짓말쟁이들의애정극"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "2968005365",
+    "url": "https://ridibooks.com/books/2968005365",
+    "title": "레가스 1화",
+    "seriesTitle": "레가스",
+    "authors": [
+      "댕멍",
+      "이끗",
+      "samk"
+    ],
+    "cover": "https://img.ridicdn.net/cover/2968005365/large#1",
+    "category": "BL 웹툰",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2023-11-12T15:00:00.000Z",
+    "updatedAt": "2026-10-18T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 500,
@@ -523,20 +375,136 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 37000,
-        "regular": 37000,
-        "count": 74
+        "current": 57500,
+        "regular": 57500,
+        "count": 117
       },
       "rentalTotal": {
-        "current": 21300,
-        "regular": 21300
+        "current": 33600,
+        "regular": 33600
+      }
+    },
+    "promo": {
+      "freeEpisodes": 5,
+      "waitFree": false
+    },
+    "titleKey": "레가스"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "4379001771",
+    "url": "https://ridibooks.com/books/4379001771",
+    "title": "디옵터(Diopter)[개정판] 프롤로그",
+    "seriesTitle": "디옵터(Diopter)[개정판]",
+    "authors": [
+      "킴녕"
+    ],
+    "cover": "https://img.ridicdn.net/cover/4379001771/large#1",
+    "category": "BL 웹툰",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2026-06-19T15:00:00.000Z",
+    "updatedAt": "2026-06-29T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 0,
+      "regular": 0,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 13800,
+        "regular": 13800,
+        "count": 25
+      },
+      "rentalTotal": {
+        "current": 6600,
+        "regular": 6600
       }
     },
     "promo": {
       "freeEpisodes": 3,
-      "waitFree": true
+      "waitFree": false
     },
-    "titleKey": "미치도록찬란하게"
+    "titleKey": "디옵터diopter"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "4946000185",
+    "url": "https://ridibooks.com/books/4946000185",
+    "title": "석류를 삼킨 뱀 [개정판] 프롤로그",
+    "seriesTitle": "석류를 삼킨 뱀 [개정판]",
+    "authors": [
+      "감자전",
+      "조수아",
+      "카르페XD"
+    ],
+    "cover": "https://img.ridicdn.net/cover/4946000185/large#1",
+    "category": "BL 웹툰",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2025-07-06T15:00:00.000Z",
+    "updatedAt": "2026-10-24T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 600,
+      "regular": 600,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 39000,
+        "regular": 39000,
+        "count": 65
+      },
+      "rentalTotal": {
+        "current": 18900,
+        "regular": 18900
+      }
+    },
+    "promo": {
+      "freeEpisodes": 2,
+      "waitFree": false
+    },
+    "titleKey": "석류를삼킨뱀"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "2066009240",
+    "url": "https://ridibooks.com/books/2066009240",
+    "title": "안 건강한 연애와 건강한 연애의 창과 방패 같은 사랑 1권",
+    "seriesTitle": "안 건강한 연애와 건강한 연애의 창과 방패 같은 사랑",
+    "authors": [
+      "싱생송"
+    ],
+    "cover": "https://img.ridicdn.net/cover/2066009240/large#1",
+    "category": "국내 만화",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2026-09-08T15:00:00.000Z",
+    "updatedAt": "2026-09-08T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 8000,
+      "regular": 8000,
+      "discountRate": 0,
+      "unit": "volume",
+      "seriesTotal": {
+        "current": 16000,
+        "regular": 16000,
+        "count": 2
+      },
+      "rentalTotal": {
+        "current": 8000,
+        "regular": 8000
+      }
+    },
+    "promo": null,
+    "titleKey": "안건강한연애와건강한연애의창과방패같은사랑"
   },
   {
     "source": "ridi",
@@ -576,6 +544,45 @@
       "waitFree": false
     },
     "titleKey": "주령"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "4895002019",
+    "url": "https://ridibooks.com/books/4895002019",
+    "title": "[개정판] 그림자의 영역 1화",
+    "seriesTitle": "[개정판] 그림자의 영역",
+    "authors": [
+      "리런"
+    ],
+    "cover": "https://img.ridicdn.net/cover/4895002019/large#1",
+    "category": "BL 웹툰",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2025-02-26T15:00:00.000Z",
+    "updatedAt": "2026-05-15T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 600,
+      "regular": 600,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 39000,
+        "regular": 39000,
+        "count": 67
+      },
+      "rentalTotal": {
+        "current": 19200,
+        "regular": 19200
+      }
+    },
+    "promo": {
+      "freeEpisodes": 2,
+      "waitFree": false
+    },
+    "titleKey": "그림자의영역"
   },
   {
     "source": "ridi",
@@ -662,6 +669,45 @@
   {
     "source": "ridi",
     "region": "KR",
+    "id": "2968010852",
+    "url": "https://ridibooks.com/books/2968010852",
+    "title": "나의 천사를 찾아서 1화",
+    "seriesTitle": "나의 천사를 찾아서",
+    "authors": [
+      "엠구M9"
+    ],
+    "cover": "https://img.ridicdn.net/cover/2968010852/large#1",
+    "category": "BL 웹툰",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2026-10-17T15:00:00.000Z",
+    "updatedAt": "2026-10-24T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 300,
+      "regular": 500,
+      "discountRate": 40,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 4700,
+        "regular": 7500,
+        "count": 15
+      },
+      "rentalTotal": {
+        "current": 3600,
+        "regular": 3600
+      }
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "waitFree": false
+    },
+    "titleKey": "나의천사를찾아서"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
     "id": "5285002610",
     "url": "https://ridibooks.com/books/5285002610",
     "title": "짝사랑과 정략결혼 했더니 [개정판] 1화",
@@ -700,5 +746,285 @@
       "waitFree": false
     },
     "titleKey": "짝사랑과정략결혼했더니"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "6052003238",
+    "url": "https://ridibooks.com/books/6052003238",
+    "title": "반짝반짝 안경 1화",
+    "seriesTitle": "반짝반짝 안경",
+    "authors": [
+      "아마누마 코토미",
+      "모리사와 아키오"
+    ],
+    "cover": "https://img.ridicdn.net/cover/6052003238/large#1",
+    "category": "드라마 / 해외 순정",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2025-07-30T15:00:00.000Z",
+    "updatedAt": "2025-07-30T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 500,
+      "regular": 500,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 9000,
+        "regular": 9000,
+        "count": 18
+      },
+      "rentalTotal": {
+        "current": 5100,
+        "regular": 5100
+      }
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "waitFree": false
+    },
+    "titleKey": "반짝반짝안경"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "4403014568",
+    "url": "https://ridibooks.com/books/4403014568",
+    "title": "같이 야근하실래요, 황태자님 1화",
+    "seriesTitle": "같이 야근하실래요, 황태자님",
+    "authors": [
+      "MKC Studio",
+      "하이주"
+    ],
+    "cover": "https://img.ridicdn.net/cover/4403014568/large#1",
+    "category": "로판",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2026-02-13T15:00:00.000Z",
+    "updatedAt": "2026-10-23T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 500,
+      "regular": 500,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 25500,
+        "regular": 25500,
+        "count": 51
+      },
+      "rentalTotal": {
+        "current": 14400,
+        "regular": 14400
+      }
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "waitFree": false
+    },
+    "titleKey": "같이야근하실래요황태자님"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "1746030930",
+    "url": "https://ridibooks.com/books/1746030930",
+    "title": "내가 아닌 연애 [개정판] 1화",
+    "seriesTitle": "내가 아닌 연애 [개정판]",
+    "authors": [
+      "김탁"
+    ],
+    "cover": "https://img.ridicdn.net/cover/1746030930/large#1",
+    "category": "BL 웹툰",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2025-11-19T15:00:00.000Z",
+    "updatedAt": "2026-05-19T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 500,
+      "regular": 500,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 22500,
+        "regular": 22500,
+        "count": 46
+      },
+      "rentalTotal": {
+        "current": 12600,
+        "regular": 12600
+      }
+    },
+    "promo": {
+      "freeEpisodes": 4,
+      "waitFree": true
+    },
+    "titleKey": "내가아닌연애"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "4343003369",
+    "url": "https://ridibooks.com/books/4343003369",
+    "title": "사장님에게 별점 줘도 되나요? [개정판] 프롤로그",
+    "seriesTitle": "사장님에게 별점 줘도 되나요? [개정판]",
+    "authors": [
+      "마루 더 레드",
+      "오샤"
+    ],
+    "cover": "https://img.ridicdn.net/cover/4343003369/large#1",
+    "category": "BL 웹툰",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2026-03-11T15:00:00.000Z",
+    "updatedAt": "2026-03-11T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 0,
+      "regular": 0,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 3000,
+        "regular": 3000,
+        "count": 7
+      },
+      "rentalTotal": {
+        "current": 1800,
+        "regular": 1800
+      }
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "waitFree": false
+    },
+    "titleKey": "사장님에게별점줘도되나요"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "3000014608",
+    "url": "https://ridibooks.com/books/3000014608",
+    "title": "만년 후 미래에서 레벨업 1화",
+    "seriesTitle": "만년 후 미래에서 레벨업",
+    "authors": [
+      "Changpan Warrior",
+      "faloo"
+    ],
+    "cover": "https://img.ridicdn.net/cover/3000014608/large#1",
+    "category": "판타지/SF / 액션/무협",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2025-05-16T15:00:00.000Z",
+    "updatedAt": "2026-10-23T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 400,
+      "regular": 400,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 137600,
+        "regular": 137600,
+        "count": 344
+      },
+      "rentalTotal": {
+        "current": 67400,
+        "regular": 67400
+      }
+    },
+    "promo": {
+      "freeEpisodes": 7,
+      "waitFree": false
+    },
+    "titleKey": "만년후미래에서레벨업"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "3348002155",
+    "url": "https://ridibooks.com/books/3348002155",
+    "title": "알고 보니 찐 댕댕남 1화",
+    "seriesTitle": "알고 보니 찐 댕댕남",
+    "authors": [
+      "Armode Culture",
+      "crown"
+    ],
+    "cover": "https://img.ridicdn.net/cover/3348002155/large#1",
+    "category": "해외 순정",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2025-07-24T15:00:00.000Z",
+    "updatedAt": "2026-02-08T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 500,
+      "regular": 500,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 24500,
+        "regular": 24500,
+        "count": 49
+      },
+      "rentalTotal": {
+        "current": 9200,
+        "regular": 9200
+      }
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "waitFree": false
+    },
+    "titleKey": "알고보니찐댕댕남"
+  },
+  {
+    "source": "ridi",
+    "region": "KR",
+    "id": "4343003525",
+    "url": "https://ridibooks.com/books/4343003525",
+    "title": "최면 순애 어플 [개정판] [프롤로그]",
+    "seriesTitle": "최면 순애 어플 [개정판]",
+    "authors": [
+      "인류",
+      "례수",
+      "토깽전사"
+    ],
+    "cover": "https://img.ridicdn.net/cover/4343003525/large#1",
+    "category": "BL 웹툰",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2026-06-25T15:00:00.000Z",
+    "updatedAt": "2026-06-25T15:00:00.000Z",
+    "price": {
+      "currency": "KRW",
+      "current": 0,
+      "regular": 0,
+      "discountRate": 0,
+      "unit": "episode",
+      "seriesTotal": {
+        "current": 9000,
+        "regular": 9000,
+        "count": 16
+      },
+      "rentalTotal": {
+        "current": 6000,
+        "regular": 6000
+      }
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "waitFree": false
+    },
+    "titleKey": "최면순애어플"
   }
 ]
