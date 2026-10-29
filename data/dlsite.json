@@ -497,39 +497,6 @@
   {
     "source": "dlsite",
     "region": "GLOBAL",
-    "id": "BJ02282200",
-    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ02282200.html",
-    "title": "【Obey Me!ASMR】case.サタン　～君の待てには従えない～",
-    "seriesTitle": "Obey Me!ASMR",
-    "authors": [
-      "Obey Me!"
-    ],
-    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02283000/BJ02282200_img_main.jpg",
-    "category": "SOU",
-    "rating": "all",
-    "rank": 16,
-    "rankList": "trend",
-    "releasedAt": "2025-11-25T07:00:00.000Z",
-    "updatedAt": "2025-11-25T07:00:00.000Z",
-    "price": {
-      "currency": "JPY",
-      "current": 2200,
-      "regular": 2200,
-      "discountRate": 0,
-      "unit": "work",
-      "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
-      }
-    },
-    "promo": null,
-    "titleKey": "obeymeasmr"
-  },
-  {
-    "source": "dlsite",
-    "region": "GLOBAL",
     "id": "BJ03054161",
     "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ03054161.html",
     "title": "特級αの愛したΩ（出演：鈴木崚汰、坂田将吾）",
@@ -540,7 +507,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ03055000/BJ03054161_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 17,
+    "rank": 16,
     "rankList": "trend",
     "releasedAt": "2026-10-27T15:00:00.000Z",
     "updatedAt": "2026-10-27T15:00:00.000Z",
@@ -559,6 +526,39 @@
     },
     "promo": null,
     "titleKey": "特級αの愛したω"
+  },
+  {
+    "source": "dlsite",
+    "region": "GLOBAL",
+    "id": "BJ02282200",
+    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ02282200.html",
+    "title": "【Obey Me!ASMR】case.サタン　～君の待てには従えない～",
+    "seriesTitle": "Obey Me!ASMR",
+    "authors": [
+      "Obey Me!"
+    ],
+    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02283000/BJ02282200_img_main.jpg",
+    "category": "SOU",
+    "rating": "all",
+    "rank": 17,
+    "rankList": "trend",
+    "releasedAt": "2025-11-25T07:00:00.000Z",
+    "updatedAt": "2025-11-25T07:00:00.000Z",
+    "price": {
+      "currency": "JPY",
+      "current": 2200,
+      "regular": 2200,
+      "discountRate": 0,
+      "unit": "work",
+      "local": {
+        "KRW": 18660,
+        "TWD": 452,
+        "KRW_regular": 18660,
+        "TWD_regular": 452
+      }
+    },
+    "promo": null,
+    "titleKey": "obeymeasmr"
   },
   {
     "source": "dlsite",
