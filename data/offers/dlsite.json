@@ -23,10 +23,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16794,
-        "TWD": 406,
-        "KRW_regular": 16794,
-        "TWD_regular": 406
+        "KRW": 16780,
+        "TWD": 408,
+        "KRW_regular": 16780,
+        "TWD_regular": 408
       }
     },
     "promo": null,
@@ -56,10 +56,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16794,
-        "TWD": 406,
-        "KRW_regular": 16794,
-        "TWD_regular": 406
+        "KRW": 16780,
+        "TWD": 408,
+        "KRW_regular": 16780,
+        "TWD_regular": 408
       }
     },
     "promo": null,
@@ -89,10 +89,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
@@ -122,10 +122,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
@@ -155,10 +155,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 22392,
-        "TWD": 542,
-        "KRW_regular": 22392,
-        "TWD_regular": 542
+        "KRW": 22373,
+        "TWD": 545,
+        "KRW_regular": 22373,
+        "TWD_regular": 545
       }
     },
     "promo": null,
@@ -188,10 +188,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
@@ -221,47 +221,14 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
     "titleKey": "祈あずき巴のお料理編"
-  },
-  {
-    "source": "dlsite",
-    "region": "GLOBAL",
-    "id": "BJ03009028",
-    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ03009028.html",
-    "title": "40までにしたい10のこと2（出演：阿部敦、江口拓也）",
-    "seriesTitle": "40までにしたい10のこと",
-    "authors": [
-      "リブレ"
-    ],
-    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ03010000/BJ03009028_img_main.jpg",
-    "category": "SOU",
-    "rating": "all",
-    "rank": 8,
-    "rankList": "trend",
-    "releasedAt": "2026-09-24T15:00:00.000Z",
-    "updatedAt": "2026-09-24T15:00:00.000Z",
-    "price": {
-      "currency": "JPY",
-      "current": 3960,
-      "regular": 3960,
-      "discountRate": 0,
-      "unit": "work",
-      "local": {
-        "KRW": 33588,
-        "TWD": 813,
-        "KRW_regular": 33588,
-        "TWD_regular": 813
-      }
-    },
-    "promo": null,
-    "titleKey": "40までにしたい10のこと"
   },
   {
     "source": "dlsite",
@@ -276,7 +243,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02952000/BJ02951036_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 9,
+    "rank": 8,
     "rankList": "trend",
     "releasedAt": "2026-09-24T07:00:00.000Z",
     "updatedAt": "2026-09-24T07:00:00.000Z",
@@ -287,14 +254,47 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
     "titleKey": "obeymeasmrbirthdayseries"
+  },
+  {
+    "source": "dlsite",
+    "region": "GLOBAL",
+    "id": "BJ03009028",
+    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ03009028.html",
+    "title": "40までにしたい10のこと2（出演：阿部敦、江口拓也）",
+    "seriesTitle": "40までにしたい10のこと",
+    "authors": [
+      "リブレ"
+    ],
+    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ03010000/BJ03009028_img_main.jpg",
+    "category": "SOU",
+    "rating": "all",
+    "rank": 9,
+    "rankList": "trend",
+    "releasedAt": "2026-09-24T15:00:00.000Z",
+    "updatedAt": "2026-09-24T15:00:00.000Z",
+    "price": {
+      "currency": "JPY",
+      "current": 3960,
+      "regular": 3960,
+      "discountRate": 0,
+      "unit": "work",
+      "local": {
+        "KRW": 33559,
+        "TWD": 817,
+        "KRW_regular": 33559,
+        "TWD_regular": 817
+      }
+    },
+    "promo": null,
+    "titleKey": "40までにしたい10のこと"
   },
   {
     "source": "dlsite",
@@ -320,10 +320,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
@@ -353,10 +353,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
@@ -386,14 +386,47 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
     "titleKey": "obeymeasmrbirthdayseries"
+  },
+  {
+    "source": "dlsite",
+    "region": "GLOBAL",
+    "id": "BJ03054161",
+    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ03054161.html",
+    "title": "特級αの愛したΩ（出演：鈴木崚汰、坂田将吾）",
+    "seriesTitle": "特級αの愛したΩ",
+    "authors": [
+      "リブレ"
+    ],
+    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ03055000/BJ03054161_img_main.jpg",
+    "category": "SOU",
+    "rating": "all",
+    "rank": 13,
+    "rankList": "trend",
+    "releasedAt": "2026-10-27T15:00:00.000Z",
+    "updatedAt": "2026-10-27T15:00:00.000Z",
+    "price": {
+      "currency": "JPY",
+      "current": 4180,
+      "regular": 4180,
+      "discountRate": 0,
+      "unit": "work",
+      "local": {
+        "KRW": 35424,
+        "TWD": 862,
+        "KRW_regular": 35424,
+        "TWD_regular": 862
+      }
+    },
+    "promo": null,
+    "titleKey": "特級αの愛したω"
   },
   {
     "source": "dlsite",
@@ -408,7 +441,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02905000/BJ02904153_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 13,
+    "rank": 14,
     "rankList": "trend",
     "releasedAt": "2026-08-15T15:00:00.000Z",
     "updatedAt": "2026-08-15T15:00:00.000Z",
@@ -419,10 +452,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 39186,
-        "TWD": 948,
-        "KRW_regular": 39186,
-        "TWD_regular": 948
+        "KRW": 39153,
+        "TWD": 953,
+        "KRW_regular": 39153,
+        "TWD_regular": 953
       }
     },
     "promo": null,
@@ -441,7 +474,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02684000/BJ02683908_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 14,
+    "rank": 15,
     "rankList": "trend",
     "releasedAt": "2026-09-15T15:00:00.000Z",
     "updatedAt": "2026-09-15T15:00:00.000Z",
@@ -452,10 +485,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 53181,
-        "TWD": 1287,
-        "KRW_regular": 53181,
-        "TWD_regular": 1287
+        "KRW": 53136,
+        "TWD": 1293,
+        "KRW_regular": 53136,
+        "TWD_regular": 1293
       }
     },
     "promo": null,
@@ -474,7 +507,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02928000/BJ02927959_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 15,
+    "rank": 16,
     "rankList": "trend",
     "releasedAt": "2026-09-15T07:00:00.000Z",
     "updatedAt": "2026-09-15T07:00:00.000Z",
@@ -485,47 +518,14 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 58779,
-        "TWD": 1423,
-        "KRW_regular": 58779,
-        "TWD_regular": 1423
+        "KRW": 58729,
+        "TWD": 1430,
+        "KRW_regular": 58729,
+        "TWD_regular": 1430
       }
     },
     "promo": null,
     "titleKey": "素人ヤンキー危機一発"
-  },
-  {
-    "source": "dlsite",
-    "region": "GLOBAL",
-    "id": "BJ03054161",
-    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ03054161.html",
-    "title": "特級αの愛したΩ（出演：鈴木崚汰、坂田将吾）",
-    "seriesTitle": "特級αの愛したΩ",
-    "authors": [
-      "リブレ"
-    ],
-    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ03055000/BJ03054161_img_main.jpg",
-    "category": "SOU",
-    "rating": "all",
-    "rank": 16,
-    "rankList": "trend",
-    "releasedAt": "2026-10-27T15:00:00.000Z",
-    "updatedAt": "2026-10-27T15:00:00.000Z",
-    "price": {
-      "currency": "JPY",
-      "current": 4180,
-      "regular": 4180,
-      "discountRate": 0,
-      "unit": "work",
-      "local": {
-        "KRW": 35454,
-        "TWD": 858,
-        "KRW_regular": 35454,
-        "TWD_regular": 858
-      }
-    },
-    "promo": null,
-    "titleKey": "特級αの愛したω"
   },
   {
     "source": "dlsite",
@@ -551,10 +551,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
@@ -584,10 +584,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
@@ -617,10 +617,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 27990,
-        "TWD": 677,
-        "KRW_regular": 27990,
-        "TWD_regular": 677
+        "KRW": 27966,
+        "TWD": 681,
+        "KRW_regular": 27966,
+        "TWD_regular": 681
       }
     },
     "promo": null,
@@ -650,10 +650,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -683,14 +683,47 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
     "titleKey": "dearmemory消えた記憶と嘘"
+  },
+  {
+    "source": "dlsite",
+    "region": "GLOBAL",
+    "id": "BJ03063093",
+    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ03063093.html",
+    "title": "『愛想が尽きない』完全版【購入者限定！YouTube未公開シーン&特典ボイス付き】（鈴木崚汰　中島ヨシキ）",
+    "seriesTitle": "愛想が尽きない",
+    "authors": [
+      "株式会社KADOKAWA"
+    ],
+    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ03064000/BJ03063093_img_main.jpg",
+    "category": "SOU",
+    "rating": "all",
+    "rank": 22,
+    "rankList": "trend",
+    "releasedAt": "2026-10-23T07:00:00.000Z",
+    "updatedAt": "2026-10-23T07:00:00.000Z",
+    "price": {
+      "currency": "JPY",
+      "current": 1650,
+      "regular": 1650,
+      "discountRate": 0,
+      "unit": "work",
+      "local": {
+        "KRW": 13983,
+        "TWD": 340,
+        "KRW_regular": 13983,
+        "TWD_regular": 340
+      }
+    },
+    "promo": null,
+    "titleKey": "愛想が尽きない"
   },
   {
     "source": "dlsite",
@@ -705,7 +738,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02628000/BJ02627828_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 22,
+    "rank": 23,
     "rankList": "trend",
     "releasedAt": "2026-06-22T07:00:00.000Z",
     "updatedAt": "2026-06-22T07:00:00.000Z",
@@ -716,10 +749,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
@@ -738,7 +771,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02952000/BJ02951035_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 23,
+    "rank": 24,
     "rankList": "trend",
     "releasedAt": "2026-09-18T07:00:00.000Z",
     "updatedAt": "2026-09-18T07:00:00.000Z",
@@ -749,10 +782,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 34521,
-        "TWD": 835,
-        "KRW_regular": 34521,
-        "TWD_regular": 835
+        "KRW": 34492,
+        "TWD": 840,
+        "KRW_regular": 34492,
+        "TWD_regular": 840
       }
     },
     "promo": null,
@@ -771,7 +804,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ03049000/BJ03048976_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 24,
+    "rank": 25,
     "rankList": "trend",
     "releasedAt": "2026-12-25T07:00:00.000Z",
     "updatedAt": "2026-12-25T07:00:00.000Z",
@@ -782,47 +815,14 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 43851,
-        "TWD": 1061,
-        "KRW_regular": 43851,
-        "TWD_regular": 1061
+        "KRW": 43814,
+        "TWD": 1067,
+        "KRW_regular": 43814,
+        "TWD_regular": 1067
       }
     },
     "promo": null,
     "titleKey": "ピットスポルム"
-  },
-  {
-    "source": "dlsite",
-    "region": "GLOBAL",
-    "id": "BJ03063093",
-    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ03063093.html",
-    "title": "『愛想が尽きない』完全版【購入者限定！YouTube未公開シーン&特典ボイス付き】（鈴木崚汰　中島ヨシキ）",
-    "seriesTitle": "愛想が尽きない",
-    "authors": [
-      "株式会社KADOKAWA"
-    ],
-    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ03064000/BJ03063093_img_main.jpg",
-    "category": "SOU",
-    "rating": "all",
-    "rank": 25,
-    "rankList": "trend",
-    "releasedAt": "2026-10-23T07:00:00.000Z",
-    "updatedAt": "2026-10-23T07:00:00.000Z",
-    "price": {
-      "currency": "JPY",
-      "current": 1650,
-      "regular": 1650,
-      "discountRate": 0,
-      "unit": "work",
-      "local": {
-        "KRW": 13995,
-        "TWD": 339,
-        "KRW_regular": 13995,
-        "TWD_regular": 339
-      }
-    },
-    "promo": null,
-    "titleKey": "愛想が尽きない"
   },
   {
     "source": "dlsite",
@@ -848,10 +848,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
@@ -881,10 +881,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 39186,
-        "TWD": 948,
-        "KRW_regular": 39186,
-        "TWD_regular": 948
+        "KRW": 39153,
+        "TWD": 953,
+        "KRW_regular": 39153,
+        "TWD_regular": 953
       }
     },
     "promo": null,
@@ -914,10 +914,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 37320,
-        "TWD": 903,
-        "KRW_regular": 37320,
-        "TWD_regular": 903
+        "KRW": 37288,
+        "TWD": 908,
+        "KRW_regular": 37288,
+        "TWD_regular": 908
       }
     },
     "promo": null,
@@ -947,10 +947,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 44784,
-        "TWD": 1084,
-        "KRW_regular": 44784,
-        "TWD_regular": 1084
+        "KRW": 44746,
+        "TWD": 1089,
+        "KRW_regular": 44746,
+        "TWD_regular": 1089
       }
     },
     "promo": null,
@@ -980,10 +980,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -1013,10 +1013,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16794,
-        "TWD": 406,
-        "KRW_regular": 16794,
-        "TWD_regular": 406
+        "KRW": 16780,
+        "TWD": 408,
+        "KRW_regular": 16780,
+        "TWD_regular": 408
       }
     },
     "promo": null,
@@ -1046,10 +1046,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 41985,
-        "TWD": 1016,
-        "KRW_regular": 41985,
-        "TWD_regular": 1016
+        "KRW": 41949,
+        "TWD": 1021,
+        "KRW_regular": 41949,
+        "TWD_regular": 1021
       }
     },
     "promo": null,
@@ -1079,10 +1079,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 37320,
-        "TWD": 903,
-        "KRW_regular": 37320,
-        "TWD_regular": 903
+        "KRW": 37288,
+        "TWD": 908,
+        "KRW_regular": 37288,
+        "TWD_regular": 908
       }
     },
     "promo": null,
@@ -1112,10 +1112,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -1145,10 +1145,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16794,
-        "TWD": 406,
-        "KRW_regular": 16794,
-        "TWD_regular": 406
+        "KRW": 16780,
+        "TWD": 408,
+        "KRW_regular": 16780,
+        "TWD_regular": 408
       }
     },
     "promo": null,
@@ -1178,10 +1178,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 51315,
-        "TWD": 1242,
-        "KRW_regular": 51315,
-        "TWD_regular": 1242
+        "KRW": 51271,
+        "TWD": 1248,
+        "KRW_regular": 51271,
+        "TWD_regular": 1248
       }
     },
     "promo": null,
@@ -1211,10 +1211,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 13995,
-        "TWD": 339,
-        "KRW_regular": 13995,
-        "TWD_regular": 339
+        "KRW": 13983,
+        "TWD": 340,
+        "KRW_regular": 13983,
+        "TWD_regular": 340
       }
     },
     "promo": null,
@@ -1244,10 +1244,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 43851,
-        "TWD": 1061,
-        "KRW_regular": 43851,
-        "TWD_regular": 1061
+        "KRW": 43814,
+        "TWD": 1067,
+        "KRW_regular": 43814,
+        "TWD_regular": 1067
       }
     },
     "promo": null,
@@ -1277,10 +1277,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -1310,10 +1310,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 41985,
-        "TWD": 1016,
-        "KRW_regular": 41985,
-        "TWD_regular": 1016
+        "KRW": 41949,
+        "TWD": 1021,
+        "KRW_regular": 41949,
+        "TWD_regular": 1021
       }
     },
     "promo": null,
@@ -1343,10 +1343,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 27990,
-        "TWD": 677,
-        "KRW_regular": 27990,
-        "TWD_regular": 677
+        "KRW": 27966,
+        "TWD": 681,
+        "KRW_regular": 27966,
+        "TWD_regular": 681
       }
     },
     "promo": null,
@@ -1376,10 +1376,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16794,
-        "TWD": 406,
-        "KRW_regular": 16794,
-        "TWD_regular": 406
+        "KRW": 16780,
+        "TWD": 408,
+        "KRW_regular": 16780,
+        "TWD_regular": 408
       }
     },
     "promo": null,
@@ -1409,10 +1409,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -1442,10 +1442,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 31722,
-        "TWD": 768,
-        "KRW_regular": 31722,
-        "TWD_regular": 768
+        "KRW": 31695,
+        "TWD": 772,
+        "KRW_regular": 31695,
+        "TWD_regular": 772
       }
     },
     "promo": null,
@@ -1475,10 +1475,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 46650,
-        "TWD": 1129,
-        "KRW_regular": 46650,
-        "TWD_regular": 1129
+        "KRW": 46610,
+        "TWD": 1135,
+        "KRW_regular": 46610,
+        "TWD_regular": 1135
       }
     },
     "promo": null,
@@ -1508,10 +1508,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -1541,10 +1541,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -1574,10 +1574,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -1607,10 +1607,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -1640,9 +1640,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 1866,
+        "KRW": 1864,
         "TWD": 45,
-        "KRW_regular": 1866,
+        "KRW_regular": 1864,
         "TWD_regular": 45
       }
     },
@@ -1673,10 +1673,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 26124,
-        "TWD": 632,
-        "KRW_regular": 26124,
-        "TWD_regular": 632
+        "KRW": 26102,
+        "TWD": 635,
+        "KRW_regular": 26102,
+        "TWD_regular": 635
       }
     },
     "promo": null,
@@ -1706,14 +1706,47 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 1866,
+        "KRW": 1864,
         "TWD": 45,
-        "KRW_regular": 1866,
+        "KRW_regular": 1864,
         "TWD_regular": 45
       }
     },
     "promo": null,
     "titleKey": "幻想怪奇時代劇"
+  },
+  {
+    "source": "dlsite",
+    "region": "GLOBAL",
+    "id": "BJ03076361",
+    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ03076361.html",
+    "title": "オーディオドラマ「絶対BLになる世界VS絶対BLになりたくない男」6",
+    "seriesTitle": "「絶対BLになる世界VS絶対BLになりたくない男」",
+    "authors": [
+      "Bit grooove lab"
+    ],
+    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ03077000/BJ03076361_img_main.jpg",
+    "category": "SOU",
+    "rating": "all",
+    "rank": 53,
+    "rankList": "trend",
+    "releasedAt": "2026-10-29T15:00:00.000Z",
+    "updatedAt": "2026-10-29T15:00:00.000Z",
+    "price": {
+      "currency": "JPY",
+      "current": 2200,
+      "regular": 2200,
+      "discountRate": 0,
+      "unit": "work",
+      "local": {
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
+      }
+    },
+    "promo": null,
+    "titleKey": "絶対blになる世界vs絶対blになりたくない男"
   },
   {
     "source": "dlsite",
@@ -1728,7 +1761,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02506000/BJ02505282_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 53,
+    "rank": 54,
     "rankList": "trend",
     "releasedAt": "2026-04-23T15:00:00.000Z",
     "updatedAt": "2026-04-23T15:00:00.000Z",
@@ -1739,10 +1772,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 48516,
-        "TWD": 1174,
-        "KRW_regular": 48516,
-        "TWD_regular": 1174
+        "KRW": 48475,
+        "TWD": 1180,
+        "KRW_regular": 48475,
+        "TWD_regular": 1180
       }
     },
     "promo": null,
@@ -1761,7 +1794,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02226000/BJ02225307_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 54,
+    "rank": 55,
     "rankList": "trend",
     "releasedAt": "2026-03-05T15:00:00.000Z",
     "updatedAt": "2026-03-05T15:00:00.000Z",
@@ -1772,10 +1805,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 27990,
-        "TWD": 677,
-        "KRW_regular": 27990,
-        "TWD_regular": 677
+        "KRW": 27966,
+        "TWD": 681,
+        "KRW_regular": 27966,
+        "TWD_regular": 681
       }
     },
     "promo": null,
@@ -1794,7 +1827,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02442000/BJ02441178_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 55,
+    "rank": 56,
     "rankList": "trend",
     "releasedAt": "2026-03-12T15:00:00.000Z",
     "updatedAt": "2026-03-12T15:00:00.000Z",
@@ -1805,10 +1838,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16794,
-        "TWD": 406,
-        "KRW_regular": 16794,
-        "TWD_regular": 406
+        "KRW": 16780,
+        "TWD": 408,
+        "KRW_regular": 16780,
+        "TWD_regular": 408
       }
     },
     "promo": null,
@@ -1827,7 +1860,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02602000/BJ02601791_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 56,
+    "rank": 57,
     "rankList": "trend",
     "releasedAt": "2026-06-03T15:00:00.000Z",
     "updatedAt": "2026-06-03T15:00:00.000Z",
@@ -1838,10 +1871,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 41985,
-        "TWD": 1016,
-        "KRW_regular": 41985,
-        "TWD_regular": 1016
+        "KRW": 41949,
+        "TWD": 1021,
+        "KRW_regular": 41949,
+        "TWD_regular": 1021
       }
     },
     "promo": null,
@@ -1860,7 +1893,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02912000/BJ02911274_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 57,
+    "rank": 58,
     "rankList": "trend",
     "releasedAt": "2026-08-14T15:00:00.000Z",
     "updatedAt": "2026-08-14T15:00:00.000Z",
@@ -1871,10 +1904,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -1893,7 +1926,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02226000/BJ02225303_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 58,
+    "rank": 59,
     "rankList": "trend",
     "releasedAt": "2026-01-15T15:00:00.000Z",
     "updatedAt": "2026-01-15T15:00:00.000Z",
@@ -1904,10 +1937,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 27990,
-        "TWD": 677,
-        "KRW_regular": 27990,
-        "TWD_regular": 677
+        "KRW": 27966,
+        "TWD": 681,
+        "KRW_regular": 27966,
+        "TWD_regular": 681
       }
     },
     "promo": null,
@@ -1926,7 +1959,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02632000/BJ02631463_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 59,
+    "rank": 60,
     "rankList": "trend",
     "releasedAt": "2026-06-30T07:00:00.000Z",
     "updatedAt": "2026-06-30T07:00:00.000Z",
@@ -1937,10 +1970,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 13995,
-        "TWD": 339,
-        "KRW_regular": 13995,
-        "TWD_regular": 339
+        "KRW": 13983,
+        "TWD": 340,
+        "KRW_regular": 13983,
+        "TWD_regular": 340
       }
     },
     "promo": null,
@@ -1959,7 +1992,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02861000/BJ02860641_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 60,
+    "rank": 61,
     "rankList": "trend",
     "releasedAt": "2026-07-21T15:00:00.000Z",
     "updatedAt": "2026-07-21T15:00:00.000Z",
@@ -1970,10 +2003,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 45717,
-        "TWD": 1106,
-        "KRW_regular": 45717,
-        "TWD_regular": 1106
+        "KRW": 45678,
+        "TWD": 1112,
+        "KRW_regular": 45678,
+        "TWD_regular": 1112
       }
     },
     "promo": null,
@@ -1992,7 +2025,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02407000/BJ02406994_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 61,
+    "rank": 62,
     "rankList": "trend",
     "releasedAt": "2026-02-18T15:00:00.000Z",
     "updatedAt": "2026-02-18T15:00:00.000Z",
@@ -2003,10 +2036,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16794,
-        "TWD": 406,
-        "KRW_regular": 16794,
-        "TWD_regular": 406
+        "KRW": 16780,
+        "TWD": 408,
+        "KRW_regular": 16780,
+        "TWD_regular": 408
       }
     },
     "promo": null,
@@ -2025,7 +2058,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02471000/BJ02470734_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 62,
+    "rank": 63,
     "rankList": "trend",
     "releasedAt": "2026-05-26T15:00:00.000Z",
     "updatedAt": "2026-05-26T15:00:00.000Z",
@@ -2036,9 +2069,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 4665,
+        "KRW": 4661,
         "TWD": 113,
-        "KRW_regular": 4665,
+        "KRW_regular": 4661,
         "TWD_regular": 113
       }
     },
@@ -2058,7 +2091,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917265_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 63,
+    "rank": 64,
     "rankList": "trend",
     "releasedAt": "2026-08-28T15:00:00.000Z",
     "updatedAt": "2026-08-28T15:00:00.000Z",
@@ -2069,10 +2102,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -2091,7 +2124,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02345000/BJ02344990_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 64,
+    "rank": 65,
     "rankList": "trend",
     "releasedAt": "2026-01-20T15:00:00.000Z",
     "updatedAt": "2026-01-20T15:00:00.000Z",
@@ -2102,10 +2135,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 45717,
-        "TWD": 1106,
-        "KRW_regular": 45717,
-        "TWD_regular": 1106
+        "KRW": 45678,
+        "TWD": 1112,
+        "KRW_regular": 45678,
+        "TWD_regular": 1112
       }
     },
     "promo": null,
@@ -2124,7 +2157,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02397000/BJ02396178_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 65,
+    "rank": 66,
     "rankList": "trend",
     "releasedAt": "2026-04-21T15:00:00.000Z",
     "updatedAt": "2026-04-21T15:00:00.000Z",
@@ -2135,10 +2168,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 45717,
-        "TWD": 1106,
-        "KRW_regular": 45717,
-        "TWD_regular": 1106
+        "KRW": 45678,
+        "TWD": 1112,
+        "KRW_regular": 45678,
+        "TWD_regular": 1112
       }
     },
     "promo": null,
@@ -2157,7 +2190,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917268_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 66,
+    "rank": 67,
     "rankList": "trend",
     "releasedAt": "2026-09-04T15:00:00.000Z",
     "updatedAt": "2026-09-04T15:00:00.000Z",
@@ -2168,10 +2201,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -2190,7 +2223,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02856000/BJ02855338_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 67,
+    "rank": 68,
     "rankList": "trend",
     "releasedAt": "2026-08-04T15:00:00.000Z",
     "updatedAt": "2026-08-04T15:00:00.000Z",
@@ -2201,10 +2234,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 32655,
-        "TWD": 790,
-        "KRW_regular": 32655,
-        "TWD_regular": 790
+        "KRW": 32627,
+        "TWD": 794,
+        "KRW_regular": 32627,
+        "TWD_regular": 794
       }
     },
     "promo": null,
@@ -2223,7 +2256,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917253_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 68,
+    "rank": 69,
     "rankList": "trend",
     "releasedAt": "2026-08-21T15:00:00.000Z",
     "updatedAt": "2026-08-21T15:00:00.000Z",
@@ -2234,10 +2267,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -2256,7 +2289,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917257_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 69,
+    "rank": 70,
     "rankList": "trend",
     "releasedAt": "2026-08-21T15:00:00.000Z",
     "updatedAt": "2026-08-21T15:00:00.000Z",
@@ -2267,10 +2300,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -2289,7 +2322,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917261_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 70,
+    "rank": 71,
     "rankList": "trend",
     "releasedAt": "2026-08-28T15:00:00.000Z",
     "updatedAt": "2026-08-28T15:00:00.000Z",
@@ -2300,10 +2333,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -2322,7 +2355,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917266_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 71,
+    "rank": 72,
     "rankList": "trend",
     "releasedAt": "2026-08-28T15:00:00.000Z",
     "updatedAt": "2026-08-28T15:00:00.000Z",
@@ -2333,10 +2366,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -2355,7 +2388,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02471000/BJ02470735_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 72,
+    "rank": 73,
     "rankList": "trend",
     "releasedAt": "2026-05-26T15:00:00.000Z",
     "updatedAt": "2026-05-26T15:00:00.000Z",
@@ -2366,9 +2399,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 4665,
+        "KRW": 4661,
         "TWD": 113,
-        "KRW_regular": 4665,
+        "KRW_regular": 4661,
         "TWD_regular": 113
       }
     },
@@ -2388,7 +2421,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02226000/BJ02225305_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 73,
+    "rank": 74,
     "rankList": "trend",
     "releasedAt": "2026-02-12T15:00:00.000Z",
     "updatedAt": "2026-02-12T15:00:00.000Z",
@@ -2399,10 +2432,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 27990,
-        "TWD": 677,
-        "KRW_regular": 27990,
-        "TWD_regular": 677
+        "KRW": 27966,
+        "TWD": 681,
+        "KRW_regular": 27966,
+        "TWD_regular": 681
       }
     },
     "promo": null,
@@ -2421,7 +2454,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02394000/BJ02393265_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 74,
+    "rank": 75,
     "rankList": "trend",
     "releasedAt": "2026-02-24T15:00:00.000Z",
     "updatedAt": "2026-02-24T15:00:00.000Z",
@@ -2432,10 +2465,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 46650,
-        "TWD": 1129,
-        "KRW_regular": 46650,
-        "TWD_regular": 1129
+        "KRW": 46610,
+        "TWD": 1135,
+        "KRW_regular": 46610,
+        "TWD_regular": 1135
       }
     },
     "promo": null,
@@ -2454,7 +2487,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02339000/BJ02338287_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 75,
+    "rank": 76,
     "rankList": "trend",
     "releasedAt": "2026-01-28T07:00:00.000Z",
     "updatedAt": "2026-01-28T07:00:00.000Z",
@@ -2465,10 +2498,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 17727,
-        "TWD": 429,
-        "KRW_regular": 17727,
-        "TWD_regular": 429
+        "KRW": 17712,
+        "TWD": 431,
+        "KRW_regular": 17712,
+        "TWD_regular": 431
       }
     },
     "promo": null,
@@ -2487,7 +2520,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02194000/BJ02193622_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 76,
+    "rank": 77,
     "rankList": "trend",
     "releasedAt": "2025-11-10T07:00:00.000Z",
     "updatedAt": "2025-11-10T07:00:00.000Z",
@@ -2498,10 +2531,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 39186,
-        "TWD": 948,
-        "KRW_regular": 39186,
-        "TWD_regular": 948
+        "KRW": 39153,
+        "TWD": 953,
+        "KRW_regular": 39153,
+        "TWD_regular": 953
       }
     },
     "promo": null,
@@ -2520,7 +2553,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02287000/BJ02286552_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 77,
+    "rank": 78,
     "rankList": "trend",
     "releasedAt": "2025-12-01T15:00:00.000Z",
     "updatedAt": "2025-12-01T15:00:00.000Z",
@@ -2531,10 +2564,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 44784,
-        "TWD": 1084,
-        "KRW_regular": 44784,
-        "TWD_regular": 1084
+        "KRW": 44746,
+        "TWD": 1089,
+        "KRW_regular": 44746,
+        "TWD_regular": 1089
       }
     },
     "promo": null,
@@ -2553,7 +2586,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02339000/BJ02338289_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 78,
+    "rank": 79,
     "rankList": "trend",
     "releasedAt": "2026-01-28T07:00:00.000Z",
     "updatedAt": "2026-01-28T07:00:00.000Z",
@@ -2564,10 +2597,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 17727,
-        "TWD": 429,
-        "KRW_regular": 17727,
-        "TWD_regular": 429
+        "KRW": 17712,
+        "TWD": 431,
+        "KRW_regular": 17712,
+        "TWD_regular": 431
       }
     },
     "promo": null,
@@ -2586,7 +2619,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02468000/BJ02467952_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 79,
+    "rank": 80,
     "rankList": "trend",
     "releasedAt": "2026-04-02T15:00:00.000Z",
     "updatedAt": "2026-04-02T15:00:00.000Z",
@@ -2597,10 +2630,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 73147,
-        "TWD": 1770,
-        "KRW_regular": 73147,
-        "TWD_regular": 1770
+        "KRW": 73085,
+        "TWD": 1779,
+        "KRW_regular": 73085,
+        "TWD_regular": 1779
       }
     },
     "promo": null,
@@ -2619,7 +2652,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02912000/BJ02911277_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 80,
+    "rank": 81,
     "rankList": "trend",
     "releasedAt": "2026-08-14T15:00:00.000Z",
     "updatedAt": "2026-08-14T15:00:00.000Z",
@@ -2630,10 +2663,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -2652,7 +2685,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917252_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 81,
+    "rank": 82,
     "rankList": "trend",
     "releasedAt": "2026-08-21T15:00:00.000Z",
     "updatedAt": "2026-08-21T15:00:00.000Z",
@@ -2663,10 +2696,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -2685,7 +2718,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917259_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 82,
+    "rank": 83,
     "rankList": "trend",
     "releasedAt": "2026-08-21T15:00:00.000Z",
     "updatedAt": "2026-08-21T15:00:00.000Z",
@@ -2696,10 +2729,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -2718,7 +2751,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917262_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 83,
+    "rank": 84,
     "rankList": "trend",
     "releasedAt": "2026-08-28T15:00:00.000Z",
     "updatedAt": "2026-08-28T15:00:00.000Z",
@@ -2729,10 +2762,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -2751,7 +2784,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917267_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 84,
+    "rank": 85,
     "rankList": "trend",
     "releasedAt": "2026-08-28T15:00:00.000Z",
     "updatedAt": "2026-08-28T15:00:00.000Z",
@@ -2762,10 +2795,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -2784,7 +2817,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02920000/BJ02919274_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 85,
+    "rank": 86,
     "rankList": "trend",
     "releasedAt": "2026-08-25T07:00:00.000Z",
     "updatedAt": "2026-08-25T07:00:00.000Z",
@@ -2795,10 +2828,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 13995,
-        "TWD": 339,
-        "KRW_regular": 13995,
-        "TWD_regular": 339
+        "KRW": 13983,
+        "TWD": 340,
+        "KRW_regular": 13983,
+        "TWD_regular": 340
       }
     },
     "promo": null,
@@ -2817,7 +2850,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02339000/BJ02338286_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 86,
+    "rank": 87,
     "rankList": "trend",
     "releasedAt": "2026-01-28T07:00:00.000Z",
     "updatedAt": "2026-01-28T07:00:00.000Z",
@@ -2828,10 +2861,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
@@ -2850,7 +2883,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02471000/BJ02470733_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 87,
+    "rank": 88,
     "rankList": "trend",
     "releasedAt": "2026-05-26T15:00:00.000Z",
     "updatedAt": "2026-05-26T15:00:00.000Z",
@@ -2861,9 +2894,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 4665,
+        "KRW": 4661,
         "TWD": 113,
-        "KRW_regular": 4665,
+        "KRW_regular": 4661,
         "TWD_regular": 113
       }
     },
@@ -2883,7 +2916,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02339000/BJ02338288_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 88,
+    "rank": 89,
     "rankList": "trend",
     "releasedAt": "2026-01-28T07:00:00.000Z",
     "updatedAt": "2026-01-28T07:00:00.000Z",
@@ -2894,10 +2927,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 17727,
-        "TWD": 429,
-        "KRW_regular": 17727,
-        "TWD_regular": 429
+        "KRW": 17712,
+        "TWD": 431,
+        "KRW_regular": 17712,
+        "TWD_regular": 431
       }
     },
     "promo": null,
@@ -2916,7 +2949,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02486000/BJ02485203_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 89,
+    "rank": 90,
     "rankList": "trend",
     "releasedAt": "2026-04-22T15:00:00.000Z",
     "updatedAt": "2026-04-22T15:00:00.000Z",
@@ -2927,10 +2960,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 48516,
-        "TWD": 1174,
-        "KRW_regular": 48516,
-        "TWD_regular": 1174
+        "KRW": 48475,
+        "TWD": 1180,
+        "KRW_regular": 48475,
+        "TWD_regular": 1180
       }
     },
     "promo": null,
@@ -2949,7 +2982,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02471000/BJ02470731_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 90,
+    "rank": 91,
     "rankList": "trend",
     "releasedAt": "2026-05-26T15:00:00.000Z",
     "updatedAt": "2026-05-26T15:00:00.000Z",
@@ -2960,9 +2993,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 4665,
+        "KRW": 4661,
         "TWD": 113,
-        "KRW_regular": 4665,
+        "KRW_regular": 4661,
         "TWD_regular": 113
       }
     },
@@ -2982,7 +3015,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02471000/BJ02470732_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 91,
+    "rank": 92,
     "rankList": "trend",
     "releasedAt": "2026-05-26T15:00:00.000Z",
     "updatedAt": "2026-05-26T15:00:00.000Z",
@@ -2993,9 +3026,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 4665,
+        "KRW": 4661,
         "TWD": 113,
-        "KRW_regular": 4665,
+        "KRW_regular": 4661,
         "TWD_regular": 113
       }
     },
@@ -3015,7 +3048,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02446000/BJ02445608_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 92,
+    "rank": 93,
     "rankList": "trend",
     "releasedAt": "2026-03-18T07:00:00.000Z",
     "updatedAt": "2026-03-18T07:00:00.000Z",
@@ -3026,10 +3059,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 27990,
-        "TWD": 677,
-        "KRW_regular": 27990,
-        "TWD_regular": 677
+        "KRW": 27966,
+        "TWD": 681,
+        "KRW_regular": 27966,
+        "TWD_regular": 681
       }
     },
     "promo": null,
@@ -3048,7 +3081,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02879000/BJ02878116_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 93,
+    "rank": 94,
     "rankList": "trend",
     "releasedAt": "2026-07-24T07:00:00.000Z",
     "updatedAt": "2026-07-24T07:00:00.000Z",
@@ -3059,10 +3092,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 13995,
-        "TWD": 339,
-        "KRW_regular": 13995,
-        "TWD_regular": 339
+        "KRW": 13983,
+        "TWD": 340,
+        "KRW_regular": 13983,
+        "TWD_regular": 340
       }
     },
     "promo": null,
@@ -3081,7 +3114,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02468000/BJ02467953_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 94,
+    "rank": 95,
     "rankList": "trend",
     "releasedAt": "2026-04-02T15:00:00.000Z",
     "updatedAt": "2026-04-02T15:00:00.000Z",
@@ -3092,10 +3125,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 76412,
-        "TWD": 1849,
-        "KRW_regular": 76412,
-        "TWD_regular": 1849
+        "KRW": 76347,
+        "TWD": 1858,
+        "KRW_regular": 76347,
+        "TWD_regular": 1858
       }
     },
     "promo": null,
@@ -3114,7 +3147,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917255_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 95,
+    "rank": 96,
     "rankList": "trend",
     "releasedAt": "2026-08-21T15:00:00.000Z",
     "updatedAt": "2026-08-21T15:00:00.000Z",
@@ -3125,10 +3158,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -3147,7 +3180,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917256_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 96,
+    "rank": 97,
     "rankList": "trend",
     "releasedAt": "2026-08-21T15:00:00.000Z",
     "updatedAt": "2026-08-21T15:00:00.000Z",
@@ -3158,10 +3191,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -3180,7 +3213,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917258_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 97,
+    "rank": 98,
     "rankList": "trend",
     "releasedAt": "2026-08-21T15:00:00.000Z",
     "updatedAt": "2026-08-21T15:00:00.000Z",
@@ -3191,10 +3224,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -3213,7 +3246,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917271_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 98,
+    "rank": 99,
     "rankList": "trend",
     "releasedAt": "2026-09-04T15:00:00.000Z",
     "updatedAt": "2026-09-04T15:00:00.000Z",
@@ -3224,10 +3257,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -3246,7 +3279,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02339000/BJ02338285_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 99,
+    "rank": 100,
     "rankList": "trend",
     "releasedAt": "2026-01-28T07:00:00.000Z",
     "updatedAt": "2026-01-28T07:00:00.000Z",
@@ -3257,10 +3290,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 17727,
-        "TWD": 429,
-        "KRW_regular": 17727,
-        "TWD_regular": 429
+        "KRW": 17712,
+        "TWD": 431,
+        "KRW_regular": 17712,
+        "TWD_regular": 431
       }
     },
     "promo": null,
@@ -3279,7 +3312,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02503000/BJ02502796_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 100,
+    "rank": 101,
     "rankList": "trend",
     "releasedAt": "2026-05-19T15:00:00.000Z",
     "updatedAt": "2026-05-19T15:00:00.000Z",
@@ -3290,10 +3323,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 50382,
-        "TWD": 1219,
-        "KRW_regular": 50382,
-        "TWD_regular": 1219
+        "KRW": 50339,
+        "TWD": 1225,
+        "KRW_regular": 50339,
+        "TWD_regular": 1225
       }
     },
     "promo": null,
@@ -3312,7 +3345,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02188000/BJ02187200_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 101,
+    "rank": 102,
     "rankList": "trend",
     "releasedAt": "2025-10-31T07:00:00.000Z",
     "updatedAt": "2025-10-31T07:00:00.000Z",
@@ -3323,10 +3356,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 27990,
-        "TWD": 677,
-        "KRW_regular": 27990,
-        "TWD_regular": 677
+        "KRW": 27966,
+        "TWD": 681,
+        "KRW_regular": 27966,
+        "TWD_regular": 681
       }
     },
     "promo": null,
@@ -3345,7 +3378,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02188000/BJ02187201_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 102,
+    "rank": 103,
     "rankList": "trend",
     "releasedAt": "2025-10-31T07:00:00.000Z",
     "updatedAt": "2025-10-31T07:00:00.000Z",
@@ -3356,10 +3389,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 22392,
-        "TWD": 542,
-        "KRW_regular": 22392,
-        "TWD_regular": 542
+        "KRW": 22373,
+        "TWD": 545,
+        "KRW_regular": 22373,
+        "TWD_regular": 545
       }
     },
     "promo": null,
@@ -3378,7 +3411,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02415000/BJ02414351_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 103,
+    "rank": 104,
     "rankList": "trend",
     "releasedAt": "2026-02-24T07:00:00.000Z",
     "updatedAt": "2026-02-24T07:00:00.000Z",
@@ -3389,10 +3422,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 27990,
-        "TWD": 677,
-        "KRW_regular": 27990,
-        "TWD_regular": 677
+        "KRW": 27966,
+        "TWD": 681,
+        "KRW_regular": 27966,
+        "TWD_regular": 681
       }
     },
     "promo": null,
@@ -3411,7 +3444,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02188000/BJ02187210_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 104,
+    "rank": 105,
     "rankList": "trend",
     "releasedAt": "2025-10-31T07:00:00.000Z",
     "updatedAt": "2025-10-31T07:00:00.000Z",
@@ -3422,10 +3455,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -3444,7 +3477,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02602000/BJ02601790_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 105,
+    "rank": 106,
     "rankList": "trend",
     "releasedAt": "2026-06-03T15:00:00.000Z",
     "updatedAt": "2026-06-03T15:00:00.000Z",
@@ -3455,10 +3488,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 41985,
-        "TWD": 1016,
-        "KRW_regular": 41985,
-        "TWD_regular": 1016
+        "KRW": 41949,
+        "TWD": 1021,
+        "KRW_regular": 41949,
+        "TWD_regular": 1021
       }
     },
     "promo": null,
@@ -3477,7 +3510,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02468000/BJ02467951_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 106,
+    "rank": 107,
     "rankList": "trend",
     "releasedAt": "2026-04-02T15:00:00.000Z",
     "updatedAt": "2026-04-02T15:00:00.000Z",
@@ -3488,10 +3521,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 76412,
-        "TWD": 1849,
-        "KRW_regular": 76412,
-        "TWD_regular": 1849
+        "KRW": 76347,
+        "TWD": 1858,
+        "KRW_regular": 76347,
+        "TWD_regular": 1858
       }
     },
     "promo": null,
@@ -3510,7 +3543,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02918000/BJ02917269_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 107,
+    "rank": 108,
     "rankList": "trend",
     "releasedAt": "2026-09-04T15:00:00.000Z",
     "updatedAt": "2026-09-04T15:00:00.000Z",
@@ -3521,10 +3554,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23325,
-        "TWD": 564,
-        "KRW_regular": 23325,
-        "TWD_regular": 564
+        "KRW": 23305,
+        "TWD": 567,
+        "KRW_regular": 23305,
+        "TWD_regular": 567
       }
     },
     "promo": null,
@@ -3543,7 +3576,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02188000/BJ02187202_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 108,
+    "rank": 109,
     "rankList": "trend",
     "releasedAt": "2025-10-31T07:00:00.000Z",
     "updatedAt": "2025-10-31T07:00:00.000Z",
@@ -3554,10 +3587,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 26124,
-        "TWD": 632,
-        "KRW_regular": 26124,
-        "TWD_regular": 632
+        "KRW": 26102,
+        "TWD": 635,
+        "KRW_regular": 26102,
+        "TWD_regular": 635
       }
     },
     "promo": null,
@@ -3576,7 +3609,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02188000/BJ02187207_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 109,
+    "rank": 110,
     "rankList": "trend",
     "releasedAt": "2025-10-31T07:00:00.000Z",
     "updatedAt": "2025-10-31T07:00:00.000Z",
@@ -3587,10 +3620,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 27990,
-        "TWD": 677,
-        "KRW_regular": 27990,
-        "TWD_regular": 677
+        "KRW": 27966,
+        "TWD": 681,
+        "KRW_regular": 27966,
+        "TWD_regular": 681
       }
     },
     "promo": null,
@@ -3609,7 +3642,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02188000/BJ02187212_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 110,
+    "rank": 111,
     "rankList": "trend",
     "releasedAt": "2025-10-31T07:00:00.000Z",
     "updatedAt": "2025-10-31T07:00:00.000Z",
@@ -3620,10 +3653,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 25191,
-        "TWD": 610,
-        "KRW_regular": 25191,
-        "TWD_regular": 610
+        "KRW": 25169,
+        "TWD": 613,
+        "KRW_regular": 25169,
+        "TWD_regular": 613
       }
     },
     "promo": null,
@@ -3642,7 +3675,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02301000/BJ02300883_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 111,
+    "rank": 112,
     "rankList": "trend",
     "releasedAt": "2025-12-23T15:00:00.000Z",
     "updatedAt": "2025-12-23T15:00:00.000Z",
@@ -3653,10 +3686,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 46650,
-        "TWD": 1129,
-        "KRW_regular": 46650,
-        "TWD_regular": 1129
+        "KRW": 46610,
+        "TWD": 1135,
+        "KRW_regular": 46610,
+        "TWD_regular": 1135
       }
     },
     "promo": null,
@@ -3675,7 +3708,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02188000/BJ02187208_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 112,
+    "rank": 113,
     "rankList": "trend",
     "releasedAt": "2025-10-31T07:00:00.000Z",
     "updatedAt": "2025-10-31T07:00:00.000Z",
@@ -3686,10 +3719,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 26124,
-        "TWD": 632,
-        "KRW_regular": 26124,
-        "TWD_regular": 632
+        "KRW": 26102,
+        "TWD": 635,
+        "KRW_regular": 26102,
+        "TWD_regular": 635
       }
     },
     "promo": null,
@@ -3708,7 +3741,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02339000/BJ02338290_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 113,
+    "rank": 114,
     "rankList": "trend",
     "releasedAt": "2026-01-28T07:00:00.000Z",
     "updatedAt": "2026-01-28T07:00:00.000Z",
@@ -3719,10 +3752,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18660,
-        "TWD": 452,
-        "KRW_regular": 18660,
-        "TWD_regular": 452
+        "KRW": 18644,
+        "TWD": 454,
+        "KRW_regular": 18644,
+        "TWD_regular": 454
       }
     },
     "promo": null,
@@ -3741,7 +3774,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02188000/BJ02187209_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 114,
+    "rank": 115,
     "rankList": "trend",
     "releasedAt": "2025-10-31T07:00:00.000Z",
     "updatedAt": "2025-10-31T07:00:00.000Z",
@@ -3752,10 +3785,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 22392,
-        "TWD": 542,
-        "KRW_regular": 22392,
-        "TWD_regular": 542
+        "KRW": 22373,
+        "TWD": 545,
+        "KRW_regular": 22373,
+        "TWD_regular": 545
       }
     },
     "promo": null,
@@ -3774,7 +3807,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02188000/BJ02187211_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 115,
+    "rank": 116,
     "rankList": "trend",
     "releasedAt": "2025-10-31T07:00:00.000Z",
     "updatedAt": "2025-10-31T07:00:00.000Z",
@@ -3785,10 +3818,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 24258,
-        "TWD": 587,
-        "KRW_regular": 24258,
-        "TWD_regular": 587
+        "KRW": 24237,
+        "TWD": 590,
+        "KRW_regular": 24237,
+        "TWD_regular": 590
       }
     },
     "promo": null,
@@ -3807,7 +3840,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02188000/BJ02187193_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 116,
+    "rank": 117,
     "rankList": "trend",
     "releasedAt": "2025-10-31T07:00:00.000Z",
     "updatedAt": "2025-10-31T07:00:00.000Z",
@@ -3818,10 +3851,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 24258,
-        "TWD": 587,
-        "KRW_regular": 24258,
-        "TWD_regular": 587
+        "KRW": 24237,
+        "TWD": 590,
+        "KRW_regular": 24237,
+        "TWD_regular": 590
       }
     },
     "promo": null,
@@ -3840,7 +3873,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02188000/BJ02187194_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 117,
+    "rank": 118,
     "rankList": "trend",
     "releasedAt": "2025-10-31T07:00:00.000Z",
     "updatedAt": "2025-10-31T07:00:00.000Z",
@@ -3851,10 +3884,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 22392,
-        "TWD": 542,
-        "KRW_regular": 22392,
-        "TWD_regular": 542
+        "KRW": 22373,
+        "TWD": 545,
+        "KRW_regular": 22373,
+        "TWD_regular": 545
       }
     },
     "promo": null,
@@ -3873,7 +3906,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02632000/BJ02631465_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 118,
+    "rank": 119,
     "rankList": "trend",
     "releasedAt": "2026-06-30T07:00:00.000Z",
     "updatedAt": "2026-06-30T07:00:00.000Z",
@@ -3884,10 +3917,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 13995,
-        "TWD": 339,
-        "KRW_regular": 13995,
-        "TWD_regular": 339
+        "KRW": 13983,
+        "TWD": 340,
+        "KRW_regular": 13983,
+        "TWD_regular": 340
       }
     },
     "promo": null,
@@ -3906,39 +3939,6 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02188000/BJ02187190_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 119,
-    "rankList": "trend",
-    "releasedAt": "2025-10-31T07:00:00.000Z",
-    "updatedAt": "2025-10-31T07:00:00.000Z",
-    "price": {
-      "currency": "JPY",
-      "current": 3080,
-      "regular": 3080,
-      "discountRate": 0,
-      "unit": "work",
-      "local": {
-        "KRW": 26124,
-        "TWD": 632,
-        "KRW_regular": 26124,
-        "TWD_regular": 632
-      }
-    },
-    "promo": null,
-    "titleKey": "右手にメス左手に花束"
-  },
-  {
-    "source": "dlsite",
-    "region": "GLOBAL",
-    "id": "BJ02187191",
-    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ02187191.html",
-    "title": "耳にメロディー、唇にキス～右手にメス、左手に花束3～",
-    "seriesTitle": "右手にメス、左手に花束",
-    "authors": [
-      "フロンティアワークス 音声ドラマ"
-    ],
-    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02188000/BJ02187191_img_main.jpg",
-    "category": "SOU",
-    "rating": "all",
     "rank": 120,
     "rankList": "trend",
     "releasedAt": "2025-10-31T07:00:00.000Z",
@@ -3950,10 +3950,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 26124,
-        "TWD": 632,
-        "KRW_regular": 26124,
-        "TWD_regular": 632
+        "KRW": 26102,
+        "TWD": 635,
+        "KRW_regular": 26102,
+        "TWD_regular": 635
       }
     },
     "promo": null,

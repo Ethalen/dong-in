@@ -58,64 +58,6 @@
     ]
   },
   {
-    "key": "是你讓我無法呼吸",
-    "region": "TW",
-    "title": "是你讓我無法呼吸",
-    "cover": "https://taiwan-image.bookwalker.com.tw/product/291150/291150_1.jpg",
-    "authors": [
-      "澄谷ゼニコ"
-    ],
-    "category": "漫畫",
-    "releasedAt": "2022-11-07T00:00:00.000Z",
-    "updatedAt": "2026-04-14T00:00:00.000Z",
-    "sources": [
-      "bookwalker_tw",
-      "renta_tw"
-    ],
-    "multiStore": true,
-    "bestRank": 3,
-    "offers": [
-      {
-        "source": "bookwalker_tw",
-        "url": "https://www.bookwalker.com.tw/product/291150",
-        "title": "是你讓我無法呼吸 (5)",
-        "rank": 3,
-        "rankList": "rank",
-        "releasedAt": "2026-03-27T00:00:00.000Z",
-        "updatedAt": "2026-03-27T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 74,
-          "regular": 105,
-          "discountRate": 30,
-          "unit": "volume",
-          "rental": 13,
-          "isbn": "9786264452687",
-          "volume": 6
-        },
-        "promo": null
-      },
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/213151",
-        "title": "是你讓我無法呼吸",
-        "rank": null,
-        "rankList": "lookup",
-        "releasedAt": "2022-11-07T00:00:00.000Z",
-        "updatedAt": "2026-04-14T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 105,
-          "regular": 105,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 5
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
     "key": "膽大黨",
     "region": "TW",
     "title": "膽大黨",
@@ -1794,6 +1736,45 @@
     ]
   },
   {
+    "key": "是你讓我無法呼吸",
+    "region": "TW",
+    "title": "是你讓我無法呼吸",
+    "cover": "https://taiwan-image.bookwalker.com.tw/product/291150/291150_1.jpg",
+    "authors": [
+      "澄谷ゼニコ"
+    ],
+    "category": "漫畫",
+    "releasedAt": "2026-03-27T00:00:00.000Z",
+    "updatedAt": "2026-03-27T00:00:00.000Z",
+    "sources": [
+      "bookwalker_tw"
+    ],
+    "multiStore": false,
+    "bestRank": 3,
+    "offers": [
+      {
+        "source": "bookwalker_tw",
+        "url": "https://www.bookwalker.com.tw/product/291150",
+        "title": "是你讓我無法呼吸 (5)",
+        "rank": 3,
+        "rankList": "rank",
+        "releasedAt": "2026-03-27T00:00:00.000Z",
+        "updatedAt": "2026-03-27T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 74,
+          "regular": 105,
+          "discountRate": 30,
+          "unit": "volume",
+          "rental": 13,
+          "isbn": "9786264452687",
+          "volume": 6
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
     "key": "第13年的執著婚姻",
     "region": "TW",
     "title": "第13年的執著婚姻",
@@ -2049,43 +2030,6 @@
           "discountRate": 0,
           "unit": "volume",
           "volume": 9
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "說謊的葉月抑制不了對我的溺愛",
-    "region": "TW",
-    "title": "說謊的葉月抑制不了對我的溺愛",
-    "cover": "https://cover.myrenta.com/1376021.jpg",
-    "authors": [
-      "Matsumoto Uruko"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2025-08-18T00:00:00.000Z",
-    "updatedAt": "2026-10-19T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 9,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/680021",
-        "title": "說謊的葉月抑制不了對我的溺愛",
-        "rank": 9,
-        "rankList": "month",
-        "releasedAt": "2025-08-18T00:00:00.000Z",
-        "updatedAt": "2026-10-19T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 39,
-          "regular": 39,
-          "discountRate": 0,
-          "unit": "episode",
-          "volume": 18
         },
         "promo": null
       }
