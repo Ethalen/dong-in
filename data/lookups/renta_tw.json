@@ -86,6 +86,34 @@
   {
     "source": "renta_tw",
     "region": "TW",
+    "id": "275811",
+    "url": "https://tw.myrenta.com/item/275811",
+    "title": "現在的是哪一個多聞！？",
+    "seriesTitle": "現在的是哪一個多聞！？",
+    "authors": [
+      "師走ゆき"
+    ],
+    "cover": "https://cover.myrenta.com/727421.jpg",
+    "category": "少女漫畫",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2024-02-20T00:00:00.000Z",
+    "updatedAt": "2026-09-30T00:00:00.000Z",
+    "price": {
+      "currency": "TWD",
+      "current": 100,
+      "regular": 100,
+      "discountRate": 0,
+      "unit": "volume",
+      "volume": 10
+    },
+    "promo": null,
+    "titleKey": "現在的是哪一個多聞"
+  },
+  {
+    "source": "renta_tw",
+    "region": "TW",
     "id": "974841",
     "url": "https://tw.myrenta.com/item/974841",
     "title": "藍天與蜃景",
@@ -707,34 +735,6 @@
     },
     "promo": null,
     "titleKey": "難以承受的悸動是戀愛嗎"
-  },
-  {
-    "source": "renta_tw",
-    "region": "TW",
-    "id": "129161",
-    "url": "https://tw.myrenta.com/item/129161",
-    "title": "ONE PIECE～航海王～",
-    "seriesTitle": "ONE PIECE～航海王～",
-    "authors": [
-      "尾田栄一郎"
-    ],
-    "cover": "https://cover.myrenta.com/279621.jpg",
-    "category": "少年漫畫",
-    "rating": "all",
-    "rank": null,
-    "rankList": "lookup",
-    "releasedAt": "2019-11-07T00:00:00.000Z",
-    "updatedAt": "2026-08-20T00:00:00.000Z",
-    "price": {
-      "currency": "TWD",
-      "current": 80,
-      "regular": 80,
-      "discountRate": 0,
-      "unit": "volume",
-      "volume": 113
-    },
-    "promo": null,
-    "titleKey": "onepiece航海王"
   },
   {
     "source": "renta_tw",
