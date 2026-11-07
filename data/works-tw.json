@@ -100,8 +100,8 @@
         "source": "renta_tw",
         "url": "https://tw.myrenta.com/item/249771",
         "title": "膽大黨",
-        "rank": 17,
-        "rankList": "week",
+        "rank": null,
+        "rankList": "lookup",
         "releasedAt": "2023-10-26T00:00:00.000Z",
         "updatedAt": "2026-10-04T00:00:00.000Z",
         "price": {
@@ -190,13 +190,13 @@
       "renta_tw"
     ],
     "multiStore": true,
-    "bestRank": 5,
+    "bestRank": 8,
     "offers": [
       {
         "source": "renta_tw",
         "url": "https://tw.myrenta.com/item/129161",
         "title": "ONE PIECE～航海王～",
-        "rank": 5,
+        "rank": 8,
         "rankList": "week",
         "releasedAt": "2019-11-07T00:00:00.000Z",
         "updatedAt": "2026-11-05T00:00:00.000Z",
@@ -227,70 +227,6 @@
           "rental": 10,
           "isbn": null,
           "volume": 114
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "重生之後與前世戀人重新展開魔法學校生活可是好感度為0",
-    "region": "TW",
-    "title": "重生之後與前世戀人重新展開魔法學校生活※可是好感度為0",
-    "cover": "https://cover.myrenta.com/852271.jpg",
-    "authors": [
-      "白川蟻ん",
-      "六つ花えいこ",
-      "秋鹿ユギリ",
-      "アース・スターノベル",
-      "白川 蟻ん",
-      "六つ花 えいこ",
-      "秋鹿 ユギリ"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2024-06-27T00:00:00.000Z",
-    "updatedAt": "2026-03-05T00:00:00.000Z",
-    "sources": [
-      "bookwalker_tw",
-      "renta_tw"
-    ],
-    "multiStore": true,
-    "bestRank": 13,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/362051",
-        "title": "重生之後與前世戀人重新展開魔法學校生活※可是好感度為0",
-        "rank": 13,
-        "rankList": "week",
-        "releasedAt": "2024-06-27T00:00:00.000Z",
-        "updatedAt": "2026-03-05T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 105,
-          "regular": 105,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 4
-        },
-        "promo": null
-      },
-      {
-        "source": "bookwalker_tw",
-        "url": "https://www.bookwalker.com.tw/product/286602",
-        "title": "重生之後與前世戀人重新展開魔法學校生活※可是好感度為0 (4)",
-        "rank": 57,
-        "rankList": "rank",
-        "releasedAt": "2026-03-05T00:00:00.000Z",
-        "updatedAt": "2026-03-05T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 105,
-          "regular": 105,
-          "discountRate": 0,
-          "unit": "volume",
-          "rental": 13,
-          "isbn": null,
-          "volume": 4
         },
         "promo": null
       }
@@ -349,6 +285,64 @@
           "discountRate": 0,
           "unit": "volume",
           "volume": 23
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "皎潔深宵之月",
+    "region": "TW",
+    "title": "皎潔深宵之月",
+    "cover": "https://cover.myrenta.com/503831.jpg",
+    "authors": [
+      "山森三香"
+    ],
+    "category": "少女漫畫",
+    "releasedAt": "2022-04-14T00:00:00.000Z",
+    "updatedAt": "2026-09-17T00:00:00.000Z",
+    "sources": [
+      "bookwalker_tw",
+      "renta_tw"
+    ],
+    "multiStore": true,
+    "bestRank": 19,
+    "offers": [
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/197051",
+        "title": "皎潔深宵之月",
+        "rank": 19,
+        "rankList": "month",
+        "releasedAt": "2022-04-14T00:00:00.000Z",
+        "updatedAt": "2026-09-17T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 80,
+          "regular": 80,
+          "discountRate": 0,
+          "unit": "volume",
+          "volume": 10
+        },
+        "promo": null
+      },
+      {
+        "source": "bookwalker_tw",
+        "url": "https://www.bookwalker.com.tw/product/285571",
+        "title": "皎潔深宵之月 (9)",
+        "rank": 75,
+        "rankList": "rank",
+        "releasedAt": "2026-03-05T00:00:00.000Z",
+        "updatedAt": "2026-03-05T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 80,
+          "regular": 80,
+          "discountRate": 0,
+          "unit": "volume",
+          "rental": 10,
+          "isbn": null,
+          "volume": 10
         },
         "promo": null
       }
@@ -792,9 +786,9 @@
         "updatedAt": "2026-02-10T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 63,
+          "current": 105,
           "regular": 105,
-          "discountRate": 40,
+          "discountRate": 0,
           "unit": "volume",
           "rental": 13,
           "isbn": "9786264347396",
@@ -933,6 +927,70 @@
           "discountRate": 0,
           "unit": "volume",
           "volume": 1
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "重生之後與前世戀人重新展開魔法學校生活可是好感度為0",
+    "region": "TW",
+    "title": "重生之後與前世戀人重新展開魔法學校生活※可是好感度為0",
+    "cover": "https://taiwan-image.bookwalker.com.tw/product/286602/286602_1.jpg",
+    "authors": [
+      "白川蟻ん",
+      "六つ花えいこ",
+      "秋鹿ユギリ",
+      "アース・スターノベル",
+      "白川 蟻ん",
+      "六つ花 えいこ",
+      "秋鹿 ユギリ"
+    ],
+    "category": "漫畫",
+    "releasedAt": "2024-06-27T00:00:00.000Z",
+    "updatedAt": "2026-03-05T00:00:00.000Z",
+    "sources": [
+      "bookwalker_tw",
+      "renta_tw"
+    ],
+    "multiStore": true,
+    "bestRank": 57,
+    "offers": [
+      {
+        "source": "bookwalker_tw",
+        "url": "https://www.bookwalker.com.tw/product/286602",
+        "title": "重生之後與前世戀人重新展開魔法學校生活※可是好感度為0 (4)",
+        "rank": 57,
+        "rankList": "rank",
+        "releasedAt": "2026-03-05T00:00:00.000Z",
+        "updatedAt": "2026-03-05T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 105,
+          "regular": 105,
+          "discountRate": 0,
+          "unit": "volume",
+          "rental": 13,
+          "isbn": null,
+          "volume": 4
+        },
+        "promo": null
+      },
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/362051",
+        "title": "重生之後與前世戀人重新展開魔法學校生活※可是好感度為0",
+        "rank": null,
+        "rankList": "lookup",
+        "releasedAt": "2024-06-27T00:00:00.000Z",
+        "updatedAt": "2026-03-05T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 105,
+          "regular": 105,
+          "discountRate": 0,
+          "unit": "volume",
+          "volume": 4
         },
         "promo": null
       }
@@ -1107,64 +1165,6 @@
           "discountRate": 0,
           "unit": "volume",
           "volume": 21
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "皎潔深宵之月",
-    "region": "TW",
-    "title": "皎潔深宵之月",
-    "cover": "https://taiwan-image.bookwalker.com.tw/product/285571/285571_1.jpg",
-    "authors": [
-      "山森三香"
-    ],
-    "category": "漫畫",
-    "releasedAt": "2022-04-14T00:00:00.000Z",
-    "updatedAt": "2026-09-17T00:00:00.000Z",
-    "sources": [
-      "bookwalker_tw",
-      "renta_tw"
-    ],
-    "multiStore": true,
-    "bestRank": 75,
-    "offers": [
-      {
-        "source": "bookwalker_tw",
-        "url": "https://www.bookwalker.com.tw/product/285571",
-        "title": "皎潔深宵之月 (9)",
-        "rank": 75,
-        "rankList": "rank",
-        "releasedAt": "2026-03-05T00:00:00.000Z",
-        "updatedAt": "2026-03-05T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 80,
-          "regular": 80,
-          "discountRate": 0,
-          "unit": "volume",
-          "rental": 10,
-          "isbn": null,
-          "volume": 10
-        },
-        "promo": null
-      },
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/197051",
-        "title": "皎潔深宵之月",
-        "rank": null,
-        "rankList": "lookup",
-        "releasedAt": "2022-04-14T00:00:00.000Z",
-        "updatedAt": "2026-09-17T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 80,
-          "regular": 80,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 10
         },
         "promo": null
       }
@@ -1775,6 +1775,44 @@
     ]
   },
   {
+    "key": "致我深愛的未婚夫我們就此別過吧",
+    "region": "TW",
+    "title": "致我深愛的未婚夫，我們就此別過吧",
+    "cover": "https://cover.myrenta.com/1825001.jpg",
+    "authors": [
+      "維澄ヨウ",
+      "曽根原ツタ"
+    ],
+    "category": "少女漫畫",
+    "releasedAt": "2026-09-25T00:00:00.000Z",
+    "updatedAt": "2026-11-06T00:00:00.000Z",
+    "sources": [
+      "renta_tw"
+    ],
+    "multiStore": false,
+    "bestRank": 4,
+    "offers": [
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/966971",
+        "title": "致我深愛的未婚夫，我們就此別過吧",
+        "rank": 4,
+        "rankList": "month",
+        "releasedAt": "2026-09-25T00:00:00.000Z",
+        "updatedAt": "2026-11-06T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 39,
+          "regular": 39,
+          "discountRate": 0,
+          "unit": "episode",
+          "volume": 11
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
     "key": "第13年的執著婚姻",
     "region": "TW",
     "title": "第13年的執著婚姻",
@@ -1789,13 +1827,13 @@
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 4,
+    "bestRank": 5,
     "offers": [
       {
         "source": "renta_tw",
         "url": "https://tw.myrenta.com/item/730171",
         "title": "第13年的執著婚姻",
-        "rank": 4,
+        "rank": 5,
         "rankList": "month",
         "releasedAt": "2025-11-25T00:00:00.000Z",
         "updatedAt": "2026-10-02T00:00:00.000Z",
@@ -1812,16 +1850,17 @@
     ]
   },
   {
-    "key": "致我深愛的未婚夫我們就此別過吧",
+    "key": "重啟人生的千金小姐正在攻略龍帝陛下漫畫",
     "region": "TW",
-    "title": "致我深愛的未婚夫，我們就此別過吧",
-    "cover": "https://cover.myrenta.com/1825001.jpg",
+    "title": "重啟人生的千金小姐正在攻略龍帝陛下(漫畫)",
+    "cover": "https://cover.myrenta.com/698051.jpg",
     "authors": [
-      "維澄ヨウ",
-      "曽根原ツタ"
+      "柚アンコ",
+      "永瀬さらさ",
+      "藤未都也"
     ],
     "category": "少女漫畫",
-    "releasedAt": "2026-09-25T00:00:00.000Z",
+    "releasedAt": "2024-01-02T00:00:00.000Z",
     "updatedAt": "2026-11-06T00:00:00.000Z",
     "sources": [
       "renta_tw"
@@ -1831,19 +1870,19 @@
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/966971",
-        "title": "致我深愛的未婚夫，我們就此別過吧",
+        "url": "https://tw.myrenta.com/item/268651",
+        "title": "重啟人生的千金小姐正在攻略龍帝陛下(漫畫)",
         "rank": 5,
-        "rankList": "month",
-        "releasedAt": "2026-09-25T00:00:00.000Z",
+        "rankList": "week",
+        "releasedAt": "2024-01-02T00:00:00.000Z",
         "updatedAt": "2026-11-06T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 39,
-          "regular": 39,
+          "current": 98,
+          "regular": 98,
           "discountRate": 0,
-          "unit": "episode",
-          "volume": 11
+          "unit": "volume",
+          "volume": 8
         },
         "promo": null
       }
@@ -1961,16 +2000,16 @@
     ]
   },
   {
-    "key": "裝備仔",
+    "key": "戀上換裝娃娃",
     "region": "TW",
-    "title": "裝備仔",
-    "cover": "https://cover.myrenta.com/1399831.jpg",
+    "title": "戀上換裝娃娃",
+    "cover": "https://cover.myrenta.com/1786941.jpg",
     "authors": [
-      "Team Argo"
+      "福田晋一"
     ],
     "category": "少年漫畫",
-    "releasedAt": "2025-09-22T00:00:00.000Z",
-    "updatedAt": "2026-10-23T00:00:00.000Z",
+    "releasedAt": "2026-08-20T00:00:00.000Z",
+    "updatedAt": "2026-11-05T00:00:00.000Z",
     "sources": [
       "renta_tw"
     ],
@@ -1979,19 +2018,19 @@
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/693741",
-        "title": "裝備仔",
+        "url": "https://tw.myrenta.com/item/945021",
+        "title": "戀上換裝娃娃",
         "rank": 7,
         "rankList": "week",
-        "releasedAt": "2025-09-22T00:00:00.000Z",
-        "updatedAt": "2026-10-23T00:00:00.000Z",
+        "releasedAt": "2026-08-20T00:00:00.000Z",
+        "updatedAt": "2026-11-05T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 300,
-          "regular": 300,
+          "current": 105,
+          "regular": 105,
           "discountRate": 0,
           "unit": "volume",
-          "volume": 5
+          "volume": 15
         },
         "promo": null
       }
@@ -2035,38 +2074,74 @@
     ]
   },
   {
-    "key": "惡黨一家的掌上千金就算轉生到女性向遊戲裡也還是黑道大小姐comic",
+    "key": "約定的灰姑娘",
     "region": "TW",
-    "title": "惡黨一家的掌上千金，就算轉生到女性向遊戲裡也還是黑道大小姐。@COMIC",
-    "cover": "https://cover.myrenta.com/1658001.jpg",
+    "title": "約定的灰姑娘",
+    "cover": "https://cover.myrenta.com/1529961.jpg",
     "authors": [
-      "雨川透子",
-      "轟斗ソラ"
+      "橘オレコ"
     ],
     "category": "少女漫畫",
-    "releasedAt": "2026-04-29T00:00:00.000Z",
-    "updatedAt": "2026-10-28T00:00:00.000Z",
+    "releasedAt": "2026-01-28T00:00:00.000Z",
+    "updatedAt": "2026-10-01T00:00:00.000Z",
     "sources": [
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 8,
+    "bestRank": 10,
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/860981",
-        "title": "惡黨一家的掌上千金，就算轉生到女性向遊戲裡也還是黑道大小姐。@COMIC",
-        "rank": 8,
-        "rankList": "week",
-        "releasedAt": "2026-04-29T00:00:00.000Z",
-        "updatedAt": "2026-10-28T00:00:00.000Z",
+        "url": "https://tw.myrenta.com/item/777631",
+        "title": "約定的灰姑娘",
+        "rank": 10,
+        "rankList": "month",
+        "releasedAt": "2026-01-28T00:00:00.000Z",
+        "updatedAt": "2026-10-01T00:00:00.000Z",
         "price": {
           "currency": "TWD",
           "current": 98,
           "regular": 98,
           "discountRate": 0,
           "unit": "volume",
-          "volume": 2
+          "volume": 10
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "裝備仔",
+    "region": "TW",
+    "title": "裝備仔",
+    "cover": "https://cover.myrenta.com/1399831.jpg",
+    "authors": [
+      "Team Argo"
+    ],
+    "category": "少年漫畫",
+    "releasedAt": "2025-09-22T00:00:00.000Z",
+    "updatedAt": "2026-10-23T00:00:00.000Z",
+    "sources": [
+      "renta_tw"
+    ],
+    "multiStore": false,
+    "bestRank": 10,
+    "offers": [
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/693741",
+        "title": "裝備仔",
+        "rank": 10,
+        "rankList": "week",
+        "releasedAt": "2025-09-22T00:00:00.000Z",
+        "updatedAt": "2026-10-23T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 300,
+          "regular": 300,
+          "discountRate": 0,
+          "unit": "volume",
+          "volume": 5
         },
         "promo": null
       }
@@ -2087,13 +2162,13 @@
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 9,
+    "bestRank": 11,
     "offers": [
       {
         "source": "renta_tw",
         "url": "https://tw.myrenta.com/item/171581",
         "title": "影宅 電子全彩版",
-        "rank": 9,
+        "rank": 11,
         "rankList": "month",
         "releasedAt": "2021-04-26T00:00:00.000Z",
         "updatedAt": "2026-06-10T00:00:00.000Z",
@@ -2110,16 +2185,17 @@
     ]
   },
   {
-    "key": "要想談戀愛還早了100年",
+    "key": "拯救替身千金的是冷酷無情冰之王子的愛",
     "region": "TW",
-    "title": "要想談戀愛還早了100年",
-    "cover": "https://cover.myrenta.com/1224721.jpg",
+    "title": "拯救替身千金的是冷酷無情冰之王子的愛",
+    "cover": "https://cover.myrenta.com/1254161.jpg",
     "authors": [
-      "Kusunoki Moko"
+      "黒川くさび",
+      "やきいもほくほく"
     ],
     "category": "少女漫畫",
-    "releasedAt": "2025-04-29T00:00:00.000Z",
-    "updatedAt": "2026-07-22T00:00:00.000Z",
+    "releasedAt": "2025-05-25T00:00:00.000Z",
+    "updatedAt": "2026-08-31T00:00:00.000Z",
     "sources": [
       "renta_tw"
     ],
@@ -2128,12 +2204,12 @@
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/613091",
-        "title": "要想談戀愛還早了100年",
+        "url": "https://tw.myrenta.com/item/625611",
+        "title": "拯救替身千金的是冷酷無情冰之王子的愛",
         "rank": 11,
-        "rankList": "month",
-        "releasedAt": "2025-04-29T00:00:00.000Z",
-        "updatedAt": "2026-07-22T00:00:00.000Z",
+        "rankList": "week",
+        "releasedAt": "2025-05-25T00:00:00.000Z",
+        "updatedAt": "2026-08-31T00:00:00.000Z",
         "price": {
           "currency": "TWD",
           "current": 39,
@@ -2141,43 +2217,6 @@
           "discountRate": 0,
           "unit": "episode",
           "volume": 21
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "約定的灰姑娘",
-    "region": "TW",
-    "title": "約定的灰姑娘",
-    "cover": "https://cover.myrenta.com/1529961.jpg",
-    "authors": [
-      "橘オレコ"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2026-01-28T00:00:00.000Z",
-    "updatedAt": "2026-10-01T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 12,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/777631",
-        "title": "約定的灰姑娘",
-        "rank": 12,
-        "rankList": "month",
-        "releasedAt": "2026-01-28T00:00:00.000Z",
-        "updatedAt": "2026-10-01T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 98,
-          "regular": 98,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 10
         },
         "promo": null
       }
@@ -2198,13 +2237,13 @@
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 13,
+    "bestRank": 12,
     "offers": [
       {
         "source": "renta_tw",
         "url": "https://tw.myrenta.com/item/131141",
         "title": "我們的愛情不正常",
-        "rank": 13,
+        "rank": 12,
         "rankList": "month",
         "releasedAt": "2019-11-29T00:00:00.000Z",
         "updatedAt": "2026-10-14T00:00:00.000Z",
@@ -2215,6 +2254,43 @@
           "discountRate": 0,
           "unit": "volume",
           "volume": 12
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
+    "key": "要想談戀愛還早了100年",
+    "region": "TW",
+    "title": "要想談戀愛還早了100年",
+    "cover": "https://cover.myrenta.com/1224721.jpg",
+    "authors": [
+      "Kusunoki Moko"
+    ],
+    "category": "少女漫畫",
+    "releasedAt": "2025-04-29T00:00:00.000Z",
+    "updatedAt": "2026-07-22T00:00:00.000Z",
+    "sources": [
+      "renta_tw"
+    ],
+    "multiStore": false,
+    "bestRank": 13,
+    "offers": [
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/613091",
+        "title": "要想談戀愛還早了100年",
+        "rank": 13,
+        "rankList": "month",
+        "releasedAt": "2025-04-29T00:00:00.000Z",
+        "updatedAt": "2026-07-22T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 39,
+          "regular": 39,
+          "discountRate": 0,
+          "unit": "episode",
+          "volume": 21
         },
         "promo": null
       }
@@ -2260,43 +2336,6 @@
     ]
   },
   {
-    "key": "替嫁新娘的我卻被不擅示愛的邊境伯爵溺愛有加",
-    "region": "TW",
-    "title": "替嫁新娘的我，卻被不擅示愛的邊境伯爵溺愛有加（單話）",
-    "cover": "https://cover.myrenta.com/1698911.jpg",
-    "authors": [
-      "一ノ瀬かおる"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2026-06-09T00:00:00.000Z",
-    "updatedAt": "2026-10-31T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 14,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/885901",
-        "title": "替嫁新娘的我，卻被不擅示愛的邊境伯爵溺愛有加（單話）",
-        "rank": 14,
-        "rankList": "week",
-        "releasedAt": "2026-06-09T00:00:00.000Z",
-        "updatedAt": "2026-10-31T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 30,
-          "regular": 30,
-          "discountRate": 0,
-          "unit": "episode",
-          "volume": 8
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
     "key": "與土共舞的艾蕾娜公主",
     "region": "TW",
     "title": "與土共舞的艾蕾娜公主",
@@ -2334,38 +2373,38 @@
     ]
   },
   {
-    "key": "大小姐渴望悠閒度日",
+    "key": "最後可以再拜託您一件事嗎",
     "region": "TW",
-    "title": "大小姐渴望悠閒度日。",
-    "cover": "https://cover.myrenta.com/825441.jpg",
+    "title": "最後可以再拜託您一件事嗎？",
+    "cover": "https://cover.myrenta.com/754791.jpg",
     "authors": [
-      "三月べに",
-      "梶山ミカ"
+      "鳳ナナ",
+      "ほおのきソラ"
     ],
     "category": "少女漫畫",
-    "releasedAt": "2024-06-12T00:00:00.000Z",
-    "updatedAt": "2026-10-28T00:00:00.000Z",
+    "releasedAt": "2024-04-02T00:00:00.000Z",
+    "updatedAt": "2026-10-23T00:00:00.000Z",
     "sources": [
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 15,
+    "bestRank": 16,
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/341091",
-        "title": "大小姐渴望悠閒度日。",
-        "rank": 15,
-        "rankList": "week",
-        "releasedAt": "2024-06-12T00:00:00.000Z",
-        "updatedAt": "2026-10-28T00:00:00.000Z",
+        "url": "https://tw.myrenta.com/item/290091",
+        "title": "最後可以再拜託您一件事嗎？",
+        "rank": 16,
+        "rankList": "month",
+        "releasedAt": "2024-04-02T00:00:00.000Z",
+        "updatedAt": "2026-10-23T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 100,
-          "regular": 100,
+          "current": 115,
+          "regular": 115,
           "discountRate": 0,
           "unit": "volume",
-          "volume": 5
+          "volume": 9
         },
         "promo": null
       }
@@ -2388,13 +2427,13 @@
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 16,
+    "bestRank": 17,
     "offers": [
       {
         "source": "renta_tw",
         "url": "https://tw.myrenta.com/item/189491",
         "title": "雖然作為救世主被召喚到異世界，但因年過30，只好來偷開咖啡廳。",
-        "rank": 16,
+        "rank": 17,
         "rankList": "month",
         "releasedAt": "2021-12-30T00:00:00.000Z",
         "updatedAt": "2026-08-26T00:00:00.000Z",
@@ -2405,119 +2444,6 @@
           "discountRate": 0,
           "unit": "volume",
           "volume": 5
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "冷酷同期的溺愛癖好",
-    "region": "TW",
-    "title": "冷酷同期的溺愛癖好",
-    "cover": "https://cover.myrenta.com/674921.jpg",
-    "authors": [
-      "Peki Aoi"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2023-11-20T00:00:00.000Z",
-    "updatedAt": "2026-06-23T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 17,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/257351",
-        "title": "冷酷同期的溺愛癖好",
-        "rank": 17,
-        "rankList": "month",
-        "releasedAt": "2023-11-20T00:00:00.000Z",
-        "updatedAt": "2026-06-23T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 39,
-          "regular": 39,
-          "discountRate": 0,
-          "unit": "episode",
-          "volume": 19
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "最後可以再拜託您一件事嗎",
-    "region": "TW",
-    "title": "最後可以再拜託您一件事嗎？",
-    "cover": "https://cover.myrenta.com/754791.jpg",
-    "authors": [
-      "鳳ナナ",
-      "ほおのきソラ"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2024-04-02T00:00:00.000Z",
-    "updatedAt": "2026-10-23T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 18,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/290091",
-        "title": "最後可以再拜託您一件事嗎？",
-        "rank": 18,
-        "rankList": "month",
-        "releasedAt": "2024-04-02T00:00:00.000Z",
-        "updatedAt": "2026-10-23T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 115,
-          "regular": 115,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 9
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "一對一的甜點課程",
-    "region": "TW",
-    "title": "一對一的甜點課程",
-    "cover": "https://cover.myrenta.com/396942.jpg",
-    "authors": [
-      "富絵",
-      "姫月鏡香"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2025-09-08T00:00:00.000Z",
-    "updatedAt": "2025-12-20T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 19,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/55022",
-        "title": "一對一的甜點課程",
-        "rank": 19,
-        "rankList": "week",
-        "releasedAt": "2025-09-08T00:00:00.000Z",
-        "updatedAt": "2025-12-20T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 40,
-          "regular": 40,
-          "discountRate": 0,
-          "unit": "episode",
-          "volume": 6
         },
         "promo": null
       }
@@ -2561,16 +2487,17 @@
     ]
   },
   {
-    "key": "反派貴族應有的必要之物",
+    "key": "眷顧之子的結婚明明是偽裝契約精英騎士大人卻很寵愛我",
     "region": "TW",
-    "title": "反派貴族應有的必要之物（單話）",
-    "cover": "https://cover.myrenta.com/1299131.jpg",
+    "title": "眷顧之子的結婚～明明是偽裝契約，精英騎士大人卻很寵愛我～",
+    "cover": "https://cover.myrenta.com/1847411.jpg",
     "authors": [
-      "夏野うみ"
+      "大空あいか",
+      "露原そら"
     ],
-    "category": "少年漫畫",
-    "releasedAt": "2025-06-23T00:00:00.000Z",
-    "updatedAt": "2026-09-19T00:00:00.000Z",
+    "category": "少女漫畫",
+    "releasedAt": "2026-10-25T00:00:00.000Z",
+    "updatedAt": "2026-11-06T00:00:00.000Z",
     "sources": [
       "renta_tw"
     ],
@@ -2579,19 +2506,19 @@
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/647701",
-        "title": "反派貴族應有的必要之物（單話）",
+        "url": "https://tw.myrenta.com/item/981831",
+        "title": "眷顧之子的結婚～明明是偽裝契約，精英騎士大人卻很寵愛我～",
         "rank": 20,
         "rankList": "week",
-        "releasedAt": "2025-06-23T00:00:00.000Z",
-        "updatedAt": "2026-09-19T00:00:00.000Z",
+        "releasedAt": "2026-10-25T00:00:00.000Z",
+        "updatedAt": "2026-11-06T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 40,
-          "regular": 40,
+          "current": 39,
+          "regular": 39,
           "discountRate": 0,
           "unit": "episode",
-          "volume": 21
+          "volume": 7
         },
         "promo": null
       }
@@ -2635,6 +2562,44 @@
     ]
   },
   {
+    "key": "葬送的芙莉蓮",
+    "region": "TW",
+    "title": "葬送的芙莉蓮",
+    "cover": "https://cover.myrenta.com/458761.jpg",
+    "authors": [
+      "山田鐘人",
+      "阿部司"
+    ],
+    "category": "少年漫畫",
+    "releasedAt": "2021-08-12T00:00:00.000Z",
+    "updatedAt": "2026-04-16T00:00:00.000Z",
+    "sources": [
+      "renta_tw"
+    ],
+    "multiStore": false,
+    "bestRank": 22,
+    "offers": [
+      {
+        "source": "renta_tw",
+        "url": "https://tw.myrenta.com/item/179661",
+        "title": "葬送的芙莉蓮",
+        "rank": 22,
+        "rankList": "month",
+        "releasedAt": "2021-08-12T00:00:00.000Z",
+        "updatedAt": "2026-04-16T00:00:00.000Z",
+        "price": {
+          "currency": "TWD",
+          "current": 80,
+          "regular": 80,
+          "discountRate": 0,
+          "unit": "volume",
+          "volume": 15
+        },
+        "promo": null
+      }
+    ]
+  },
+  {
     "key": "龍的獻祭新娘關於身為祭品的我如何獲得幸福",
     "region": "TW",
     "title": "龍的獻祭新娘～關於身為祭品的我如何獲得幸福～",
@@ -2650,13 +2615,13 @@
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 21,
+    "bestRank": 22,
     "offers": [
       {
         "source": "renta_tw",
         "url": "https://tw.myrenta.com/item/695091",
         "title": "龍的獻祭新娘～關於身為祭品的我如何獲得幸福～",
-        "rank": 21,
+        "rank": 22,
         "rankList": "week",
         "releasedAt": "2025-09-22T00:00:00.000Z",
         "updatedAt": "2026-10-09T00:00:00.000Z",
@@ -2687,13 +2652,13 @@
       "renta_tw"
     ],
     "multiStore": false,
-    "bestRank": 22,
+    "bestRank": 23,
     "offers": [
       {
         "source": "renta_tw",
         "url": "https://tw.myrenta.com/item/207191",
         "title": "WIND BREAKER—防風少年—",
-        "rank": 22,
+        "rank": 23,
         "rankList": "month",
         "releasedAt": "2022-08-08T00:00:00.000Z",
         "updatedAt": "2026-07-24T00:00:00.000Z",
@@ -2710,55 +2675,16 @@
     ]
   },
   {
-    "key": "重啟人生的千金小姐正在攻略龍帝陛下漫畫",
+    "key": "反派貴族應有的必要之物",
     "region": "TW",
-    "title": "重啟人生的千金小姐正在攻略龍帝陛下(漫畫)",
-    "cover": "https://cover.myrenta.com/698051.jpg",
+    "title": "反派貴族應有的必要之物（單話）",
+    "cover": "https://cover.myrenta.com/1299131.jpg",
     "authors": [
-      "柚アンコ",
-      "永瀬さらさ",
-      "藤未都也"
+      "夏野うみ"
     ],
-    "category": "少女漫畫",
-    "releasedAt": "2024-01-02T00:00:00.000Z",
-    "updatedAt": "2026-11-06T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 22,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/268651",
-        "title": "重啟人生的千金小姐正在攻略龍帝陛下(漫畫)",
-        "rank": 22,
-        "rankList": "week",
-        "releasedAt": "2024-01-02T00:00:00.000Z",
-        "updatedAt": "2026-11-06T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 98,
-          "regular": 98,
-          "discountRate": 0,
-          "unit": "volume",
-          "volume": 8
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "珍奇動物的獸醫",
-    "region": "TW",
-    "title": "珍奇動物的獸醫（單話）",
-    "cover": "https://cover.myrenta.com/1368391.jpg",
-    "authors": [
-      "二宮香乃"
-    ],
-    "category": "青年漫畫",
-    "releasedAt": "2025-08-09T00:00:00.000Z",
-    "updatedAt": "2026-10-09T00:00:00.000Z",
+    "category": "少年漫畫",
+    "releasedAt": "2025-06-23T00:00:00.000Z",
+    "updatedAt": "2026-09-19T00:00:00.000Z",
     "sources": [
       "renta_tw"
     ],
@@ -2767,35 +2693,36 @@
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/675831",
-        "title": "珍奇動物的獸醫（單話）",
+        "url": "https://tw.myrenta.com/item/647701",
+        "title": "反派貴族應有的必要之物（單話）",
         "rank": 23,
         "rankList": "week",
-        "releasedAt": "2025-08-09T00:00:00.000Z",
-        "updatedAt": "2026-10-09T00:00:00.000Z",
+        "releasedAt": "2025-06-23T00:00:00.000Z",
+        "updatedAt": "2026-09-19T00:00:00.000Z",
         "price": {
           "currency": "TWD",
           "current": 40,
           "regular": 40,
           "discountRate": 0,
           "unit": "episode",
-          "volume": 17
+          "volume": 21
         },
         "promo": null
       }
     ]
   },
   {
-    "key": "極致軟弱千金小姐不小心答應了精明未婚夫的賭局漫畫",
+    "key": "惡黨一家的掌上千金就算轉生到女性向遊戲裡也還是黑道大小姐comic",
     "region": "TW",
-    "title": "極致軟弱千金小姐，不小心答應了精明未婚夫的賭局(漫畫)",
-    "cover": "https://cover.myrenta.com/802841.jpg",
+    "title": "惡黨一家的掌上千金，就算轉生到女性向遊戲裡也還是黑道大小姐。@COMIC",
+    "cover": "https://cover.myrenta.com/1658001.jpg",
     "authors": [
-      "村田あじ"
+      "雨川透子",
+      "轟斗ソラ"
     ],
     "category": "少女漫畫",
-    "releasedAt": "2024-05-18T00:00:00.000Z",
-    "updatedAt": "2026-04-13T00:00:00.000Z",
+    "releasedAt": "2026-04-29T00:00:00.000Z",
+    "updatedAt": "2026-10-28T00:00:00.000Z",
     "sources": [
       "renta_tw"
     ],
@@ -2804,57 +2731,19 @@
     "offers": [
       {
         "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/329511",
-        "title": "極致軟弱千金小姐，不小心答應了精明未婚夫的賭局(漫畫)",
-        "rank": 24,
-        "rankList": "month",
-        "releasedAt": "2024-05-18T00:00:00.000Z",
-        "updatedAt": "2026-04-13T00:00:00.000Z",
-        "price": {
-          "currency": "TWD",
-          "current": 89,
-          "regular": 105,
-          "discountRate": 15,
-          "unit": "volume",
-          "volume": 4
-        },
-        "promo": null
-      }
-    ]
-  },
-  {
-    "key": "眷顧之子的結婚明明是偽裝契約精英騎士大人卻很寵愛我",
-    "region": "TW",
-    "title": "眷顧之子的結婚～明明是偽裝契約，精英騎士大人卻很寵愛我～",
-    "cover": "https://cover.myrenta.com/1847411.jpg",
-    "authors": [
-      "大空あいか",
-      "露原そら"
-    ],
-    "category": "少女漫畫",
-    "releasedAt": "2026-10-25T00:00:00.000Z",
-    "updatedAt": "2026-11-06T00:00:00.000Z",
-    "sources": [
-      "renta_tw"
-    ],
-    "multiStore": false,
-    "bestRank": 24,
-    "offers": [
-      {
-        "source": "renta_tw",
-        "url": "https://tw.myrenta.com/item/981831",
-        "title": "眷顧之子的結婚～明明是偽裝契約，精英騎士大人卻很寵愛我～",
+        "url": "https://tw.myrenta.com/item/860981",
+        "title": "惡黨一家的掌上千金，就算轉生到女性向遊戲裡也還是黑道大小姐。@COMIC",
         "rank": 24,
         "rankList": "week",
-        "releasedAt": "2026-10-25T00:00:00.000Z",
-        "updatedAt": "2026-11-06T00:00:00.000Z",
+        "releasedAt": "2026-04-29T00:00:00.000Z",
+        "updatedAt": "2026-10-28T00:00:00.000Z",
         "price": {
           "currency": "TWD",
-          "current": 39,
-          "regular": 39,
+          "current": 98,
+          "regular": 98,
           "discountRate": 0,
-          "unit": "episode",
-          "volume": 7
+          "unit": "volume",
+          "volume": 2
         },
         "promo": null
       }
