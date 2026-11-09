@@ -23,9 +23,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16981,
+        "KRW": 17010,
         "TWD": 410,
-        "KRW_regular": 16981,
+        "KRW_regular": 17010,
         "TWD_regular": 410
       }
     },
@@ -56,9 +56,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16981,
+        "KRW": 17010,
         "TWD": 410,
-        "KRW_regular": 16981,
+        "KRW_regular": 17010,
         "TWD_regular": 410
       }
     },
@@ -89,9 +89,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
@@ -122,9 +122,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
@@ -155,47 +155,14 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
     "promo": null,
     "titleKey": "葵椿コスモの学園ラジオ編"
-  },
-  {
-    "source": "dlsite",
-    "region": "GLOBAL",
-    "id": "RJ01555760",
-    "url": "https://www.dlsite.com/garumani/work/=/product_id/RJ01555760.html",
-    "title": "【オンエア！ASMR】祈・あずき・巴のお料理編",
-    "seriesTitle": "【オンエア！ASMR】祈・あずき・巴のお料理編",
-    "authors": [
-      "coly"
-    ],
-    "cover": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01556000/RJ01555760_img_main.jpg",
-    "category": "SOU",
-    "rating": "all",
-    "rank": 6,
-    "rankList": "trend",
-    "releasedAt": "2026-02-13T15:00:00.000Z",
-    "updatedAt": "2026-02-13T15:00:00.000Z",
-    "price": {
-      "currency": "JPY",
-      "current": 2200,
-      "regular": 2200,
-      "discountRate": 0,
-      "unit": "work",
-      "local": {
-        "KRW": 18868,
-        "TWD": 455,
-        "KRW_regular": 18868,
-        "TWD_regular": 455
-      }
-    },
-    "promo": null,
-    "titleKey": "祈あずき巴のお料理編"
   },
   {
     "source": "dlsite",
@@ -210,7 +177,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02952000/BJ02951036_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 7,
+    "rank": 6,
     "rankList": "trend",
     "releasedAt": "2026-09-24T07:00:00.000Z",
     "updatedAt": "2026-09-24T07:00:00.000Z",
@@ -221,14 +188,47 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
     "promo": null,
     "titleKey": "obeymeasmrbirthdayseries"
+  },
+  {
+    "source": "dlsite",
+    "region": "GLOBAL",
+    "id": "RJ01555760",
+    "url": "https://www.dlsite.com/garumani/work/=/product_id/RJ01555760.html",
+    "title": "【オンエア！ASMR】祈・あずき・巴のお料理編",
+    "seriesTitle": "【オンエア！ASMR】祈・あずき・巴のお料理編",
+    "authors": [
+      "coly"
+    ],
+    "cover": "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01556000/RJ01555760_img_main.jpg",
+    "category": "SOU",
+    "rating": "all",
+    "rank": 7,
+    "rankList": "trend",
+    "releasedAt": "2026-02-13T15:00:00.000Z",
+    "updatedAt": "2026-02-13T15:00:00.000Z",
+    "price": {
+      "currency": "JPY",
+      "current": 2200,
+      "regular": 2200,
+      "discountRate": 0,
+      "unit": "work",
+      "local": {
+        "KRW": 18900,
+        "TWD": 455,
+        "KRW_regular": 18900,
+        "TWD_regular": 455
+      }
+    },
+    "promo": null,
+    "titleKey": "祈あずき巴のお料理編"
   },
   {
     "source": "dlsite",
@@ -254,9 +254,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
@@ -287,9 +287,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
@@ -320,9 +320,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 22642,
+        "KRW": 22680,
         "TWD": 547,
-        "KRW_regular": 22642,
+        "KRW_regular": 22680,
         "TWD_regular": 547
       }
     },
@@ -353,9 +353,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 59434,
+        "KRW": 59536,
         "TWD": 1435,
-        "KRW_regular": 59434,
+        "KRW_regular": 59536,
         "TWD_regular": 1435
       }
     },
@@ -386,9 +386,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 35849,
+        "KRW": 35911,
         "TWD": 865,
-        "KRW_regular": 35849,
+        "KRW_regular": 35911,
         "TWD_regular": 865
       }
     },
@@ -419,10 +419,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 39623,
-        "TWD": 957,
-        "KRW_regular": 39623,
-        "TWD_regular": 957
+        "KRW": 39691,
+        "TWD": 956,
+        "KRW_regular": 39691,
+        "TWD_regular": 956
       }
     },
     "promo": null,
@@ -452,9 +452,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 53774,
+        "KRW": 53866,
         "TWD": 1298,
-        "KRW_regular": 53774,
+        "KRW_regular": 53866,
         "TWD_regular": 1298
       }
     },
@@ -485,9 +485,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
@@ -518,9 +518,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
@@ -551,9 +551,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 33962,
+        "KRW": 34021,
         "TWD": 820,
-        "KRW_regular": 33962,
+        "KRW_regular": 34021,
         "TWD_regular": 820
       }
     },
@@ -584,9 +584,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -617,9 +617,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -650,9 +650,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 44340,
+        "KRW": 44416,
         "TWD": 1070,
-        "KRW_regular": 44340,
+        "KRW_regular": 44416,
         "TWD_regular": 1070
       }
     },
@@ -683,9 +683,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 14151,
+        "KRW": 14175,
         "TWD": 342,
-        "KRW_regular": 14151,
+        "KRW_regular": 14175,
         "TWD_regular": 342
       }
     },
@@ -716,9 +716,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
@@ -749,9 +749,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 45283,
+        "KRW": 45361,
         "TWD": 1093,
-        "KRW_regular": 45283,
+        "KRW_regular": 45361,
         "TWD_regular": 1093
       }
     },
@@ -782,9 +782,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
@@ -815,9 +815,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
@@ -848,9 +848,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 35849,
+        "KRW": 35911,
         "TWD": 865,
-        "KRW_regular": 35849,
+        "KRW_regular": 35911,
         "TWD_regular": 865
       }
     },
@@ -881,10 +881,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 39623,
-        "TWD": 957,
-        "KRW_regular": 39623,
-        "TWD_regular": 957
+        "KRW": 39691,
+        "TWD": 956,
+        "KRW_regular": 39691,
+        "TWD_regular": 956
       }
     },
     "promo": null,
@@ -914,9 +914,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 37736,
+        "KRW": 37801,
         "TWD": 911,
-        "KRW_regular": 37736,
+        "KRW_regular": 37801,
         "TWD_regular": 911
       }
     },
@@ -947,9 +947,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 42453,
+        "KRW": 42526,
         "TWD": 1025,
-        "KRW_regular": 42453,
+        "KRW_regular": 42526,
         "TWD_regular": 1025
       }
     },
@@ -980,9 +980,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -1013,9 +1013,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 37736,
+        "KRW": 37801,
         "TWD": 911,
-        "KRW_regular": 37736,
+        "KRW_regular": 37801,
         "TWD_regular": 911
       }
     },
@@ -1046,9 +1046,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -1079,9 +1079,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16981,
+        "KRW": 17010,
         "TWD": 410,
-        "KRW_regular": 16981,
+        "KRW_regular": 17010,
         "TWD_regular": 410
       }
     },
@@ -1112,9 +1112,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16981,
+        "KRW": 17010,
         "TWD": 410,
-        "KRW_regular": 16981,
+        "KRW_regular": 17010,
         "TWD_regular": 410
       }
     },
@@ -1145,10 +1145,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 51887,
-        "TWD": 1253,
-        "KRW_regular": 51887,
-        "TWD_regular": 1253
+        "KRW": 51976,
+        "TWD": 1252,
+        "KRW_regular": 51976,
+        "TWD_regular": 1252
       }
     },
     "promo": null,
@@ -1178,9 +1178,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 14151,
+        "KRW": 14175,
         "TWD": 342,
-        "KRW_regular": 14151,
+        "KRW_regular": 14175,
         "TWD_regular": 342
       }
     },
@@ -1211,9 +1211,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -1244,9 +1244,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 44340,
+        "KRW": 44416,
         "TWD": 1070,
-        "KRW_regular": 44340,
+        "KRW_regular": 44416,
         "TWD_regular": 1070
       }
     },
@@ -1277,9 +1277,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 28302,
+        "KRW": 28351,
         "TWD": 683,
-        "KRW_regular": 28302,
+        "KRW_regular": 28351,
         "TWD_regular": 683
       }
     },
@@ -1310,9 +1310,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
@@ -1343,9 +1343,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -1376,9 +1376,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16981,
+        "KRW": 17010,
         "TWD": 410,
-        "KRW_regular": 16981,
+        "KRW_regular": 17010,
         "TWD_regular": 410
       }
     },
@@ -1409,9 +1409,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 32075,
+        "KRW": 32131,
         "TWD": 774,
-        "KRW_regular": 32075,
+        "KRW_regular": 32131,
         "TWD_regular": 774
       }
     },
@@ -1442,9 +1442,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 47170,
+        "KRW": 47251,
         "TWD": 1139,
-        "KRW_regular": 47170,
+        "KRW_regular": 47251,
         "TWD_regular": 1139
       }
     },
@@ -1475,9 +1475,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -1508,9 +1508,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -1541,9 +1541,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -1574,9 +1574,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -1607,9 +1607,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 1887,
+        "KRW": 1890,
         "TWD": 46,
-        "KRW_regular": 1887,
+        "KRW_regular": 1890,
         "TWD_regular": 46
       }
     },
@@ -1640,9 +1640,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 26415,
+        "KRW": 26460,
         "TWD": 638,
-        "KRW_regular": 26415,
+        "KRW_regular": 26460,
         "TWD_regular": 638
       }
     },
@@ -1673,47 +1673,14 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 1887,
+        "KRW": 1890,
         "TWD": 46,
-        "KRW_regular": 1887,
+        "KRW_regular": 1890,
         "TWD_regular": 46
       }
     },
     "promo": null,
     "titleKey": "幻想怪奇時代劇"
-  },
-  {
-    "source": "dlsite",
-    "region": "GLOBAL",
-    "id": "BJ02225307",
-    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ02225307.html",
-    "title": "【特典スマホ用壁紙付き】#Sweet IRL -ストリーマー Re1ro-",
-    "seriesTitle": "#Sweet IRL",
-    "authors": [
-      "ステラワース"
-    ],
-    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02226000/BJ02225307_img_main.jpg",
-    "category": "SOU",
-    "rating": "all",
-    "rank": 52,
-    "rankList": "trend",
-    "releasedAt": "2026-03-05T15:00:00.000Z",
-    "updatedAt": "2026-03-05T15:00:00.000Z",
-    "price": {
-      "currency": "JPY",
-      "current": 3300,
-      "regular": 3300,
-      "discountRate": 0,
-      "unit": "work",
-      "local": {
-        "KRW": 28302,
-        "TWD": 683,
-        "KRW_regular": 28302,
-        "TWD_regular": 683
-      }
-    },
-    "promo": null,
-    "titleKey": "sweetirl"
   },
   {
     "source": "dlsite",
@@ -1728,7 +1695,7 @@
     "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02506000/BJ02505282_img_main.jpg",
     "category": "SOU",
     "rating": "all",
-    "rank": 53,
+    "rank": 52,
     "rankList": "trend",
     "releasedAt": "2026-04-23T15:00:00.000Z",
     "updatedAt": "2026-04-23T15:00:00.000Z",
@@ -1739,14 +1706,47 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 49057,
+        "KRW": 49141,
         "TWD": 1184,
-        "KRW_regular": 49057,
+        "KRW_regular": 49141,
         "TWD_regular": 1184
       }
     },
     "promo": null,
     "titleKey": "裏切り者のラブソング"
+  },
+  {
+    "source": "dlsite",
+    "region": "GLOBAL",
+    "id": "BJ02225307",
+    "url": "https://www.dlsite.com/garumani/work/=/product_id/BJ02225307.html",
+    "title": "【特典スマホ用壁紙付き】#Sweet IRL -ストリーマー Re1ro-",
+    "seriesTitle": "#Sweet IRL",
+    "authors": [
+      "ステラワース"
+    ],
+    "cover": "https://img.dlsite.jp/modpub/images2/work/books/BJ02226000/BJ02225307_img_main.jpg",
+    "category": "SOU",
+    "rating": "all",
+    "rank": 53,
+    "rankList": "trend",
+    "releasedAt": "2026-03-05T15:00:00.000Z",
+    "updatedAt": "2026-03-05T15:00:00.000Z",
+    "price": {
+      "currency": "JPY",
+      "current": 3300,
+      "regular": 3300,
+      "discountRate": 0,
+      "unit": "work",
+      "local": {
+        "KRW": 28351,
+        "TWD": 683,
+        "KRW_regular": 28351,
+        "TWD_regular": 683
+      }
+    },
+    "promo": null,
+    "titleKey": "sweetirl"
   },
   {
     "source": "dlsite",
@@ -1772,9 +1772,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16981,
+        "KRW": 17010,
         "TWD": 410,
-        "KRW_regular": 16981,
+        "KRW_regular": 17010,
         "TWD_regular": 410
       }
     },
@@ -1805,9 +1805,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -1838,9 +1838,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 28302,
+        "KRW": 28351,
         "TWD": 683,
-        "KRW_regular": 28302,
+        "KRW_regular": 28351,
         "TWD_regular": 683
       }
     },
@@ -1871,9 +1871,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 14151,
+        "KRW": 14175,
         "TWD": 342,
-        "KRW_regular": 14151,
+        "KRW_regular": 14175,
         "TWD_regular": 342
       }
     },
@@ -1904,9 +1904,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 46226,
+        "KRW": 46306,
         "TWD": 1116,
-        "KRW_regular": 46226,
+        "KRW_regular": 46306,
         "TWD_regular": 1116
       }
     },
@@ -1937,9 +1937,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 34906,
+        "KRW": 34966,
         "TWD": 843,
-        "KRW_regular": 34906,
+        "KRW_regular": 34966,
         "TWD_regular": 843
       }
     },
@@ -1970,9 +1970,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 16981,
+        "KRW": 17010,
         "TWD": 410,
-        "KRW_regular": 16981,
+        "KRW_regular": 17010,
         "TWD_regular": 410
       }
     },
@@ -2003,9 +2003,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 4717,
+        "KRW": 4725,
         "TWD": 114,
-        "KRW_regular": 4717,
+        "KRW_regular": 4725,
         "TWD_regular": 114
       }
     },
@@ -2036,9 +2036,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -2069,9 +2069,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 46226,
+        "KRW": 46306,
         "TWD": 1116,
-        "KRW_regular": 46226,
+        "KRW_regular": 46306,
         "TWD_regular": 1116
       }
     },
@@ -2102,9 +2102,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 46226,
+        "KRW": 46306,
         "TWD": 1116,
-        "KRW_regular": 46226,
+        "KRW_regular": 46306,
         "TWD_regular": 1116
       }
     },
@@ -2135,9 +2135,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -2168,9 +2168,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 33019,
+        "KRW": 33076,
         "TWD": 797,
-        "KRW_regular": 33019,
+        "KRW_regular": 33076,
         "TWD_regular": 797
       }
     },
@@ -2201,9 +2201,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -2234,9 +2234,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -2267,9 +2267,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -2300,9 +2300,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 4717,
+        "KRW": 4725,
         "TWD": 114,
-        "KRW_regular": 4717,
+        "KRW_regular": 4725,
         "TWD_regular": 114
       }
     },
@@ -2333,9 +2333,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 28302,
+        "KRW": 28351,
         "TWD": 683,
-        "KRW_regular": 28302,
+        "KRW_regular": 28351,
         "TWD_regular": 683
       }
     },
@@ -2366,9 +2366,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 28302,
+        "KRW": 28351,
         "TWD": 683,
-        "KRW_regular": 28302,
+        "KRW_regular": 28351,
         "TWD_regular": 683
       }
     },
@@ -2399,9 +2399,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 47170,
+        "KRW": 47251,
         "TWD": 1139,
-        "KRW_regular": 47170,
+        "KRW_regular": 47251,
         "TWD_regular": 1139
       }
     },
@@ -2432,10 +2432,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 39623,
-        "TWD": 957,
-        "KRW_regular": 39623,
-        "TWD_regular": 957
+        "KRW": 39691,
+        "TWD": 956,
+        "KRW_regular": 39691,
+        "TWD_regular": 956
       }
     },
     "promo": null,
@@ -2465,9 +2465,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 17925,
+        "KRW": 17955,
         "TWD": 433,
-        "KRW_regular": 17925,
+        "KRW_regular": 17955,
         "TWD_regular": 433
       }
     },
@@ -2498,9 +2498,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 45283,
+        "KRW": 45361,
         "TWD": 1093,
-        "KRW_regular": 45283,
+        "KRW_regular": 45361,
         "TWD_regular": 1093
       }
     },
@@ -2531,9 +2531,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 17925,
+        "KRW": 17955,
         "TWD": 433,
-        "KRW_regular": 17925,
+        "KRW_regular": 17955,
         "TWD_regular": 433
       }
     },
@@ -2564,10 +2564,10 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 73962,
-        "TWD": 1786,
-        "KRW_regular": 73962,
-        "TWD_regular": 1786
+        "KRW": 74089,
+        "TWD": 1785,
+        "KRW_regular": 74089,
+        "TWD_regular": 1785
       }
     },
     "promo": null,
@@ -2597,9 +2597,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -2630,9 +2630,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -2663,9 +2663,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -2696,9 +2696,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -2729,9 +2729,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -2762,9 +2762,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -2795,9 +2795,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 14151,
+        "KRW": 14175,
         "TWD": 342,
-        "KRW_regular": 14151,
+        "KRW_regular": 14175,
         "TWD_regular": 342
       }
     },
@@ -2828,9 +2828,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
@@ -2861,9 +2861,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 17925,
+        "KRW": 17955,
         "TWD": 433,
-        "KRW_regular": 17925,
+        "KRW_regular": 17955,
         "TWD_regular": 433
       }
     },
@@ -2894,9 +2894,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 4717,
+        "KRW": 4725,
         "TWD": 114,
-        "KRW_regular": 4717,
+        "KRW_regular": 4725,
         "TWD_regular": 114
       }
     },
@@ -2927,9 +2927,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 4717,
+        "KRW": 4725,
         "TWD": 114,
-        "KRW_regular": 4717,
+        "KRW_regular": 4725,
         "TWD_regular": 114
       }
     },
@@ -2960,9 +2960,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 49057,
+        "KRW": 49141,
         "TWD": 1184,
-        "KRW_regular": 49057,
+        "KRW_regular": 49141,
         "TWD_regular": 1184
       }
     },
@@ -2993,9 +2993,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 4717,
+        "KRW": 4725,
         "TWD": 114,
-        "KRW_regular": 4717,
+        "KRW_regular": 4725,
         "TWD_regular": 114
       }
     },
@@ -3026,9 +3026,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 28302,
+        "KRW": 28351,
         "TWD": 683,
-        "KRW_regular": 28302,
+        "KRW_regular": 28351,
         "TWD_regular": 683
       }
     },
@@ -3059,9 +3059,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 14151,
+        "KRW": 14175,
         "TWD": 342,
-        "KRW_regular": 14151,
+        "KRW_regular": 14175,
         "TWD_regular": 342
       }
     },
@@ -3092,9 +3092,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 77264,
+        "KRW": 77397,
         "TWD": 1865,
-        "KRW_regular": 77264,
+        "KRW_regular": 77397,
         "TWD_regular": 1865
       }
     },
@@ -3125,9 +3125,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -3158,9 +3158,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -3191,9 +3191,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -3224,9 +3224,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -3257,9 +3257,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 17925,
+        "KRW": 17955,
         "TWD": 433,
-        "KRW_regular": 17925,
+        "KRW_regular": 17955,
         "TWD_regular": 433
       }
     },
@@ -3290,9 +3290,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 50943,
+        "KRW": 51031,
         "TWD": 1230,
-        "KRW_regular": 50943,
+        "KRW_regular": 51031,
         "TWD_regular": 1230
       }
     },
@@ -3323,9 +3323,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 28302,
+        "KRW": 28351,
         "TWD": 683,
-        "KRW_regular": 28302,
+        "KRW_regular": 28351,
         "TWD_regular": 683
       }
     },
@@ -3356,9 +3356,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 42453,
+        "KRW": 42526,
         "TWD": 1025,
-        "KRW_regular": 42453,
+        "KRW_regular": 42526,
         "TWD_regular": 1025
       }
     },
@@ -3389,9 +3389,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 42453,
+        "KRW": 42526,
         "TWD": 1025,
-        "KRW_regular": 42453,
+        "KRW_regular": 42526,
         "TWD_regular": 1025
       }
     },
@@ -3422,9 +3422,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 77264,
+        "KRW": 77397,
         "TWD": 1865,
-        "KRW_regular": 77264,
+        "KRW_regular": 77397,
         "TWD_regular": 1865
       }
     },
@@ -3455,9 +3455,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 42453,
+        "KRW": 42526,
         "TWD": 1025,
-        "KRW_regular": 42453,
+        "KRW_regular": 42526,
         "TWD_regular": 1025
       }
     },
@@ -3488,9 +3488,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -3521,9 +3521,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 23585,
+        "KRW": 23625,
         "TWD": 569,
-        "KRW_regular": 23585,
+        "KRW_regular": 23625,
         "TWD_regular": 569
       }
     },
@@ -3554,9 +3554,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 47170,
+        "KRW": 47251,
         "TWD": 1139,
-        "KRW_regular": 47170,
+        "KRW_regular": 47251,
         "TWD_regular": 1139
       }
     },
@@ -3587,9 +3587,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 18868,
+        "KRW": 18900,
         "TWD": 455,
-        "KRW_regular": 18868,
+        "KRW_regular": 18900,
         "TWD_regular": 455
       }
     },
@@ -3620,9 +3620,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 14151,
+        "KRW": 14175,
         "TWD": 342,
-        "KRW_regular": 14151,
+        "KRW_regular": 14175,
         "TWD_regular": 342
       }
     },
@@ -3653,9 +3653,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 45283,
+        "KRW": 45361,
         "TWD": 1093,
-        "KRW_regular": 45283,
+        "KRW_regular": 45361,
         "TWD_regular": 1093
       }
     },
@@ -3686,9 +3686,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 77264,
+        "KRW": 77397,
         "TWD": 1865,
-        "KRW_regular": 77264,
+        "KRW_regular": 77397,
         "TWD_regular": 1865
       }
     },
@@ -3719,9 +3719,9 @@
       "discountRate": 0,
       "unit": "work",
       "local": {
-        "KRW": 37736,
+        "KRW": 37801,
         "TWD": 911,
-        "KRW_regular": 37736,
+        "KRW_regular": 37801,
         "TWD_regular": 911
       }
     },
