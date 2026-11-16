@@ -270,7 +270,7 @@
     "cover": "https://cover.myrenta.com/1051961.jpg",
     "category": "少年漫畫",
     "rating": "all",
-    "rank": 12,
+    "rank": 13,
     "rankList": "month",
     "releasedAt": "2024-12-19T00:00:00.000Z",
     "updatedAt": "2026-11-05T00:00:00.000Z",
@@ -298,7 +298,7 @@
     "cover": "https://cover.myrenta.com/437771.jpg",
     "category": "少年漫畫",
     "rating": "all",
-    "rank": 13,
+    "rank": 14,
     "rankList": "month",
     "releasedAt": "2021-04-26T00:00:00.000Z",
     "updatedAt": "2026-06-10T00:00:00.000Z",
@@ -316,34 +316,6 @@
   {
     "source": "renta_tw",
     "region": "TW",
-    "id": "730171",
-    "url": "https://tw.myrenta.com/item/730171",
-    "title": "第13年的執著婚姻",
-    "seriesTitle": "第13年的執著婚姻",
-    "authors": [
-      "magari"
-    ],
-    "cover": "https://cover.myrenta.com/1463741.jpg",
-    "category": "少女漫畫",
-    "rating": "all",
-    "rank": 14,
-    "rankList": "month",
-    "releasedAt": "2025-11-25T00:00:00.000Z",
-    "updatedAt": "2026-10-02T00:00:00.000Z",
-    "price": {
-      "currency": "TWD",
-      "current": 39,
-      "regular": 39,
-      "discountRate": 0,
-      "unit": "episode",
-      "volume": 12
-    },
-    "promo": null,
-    "titleKey": "第13年的執著婚姻"
-  },
-  {
-    "source": "renta_tw",
-    "region": "TW",
     "id": "953481",
     "url": "https://tw.myrenta.com/item/953481",
     "title": "我又不會吃了妳～我和前不良少年的戀愛情事",
@@ -354,7 +326,7 @@
     "cover": "https://cover.myrenta.com/1796811.jpg",
     "category": "少女漫畫",
     "rating": "all",
-    "rank": 16,
+    "rank": 15,
     "rankList": "month",
     "releasedAt": "2026-08-25T00:00:00.000Z",
     "updatedAt": "2026-11-13T00:00:00.000Z",
@@ -372,59 +344,59 @@
   {
     "source": "renta_tw",
     "region": "TW",
-    "id": "981831",
-    "url": "https://tw.myrenta.com/item/981831",
-    "title": "眷顧之子的結婚～明明是偽裝契約，精英騎士大人卻很寵愛我～",
-    "seriesTitle": "眷顧之子的結婚～明明是偽裝契約，精英騎士大人卻很寵愛我～",
+    "id": "179661",
+    "url": "https://tw.myrenta.com/item/179661",
+    "title": "葬送的芙莉蓮",
+    "seriesTitle": "葬送的芙莉蓮",
     "authors": [
-      "大空あいか",
-      "露原そら"
+      "山田鐘人",
+      "阿部司"
     ],
-    "cover": "https://cover.myrenta.com/1847411.jpg",
+    "cover": "https://cover.myrenta.com/458761.jpg",
+    "category": "少年漫畫",
+    "rating": "all",
+    "rank": 16,
+    "rankList": "month",
+    "releasedAt": "2021-08-12T00:00:00.000Z",
+    "updatedAt": "2026-04-16T00:00:00.000Z",
+    "price": {
+      "currency": "TWD",
+      "current": 80,
+      "regular": 80,
+      "discountRate": 0,
+      "unit": "volume",
+      "volume": 15
+    },
+    "promo": null,
+    "titleKey": "葬送的芙莉蓮"
+  },
+  {
+    "source": "renta_tw",
+    "region": "TW",
+    "id": "730171",
+    "url": "https://tw.myrenta.com/item/730171",
+    "title": "第13年的執著婚姻",
+    "seriesTitle": "第13年的執著婚姻",
+    "authors": [
+      "magari"
+    ],
+    "cover": "https://cover.myrenta.com/1463741.jpg",
     "category": "少女漫畫",
     "rating": "all",
     "rank": 17,
     "rankList": "month",
-    "releasedAt": "2026-10-25T00:00:00.000Z",
-    "updatedAt": "2026-11-16T00:00:00.000Z",
+    "releasedAt": "2025-11-25T00:00:00.000Z",
+    "updatedAt": "2026-10-02T00:00:00.000Z",
     "price": {
       "currency": "TWD",
       "current": 39,
       "regular": 39,
       "discountRate": 0,
       "unit": "episode",
-      "volume": 10
+      "volume": 12
     },
     "promo": null,
-    "titleKey": "眷顧之子的結婚明明是偽裝契約精英騎士大人卻很寵愛我"
-  },
-  {
-    "source": "renta_tw",
-    "region": "TW",
-    "id": "41132",
-    "url": "https://tw.myrenta.com/item/41132",
-    "title": "出嫁準備進行曲～大正富二代的強勢求婚～",
-    "seriesTitle": "出嫁準備進行曲～大正富二代的強勢求婚～",
-    "authors": [
-      "福嶋ユッカ"
-    ],
-    "cover": "https://cover.myrenta.com/225602.jpg",
-    "category": "少女漫畫",
-    "rating": "all",
-    "rank": 19,
-    "rankList": "month",
-    "releasedAt": "2022-03-28T00:00:00.000Z",
-    "updatedAt": "2026-11-13T00:00:00.000Z",
-    "price": {
-      "currency": "TWD",
-      "current": 40,
-      "regular": 40,
-      "discountRate": 0,
-      "unit": "episode",
-      "volume": 30
-    },
-    "promo": null,
-    "titleKey": "出嫁準備進行曲大正富二代的強勢求婚"
+    "titleKey": "第13年的執著婚姻"
   },
   {
     "source": "renta_tw",
@@ -442,7 +414,7 @@
     "cover": "https://cover.myrenta.com/852271.jpg",
     "category": "少女漫畫",
     "rating": "all",
-    "rank": 20,
+    "rank": 18,
     "rankList": "month",
     "releasedAt": "2024-06-27T00:00:00.000Z",
     "updatedAt": "2026-03-05T00:00:00.000Z",
@@ -456,6 +428,35 @@
     },
     "promo": null,
     "titleKey": "重生之後與前世戀人重新展開魔法學校生活可是好感度為0"
+  },
+  {
+    "source": "renta_tw",
+    "region": "TW",
+    "id": "981831",
+    "url": "https://tw.myrenta.com/item/981831",
+    "title": "眷顧之子的結婚～明明是偽裝契約，精英騎士大人卻很寵愛我～",
+    "seriesTitle": "眷顧之子的結婚～明明是偽裝契約，精英騎士大人卻很寵愛我～",
+    "authors": [
+      "大空あいか",
+      "露原そら"
+    ],
+    "cover": "https://cover.myrenta.com/1847411.jpg",
+    "category": "少女漫畫",
+    "rating": "all",
+    "rank": 19,
+    "rankList": "month",
+    "releasedAt": "2026-10-25T00:00:00.000Z",
+    "updatedAt": "2026-11-16T00:00:00.000Z",
+    "price": {
+      "currency": "TWD",
+      "current": 39,
+      "regular": 39,
+      "discountRate": 0,
+      "unit": "episode",
+      "volume": 10
+    },
+    "promo": null,
+    "titleKey": "眷顧之子的結婚明明是偽裝契約精英騎士大人卻很寵愛我"
   },
   {
     "source": "renta_tw",
@@ -489,6 +490,62 @@
   {
     "source": "renta_tw",
     "region": "TW",
+    "id": "41132",
+    "url": "https://tw.myrenta.com/item/41132",
+    "title": "出嫁準備進行曲～大正富二代的強勢求婚～",
+    "seriesTitle": "出嫁準備進行曲～大正富二代的強勢求婚～",
+    "authors": [
+      "福嶋ユッカ"
+    ],
+    "cover": "https://cover.myrenta.com/225602.jpg",
+    "category": "少女漫畫",
+    "rating": "all",
+    "rank": 22,
+    "rankList": "month",
+    "releasedAt": "2022-03-28T00:00:00.000Z",
+    "updatedAt": "2026-11-13T00:00:00.000Z",
+    "price": {
+      "currency": "TWD",
+      "current": 40,
+      "regular": 40,
+      "discountRate": 0,
+      "unit": "episode",
+      "volume": 30
+    },
+    "promo": null,
+    "titleKey": "出嫁準備進行曲大正富二代的強勢求婚"
+  },
+  {
+    "source": "renta_tw",
+    "region": "TW",
+    "id": "945021",
+    "url": "https://tw.myrenta.com/item/945021",
+    "title": "戀上換裝娃娃",
+    "seriesTitle": "戀上換裝娃娃",
+    "authors": [
+      "福田晋一"
+    ],
+    "cover": "https://cover.myrenta.com/1786941.jpg",
+    "category": "少年漫畫",
+    "rating": "all",
+    "rank": 23,
+    "rankList": "month",
+    "releasedAt": "2026-08-20T00:00:00.000Z",
+    "updatedAt": "2026-11-05T00:00:00.000Z",
+    "price": {
+      "currency": "TWD",
+      "current": 105,
+      "regular": 105,
+      "discountRate": 0,
+      "unit": "volume",
+      "volume": 15
+    },
+    "promo": null,
+    "titleKey": "戀上換裝娃娃"
+  },
+  {
+    "source": "renta_tw",
+    "region": "TW",
     "id": "256591",
     "url": "https://tw.myrenta.com/item/256591",
     "title": "我獨自升級  漫畫版",
@@ -499,7 +556,7 @@
     "cover": "https://cover.myrenta.com/671781.jpg",
     "category": "少年漫畫",
     "rating": "all",
-    "rank": 22,
+    "rank": 24,
     "rankList": "month",
     "releasedAt": "2023-11-20T00:00:00.000Z",
     "updatedAt": "2026-08-28T00:00:00.000Z",
@@ -517,35 +574,6 @@
   {
     "source": "renta_tw",
     "region": "TW",
-    "id": "179661",
-    "url": "https://tw.myrenta.com/item/179661",
-    "title": "葬送的芙莉蓮",
-    "seriesTitle": "葬送的芙莉蓮",
-    "authors": [
-      "山田鐘人",
-      "阿部司"
-    ],
-    "cover": "https://cover.myrenta.com/458761.jpg",
-    "category": "少年漫畫",
-    "rating": "all",
-    "rank": 23,
-    "rankList": "month",
-    "releasedAt": "2021-08-12T00:00:00.000Z",
-    "updatedAt": "2026-04-16T00:00:00.000Z",
-    "price": {
-      "currency": "TWD",
-      "current": 80,
-      "regular": 80,
-      "discountRate": 0,
-      "unit": "volume",
-      "volume": 15
-    },
-    "promo": null,
-    "titleKey": "葬送的芙莉蓮"
-  },
-  {
-    "source": "renta_tw",
-    "region": "TW",
     "id": "151411",
     "url": "https://tw.myrenta.com/item/151411",
     "title": "金田一37歲之事件簿",
@@ -557,7 +585,7 @@
     "cover": "https://cover.myrenta.com/374841.jpg",
     "category": "少年漫畫",
     "rating": "all",
-    "rank": 8,
+    "rank": 7,
     "rankList": "week",
     "releasedAt": "2020-08-13T00:00:00.000Z",
     "updatedAt": "2026-08-06T00:00:00.000Z",
@@ -586,7 +614,7 @@
     "cover": "https://cover.myrenta.com/396261.jpg",
     "category": "少年漫畫",
     "rating": "all",
-    "rank": 9,
+    "rank": 10,
     "rankList": "week",
     "releasedAt": "2020-11-12T00:00:00.000Z",
     "updatedAt": "2026-10-03T00:00:00.000Z",
@@ -615,7 +643,7 @@
     "cover": "https://cover.myrenta.com/311371.jpg",
     "category": "少女漫畫",
     "rating": "all",
-    "rank": 10,
+    "rank": 11,
     "rankList": "week",
     "releasedAt": "2019-12-20T00:00:00.000Z",
     "updatedAt": "2026-11-11T00:00:00.000Z",
@@ -643,7 +671,7 @@
     "cover": "https://cover.myrenta.com/1368391.jpg",
     "category": "青年漫畫",
     "rating": "all",
-    "rank": 12,
+    "rank": 14,
     "rankList": "week",
     "releasedAt": "2025-08-09T00:00:00.000Z",
     "updatedAt": "2026-11-14T00:00:00.000Z",
@@ -673,7 +701,7 @@
     "cover": "https://cover.myrenta.com/409062.jpg",
     "category": "少女漫畫",
     "rating": "all",
-    "rank": 13,
+    "rank": 16,
     "rankList": "week",
     "releasedAt": "2026-05-04T00:00:00.000Z",
     "updatedAt": "2026-11-09T00:00:00.000Z",
@@ -691,6 +719,128 @@
   {
     "source": "renta_tw",
     "region": "TW",
+    "id": "565671",
+    "url": "https://tw.myrenta.com/item/565671",
+    "title": "曾經悲傷的大小姐感謝當年的不娶之恩～漫畫短篇合輯～",
+    "seriesTitle": "曾經悲傷的大小姐感謝當年的不娶之恩～漫畫短篇合輯～",
+    "authors": [
+      "かわのあきこ",
+      "亜子",
+      "殿水結子",
+      "宛",
+      "花散ここ",
+      "高岡れん",
+      "月",
+      "七十",
+      "咲倉未来",
+      "黛けい",
+      "長月おと"
+    ],
+    "cover": "https://cover.myrenta.com/1136201.jpg",
+    "category": "少女漫畫",
+    "rating": "all",
+    "rank": 17,
+    "rankList": "week",
+    "releasedAt": "2026-06-19T00:00:00.000Z",
+    "updatedAt": "2026-06-19T00:00:00.000Z",
+    "price": {
+      "currency": "TWD",
+      "current": 100,
+      "regular": 100,
+      "discountRate": 0,
+      "unit": "volume",
+      "volume": 6
+    },
+    "promo": null,
+    "titleKey": "曾經悲傷的大小姐感謝當年的不娶之恩漫畫短篇合輯"
+  },
+  {
+    "source": "renta_tw",
+    "region": "TW",
+    "id": "666901",
+    "url": "https://tw.myrenta.com/item/666901",
+    "title": "橡樹之下",
+    "seriesTitle": "橡樹之下",
+    "authors": [
+      "P"
+    ],
+    "cover": "https://cover.myrenta.com/1352981.jpg",
+    "category": "少女漫畫",
+    "rating": "all",
+    "rank": 18,
+    "rankList": "week",
+    "releasedAt": "2025-07-25T00:00:00.000Z",
+    "updatedAt": "2026-07-24T00:00:00.000Z",
+    "price": {
+      "currency": "TWD",
+      "current": 285,
+      "regular": 285,
+      "discountRate": 0,
+      "unit": "volume",
+      "volume": 3
+    },
+    "promo": null,
+    "titleKey": "橡樹之下"
+  },
+  {
+    "source": "renta_tw",
+    "region": "TW",
+    "id": "372961",
+    "url": "https://tw.myrenta.com/item/372961",
+    "title": "妖狐老爺～大正花嫁奇譚～",
+    "seriesTitle": "妖狐老爺～大正花嫁奇譚～",
+    "authors": [
+      "Momono Moto"
+    ],
+    "cover": "https://cover.myrenta.com/864221.jpg",
+    "category": "少女漫畫",
+    "rating": "all",
+    "rank": 20,
+    "rankList": "week",
+    "releasedAt": "2024-07-09T00:00:00.000Z",
+    "updatedAt": "2026-11-17T00:00:00.000Z",
+    "price": {
+      "currency": "TWD",
+      "current": 39,
+      "regular": 39,
+      "discountRate": 0,
+      "unit": "episode",
+      "volume": 31
+    },
+    "promo": null,
+    "titleKey": "妖狐老爺大正花嫁奇譚"
+  },
+  {
+    "source": "renta_tw",
+    "region": "TW",
+    "id": "730191",
+    "url": "https://tw.myrenta.com/item/730191",
+    "title": "棺材新娘～以冥婚為契機，兩人將在不久之後知曉愛情～",
+    "seriesTitle": "棺材新娘～以冥婚為契機，兩人將在不久之後知曉愛情～",
+    "authors": [
+      "Pimazu"
+    ],
+    "cover": "https://cover.myrenta.com/1464111.jpg",
+    "category": "少女漫畫",
+    "rating": "all",
+    "rank": 22,
+    "rankList": "week",
+    "releasedAt": "2025-11-22T00:00:00.000Z",
+    "updatedAt": "2026-09-10T00:00:00.000Z",
+    "price": {
+      "currency": "TWD",
+      "current": 39,
+      "regular": 39,
+      "discountRate": 0,
+      "unit": "episode",
+      "volume": 8
+    },
+    "promo": null,
+    "titleKey": "棺材新娘以冥婚為契機兩人將在不久之後知曉愛情"
+  },
+  {
+    "source": "renta_tw",
+    "region": "TW",
     "id": "418671",
     "url": "https://tw.myrenta.com/item/418671",
     "title": "去參加聯誼，卻發現完全沒有女生在場",
@@ -701,7 +851,7 @@
     "cover": "https://cover.myrenta.com/932041.jpg",
     "category": "少年漫畫",
     "rating": "all",
-    "rank": 19,
+    "rank": 23,
     "rankList": "week",
     "releasedAt": "2024-10-02T00:00:00.000Z",
     "updatedAt": "2026-06-10T00:00:00.000Z",
@@ -715,61 +865,5 @@
     },
     "promo": null,
     "titleKey": "去參加聯誼卻發現完全沒有女生在場"
-  },
-  {
-    "source": "renta_tw",
-    "region": "TW",
-    "id": "613091",
-    "url": "https://tw.myrenta.com/item/613091",
-    "title": "要想談戀愛還早了100年",
-    "seriesTitle": "要想談戀愛還早了100年",
-    "authors": [
-      "Kusunoki Moko"
-    ],
-    "cover": "https://cover.myrenta.com/1224721.jpg",
-    "category": "少女漫畫",
-    "rating": "all",
-    "rank": 21,
-    "rankList": "week",
-    "releasedAt": "2025-04-29T00:00:00.000Z",
-    "updatedAt": "2026-07-22T00:00:00.000Z",
-    "price": {
-      "currency": "TWD",
-      "current": 39,
-      "regular": 39,
-      "discountRate": 0,
-      "unit": "episode",
-      "volume": 21
-    },
-    "promo": null,
-    "titleKey": "要想談戀愛還早了100年"
-  },
-  {
-    "source": "renta_tw",
-    "region": "TW",
-    "id": "577231",
-    "url": "https://tw.myrenta.com/item/577231",
-    "title": "殺手寓言The second contact",
-    "seriesTitle": "殺手寓言The second contact",
-    "authors": [
-      "南勝久"
-    ],
-    "cover": "https://cover.myrenta.com/1150421.jpg",
-    "category": "青年漫畫",
-    "rating": "all",
-    "rank": 22,
-    "rankList": "week",
-    "releasedAt": "2025-03-12T00:00:00.000Z",
-    "updatedAt": "2026-09-10T00:00:00.000Z",
-    "price": {
-      "currency": "TWD",
-      "current": 98,
-      "regular": 98,
-      "discountRate": 0,
-      "unit": "volume",
-      "volume": 9
-    },
-    "promo": null,
-    "titleKey": "殺手寓言thesecondcontact"
   }
 ]

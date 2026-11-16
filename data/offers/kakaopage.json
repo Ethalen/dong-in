@@ -28,10 +28,10 @@
     },
     "promo": {
       "waitFree": true,
-      "waitFreeHours": 3,
+      "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 31396509
+      "views": 31549766
     },
     "titleKey": "괴담에떨어져도출근을해야하는구나"
   },
@@ -67,7 +67,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 2826719
+      "views": 2836539
     },
     "titleKey": "야수의전부인이되겠습니다"
   },
@@ -103,7 +103,7 @@
       "waitFreeHours": 3,
       "freeEpisodes": 32,
       "allFree": false,
-      "views": 224706103
+      "views": 224831132
     },
     "titleKey": "템빨"
   },
@@ -136,10 +136,10 @@
     },
     "promo": {
       "waitFree": true,
-      "waitFreeHours": 3,
+      "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 302154120
+      "views": 302280461
     },
     "titleKey": "이번생은가주가되겠습니다"
   },
@@ -175,9 +175,45 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 2193051
+      "views": 2249174
     },
     "titleKey": "나는이빙의를끝내려한다"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "69283472",
+    "url": "https://page.kakao.com/content/69283472",
+    "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
+    "seriesTitle": "황제와 비밀 연애 중인데 나는 그걸 몰라",
+    "authors": [
+      "EXTEN STUDIO",
+      "베킷",
+      "연담 X EXTEN STUDIO"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 8,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2026-05-31T13:01:03.000Z",
+    "updatedAt": "2026-11-15T13:01:04.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 3,
+      "freeEpisodes": 5,
+      "allFree": false,
+      "views": 13887389
+    },
+    "titleKey": "황제와비밀연애중인데나는그걸몰라"
   },
   {
     "source": "kakaopage",
@@ -194,7 +230,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=mz9Ur/dJMcafVRzX9/pAHw23PHh7oqF7EkACkb80&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 8,
+    "rank": 9,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-10-29T13:01:06.000Z",
     "updatedAt": "2026-11-12T13:01:04.000Z",
@@ -211,7 +247,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 1432583
+      "views": 1441243
     },
     "titleKey": "0골드로시작하는악녀생활"
   },
@@ -230,7 +266,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 9,
+    "rank": 10,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-11-30T13:01:06.000Z",
     "updatedAt": "2026-11-11T13:01:04.000Z",
@@ -247,7 +283,7 @@
       "waitFreeHours": 3,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 12867202
+      "views": 12911531
     },
     "titleKey": "눈먼공작과약혼했다"
   },
@@ -266,7 +302,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3",
     "category": "웹툰 / 판타지",
     "rating": "all",
-    "rank": 10,
+    "rank": 11,
     "rankList": "webtoon:monthly",
     "releasedAt": "2022-12-28T13:00:06.000Z",
     "updatedAt": "2026-11-11T13:01:04.000Z",
@@ -283,7 +319,7 @@
       "waitFreeHours": 3,
       "freeEpisodes": 31,
       "allFree": false,
-      "views": 109942140
+      "views": 109990916
     },
     "titleKey": "픽미업"
   },
@@ -302,7 +338,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=lyM1e/dJMcaikTQZQ/h6gaZ4pbwokTdhThH5djKK&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 11,
+    "rank": 12,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-10-31T13:01:03.000Z",
     "updatedAt": "2026-11-14T13:01:04.000Z",
@@ -319,7 +355,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 1392276
+      "views": 1411123
     },
     "titleKey": "아기호랑이는다람쥐가키우겠습니다"
   },
@@ -338,7 +374,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 12,
+    "rank": 13,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-01-10T13:01:04.000Z",
     "updatedAt": "2026-11-14T13:01:04.000Z",
@@ -355,81 +391,9 @@
       "waitFreeHours": 3,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 6463249
+      "views": 6499728
     },
     "titleKey": "악녀님이남자인걸나만몰라"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "69283472",
-    "url": "https://page.kakao.com/content/69283472",
-    "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
-    "seriesTitle": "황제와 비밀 연애 중인데 나는 그걸 몰라",
-    "authors": [
-      "EXTEN STUDIO",
-      "베킷",
-      "연담 X EXTEN STUDIO"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 13,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2026-05-31T13:01:03.000Z",
-    "updatedAt": "2026-11-15T13:01:04.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 3,
-      "freeEpisodes": 5,
-      "allFree": false,
-      "views": 13555962
-    },
-    "titleKey": "황제와비밀연애중인데나는그걸몰라"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "59782511",
-    "url": "https://page.kakao.com/content/59782511",
-    "title": "데뷔 못 하면 죽는 병 걸림",
-    "seriesTitle": "데뷔 못 하면 죽는 병 걸림",
-    "authors": [
-      "장진",
-      "소흔",
-      "백덕수"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3",
-    "category": "웹툰 / 드라마",
-    "rating": "all",
-    "rank": 15,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2022-07-31T15:00:08.000Z",
-    "updatedAt": "2026-11-14T13:01:06.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 6,
-      "allFree": false,
-      "views": 122861789
-    },
-    "titleKey": "데뷔못하면죽는병걸림"
   },
   {
     "source": "kakaopage",
@@ -445,7 +409,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3",
     "category": "웹툰 / 무협",
     "rating": "all",
-    "rank": 16,
+    "rank": 15,
     "rankList": "webtoon:monthly",
     "releasedAt": "2020-04-30T15:00:07.000Z",
     "updatedAt": "2026-11-13T13:01:04.000Z",
@@ -462,9 +426,81 @@
       "waitFreeHours": 3,
       "freeEpisodes": 8,
       "allFree": false,
-      "views": 113007250
+      "views": 113071529
     },
     "titleKey": "로그인무림"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "59782511",
+    "url": "https://page.kakao.com/content/59782511",
+    "title": "데뷔 못 하면 죽는 병 걸림",
+    "seriesTitle": "데뷔 못 하면 죽는 병 걸림",
+    "authors": [
+      "장진",
+      "소흔",
+      "백덕수"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3",
+    "category": "웹툰 / 드라마",
+    "rating": "all",
+    "rank": 16,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2022-07-31T15:00:08.000Z",
+    "updatedAt": "2026-11-14T13:01:06.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 6,
+      "allFree": false,
+      "views": 122896408
+    },
+    "titleKey": "데뷔못하면죽는병걸림"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "60910969",
+    "url": "https://page.kakao.com/content/60910969",
+    "title": "무한의 마법사",
+    "seriesTitle": "무한의 마법사",
+    "authors": [
+      "kiraz(REDICE STUDIO)",
+      "아디티",
+      "김치우"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=bjfcFA/dJMcabe61lY/0YGEBdSrXb3jCN7iE4EznK&filename=th3",
+    "category": "웹툰 / 판타지",
+    "rating": "all",
+    "rank": 17,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2022-12-30T13:00:06.000Z",
+    "updatedAt": "2026-11-10T13:01:04.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 3,
+      "freeEpisodes": 31,
+      "allFree": false,
+      "views": 99133358
+    },
+    "titleKey": "무한의마법사"
   },
   {
     "source": "kakaopage",
@@ -480,7 +516,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=o8o96/dJMcagea3Xu/Xtnu2mYEZc3YCh0Y71JLyk&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 17,
+    "rank": 18,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-05-04T13:01:04.000Z",
     "updatedAt": "2026-11-10T13:01:04.000Z",
@@ -497,7 +533,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 12943711
+      "views": 12957466
     },
     "titleKey": "잊혀진들판"
   },
@@ -516,7 +552,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 18,
+    "rank": 19,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-03-15T13:00:21.000Z",
     "updatedAt": "2026-11-07T13:01:05.000Z",
@@ -533,45 +569,9 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 17063765
+      "views": 17075295
     },
     "titleKey": "막내공녀의총애를독차지했더니모두내게집착한다"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "60910969",
-    "url": "https://page.kakao.com/content/60910969",
-    "title": "무한의 마법사",
-    "seriesTitle": "무한의 마법사",
-    "authors": [
-      "kiraz(REDICE STUDIO)",
-      "아디티",
-      "김치우"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=bjfcFA/dJMcabe61lY/0YGEBdSrXb3jCN7iE4EznK&filename=th3",
-    "category": "웹툰 / 판타지",
-    "rating": "all",
-    "rank": 19,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2022-12-30T13:00:06.000Z",
-    "updatedAt": "2026-11-10T13:01:04.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 3,
-      "freeEpisodes": 31,
-      "allFree": false,
-      "views": 99078368
-    },
-    "titleKey": "무한의마법사"
   },
   {
     "source": "kakaopage",
@@ -604,7 +604,7 @@
       "waitFreeHours": 3,
       "freeEpisodes": 11,
       "allFree": false,
-      "views": 80881090
+      "views": 80951325
     },
     "titleKey": "점괘보는공녀님"
   },
@@ -639,44 +639,9 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 1021508
+      "views": 1036005
     },
     "titleKey": "중세판타지의마법사가되었다"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "59882406",
-    "url": "https://page.kakao.com/content/59882406",
-    "title": "엄마가 계약결혼 했다",
-    "seriesTitle": "엄마가 계약결혼 했다",
-    "authors": [
-      "추혜연",
-      "시야"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cghIe/dJMcahq5WHs/KlrvESJCKfabEnneMgoJEK&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 22,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2022-12-23T13:00:05.000Z",
-    "updatedAt": "2026-10-29T12:05:20.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 4,
-      "allFree": false,
-      "views": 78138511
-    },
-    "titleKey": "엄마가계약결혼했다"
   },
   {
     "source": "kakaopage",
@@ -693,7 +658,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bcncro/dJMb992JnR6/vsRxZyL9isfkQntD8zwIN1&filename=th3",
     "category": "웹툰 / 판타지",
     "rating": "all",
-    "rank": 23,
+    "rank": 22,
     "rankList": "webtoon:monthly",
     "releasedAt": "2024-07-31T13:00:11.000Z",
     "updatedAt": "2026-11-11T13:01:03.000Z",
@@ -707,12 +672,47 @@
     },
     "promo": {
       "waitFree": true,
-      "waitFreeHours": 3,
+      "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 60731720
+      "views": 60772757
     },
     "titleKey": "나혼자만레벨업라그나로크"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "59882406",
+    "url": "https://page.kakao.com/content/59882406",
+    "title": "엄마가 계약결혼 했다",
+    "seriesTitle": "엄마가 계약결혼 했다",
+    "authors": [
+      "추혜연",
+      "시야"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cghIe/dJMcahq5WHs/KlrvESJCKfabEnneMgoJEK&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 23,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2022-12-23T13:00:05.000Z",
+    "updatedAt": "2026-10-29T12:05:20.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 4,
+      "allFree": false,
+      "views": 78155039
+    },
+    "titleKey": "엄마가계약결혼했다"
   },
   {
     "source": "kakaopage",
@@ -749,7 +749,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 147851397
+      "views": 147880630
     },
     "titleKey": "검술명가막내아들"
   },
@@ -785,45 +785,9 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 1038583
+      "views": 1072859
     },
     "titleKey": "금손아기님이전부다고침"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "68099906",
-    "url": "https://page.kakao.com/content/68099906",
-    "title": "남편이 최애인데 이혼당할 것 같다",
-    "seriesTitle": "남편이 최애인데 이혼당할 것 같다",
-    "authors": [
-      "ZQ",
-      "우주탐사선",
-      "희윤"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cxS51b/dJMcajkbu2x/aWJQtziLkkbLm4ceJ59ED0&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 26,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2025-12-09T13:01:08.000Z",
-    "updatedAt": "2026-11-11T13:01:04.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 3,
-      "allFree": false,
-      "views": 6062556
-    },
-    "titleKey": "남편이최애인데이혼당할것같다"
   },
   {
     "source": "kakaopage",
@@ -840,7 +804,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3",
     "category": "웹툰 / 판타지",
     "rating": "all",
-    "rank": 27,
+    "rank": 26,
     "rankList": "webtoon:monthly",
     "releasedAt": "2023-04-14T13:00:05.000Z",
     "updatedAt": "2026-11-15T13:01:06.000Z",
@@ -857,9 +821,45 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 88135623
+      "views": 88182230
     },
     "titleKey": "철혈검가사냥개의회귀"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "68099906",
+    "url": "https://page.kakao.com/content/68099906",
+    "title": "남편이 최애인데 이혼당할 것 같다",
+    "seriesTitle": "남편이 최애인데 이혼당할 것 같다",
+    "authors": [
+      "ZQ",
+      "우주탐사선",
+      "희윤"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cxS51b/dJMcajkbu2x/aWJQtziLkkbLm4ceJ59ED0&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 28,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2025-12-09T13:01:08.000Z",
+    "updatedAt": "2026-11-11T13:01:04.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 3,
+      "allFree": false,
+      "views": 6069509
+    },
+    "titleKey": "남편이최애인데이혼당할것같다"
   },
   {
     "source": "kakaopage",
@@ -876,7 +876,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bS0P1I/dJMcabyZrWS/58kmPpAC44UGteY3uFmFH0&filename=th3",
     "category": "웹툰 / 판타지",
     "rating": "all",
-    "rank": 29,
+    "rank": 30,
     "rankList": "webtoon:monthly",
     "releasedAt": "2020-12-31T14:00:05.000Z",
     "updatedAt": "2026-11-12T13:01:05.000Z",
@@ -893,7 +893,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 120000180
+      "views": 120022938
     },
     "titleKey": "sss급죽어야사는헌터"
   },
@@ -912,10 +912,10 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=hs7lX/dJMcadcYCoF/ZH5t8143th22CwEljOXQ6K&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 30,
+    "rank": 31,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-12-20T13:01:03.000Z",
-    "updatedAt": "2026-11-09T13:01:06.000Z",
+    "updatedAt": "2026-11-16T13:01:05.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -929,7 +929,7 @@
       "waitFreeHours": 3,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 4557529
+      "views": 4572538
     },
     "titleKey": "서브남주네기사단장입니다"
   },
@@ -947,7 +947,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=eyUl2z/dJMcafozp5L/3XQfYpi661qYoP0E94ue61&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 31,
+    "rank": 33,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-07-05T13:00:27.000Z",
     "updatedAt": "2026-11-12T13:01:03.000Z",
@@ -964,7 +964,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 26362002
+      "views": 26374511
     },
     "titleKey": "남주가제건강에집착합니다"
   },
@@ -983,7 +983,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bvi7Gy/dJMcah7quqy/54ZX1GkRzLcRgGSRIAkmek&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 33,
+    "rank": 34,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-10-21T13:01:04.000Z",
     "updatedAt": "2026-11-11T13:01:03.000Z",
@@ -1000,7 +1000,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 1090363
+      "views": 1093926
     },
     "titleKey": "호랑이가문의아기살쾡이"
   },
@@ -1018,7 +1018,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=hwCfS/dJMcacdw5wU/39ehZHHLPgkOTZvQZyfVJK&filename=th3",
     "category": "웹툰 / 판타지",
     "rating": "all",
-    "rank": 34,
+    "rank": 35,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-10-08T13:01:04.000Z",
     "updatedAt": "2026-11-10T13:01:04.000Z",
@@ -1035,80 +1035,9 @@
       "waitFreeHours": 24,
       "freeEpisodes": 5,
       "allFree": false,
-      "views": 2530990
+      "views": 2542967
     },
     "titleKey": "미친빌런이정신을되찾음"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "48990437",
-    "url": "https://page.kakao.com/content/48990437",
-    "title": "샤크",
-    "seriesTitle": "샤크",
-    "authors": [
-      "운(雲)",
-      "김우섭"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3",
-    "category": "웹툰 / 액션",
-    "rating": "all",
-    "rank": 35,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2016-09-23T13:00:21.000Z",
-    "updatedAt": "2026-11-13T13:01:05.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 16,
-      "allFree": false,
-      "views": 203648169
-    },
-    "titleKey": "샤크"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "65913268",
-    "url": "https://page.kakao.com/content/65913268",
-    "title": "흑표 가문의 설표 아기님",
-    "seriesTitle": "흑표 가문의 설표 아기님",
-    "authors": [
-      "코타비",
-      "채로",
-      "김노랑"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=pse8U/dJMcaa8G9cU/VoQZ7kB0BwnWETtXBo84y0&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 36,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2025-01-25T13:00:22.000Z",
-    "updatedAt": "2026-11-06T13:01:06.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 3,
-      "freeEpisodes": 18,
-      "allFree": false,
-      "views": 43420271
-    },
-    "titleKey": "흑표가문의설표아기님"
   },
   {
     "source": "kakaopage",
@@ -1125,7 +1054,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=F7iIb/dJMcadDKMfJ/g3fdBLLuyJf2PCnhESkUMk&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 37,
+    "rank": 36,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-03-02T13:00:18.000Z",
     "updatedAt": "2026-11-15T13:01:04.000Z",
@@ -1142,29 +1071,28 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 12107013
+      "views": 12114733
     },
     "titleKey": "그공작의아내집착"
   },
   {
     "source": "kakaopage",
     "region": "KR",
-    "id": "70927661",
-    "url": "https://page.kakao.com/content/70927661",
-    "title": "레이디 신데렐라",
-    "seriesTitle": "레이디 신데렐라",
+    "id": "48990437",
+    "url": "https://page.kakao.com/content/48990437",
+    "title": "샤크",
+    "seriesTitle": "샤크",
     "authors": [
-      "타이밍",
-      "하이둥",
-      "은리화"
+      "운(雲)",
+      "김우섭"
     ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=nnGoo/dJMcacE0YkY/t2B4pkhUawWbrHjIK3sdvk&filename=th3",
-    "category": "웹툰 / 로판",
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3",
+    "category": "웹툰 / 액션",
     "rating": "all",
-    "rank": 38,
+    "rank": 37,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2026-10-16T13:01:03.000Z",
-    "updatedAt": "2026-11-14T13:01:03.000Z",
+    "releasedAt": "2016-09-23T13:00:21.000Z",
+    "updatedAt": "2026-11-13T13:01:05.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -1176,11 +1104,11 @@
     "promo": {
       "waitFree": true,
       "waitFreeHours": 24,
-      "freeEpisodes": 3,
+      "freeEpisodes": 16,
       "allFree": false,
-      "views": 992647
+      "views": 203664078
     },
-    "titleKey": "레이디신데렐라"
+    "titleKey": "샤크"
   },
   {
     "source": "kakaopage",
@@ -1197,7 +1125,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bLBZd4/dJMcafMYhiW/LtmJzPI5kOc6wdmbkmCEhK&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 39,
+    "rank": 38,
     "rankList": "webtoon:monthly",
     "releasedAt": "2022-08-31T13:00:06.000Z",
     "updatedAt": "2026-11-10T13:01:05.000Z",
@@ -1214,9 +1142,45 @@
       "waitFreeHours": 3,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 26440098
+      "views": 26495384
     },
     "titleKey": "주치의는할일다하고사표씁니다"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "65913268",
+    "url": "https://page.kakao.com/content/65913268",
+    "title": "흑표 가문의 설표 아기님",
+    "seriesTitle": "흑표 가문의 설표 아기님",
+    "authors": [
+      "코타비",
+      "채로",
+      "김노랑"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=pse8U/dJMcaa8G9cU/VoQZ7kB0BwnWETtXBo84y0&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 39,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2025-01-25T13:00:22.000Z",
+    "updatedAt": "2026-11-06T13:01:06.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 3,
+      "freeEpisodes": 18,
+      "allFree": false,
+      "views": 43444735
+    },
+    "titleKey": "흑표가문의설표아기님"
   },
   {
     "source": "kakaopage",
@@ -1248,45 +1212,9 @@
       "waitFreeHours": 3,
       "freeEpisodes": 29,
       "allFree": false,
-      "views": 16642967
+      "views": 16658835
     },
     "titleKey": "블랙헤이즈"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "69490752",
-    "url": "https://page.kakao.com/content/69490752",
-    "title": "남편은 분명 성기사였는데",
-    "seriesTitle": "남편은 분명 성기사였는데",
-    "authors": [
-      "EDDiERiNG",
-      "자개",
-      "백설홍"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=uWurl/dJMcabzwt8J/doauek06wUQdKNJrLvYZ4k&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 41,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2026-07-03T13:01:03.000Z",
-    "updatedAt": "2026-11-13T13:01:05.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 15
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 3,
-      "allFree": false,
-      "views": 3043979
-    },
-    "titleKey": "남편은분명성기사였는데"
   },
   {
     "source": "kakaopage",
@@ -1303,7 +1231,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=oOydo/dJMcafgCGQ1/Gj9eXhIpj1qBUdC94HqOv1&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 42,
+    "rank": 41,
     "rankList": "webtoon:monthly",
     "releasedAt": "2021-12-26T13:00:05.000Z",
     "updatedAt": "2026-11-10T15:30:53.000Z",
@@ -1320,7 +1248,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 6,
       "allFree": false,
-      "views": 163151841
+      "views": 163162410
     },
     "titleKey": "세이렌악당과계약가족이되었다"
   },
@@ -1339,7 +1267,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=ooxqn/dJMcag6ypQJ/ZtCKlS9BZj4eGpr43OwXJ1&filename=th3",
     "category": "웹툰 / 드라마",
     "rating": "all",
-    "rank": 44,
+    "rank": 43,
     "rankList": "webtoon:monthly",
     "releasedAt": "2020-08-31T14:00:05.000Z",
     "updatedAt": "2026-11-12T13:01:03.000Z",
@@ -1356,45 +1284,45 @@
       "waitFreeHours": 24,
       "freeEpisodes": 5,
       "allFree": false,
-      "views": 152340719
+      "views": 152358495
     },
     "titleKey": "백작가의망나니가되었다"
   },
   {
     "source": "kakaopage",
     "region": "KR",
-    "id": "70842032",
-    "url": "https://page.kakao.com/content/70842032",
-    "title": "돈지랄 네크로맨서 ",
-    "seriesTitle": "돈지랄 네크로맨서 ",
+    "id": "69490752",
+    "url": "https://page.kakao.com/content/69490752",
+    "title": "남편은 분명 성기사였는데",
+    "seriesTitle": "남편은 분명 성기사였는데",
     "authors": [
-      "백연발",
-      "서민성",
-      "키보드만세"
+      "EDDiERiNG",
+      "자개",
+      "백설홍"
     ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cpL3XY/dJMcahlVaIr/lxvKyqKmKjGW0PCkhN7RTK&filename=th3",
-    "category": "웹툰 / 판타지",
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=uWurl/dJMcabzwt8J/doauek06wUQdKNJrLvYZ4k&filename=th3",
+    "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 47,
+    "rank": 44,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2026-10-16T13:01:03.000Z",
-    "updatedAt": "2026-11-13T13:01:03.000Z",
+    "releasedAt": "2026-07-03T13:01:03.000Z",
+    "updatedAt": "2026-11-13T13:01:05.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
       "regular": null,
       "discountRate": 0,
       "unit": "episode",
-      "ageGrade": 0
+      "ageGrade": 15
     },
     "promo": {
       "waitFree": true,
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 668340
+      "views": 3055309
     },
-    "titleKey": "돈지랄네크로맨서"
+    "titleKey": "남편은분명성기사였는데"
   },
   {
     "source": "kakaopage",
@@ -1411,7 +1339,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=8DP8F/dJMb99MLk28/6pJ7SiEqYXkYSciAYACKNK&filename=th3",
     "category": "웹툰 / 액션",
     "rating": "all",
-    "rank": 48,
+    "rank": 46,
     "rankList": "webtoon:monthly",
     "releasedAt": "2020-02-29T15:00:06.000Z",
     "updatedAt": "2026-11-14T13:01:04.000Z",
@@ -1428,7 +1356,7 @@
       "waitFreeHours": 48,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 167760931
+      "views": 167785606
     },
     "titleKey": "갓오브블랙필드"
   },
@@ -1446,7 +1374,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=pi1WZ/dJMcafhnB09/g4sOV251jqqSfrO36DsjDk&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 49,
+    "rank": 47,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-02-14T13:00:49.000Z",
     "updatedAt": "2026-10-14T13:01:03.000Z",
@@ -1463,45 +1391,9 @@
       "waitFreeHours": 24,
       "freeEpisodes": 8,
       "allFree": false,
-      "views": 12500278
+      "views": 12518353
     },
     "titleKey": "힘숨찐어린이가아빠를찾습니다"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "70178943",
-    "url": "https://page.kakao.com/content/70178943",
-    "title": "남주의 친딸이지만 서브남주랑 살래요!",
-    "seriesTitle": "남주의 친딸이지만 서브남주랑 살래요!",
-    "authors": [
-      "Q00",
-      "소군",
-      "슈가자몽"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=x2fyu/dJMcaatEjPE/HBgW9jCFYUEygjRHKDEnGK&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 50,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2026-10-15T13:01:03.000Z",
-    "updatedAt": "2026-11-12T13:01:03.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 3,
-      "allFree": false,
-      "views": 1150663
-    },
-    "titleKey": "남주의친딸이지만서브남주랑살래요"
   },
   {
     "source": "kakaopage",
@@ -1517,7 +1409,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=b4dWR3/dJMcaiox3ay/C6VzeAll8cK9XnxWK9KyJk&filename=th3",
     "category": "웹툰 / 로맨스",
     "rating": "all",
-    "rank": 51,
+    "rank": 48,
     "rankList": "webtoon:monthly",
     "releasedAt": "2019-03-31T13:57:43.000Z",
     "updatedAt": "2026-11-03T13:01:04.000Z",
@@ -1534,45 +1426,9 @@
       "waitFreeHours": 24,
       "freeEpisodes": 5,
       "allFree": false,
-      "views": 182231606
+      "views": 182243085
     },
     "titleKey": "인소의법칙"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "64380474",
-    "url": "https://page.kakao.com/content/64380474",
-    "title": "결혼도 안 했는데 무슨 이혼인가요, 폐하",
-    "seriesTitle": "결혼도 안 했는데 무슨 이혼인가요, 폐하",
-    "authors": [
-      "윤삼",
-      "Hara",
-      "전설의고양이"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=doW6UL/dJMcafIw8CK/RVxr7YnkkzmV2qQOI5aOk0&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 52,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2024-07-28T13:00:11.000Z",
-    "updatedAt": "2026-11-11T13:01:06.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 3,
-      "freeEpisodes": 14,
-      "allFree": false,
-      "views": 15934830
-    },
-    "titleKey": "결혼도안했는데무슨이혼인가요폐하"
   },
   {
     "source": "kakaopage",
@@ -1589,7 +1445,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 53,
+    "rank": 49,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-11-13T13:00:07.000Z",
     "updatedAt": "2026-11-12T13:01:05.000Z",
@@ -1606,9 +1462,45 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 5225155
+      "views": 5242354
     },
     "titleKey": "네목을비트는새벽"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "64380474",
+    "url": "https://page.kakao.com/content/64380474",
+    "title": "결혼도 안 했는데 무슨 이혼인가요, 폐하",
+    "seriesTitle": "결혼도 안 했는데 무슨 이혼인가요, 폐하",
+    "authors": [
+      "윤삼",
+      "Hara",
+      "전설의고양이"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=doW6UL/dJMcafIw8CK/RVxr7YnkkzmV2qQOI5aOk0&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 50,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2024-07-28T13:00:11.000Z",
+    "updatedAt": "2026-11-11T13:01:06.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 3,
+      "freeEpisodes": 14,
+      "allFree": false,
+      "views": 15965300
+    },
+    "titleKey": "결혼도안했는데무슨이혼인가요폐하"
   },
   {
     "source": "kakaopage",
@@ -1625,7 +1517,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bGvbYs/dJMcadRB8Bd/tVJDKqMcohl6Kyycgzlk80&filename=th3",
     "category": "웹툰 / 판타지",
     "rating": "all",
-    "rank": 54,
+    "rank": 51,
     "rankList": "webtoon:monthly",
     "releasedAt": "2024-04-30T13:00:06.000Z",
     "updatedAt": "2026-11-05T13:01:05.000Z",
@@ -1642,7 +1534,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 46101654
+      "views": 46109871
     },
     "titleKey": "천재궁수의스트리밍"
   },
@@ -1661,7 +1553,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=l0XA3/dJMcafGm4Gv/bTK9hRj7Wf6VYZWBqL7df0&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 55,
+    "rank": 52,
     "rankList": "webtoon:monthly",
     "releasedAt": "2022-11-30T13:00:07.000Z",
     "updatedAt": "2026-10-20T13:01:06.000Z",
@@ -1675,10 +1567,10 @@
     },
     "promo": {
       "waitFree": true,
-      "waitFreeHours": 3,
-      "freeEpisodes": 11,
+      "waitFreeHours": 24,
+      "freeEpisodes": 4,
       "allFree": false,
-      "views": 59618310
+      "views": 59639369
     },
     "titleKey": "악녀라서편하고좋은데요"
   },
@@ -1697,7 +1589,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bt3Ep9/dJMcah454Q3/GcFqj7yipgyYo4um9vW6P1&filename=th3",
     "category": "웹툰 / 판타지",
     "rating": "all",
-    "rank": 56,
+    "rank": 53,
     "rankList": "webtoon:monthly",
     "releasedAt": "2019-07-04T14:01:07.000Z",
     "updatedAt": "2026-11-15T13:01:06.000Z",
@@ -1714,9 +1606,118 @@
       "waitFreeHours": 24,
       "freeEpisodes": 14,
       "allFree": false,
-      "views": 157145270
+      "views": 157174438
     },
     "titleKey": "묵향다크레이디"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "64227839",
+    "url": "https://page.kakao.com/content/64227839",
+    "title": "마법학교 앞점멸 천재가 되었다",
+    "seriesTitle": "마법학교 앞점멸 천재가 되었다",
+    "authors": [
+      "자일",
+      "서유",
+      "은밀히"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cYvxt1/dJMcah0OKzC/almKyqGDlHqRfapcaXbon0&filename=th3",
+    "category": "웹툰 / 판타지",
+    "rating": "all",
+    "rank": 54,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2024-06-08T13:00:05.000Z",
+    "updatedAt": "2026-11-12T13:01:04.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 3,
+      "freeEpisodes": 6,
+      "allFree": false,
+      "views": 17501947
+    },
+    "titleKey": "마법학교앞점멸천재가되었다"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "64409505",
+    "url": "https://page.kakao.com/content/64409505",
+    "title": "흑막 범고래 아기님",
+    "seriesTitle": "흑막 범고래 아기님",
+    "authors": [
+      "팀 제나",
+      "Q00",
+      "도힌",
+      "문시현"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cLmA39/dJMcadQlpPT/Kf829q4WUX0VRSoDPsVqvK&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 55,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2024-06-30T13:00:15.000Z",
+    "updatedAt": "2026-11-15T13:01:05.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 3,
+      "freeEpisodes": 11,
+      "allFree": false,
+      "views": 40237712
+    },
+    "titleKey": "흑막범고래아기님"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "70178943",
+    "url": "https://page.kakao.com/content/70178943",
+    "title": "남주의 친딸이지만 서브남주랑 살래요!",
+    "seriesTitle": "남주의 친딸이지만 서브남주랑 살래요!",
+    "authors": [
+      "Q00",
+      "소군",
+      "슈가자몽"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=x2fyu/dJMcaatEjPE/HBgW9jCFYUEygjRHKDEnGK&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 56,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2026-10-15T13:01:03.000Z",
+    "updatedAt": "2026-11-12T13:01:03.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 3,
+      "allFree": false,
+      "views": 1157516
+    },
+    "titleKey": "남주의친딸이지만서브남주랑살래요"
   },
   {
     "source": "kakaopage",
@@ -1750,7 +1751,7 @@
       "waitFreeHours": 3,
       "freeEpisodes": 5,
       "allFree": false,
-      "views": 7600240
+      "views": 7615017
     },
     "titleKey": "백호가문의아기솜뭉치"
   },
@@ -1785,7 +1786,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 6010027
+      "views": 6014759
     },
     "titleKey": "나혼자ex급소환수"
   },
@@ -1820,29 +1821,28 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 38022833
+      "views": 38039801
     },
     "titleKey": "아빠가힘을숨김"
   },
   {
     "source": "kakaopage",
     "region": "KR",
-    "id": "64227839",
-    "url": "https://page.kakao.com/content/64227839",
-    "title": "마법학교 앞점멸 천재가 되었다",
-    "seriesTitle": "마법학교 앞점멸 천재가 되었다",
+    "id": "68276174",
+    "url": "https://page.kakao.com/content/68276174",
+    "title": "아기는 악당을 키운다",
+    "seriesTitle": "아기는 악당을 키운다",
     "authors": [
-      "자일",
-      "서유",
-      "은밀히"
+      "연두",
+      "리샤"
     ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cYvxt1/dJMcah0OKzC/almKyqGDlHqRfapcaXbon0&filename=th3",
-    "category": "웹툰 / 판타지",
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=bxQ4VT/dJMcahfCKks/1nWX9upWV8ItGQsgqnQWk0&filename=th3",
+    "category": "웹툰 / 로판",
     "rating": "all",
     "rank": 60,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2024-06-08T13:00:05.000Z",
-    "updatedAt": "2026-11-12T13:01:04.000Z",
+    "releasedAt": "2025-12-31T13:01:04.000Z",
+    "updatedAt": "2026-11-16T13:01:04.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -1853,49 +1853,12 @@
     },
     "promo": {
       "waitFree": true,
-      "waitFreeHours": 3,
-      "freeEpisodes": 6,
+      "waitFreeHours": 24,
+      "freeEpisodes": 4,
       "allFree": false,
-      "views": 17434183
+      "views": 14889393
     },
-    "titleKey": "마법학교앞점멸천재가되었다"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "64409505",
-    "url": "https://page.kakao.com/content/64409505",
-    "title": "흑막 범고래 아기님",
-    "seriesTitle": "흑막 범고래 아기님",
-    "authors": [
-      "팀 제나",
-      "Q00",
-      "도힌",
-      "문시현"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cLmA39/dJMcadQlpPT/Kf829q4WUX0VRSoDPsVqvK&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 61,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2024-06-30T13:00:15.000Z",
-    "updatedAt": "2026-11-15T13:01:05.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 3,
-      "freeEpisodes": 11,
-      "allFree": false,
-      "views": 40192483
-    },
-    "titleKey": "흑막범고래아기님"
+    "titleKey": "아기는악당을키운다"
   },
   {
     "source": "kakaopage",
@@ -1912,7 +1875,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=cDi51d/dJMcaf2Yd1l/KagMxfn9fc15UhkfmmtCJ0&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 62,
+    "rank": 61,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-12-13T13:01:03.000Z",
     "updatedAt": "2026-11-10T13:01:05.000Z",
@@ -1929,9 +1892,150 @@
       "waitFreeHours": 3,
       "freeEpisodes": 7,
       "allFree": false,
-      "views": 9651944
+      "views": 9664950
     },
     "titleKey": "막내가뭔갈많이숨김"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "68369749",
+    "url": "https://page.kakao.com/content/68369749",
+    "title": "너에게 빼앗을 왕관",
+    "seriesTitle": "너에게 빼앗을 왕관",
+    "authors": [
+      "스튜디오 이너스",
+      "윌브라이트"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cciPHk/dJMcadDVPsd/etR6gGwiklTkIr8X0ZvMLK&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 62,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2026-01-17T13:01:03.000Z",
+    "updatedAt": "2026-11-16T13:01:05.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 15
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 3,
+      "freeEpisodes": 4,
+      "allFree": false,
+      "views": 12974691
+    },
+    "titleKey": "너에게빼앗을왕관"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "71256898",
+    "url": "https://page.kakao.com/content/71256898",
+    "title": "서울, 76년 만의 카덴차",
+    "seriesTitle": "서울, 76년 만의 카덴차",
+    "authors": [
+      "박하",
+      "서울특별시"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=dKhFD/dJMcagU8Ath/ifYwI1NNoQslvNWCqedCmk&filename=th3",
+    "category": "웹툰 / 드라마",
+    "rating": "all",
+    "rank": 63,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2026-11-05T01:16:04.000Z",
+    "updatedAt": "2026-11-05T01:16:04.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": false,
+      "waitFreeHours": 24,
+      "freeEpisodes": 5,
+      "allFree": true,
+      "views": 734312
+    },
+    "titleKey": "서울76년만의카덴차"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "58474045",
+    "url": "https://page.kakao.com/content/58474045",
+    "title": "재앙급 영웅님이 귀환하셨다",
+    "seriesTitle": "재앙급 영웅님이 귀환하셨다",
+    "authors": [
+      "OMinute(REDICE STUDIO)",
+      "이범근(REDICE STUDIO)",
+      "산지직송"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=b3IJSK/dJMcai4fhkV/CjATPsXsEQmEEum5Lslcr0&filename=th3",
+    "category": "웹툰 / 판타지",
+    "rating": "all",
+    "rank": 64,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2021-12-23T13:00:05.000Z",
+    "updatedAt": "2026-11-11T13:01:05.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 5,
+      "allFree": false,
+      "views": 102397360
+    },
+    "titleKey": "재앙급영웅님이귀환하셨다"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "59978716",
+    "url": "https://page.kakao.com/content/59978716",
+    "title": "남편은 됐고, 돈이나 벌렵니다",
+    "seriesTitle": "남편은 됐고, 돈이나 벌렵니다",
+    "authors": [
+      "몰코",
+      "주해온"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=olkA3/dJMcaaUZydh/vsPVEN073IM7kQFkSr9b5K&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 65,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2022-08-11T13:00:05.000Z",
+    "updatedAt": "2026-11-14T13:01:03.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 3,
+      "freeEpisodes": 3,
+      "allFree": false,
+      "views": 70073027
+    },
+    "titleKey": "남편은됐고돈이나벌렵니다"
   },
   {
     "source": "kakaopage",
@@ -1949,7 +2053,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=WNrlJ/dJMcadcFbG5/HHY1JBX82W3cka0whWAB0k&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 63,
+    "rank": 66,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-10-31T13:00:06.000Z",
     "updatedAt": "2026-11-07T13:01:04.000Z",
@@ -1966,63 +2070,29 @@
       "waitFreeHours": 24,
       "freeEpisodes": 9,
       "allFree": false,
-      "views": 3982584
+      "views": 3985819
     },
     "titleKey": "여신들을위하여프시케를위하여"
   },
   {
     "source": "kakaopage",
     "region": "KR",
-    "id": "68276174",
-    "url": "https://page.kakao.com/content/68276174",
-    "title": "아기는 악당을 키운다",
-    "seriesTitle": "아기는 악당을 키운다",
+    "id": "66783957",
+    "url": "https://page.kakao.com/content/66783957",
+    "title": "검을 든 꽃",
+    "seriesTitle": "검을 든 꽃",
     "authors": [
-      "연두",
-      "리샤"
+      "고샤",
+      "하라라",
+      "은소로"
     ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=bxQ4VT/dJMcahfCKks/1nWX9upWV8ItGQsgqnQWk0&filename=th3",
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cblR3v/dJMcahKEo7G/gYEsXjVIzbagl6Hg2VMK1K&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 64,
+    "rank": 68,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2025-12-31T13:01:04.000Z",
-    "updatedAt": "2026-11-09T13:01:05.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 4,
-      "allFree": false,
-      "views": 14863912
-    },
-    "titleKey": "아기는악당을키운다"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "68369749",
-    "url": "https://page.kakao.com/content/68369749",
-    "title": "너에게 빼앗을 왕관",
-    "seriesTitle": "너에게 빼앗을 왕관",
-    "authors": [
-      "스튜디오 이너스",
-      "윌브라이트"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cciPHk/dJMcadDVPsd/etR6gGwiklTkIr8X0ZvMLK&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 65,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2026-01-17T13:01:03.000Z",
-    "updatedAt": "2026-11-09T13:01:06.000Z",
+    "releasedAt": "2025-06-05T13:00:21.000Z",
+    "updatedAt": "2026-11-15T13:01:04.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -2036,45 +2106,9 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 12944760
+      "views": 17927048
     },
-    "titleKey": "너에게빼앗을왕관"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "58474045",
-    "url": "https://page.kakao.com/content/58474045",
-    "title": "재앙급 영웅님이 귀환하셨다",
-    "seriesTitle": "재앙급 영웅님이 귀환하셨다",
-    "authors": [
-      "OMinute(REDICE STUDIO)",
-      "이범근(REDICE STUDIO)",
-      "산지직송"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=b3IJSK/dJMcai4fhkV/CjATPsXsEQmEEum5Lslcr0&filename=th3",
-    "category": "웹툰 / 판타지",
-    "rating": "all",
-    "rank": 66,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2021-12-23T13:00:05.000Z",
-    "updatedAt": "2026-11-11T13:01:05.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 5,
-      "allFree": false,
-      "views": 102388661
-    },
-    "titleKey": "재앙급영웅님이귀환하셨다"
+    "titleKey": "검을든꽃"
   },
   {
     "source": "kakaopage",
@@ -2090,7 +2124,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=Yzxw6/dJMcai6rmd6/gygFjLM4fE3nxQUCAxnByk&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 67,
+    "rank": 69,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-12-24T13:01:03.000Z",
     "updatedAt": "2026-11-05T13:01:06.000Z",
@@ -2107,44 +2141,9 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 7363265
+      "views": 7370489
     },
     "titleKey": "이제울어도될까요"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "71256898",
-    "url": "https://page.kakao.com/content/71256898",
-    "title": "서울, 76년 만의 카덴차",
-    "seriesTitle": "서울, 76년 만의 카덴차",
-    "authors": [
-      "박하",
-      "서울특별시"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=dKhFD/dJMcagU8Ath/ifYwI1NNoQslvNWCqedCmk&filename=th3",
-    "category": "웹툰 / 드라마",
-    "rating": "all",
-    "rank": 68,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2026-11-05T01:16:04.000Z",
-    "updatedAt": "2026-11-05T01:16:04.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": false,
-      "waitFreeHours": 24,
-      "freeEpisodes": 5,
-      "allFree": true,
-      "views": 719335
-    },
-    "titleKey": "서울76년만의카덴차"
   },
   {
     "source": "kakaopage",
@@ -2177,7 +2176,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 400935
+      "views": 403629
     },
     "titleKey": "메카닉슬레이어"
   },
@@ -2212,7 +2211,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 13226260
+      "views": 13238013
     },
     "titleKey": "신마대제"
   },
@@ -2249,7 +2248,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 12389574
+      "views": 12398329
     },
     "titleKey": "악녀언니를구하러온용감한강아지입니다"
   },
@@ -2267,10 +2266,10 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=fdwIS/dJMcadjZvJe/buP6H2RsueiBjLUaHgtO91&filename=th3",
     "category": "웹툰 / 판타지",
     "rating": "all",
-    "rank": 73,
+    "rank": 74,
     "rankList": "webtoon:monthly",
     "releasedAt": "2022-06-30T13:00:05.000Z",
-    "updatedAt": "2026-11-09T13:01:05.000Z",
+    "updatedAt": "2026-11-16T13:01:04.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -2284,45 +2283,9 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 47444901
+      "views": 47462211
     },
     "titleKey": "소설속엑스트라"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "66783957",
-    "url": "https://page.kakao.com/content/66783957",
-    "title": "검을 든 꽃",
-    "seriesTitle": "검을 든 꽃",
-    "authors": [
-      "고샤",
-      "하라라",
-      "은소로"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cblR3v/dJMcahKEo7G/gYEsXjVIzbagl6Hg2VMK1K&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 75,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2025-06-05T13:00:21.000Z",
-    "updatedAt": "2026-11-15T13:01:04.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 15
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 3,
-      "freeEpisodes": 7,
-      "allFree": false,
-      "views": 17895388
-    },
-    "titleKey": "검을든꽃"
   },
   {
     "source": "kakaopage",
@@ -2339,7 +2302,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=7vLQL/dJMcafIDgib/G8GfkChKzPRjsxjjZH9jt1&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 76,
+    "rank": 75,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-10-27T13:01:05.000Z",
     "updatedAt": "2026-11-10T13:01:05.000Z",
@@ -2356,9 +2319,45 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 449208
+      "views": 450969
     },
     "titleKey": "착한며느리는이제없습니다"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "71329760",
+    "url": "https://page.kakao.com/content/71329760",
+    "title": "로그아웃이 너무 어렵다",
+    "seriesTitle": "로그아웃이 너무 어렵다",
+    "authors": [
+      "콘티메이커 스튜디오",
+      "툰토리",
+      "이형석"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=BaQZE/dJMb99VXw2j/viTV8D4e9A8kxkASaguEk0&filename=th3",
+    "category": "웹툰 / 판타지",
+    "rating": "all",
+    "rank": 76,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2026-11-14T13:01:02.000Z",
+    "updatedAt": "2026-11-16T13:01:04.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 15
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 3,
+      "allFree": false,
+      "views": 434875
+    },
+    "titleKey": "로그아웃이너무어렵다"
   },
   {
     "source": "kakaopage",
@@ -2391,45 +2390,9 @@
       "waitFreeHours": 3,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 7905808
+      "views": 7927532
     },
     "titleKey": "검은머리미군대원수"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "64257452",
-    "url": "https://page.kakao.com/content/64257452",
-    "title": "변경백 서자는 황제였다",
-    "seriesTitle": "변경백 서자는 황제였다",
-    "authors": [
-      "연장점검",
-      "지안",
-      "기준석"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=m40yZ/dJMcadbiBSD/Y577kX9NVgFS5lq0nPhq3k&filename=th3",
-    "category": "웹툰 / 판타지",
-    "rating": "all",
-    "rank": 78,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2024-05-31T13:00:07.000Z",
-    "updatedAt": "2026-11-14T13:01:05.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 3,
-      "allFree": false,
-      "views": 23004291
-    },
-    "titleKey": "변경백서자는황제였다"
   },
   {
     "source": "kakaopage",
@@ -2445,7 +2408,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=brkSbk/dJMcabNif8e/pHAgZDxQv3KkQvHzPCYakK&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 79,
+    "rank": 78,
     "rankList": "webtoon:monthly",
     "releasedAt": "2023-06-30T13:00:06.000Z",
     "updatedAt": "2026-10-28T13:00:20.000Z",
@@ -2462,7 +2425,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 49905002
+      "views": 49910676
     },
     "titleKey": "아기님캐시로로판달린다"
   },
@@ -2482,7 +2445,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=cbpupq/dJMcaamYNTr/GU5U1cktJPhO76Fnw4Ahj0&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 81,
+    "rank": 80,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-08-14T13:00:07.000Z",
     "updatedAt": "2026-10-28T13:00:03.000Z",
@@ -2499,44 +2462,9 @@
       "waitFreeHours": 3,
       "freeEpisodes": 8,
       "allFree": false,
-      "views": 20065501
+      "views": 20090295
     },
     "titleKey": "마론후작"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "59978716",
-    "url": "https://page.kakao.com/content/59978716",
-    "title": "남편은 됐고, 돈이나 벌렵니다",
-    "seriesTitle": "남편은 됐고, 돈이나 벌렵니다",
-    "authors": [
-      "몰코",
-      "주해온"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=olkA3/dJMcaaUZydh/vsPVEN073IM7kQFkSr9b5K&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 82,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2022-08-11T13:00:05.000Z",
-    "updatedAt": "2026-11-14T13:01:03.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 3,
-      "freeEpisodes": 3,
-      "allFree": false,
-      "views": 69985330
-    },
-    "titleKey": "남편은됐고돈이나벌렵니다"
   },
   {
     "source": "kakaopage",
@@ -2554,7 +2482,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=RVuau/dJMcab68hYS/oToASkyhXdhCnKu7c6PLtK&filename=th3",
     "category": "웹툰 / 로맨스",
     "rating": "all",
-    "rank": 83,
+    "rank": 81,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-10-28T13:01:04.000Z",
     "updatedAt": "2026-11-11T13:01:03.000Z",
@@ -2571,83 +2499,9 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 556239
+      "views": 558068
     },
     "titleKey": "복숭아심장"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "70673310",
-    "url": "https://page.kakao.com/content/70673310",
-    "title": "악당가의 최강 집사",
-    "seriesTitle": "악당가의 최강 집사",
-    "authors": [
-      "생강",
-      "휘쇄",
-      "지주",
-      "MON쉘"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=G7Mc1/dJMcaaHAAOL/eUp3C6NecVgKw7uXFhUX60&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 84,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2026-09-30T13:01:04.000Z",
-    "updatedAt": "2026-11-12T13:01:04.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 3,
-      "allFree": false,
-      "views": 2659994
-    },
-    "titleKey": "악당가의최강집사"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "65404412",
-    "url": "https://page.kakao.com/content/65404412",
-    "title": "말단 후궁의 딸로 태어났습니다",
-    "seriesTitle": "말단 후궁의 딸로 태어났습니다",
-    "authors": [
-      "은산",
-      "단은",
-      "은현",
-      "월면"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=uNbRi/dJMcagyXhA6/itQLudhWLGYmPPvM5r3GO1&filename=th3",
-    "category": "웹툰 / 로맨스",
-    "rating": "all",
-    "rank": 85,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2024-11-09T13:00:20.000Z",
-    "updatedAt": "2026-11-14T13:01:04.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 3,
-      "allFree": false,
-      "views": 31604896
-    },
-    "titleKey": "말단후궁의딸로태어났습니다"
   },
   {
     "source": "kakaopage",
@@ -2664,7 +2518,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=gKHys/dJMcafOxAq2/lwrddoRNnYJdgL2xv30it1&filename=th3",
     "category": "웹툰 / 판타지",
     "rating": "all",
-    "rank": 86,
+    "rank": 82,
     "rankList": "webtoon:monthly",
     "releasedAt": "2022-07-31T13:00:06.000Z",
     "updatedAt": "2026-11-15T13:01:05.000Z",
@@ -2681,80 +2535,9 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 57214568
+      "views": 57235223
     },
     "titleKey": "만년만에귀환한플레이어"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "69613701",
-    "url": "https://page.kakao.com/content/69613701",
-    "title": "후계자는 모르겠고 힐링이나 하렵니다",
-    "seriesTitle": "후계자는 모르겠고 힐링이나 하렵니다",
-    "authors": [
-      "깅삵",
-      "스튜디오 이너스",
-      "우담"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=ZrgjF/dJMcaamYLz3/ICZfZsEhlxHlqmXmFNujyk&filename=th3",
-    "category": "웹툰 / 판타지",
-    "rating": "all",
-    "rank": 87,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2026-07-10T13:01:03.000Z",
-    "updatedAt": "2026-11-09T13:01:06.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 3,
-      "freeEpisodes": 3,
-      "allFree": false,
-      "views": 4631951
-    },
-    "titleKey": "후계자는모르겠고힐링이나하렵니다"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "60105861",
-    "url": "https://page.kakao.com/content/60105861",
-    "title": "관존 이강진",
-    "seriesTitle": "관존 이강진",
-    "authors": [
-      "노경찬",
-      "송윤달"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=eVV1V/hAJmzJdgCL/Rk8Qte6RhKT6Y9huBxLy8K&filename=th3",
-    "category": "웹툰 / 무협",
-    "rating": "all",
-    "rank": 89,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2022-09-07T13:00:06.000Z",
-    "updatedAt": "2026-11-11T13:01:03.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 24,
-      "allFree": false,
-      "views": 122215625
-    },
-    "titleKey": "관존이강진"
   },
   {
     "source": "kakaopage",
@@ -2772,7 +2555,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=cnImpG/dJMcacxTNrZ/eO952UwZx1DHN7wAK7jKj0&filename=th3",
     "category": "웹툰 / 무협",
     "rating": "all",
-    "rank": 90,
+    "rank": 83,
     "rankList": "webtoon:monthly",
     "releasedAt": "2024-08-04T13:00:11.000Z",
     "updatedAt": "2026-11-15T13:01:04.000Z",
@@ -2789,29 +2572,29 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 23384387
+      "views": 23411154
     },
     "titleKey": "천하제일인의소꿉친구"
   },
   {
     "source": "kakaopage",
     "region": "KR",
-    "id": "70435619",
-    "url": "https://page.kakao.com/content/70435619",
-    "title": "얼떨결에 죽은 남편을 부활시켜 버렸다",
-    "seriesTitle": "얼떨결에 죽은 남편을 부활시켜 버렸다",
+    "id": "65404412",
+    "url": "https://page.kakao.com/content/65404412",
+    "title": "말단 후궁의 딸로 태어났습니다",
+    "seriesTitle": "말단 후궁의 딸로 태어났습니다",
     "authors": [
-      "팀 제나",
-      "문시현",
-      "냠냐",
-      "해새새"
+      "은산",
+      "단은",
+      "은현",
+      "월면"
     ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=bNYVgn/dJMb999xAx1/82vEWZajFPAuFW6RwnrAsK&filename=th3",
-    "category": "웹툰 / 로판",
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=uNbRi/dJMcagyXhA6/itQLudhWLGYmPPvM5r3GO1&filename=th3",
+    "category": "웹툰 / 로맨스",
     "rating": "all",
-    "rank": 92,
+    "rank": 84,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2026-09-11T13:01:04.000Z",
+    "releasedAt": "2024-11-09T13:00:20.000Z",
     "updatedAt": "2026-11-14T13:01:04.000Z",
     "price": {
       "currency": "TICKET",
@@ -2819,16 +2602,87 @@
       "regular": null,
       "discountRate": 0,
       "unit": "episode",
-      "ageGrade": 15
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 3,
+      "allFree": false,
+      "views": 31620087
+    },
+    "titleKey": "말단후궁의딸로태어났습니다"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "60105861",
+    "url": "https://page.kakao.com/content/60105861",
+    "title": "관존 이강진",
+    "seriesTitle": "관존 이강진",
+    "authors": [
+      "노경찬",
+      "송윤달"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=eVV1V/hAJmzJdgCL/Rk8Qte6RhKT6Y9huBxLy8K&filename=th3",
+    "category": "웹툰 / 무협",
+    "rating": "all",
+    "rank": 85,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2022-09-07T13:00:06.000Z",
+    "updatedAt": "2026-11-11T13:01:03.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 24,
+      "allFree": false,
+      "views": 122232927
+    },
+    "titleKey": "관존이강진"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "69613701",
+    "url": "https://page.kakao.com/content/69613701",
+    "title": "후계자는 모르겠고 힐링이나 하렵니다",
+    "seriesTitle": "후계자는 모르겠고 힐링이나 하렵니다",
+    "authors": [
+      "깅삵",
+      "스튜디오 이너스",
+      "우담"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=ZrgjF/dJMcaamYLz3/ICZfZsEhlxHlqmXmFNujyk&filename=th3",
+    "category": "웹툰 / 판타지",
+    "rating": "all",
+    "rank": 86,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2026-07-10T13:01:03.000Z",
+    "updatedAt": "2026-11-16T13:01:05.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
     },
     "promo": {
       "waitFree": true,
       "waitFreeHours": 3,
-      "freeEpisodes": 6,
+      "freeEpisodes": 3,
       "allFree": false,
-      "views": 2001868
+      "views": 4647443
     },
-    "titleKey": "얼떨결에죽은남편을부활시켜버렸다"
+    "titleKey": "후계자는모르겠고힐링이나하렵니다"
   },
   {
     "source": "kakaopage",
@@ -2847,7 +2701,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=c6gcui/dJMcagSS5RE/4tBfiMWm6ScVFDjahdkx2K&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 93,
+    "rank": 88,
     "rankList": "webtoon:monthly",
     "releasedAt": "2023-05-31T13:00:05.000Z",
     "updatedAt": "2026-10-31T13:01:06.000Z",
@@ -2864,7 +2718,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 45982719
+      "views": 45991069
     },
     "titleKey": "누군가내몸에빙의했다"
   },
@@ -2883,10 +2737,10 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=SEVza/dJMcahzOgse/8YpW3TgwmSGktGYdXAHCck&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 95,
+    "rank": 89,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-08-02T13:00:05.000Z",
-    "updatedAt": "2026-11-09T13:01:04.000Z",
+    "updatedAt": "2026-11-16T13:01:03.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -2900,115 +2754,119 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 11523955
+      "views": 11544007
     },
     "titleKey": "결혼장사2잊히지않을노래"
   },
   {
     "source": "kakaopage",
     "region": "KR",
-    "id": "62302584",
-    "url": "https://page.kakao.com/content/62302584",
-    "title": "2레벨로 회귀한 무신",
-    "seriesTitle": "2레벨로 회귀한 무신",
+    "id": "70435619",
+    "url": "https://page.kakao.com/content/70435619",
+    "title": "얼떨결에 죽은 남편을 부활시켜 버렸다",
+    "seriesTitle": "얼떨결에 죽은 남편을 부활시켜 버렸다",
     "authors": [
-      "디앤씨웹툰",
-      "염비"
+      "팀 제나",
+      "문시현",
+      "냠냐",
+      "해새새"
     ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=dVlQj0/dJMcai52cGs/d66aM4dQ5DdRbIKecbY6eK&filename=th3",
-    "category": "웹툰 / 판타지",
-    "rating": "all",
-    "rank": 96,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2023-07-31T13:00:07.000Z",
-    "updatedAt": "2026-11-09T13:01:06.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 3,
-      "allFree": false,
-      "views": 46546932
-    },
-    "titleKey": "2레벨로회귀한무신"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "67696572",
-    "url": "https://page.kakao.com/content/67696572",
-    "title": "천재 대장장이의 게임",
-    "seriesTitle": "천재 대장장이의 게임",
-    "authors": [
-      "YES WORKS",
-      "박민규"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cOCv7/dJMcaffejAH/90rbHzZcCgFQK5PFA2H9gk&filename=th3",
-    "category": "웹툰 / 판타지",
-    "rating": "all",
-    "rank": 98,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2025-09-30T13:00:06.000Z",
-    "updatedAt": "2026-10-23T13:01:06.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 3,
-      "allFree": false,
-      "views": 13425854
-    },
-    "titleKey": "천재대장장이의게임"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "60720041",
-    "url": "https://page.kakao.com/content/60720041",
-    "title": "오작교는 싫습니다",
-    "seriesTitle": "오작교는 싫습니다",
-    "authors": [
-      "마리씨",
-      "클로버",
-      "살오른 곱등이"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cpMlEa/dJMcabsKeZU/YgyvUE9XVImZUTzA7K3cC0&filename=th3",
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=bNYVgn/dJMb999xAx1/82vEWZajFPAuFW6RwnrAsK&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 99,
+    "rank": 90,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2022-12-03T13:00:07.000Z",
-    "updatedAt": "2026-11-04T13:01:04.000Z",
+    "releasedAt": "2026-09-11T13:01:04.000Z",
+    "updatedAt": "2026-11-14T13:01:04.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
       "regular": null,
       "discountRate": 0,
       "unit": "episode",
-      "ageGrade": 0
+      "ageGrade": 15
     },
     "promo": {
       "waitFree": true,
       "waitFreeHours": 3,
-      "freeEpisodes": 21,
+      "freeEpisodes": 6,
       "allFree": false,
-      "views": 24170406
+      "views": 2007742
     },
-    "titleKey": "오작교는싫습니다"
+    "titleKey": "얼떨결에죽은남편을부활시켜버렸다"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "70673310",
+    "url": "https://page.kakao.com/content/70673310",
+    "title": "악당가의 최강 집사",
+    "seriesTitle": "악당가의 최강 집사",
+    "authors": [
+      "생강",
+      "휘쇄",
+      "지주",
+      "MON쉘"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=G7Mc1/dJMcaaHAAOL/eUp3C6NecVgKw7uXFhUX60&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 92,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2026-09-30T13:01:04.000Z",
+    "updatedAt": "2026-11-12T13:01:04.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 3,
+      "allFree": false,
+      "views": 2665872
+    },
+    "titleKey": "악당가의최강집사"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "64257452",
+    "url": "https://page.kakao.com/content/64257452",
+    "title": "변경백 서자는 황제였다",
+    "seriesTitle": "변경백 서자는 황제였다",
+    "authors": [
+      "연장점검",
+      "지안",
+      "기준석"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=m40yZ/dJMcadbiBSD/Y577kX9NVgFS5lq0nPhq3k&filename=th3",
+    "category": "웹툰 / 판타지",
+    "rating": "all",
+    "rank": 93,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2024-05-31T13:00:07.000Z",
+    "updatedAt": "2026-11-14T13:01:05.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 3,
+      "allFree": false,
+      "views": 23012045
+    },
+    "titleKey": "변경백서자는황제였다"
   },
   {
     "source": "kakaopage",
@@ -3026,7 +2884,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bJ50LF/dJMcafnTUvZ/OjWTRZZ71EGCTjuthrL2jk&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 100,
+    "rank": 94,
     "rankList": "webtoon:monthly",
     "releasedAt": "2023-05-12T13:00:06.000Z",
     "updatedAt": "2026-11-15T13:01:04.000Z",
@@ -3043,9 +2901,150 @@
       "waitFreeHours": 3,
       "freeEpisodes": 10,
       "allFree": false,
-      "views": 72439048
+      "views": 72465557
     },
     "titleKey": "악당들에게키워지는중입니다"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "60720041",
+    "url": "https://page.kakao.com/content/60720041",
+    "title": "오작교는 싫습니다",
+    "seriesTitle": "오작교는 싫습니다",
+    "authors": [
+      "마리씨",
+      "클로버",
+      "살오른 곱등이"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cpMlEa/dJMcabsKeZU/YgyvUE9XVImZUTzA7K3cC0&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 95,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2022-12-03T13:00:07.000Z",
+    "updatedAt": "2026-11-04T13:01:04.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 3,
+      "freeEpisodes": 21,
+      "allFree": false,
+      "views": 24188034
+    },
+    "titleKey": "오작교는싫습니다"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "66578139",
+    "url": "https://page.kakao.com/content/66578139",
+    "title": "은해상단 막내아들",
+    "seriesTitle": "은해상단 막내아들",
+    "authors": [
+      "신서람",
+      "향란"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=iGBo6/dJMcahcM8CU/At2vXCOIkIs2bueQsPUC8k&filename=th3",
+    "category": "웹툰 / 무협",
+    "rating": "all",
+    "rank": 96,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2025-05-31T13:00:20.000Z",
+    "updatedAt": "2026-11-15T13:01:05.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 3,
+      "allFree": false,
+      "views": 15656018
+    },
+    "titleKey": "은해상단막내아들"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "62302584",
+    "url": "https://page.kakao.com/content/62302584",
+    "title": "2레벨로 회귀한 무신",
+    "seriesTitle": "2레벨로 회귀한 무신",
+    "authors": [
+      "디앤씨웹툰",
+      "염비"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=dVlQj0/dJMcai52cGs/d66aM4dQ5DdRbIKecbY6eK&filename=th3",
+    "category": "웹툰 / 판타지",
+    "rating": "all",
+    "rank": 98,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2023-07-31T13:00:07.000Z",
+    "updatedAt": "2026-11-16T13:01:05.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 3,
+      "allFree": false,
+      "views": 46562541
+    },
+    "titleKey": "2레벨로회귀한무신"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "67696572",
+    "url": "https://page.kakao.com/content/67696572",
+    "title": "천재 대장장이의 게임",
+    "seriesTitle": "천재 대장장이의 게임",
+    "authors": [
+      "YES WORKS",
+      "박민규"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cOCv7/dJMcaffejAH/90rbHzZcCgFQK5PFA2H9gk&filename=th3",
+    "category": "웹툰 / 판타지",
+    "rating": "all",
+    "rank": 99,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2025-09-30T13:00:06.000Z",
+    "updatedAt": "2026-10-23T13:01:06.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 3,
+      "allFree": false,
+      "views": 13429111
+    },
+    "titleKey": "천재대장장이의게임"
   },
   {
     "source": "kakaopage",
@@ -3063,7 +3062,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bsInVE/dJMcaaNJLLg/AZ81Cyh9AtYh4Jm0naschk&filename=th3",
     "category": "웹툰 / 판타지",
     "rating": "all",
-    "rank": 101,
+    "rank": 100,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-01-31T13:01:04.000Z",
     "updatedAt": "2026-11-10T13:01:04.000Z",
@@ -3080,28 +3079,29 @@
       "waitFreeHours": 3,
       "freeEpisodes": 12,
       "allFree": false,
-      "views": 4919595
+      "views": 4928645
     },
     "titleKey": "망나니1왕자가되었다"
   },
   {
     "source": "kakaopage",
     "region": "KR",
-    "id": "68858742",
-    "url": "https://page.kakao.com/content/68858742",
-    "title": "임신한 척했는데 남편이 돌아왔다",
-    "seriesTitle": "임신한 척했는데 남편이 돌아왔다",
+    "id": "70842032",
+    "url": "https://page.kakao.com/content/70842032",
+    "title": "돈지랄 네크로맨서 ",
+    "seriesTitle": "돈지랄 네크로맨서 ",
     "authors": [
-      "나래",
-      "별별토"
+      "백연발",
+      "서민성",
+      "키보드만세"
     ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cWgMpD/dJMcacyuCSR/kMlO64BktF84y1GfZFUYzk&filename=th3",
-    "category": "웹툰 / 로판",
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cpL3XY/dJMcahlVaIr/lxvKyqKmKjGW0PCkhN7RTK&filename=th3",
+    "category": "웹툰 / 판타지",
     "rating": "all",
-    "rank": 102,
+    "rank": 101,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2026-04-04T13:01:03.000Z",
-    "updatedAt": "2026-11-10T13:01:04.000Z",
+    "releasedAt": "2026-10-16T13:01:03.000Z",
+    "updatedAt": "2026-11-13T13:01:03.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -3115,9 +3115,9 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 8536675
+      "views": 670596
     },
-    "titleKey": "임신한척했는데남편이돌아왔다"
+    "titleKey": "돈지랄네크로맨서"
   },
   {
     "source": "kakaopage",
@@ -3134,7 +3134,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=bSiG4M/dJMcaf2YdhC/D2q6XS5WYAfk0j9IoiIsaK&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 103,
+    "rank": 102,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-06-02T13:01:03.000Z",
     "updatedAt": "2026-11-11T13:01:05.000Z",
@@ -3151,9 +3151,44 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 5513850
+      "views": 5519607
     },
     "titleKey": "육아물여주인공의새언니"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "68858742",
+    "url": "https://page.kakao.com/content/68858742",
+    "title": "임신한 척했는데 남편이 돌아왔다",
+    "seriesTitle": "임신한 척했는데 남편이 돌아왔다",
+    "authors": [
+      "나래",
+      "별별토"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=cWgMpD/dJMcacyuCSR/kMlO64BktF84y1GfZFUYzk&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 103,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2026-04-04T13:01:03.000Z",
+    "updatedAt": "2026-11-10T13:01:04.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 3,
+      "allFree": false,
+      "views": 8543617
+    },
+    "titleKey": "임신한척했는데남편이돌아왔다"
   },
   {
     "source": "kakaopage",
@@ -3171,7 +3206,7 @@
     "rank": 105,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-11-03T13:01:05.000Z",
-    "updatedAt": "2026-11-09T13:01:04.000Z",
+    "updatedAt": "2026-11-16T13:01:03.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -3185,7 +3220,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 345967
+      "views": 350240
     },
     "titleKey": "파멸의잔돌려드리겠습니다"
   },
@@ -3221,28 +3256,27 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 365539
+      "views": 369303
     },
     "titleKey": "보답은결혼으로부탁할게요"
   },
   {
     "source": "kakaopage",
     "region": "KR",
-    "id": "66578139",
-    "url": "https://page.kakao.com/content/66578139",
-    "title": "은해상단 막내아들",
-    "seriesTitle": "은해상단 막내아들",
+    "id": "71312857",
+    "url": "https://page.kakao.com/content/71312857",
+    "title": "키몽의 강원관광두레 여행기 - 만나보자! 강원특별자치도!",
+    "seriesTitle": "키몽의 강원관광두레 여행기 - 만나보자! 강원특별자치도!",
     "authors": [
-      "신서람",
-      "향란"
+      "키몽"
     ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=iGBo6/dJMcahcM8CU/At2vXCOIkIs2bueQsPUC8k&filename=th3",
-    "category": "웹툰 / 무협",
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=iYOYm/dJMcacSyHGy/K93JzmeSt6uyPOCkl68Zw0&filename=th3",
+    "category": "웹툰 / 드라마",
     "rating": "all",
     "rank": 107,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2025-05-31T13:00:20.000Z",
-    "updatedAt": "2026-11-15T13:01:05.000Z",
+    "releasedAt": "2026-11-11T01:51:02.000Z",
+    "updatedAt": "2026-11-11T01:51:02.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -3252,13 +3286,13 @@
       "ageGrade": 0
     },
     "promo": {
-      "waitFree": true,
+      "waitFree": false,
       "waitFreeHours": 24,
       "freeEpisodes": 3,
-      "allFree": false,
-      "views": 15634529
+      "allFree": true,
+      "views": 207924
     },
-    "titleKey": "은해상단막내아들"
+    "titleKey": "키몽의강원관광두레여행기만나보자강원특별자치도"
   },
   {
     "source": "kakaopage",
@@ -3293,81 +3327,9 @@
       "waitFreeHours": 24,
       "freeEpisodes": 3,
       "allFree": false,
-      "views": 3067548
+      "views": 3072562
     },
     "titleKey": "삼류무가천하제일인"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "63529403",
-    "url": "https://page.kakao.com/content/63529403",
-    "title": "악녀는 대공을 사로잡았다",
-    "seriesTitle": "악녀는 대공을 사로잡았다",
-    "authors": [
-      "뽀리삐",
-      "뺩",
-      "도롱"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=bt8mUN/dJMb9PsL1Lv/UpAzKIuNZS0ocjARM7PWsk&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 109,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2024-02-23T13:00:05.000Z",
-    "updatedAt": "2026-10-16T13:01:04.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 3,
-      "allFree": false,
-      "views": 21032635
-    },
-    "titleKey": "악녀는대공을사로잡았다"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "62263340",
-    "url": "https://page.kakao.com/content/62263340",
-    "title": "환생한 암살자는 검술 천재",
-    "seriesTitle": "환생한 암살자는 검술 천재",
-    "authors": [
-      "다온스튜디오",
-      "테스",
-      "글개미"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=d0hdu1/dJMcaiFvsEz/Wbj8NGyi9pfHlgHkYkTad1&filename=th3",
-    "category": "웹툰 / 판타지",
-    "rating": "all",
-    "rank": 110,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2023-08-31T13:00:05.000Z",
-    "updatedAt": "2026-11-05T13:01:07.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 3,
-      "freeEpisodes": 4,
-      "allFree": false,
-      "views": 29491690
-    },
-    "titleKey": "환생한암살자는검술천재"
   },
   {
     "source": "kakaopage",
@@ -3384,10 +3346,10 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=inYO4/dJMcafgy4Ge/bUHnR82TwDlkcmwwGwYYvK&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 111,
+    "rank": 109,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-03-31T13:00:20.000Z",
-    "updatedAt": "2026-11-09T13:01:04.000Z",
+    "updatedAt": "2026-11-16T13:01:03.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -3401,7 +3363,7 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 12101410
+      "views": 12114155
     },
     "titleKey": "나는한편의극을보았다"
   },
@@ -3420,10 +3382,10 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=4yIFv/hAJmBUxvKt/Nfy6DKLtjZ5TKkMkzozT30&filename=th3",
     "category": "웹툰 / 판타지",
     "rating": "all",
-    "rank": 112,
+    "rank": 110,
     "rankList": "webtoon:monthly",
     "releasedAt": "2024-03-31T13:00:06.000Z",
-    "updatedAt": "2026-11-09T13:01:05.000Z",
+    "updatedAt": "2026-11-16T13:01:04.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -3437,30 +3399,29 @@
       "waitFreeHours": 3,
       "freeEpisodes": 31,
       "allFree": false,
-      "views": 34033463
+      "views": 34057489
     },
     "titleKey": "권왕전생"
   },
   {
     "source": "kakaopage",
     "region": "KR",
-    "id": "70160326",
-    "url": "https://page.kakao.com/content/70160326",
-    "title": "우리 아빠는 천하제일인",
-    "seriesTitle": "우리 아빠는 천하제일인",
+    "id": "62263340",
+    "url": "https://page.kakao.com/content/62263340",
+    "title": "환생한 암살자는 검술 천재",
+    "seriesTitle": "환생한 암살자는 검술 천재",
     "authors": [
-      "유담",
-      "결",
-      "이정",
-      "작가8호"
+      "다온스튜디오",
+      "테스",
+      "글개미"
     ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=46Q95/dJMcahZCE0n/koNBIH7aVRy8WkhFx532d0&filename=th3",
-    "category": "웹툰 / 무협",
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=d0hdu1/dJMcaiFvsEz/Wbj8NGyi9pfHlgHkYkTad1&filename=th3",
+    "category": "웹툰 / 판타지",
     "rating": "all",
-    "rank": 113,
+    "rank": 111,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2026-08-14T13:01:03.000Z",
-    "updatedAt": "2026-11-13T13:01:03.000Z",
+    "releasedAt": "2023-08-31T13:00:05.000Z",
+    "updatedAt": "2026-11-05T13:01:07.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -3471,12 +3432,12 @@
     },
     "promo": {
       "waitFree": true,
-      "waitFreeHours": 24,
-      "freeEpisodes": 3,
+      "waitFreeHours": 3,
+      "freeEpisodes": 4,
       "allFree": false,
-      "views": 3464362
+      "views": 29501338
     },
-    "titleKey": "우리아빠는천하제일인"
+    "titleKey": "환생한암살자는검술천재"
   },
   {
     "source": "kakaopage",
@@ -3493,7 +3454,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=cVF8eZ/dJMcaikV4XC/s3XuWynRVjcck6S9bNj2w1&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 114,
+    "rank": 112,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-04-24T13:00:20.000Z",
     "updatedAt": "2026-11-10T13:01:05.000Z",
@@ -3510,9 +3471,80 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 7286672
+      "views": 7291335
     },
     "titleKey": "전그냥내집마련이꿈인데요"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "67725813",
+    "url": "https://page.kakao.com/content/67725813",
+    "title": "주인공의 꽃길에 올라타는 방법",
+    "seriesTitle": "주인공의 꽃길에 올라타는 방법",
+    "authors": [
+      "오로라 스튜디오",
+      "라몽라몽"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=Ir8FE/dJMcailc0w0/xg7jRPm3cbfMcTb9dOKyGk&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 113,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2025-10-02T13:00:06.000Z",
+    "updatedAt": "2026-11-13T13:01:04.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 3,
+      "freeEpisodes": 4,
+      "allFree": false,
+      "views": 6765012
+    },
+    "titleKey": "주인공의꽃길에올라타는방법"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "63818432",
+    "url": "https://page.kakao.com/content/63818432",
+    "title": "랭커를 위한 바른 생활 안내서",
+    "seriesTitle": "랭커를 위한 바른 생활 안내서",
+    "authors": [
+      "샘미",
+      "직믹",
+      "톄제"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=bIvqs0/hALRU45OE4/cT3Xzxr6KbpilD5prxHKEk&filename=th3",
+    "category": "웹툰 / 로판",
+    "rating": "all",
+    "rank": 114,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2024-03-31T13:00:05.000Z",
+    "updatedAt": "2026-11-15T13:01:06.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 24,
+      "freeEpisodes": 4,
+      "allFree": false,
+      "views": 27709778
+    },
+    "titleKey": "랭커를위한바른생활안내서"
   },
   {
     "source": "kakaopage",
@@ -3546,27 +3578,29 @@
       "waitFreeHours": 24,
       "freeEpisodes": 4,
       "allFree": false,
-      "views": 24234620
+      "views": 24245637
     },
     "titleKey": "회귀검가의서자가사는법"
   },
   {
     "source": "kakaopage",
     "region": "KR",
-    "id": "71312857",
-    "url": "https://page.kakao.com/content/71312857",
-    "title": "키몽의 강원관광두레 여행기 - 만나보자! 강원특별자치도!",
-    "seriesTitle": "키몽의 강원관광두레 여행기 - 만나보자! 강원특별자치도!",
+    "id": "70927661",
+    "url": "https://page.kakao.com/content/70927661",
+    "title": "레이디 신데렐라",
+    "seriesTitle": "레이디 신데렐라",
     "authors": [
-      "키몽"
+      "타이밍",
+      "하이둥",
+      "은리화"
     ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=iYOYm/dJMcacSyHGy/K93JzmeSt6uyPOCkl68Zw0&filename=th3",
-    "category": "웹툰 / 드라마",
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=nnGoo/dJMcacE0YkY/t2B4pkhUawWbrHjIK3sdvk&filename=th3",
+    "category": "웹툰 / 로판",
     "rating": "all",
     "rank": 116,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2026-11-11T01:51:02.000Z",
-    "updatedAt": "2026-11-11T01:51:02.000Z",
+    "releasedAt": "2026-10-16T13:01:03.000Z",
+    "updatedAt": "2026-11-14T13:01:03.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -3576,68 +3610,34 @@
       "ageGrade": 0
     },
     "promo": {
-      "waitFree": false,
+      "waitFree": true,
       "waitFreeHours": 24,
       "freeEpisodes": 3,
-      "allFree": true,
-      "views": 194220
+      "allFree": false,
+      "views": 995640
     },
-    "titleKey": "키몽의강원관광두레여행기만나보자강원특별자치도"
+    "titleKey": "레이디신데렐라"
   },
   {
     "source": "kakaopage",
     "region": "KR",
-    "id": "67725813",
-    "url": "https://page.kakao.com/content/67725813",
-    "title": "주인공의 꽃길에 올라타는 방법",
-    "seriesTitle": "주인공의 꽃길에 올라타는 방법",
+    "id": "70160326",
+    "url": "https://page.kakao.com/content/70160326",
+    "title": "우리 아빠는 천하제일인",
+    "seriesTitle": "우리 아빠는 천하제일인",
     "authors": [
-      "오로라 스튜디오",
-      "라몽라몽"
+      "유담",
+      "결",
+      "이정",
+      "작가8호"
     ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=Ir8FE/dJMcailc0w0/xg7jRPm3cbfMcTb9dOKyGk&filename=th3",
-    "category": "웹툰 / 로판",
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=46Q95/dJMcahZCE0n/koNBIH7aVRy8WkhFx532d0&filename=th3",
+    "category": "웹툰 / 무협",
     "rating": "all",
     "rank": 117,
     "rankList": "webtoon:monthly",
-    "releasedAt": "2025-10-02T13:00:06.000Z",
-    "updatedAt": "2026-11-13T13:01:04.000Z",
-    "price": {
-      "currency": "TICKET",
-      "current": null,
-      "regular": null,
-      "discountRate": 0,
-      "unit": "episode",
-      "ageGrade": 0
-    },
-    "promo": {
-      "waitFree": true,
-      "waitFreeHours": 3,
-      "freeEpisodes": 4,
-      "allFree": false,
-      "views": 6736189
-    },
-    "titleKey": "주인공의꽃길에올라타는방법"
-  },
-  {
-    "source": "kakaopage",
-    "region": "KR",
-    "id": "63818432",
-    "url": "https://page.kakao.com/content/63818432",
-    "title": "랭커를 위한 바른 생활 안내서",
-    "seriesTitle": "랭커를 위한 바른 생활 안내서",
-    "authors": [
-      "샘미",
-      "직믹",
-      "톄제"
-    ],
-    "cover": "https://dn-img-page.kakao.com/download/resource?kid=bIvqs0/hALRU45OE4/cT3Xzxr6KbpilD5prxHKEk&filename=th3",
-    "category": "웹툰 / 로판",
-    "rating": "all",
-    "rank": 119,
-    "rankList": "webtoon:monthly",
-    "releasedAt": "2024-03-31T13:00:05.000Z",
-    "updatedAt": "2026-11-15T13:01:06.000Z",
+    "releasedAt": "2026-08-14T13:01:03.000Z",
+    "updatedAt": "2026-11-13T13:01:03.000Z",
     "price": {
       "currency": "TICKET",
       "current": null,
@@ -3649,11 +3649,11 @@
     "promo": {
       "waitFree": true,
       "waitFreeHours": 24,
-      "freeEpisodes": 4,
+      "freeEpisodes": 3,
       "allFree": false,
-      "views": 27690624
+      "views": 3471175
     },
-    "titleKey": "랭커를위한바른생활안내서"
+    "titleKey": "우리아빠는천하제일인"
   },
   {
     "source": "kakaopage",
@@ -3669,7 +3669,7 @@
     "cover": "https://dn-img-page.kakao.com/download/resource?kid=DnQOs/dJMcabqfReY/zzTAUd7fjRoVSD1upiOdE0&filename=th3",
     "category": "웹툰 / 로판",
     "rating": "all",
-    "rank": 120,
+    "rank": 119,
     "rankList": "webtoon:monthly",
     "releasedAt": "2021-04-10T13:00:05.000Z",
     "updatedAt": "2026-11-03T13:01:05.000Z",
@@ -3686,8 +3686,44 @@
       "waitFreeHours": 3,
       "freeEpisodes": 41,
       "allFree": false,
-      "views": 72586470
+      "views": 72607894
     },
     "titleKey": "계모인데딸이너무귀여워"
+  },
+  {
+    "source": "kakaopage",
+    "region": "KR",
+    "id": "49793269",
+    "url": "https://page.kakao.com/content/49793269",
+    "title": "닥터 최태수",
+    "seriesTitle": "닥터 최태수",
+    "authors": [
+      "조석호",
+      "이동현(악어 스튜디오)",
+      "시녕(콘티메이커 스튜디오)"
+    ],
+    "cover": "https://dn-img-page.kakao.com/download/resource?kid=fg9Bo/hAd4KVHfgi/r7bodne14TKt60RRQWKikk&filename=th3",
+    "category": "웹툰 / 드라마",
+    "rating": "all",
+    "rank": 120,
+    "rankList": "webtoon:monthly",
+    "releasedAt": "2017-05-02T13:00:33.000Z",
+    "updatedAt": "2026-11-10T13:01:05.000Z",
+    "price": {
+      "currency": "TICKET",
+      "current": null,
+      "regular": null,
+      "discountRate": 0,
+      "unit": "episode",
+      "ageGrade": 0
+    },
+    "promo": {
+      "waitFree": true,
+      "waitFreeHours": 12,
+      "freeEpisodes": 26,
+      "allFree": false,
+      "views": 201365669
+    },
+    "titleKey": "닥터최태수"
   }
 ]
