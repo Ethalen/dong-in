@@ -152,12 +152,12 @@
         "count": 54
       },
       "rentalTotal": {
-        "current": 15600,
-        "regular": 15600
+        "current": 3000,
+        "regular": 3000
       }
     },
     "promo": {
-      "freeEpisodes": 2,
+      "freeEpisodes": 44,
       "text": null
     },
     "titleKey": "악인남편"
@@ -330,13 +330,13 @@
     "authors": [
       "리디부"
     ],
-    "cover": "https://img.ridicdn.net/cover/4158001324/large#1",
+    "cover": "https://img.ridicdn.net/cover/4158001325/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
     "rank": 9,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-10-21T15:00:00.000Z",
-    "updatedAt": "2026-11-11T15:00:00.000Z",
+    "updatedAt": "2026-11-18T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 500,
@@ -344,13 +344,13 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 8000,
-        "regular": 8000,
-        "count": 16
+        "current": 8500,
+        "regular": 8500,
+        "count": 17
       },
       "rentalTotal": {
-        "current": 3900,
-        "regular": 3900
+        "current": 4200,
+        "regular": 4200
       }
     },
     "promo": {
@@ -493,13 +493,13 @@
       "푸르세르",
       "밀렘"
     ],
-    "cover": "https://img.ridicdn.net/cover/1746036935/large#1",
+    "cover": "https://img.ridicdn.net/cover/1746037155/large#1",
     "category": "판타지/SF / 웹툰",
     "rating": "all",
     "rank": 13,
     "rankList": "webtoon:monthly",
     "releasedAt": "2024-05-22T15:00:00.000Z",
-    "updatedAt": "2026-11-03T15:00:00.000Z",
+    "updatedAt": "2026-11-15T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 500,
@@ -507,17 +507,17 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 55000,
-        "regular": 55000,
-        "count": 110
+        "current": 55500,
+        "regular": 55500,
+        "count": 111
       },
       "rentalTotal": {
-        "current": 30600,
-        "regular": 30600
+        "current": 28800,
+        "regular": 28800
       }
     },
     "promo": {
-      "freeEpisodes": 8,
+      "freeEpisodes": 15,
       "text": null
     },
     "titleKey": "세상만구하고은퇴하겠습니다"
@@ -1586,7 +1586,7 @@
       "지구",
       "심차돌"
     ],
-    "cover": "https://img.ridicdn.net/cover/6067000219/large#1",
+    "cover": "https://img.ridicdn.net/cover/6067000225/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
     "rank": 40,
@@ -1600,13 +1600,13 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 15000,
-        "regular": 15000,
-        "count": 25
+        "current": 15600,
+        "regular": 15600,
+        "count": 26
       },
       "rentalTotal": {
-        "current": 6600,
-        "regular": 6600
+        "current": 6900,
+        "regular": 6900
       }
     },
     "promo": {
@@ -2233,13 +2233,13 @@
       "백화등",
       "특급환상배송"
     ],
-    "cover": "https://img.ridicdn.net/cover/4928005713/large#1",
+    "cover": "https://img.ridicdn.net/cover/4928005722/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
     "rank": 57,
     "rankList": "webtoon:monthly",
     "releasedAt": "2025-01-15T15:00:00.000Z",
-    "updatedAt": "2026-11-11T15:00:00.000Z",
+    "updatedAt": "2026-11-18T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 500,
@@ -2247,13 +2247,13 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 54500,
-        "regular": 54500,
-        "count": 109
+        "current": 55000,
+        "regular": 55000,
+        "count": 110
       },
       "rentalTotal": {
-        "current": 31800,
-        "regular": 31800
+        "current": 32100,
+        "regular": 32100
       }
     },
     "promo": {
@@ -2612,12 +2612,12 @@
     "updatedAt": "2026-07-31T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 5000,
+      "current": 4500,
       "regular": 5000,
-      "discountRate": 0,
+      "discountRate": 10,
       "unit": "volume",
       "seriesTotal": {
-        "current": 55000,
+        "current": 49500,
         "regular": 55000,
         "count": 11
       },
@@ -3322,24 +3322,18 @@
     "updatedAt": "2026-10-18T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 3600,
+      "current": 4000,
       "regular": 4000,
-      "discountRate": 10,
+      "discountRate": 0,
       "unit": "volume",
       "seriesTotal": {
-        "current": 39600,
+        "current": 44000,
         "regular": 44000,
         "count": 11
       },
-      "rentalTotal": {
-        "current": 0,
-        "regular": 0
-      }
+      "rentalTotal": null
     },
-    "promo": {
-      "freeEpisodes": 1,
-      "text": null
-    },
+    "promo": null,
     "titleKey": "안경때때로불량아"
   },
   {
@@ -3893,18 +3887,24 @@
     "updatedAt": "2026-09-21T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 4500,
+      "current": 4050,
       "regular": 4500,
-      "discountRate": 0,
+      "discountRate": 10,
       "unit": "volume",
       "seriesTotal": {
-        "current": 36000,
+        "current": 32400,
         "regular": 36000,
         "count": 8
       },
-      "rentalTotal": null
+      "rentalTotal": {
+        "current": 0,
+        "regular": 0
+      }
     },
-    "promo": null,
+    "promo": {
+      "freeEpisodes": 1,
+      "text": null
+    },
     "titleKey": "야마다군과lv999의사랑을하다"
   },
   {
@@ -3993,12 +3993,12 @@
     "updatedAt": "2026-09-22T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 4320,
+      "current": 4800,
       "regular": 4800,
-      "discountRate": 10,
+      "discountRate": 0,
       "unit": "volume",
       "seriesTotal": {
-        "current": 17280,
+        "current": 19200,
         "regular": 19200,
         "count": 4
       },
@@ -4343,12 +4343,12 @@
     "updatedAt": "2026-10-28T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 6300,
+      "current": 7000,
       "regular": 7000,
-      "discountRate": 10,
+      "discountRate": 0,
       "unit": "volume",
       "seriesTotal": {
-        "current": 12600,
+        "current": 14000,
         "regular": 14000,
         "count": 2
       },
