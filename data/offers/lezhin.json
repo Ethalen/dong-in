@@ -2,20 +2,21 @@
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "goldpixinema",
-    "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-    "title": "금요정의 금요극장",
-    "seriesTitle": "금요정의 금요극장",
+    "id": "gamesal",
+    "url": "https://www.lezhin.com/ko/comic/gamesal",
+    "title": "게임은 살인이다",
+    "seriesTitle": "게임은 살인이다",
     "authors": [
-      "금요정"
+      "우왕이",
+      "핫핑크"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.webp?updated=1791875168979&width=440",
-    "category": "gag",
+    "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.webp?updated=1757656336282&width=440",
+    "category": "fantasy",
     "rating": "all",
     "rank": 1,
     "rankList": "realtime:all",
-    "releasedAt": "2022-06-09T15:00:00.000Z",
-    "updatedAt": "2026-03-19T15:00:00.000Z",
+    "releasedAt": "2023-10-06T15:00:00.000Z",
+    "updatedAt": "2026-11-20T15:00:00.000Z",
     "price": {
       "currency": "COIN",
       "current": 2,
@@ -24,169 +25,11 @@
       "unit": "episode"
     },
     "promo": {
-      "freeEpisodes": 53,
-      "completed": true,
-      "text": null
-    },
-    "titleKey": "금요정의금요극장"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "highschoolboy",
-    "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-    "title": "남고 소년",
-    "seriesTitle": "남고 소년",
-    "authors": [
-      "박지"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.webp?updated=1770011250131&width=440",
-    "category": "school",
-    "rating": "all",
-    "rank": 2,
-    "rankList": "realtime:all",
-    "releasedAt": "2023-12-23T15:00:00.000Z",
-    "updatedAt": "2026-11-14T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 5,
+      "freeEpisodes": 6,
       "completed": false,
-      "text": "이벤트! 4화 무료 (11/23 월요일 정오까지)"
+      "text": "이벤트! 6화 무료 (11/23 월요일 정오까지)"
     },
-    "titleKey": "남고소년"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "error_zone",
-    "url": "https://www.lezhin.com/ko/comic/error_zone",
-    "title": "오류탐구영역",
-    "seriesTitle": "오류탐구영역",
-    "authors": [
-      "사자",
-      "진월",
-      "망고곰"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.webp?updated=1776994518580&width=440",
-    "category": "bl",
-    "rating": "all",
-    "rank": 3,
-    "rankList": "realtime:all",
-    "releasedAt": "2025-02-06T15:00:00.000Z",
-    "updatedAt": "2026-11-19T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 1,
-      "completed": false,
-      "text": null
-    },
-    "titleKey": "오류탐구영역"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "inflame",
-    "url": "https://www.lezhin.com/ko/comic/inflame",
-    "title": "발화",
-    "seriesTitle": "발화",
-    "authors": [
-      "영재영"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.webp?updated=1785487112776&width=440",
-    "category": "drama",
-    "rating": "all",
-    "rank": 5,
-    "rankList": "realtime:all",
-    "releasedAt": "2024-09-04T15:00:00.000Z",
-    "updatedAt": "2026-11-18T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 2,
-      "regular": 2,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 8,
-      "completed": false,
-      "text": "이벤트! 5화 무료 (11/23 월요일 정오까지)"
-    },
-    "titleKey": "발화"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "fox_fire",
-    "url": "https://www.lezhin.com/ko/comic/fox_fire",
-    "title": "봄불은 여우불이어라",
-    "seriesTitle": "봄불은 여우불이어라",
-    "authors": [
-      "파다닭"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011777373973626/images/tall.webp?updated=1779272916234&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 6,
-    "rankList": "realtime:all",
-    "releasedAt": "2026-05-20T15:00:00.000Z",
-    "updatedAt": "2026-11-18T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "completed": false,
-      "text": "이벤트! 3화 무료 (11/23 월요일 정오까지)"
-    },
-    "titleKey": "봄불은여우불이어라"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "bisang_cheongchun",
-    "url": "https://www.lezhin.com/ko/comic/bisang_cheongchun",
-    "title": "비상! 청춘기록부",
-    "seriesTitle": "비상! 청춘기록부",
-    "authors": [
-      "이삼호",
-      "북큐브"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011747637118433/images/tall.webp?updated=1772178946761&width=440",
-    "category": "bl",
-    "rating": "all",
-    "rank": 7,
-    "rankList": "realtime:all",
-    "releasedAt": "2025-06-02T15:00:00.000Z",
-    "updatedAt": "2026-02-23T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "completed": true,
-      "text": null
-    },
-    "titleKey": "비상청춘기록부"
+    "titleKey": "게임은살인이다"
   },
   {
     "source": "lezhin",
@@ -201,7 +44,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.webp?updated=1771299039981&width=440",
     "category": "gag",
     "rating": "all",
-    "rank": 8,
+    "rank": 2,
     "rankList": "realtime:all",
     "releasedAt": "2022-06-24T15:00:00.000Z",
     "updatedAt": "2026-02-25T15:00:00.000Z",
@@ -222,6 +65,195 @@
   {
     "source": "lezhin",
     "region": "KR",
+    "id": "inflame",
+    "url": "https://www.lezhin.com/ko/comic/inflame",
+    "title": "발화",
+    "seriesTitle": "발화",
+    "authors": [
+      "영재영"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.webp?updated=1785487112776&width=440",
+    "category": "drama",
+    "rating": "all",
+    "rank": 3,
+    "rankList": "realtime:all",
+    "releasedAt": "2024-09-04T15:00:00.000Z",
+    "updatedAt": "2026-11-18T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 2,
+      "regular": 2,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 8,
+      "completed": false,
+      "text": "이벤트! 5화 무료 (11/23 월요일 정오까지)"
+    },
+    "titleKey": "발화"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "highschoolboy",
+    "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+    "title": "남고 소년",
+    "seriesTitle": "남고 소년",
+    "authors": [
+      "박지"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.webp?updated=1770011250131&width=440",
+    "category": "school",
+    "rating": "all",
+    "rank": 4,
+    "rankList": "realtime:all",
+    "releasedAt": "2023-12-23T15:00:00.000Z",
+    "updatedAt": "2026-11-14T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 5,
+      "completed": false,
+      "text": "이벤트! 4화 무료 (11/23 월요일 정오까지)"
+    },
+    "titleKey": "남고소년"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "sokkupguide",
+    "url": "https://www.lezhin.com/ko/comic/sokkupguide",
+    "title": "소꿉친구의 가이드가 되었다 [연재]",
+    "seriesTitle": "소꿉친구의 가이드가 되었다 [연재]",
+    "authors": [
+      "크리스피피쉬",
+      "2396스튜디오"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011745902996743/images/tall.webp?updated=1782804702373&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 5,
+    "rankList": "realtime:all",
+    "releasedAt": "2025-05-15T15:00:00.000Z",
+    "updatedAt": "2026-11-19T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 2,
+      "completed": false,
+      "text": null
+    },
+    "titleKey": "소꿉친구의가이드가되었다"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "error_zone",
+    "url": "https://www.lezhin.com/ko/comic/error_zone",
+    "title": "오류탐구영역",
+    "seriesTitle": "오류탐구영역",
+    "authors": [
+      "사자",
+      "진월",
+      "망고곰"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.webp?updated=1776994518580&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 6,
+    "rankList": "realtime:all",
+    "releasedAt": "2025-02-06T15:00:00.000Z",
+    "updatedAt": "2026-11-19T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "completed": false,
+      "text": null
+    },
+    "titleKey": "오류탐구영역"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "fox_fire",
+    "url": "https://www.lezhin.com/ko/comic/fox_fire",
+    "title": "봄불은 여우불이어라",
+    "seriesTitle": "봄불은 여우불이어라",
+    "authors": [
+      "파다닭"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011777373973626/images/tall.webp?updated=1779272916234&width=440",
+    "category": "romance",
+    "rating": "all",
+    "rank": 8,
+    "rankList": "realtime:all",
+    "releasedAt": "2026-05-20T15:00:00.000Z",
+    "updatedAt": "2026-11-18T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "completed": false,
+      "text": "이벤트! 3화 무료 (11/23 월요일 정오까지)"
+    },
+    "titleKey": "봄불은여우불이어라"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "goldpixinema",
+    "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+    "title": "금요정의 금요극장",
+    "seriesTitle": "금요정의 금요극장",
+    "authors": [
+      "금요정"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.webp?updated=1791875168979&width=440",
+    "category": "gag",
+    "rating": "all",
+    "rank": 9,
+    "rankList": "realtime:all",
+    "releasedAt": "2022-06-09T15:00:00.000Z",
+    "updatedAt": "2026-03-19T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 2,
+      "regular": 2,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 53,
+      "completed": true,
+      "text": null
+    },
+    "titleKey": "금요정의금요극장"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
     "id": "killer",
     "url": "https://www.lezhin.com/ko/comic/killer",
     "title": "킬러가 사랑에 빠졌을 때",
@@ -232,7 +264,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.webp?updated=1777863133632&width=440",
     "category": "bl",
     "rating": "all",
-    "rank": 9,
+    "rank": 10,
     "rankList": "realtime:all",
     "releasedAt": "2021-09-02T15:00:00.000Z",
     "updatedAt": "2026-07-10T15:00:00.000Z",
@@ -253,66 +285,34 @@
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "duke_granddaughter",
-    "url": "https://www.lezhin.com/ko/comic/duke_granddaughter",
-    "title": "최강자 공작님의 하나뿐인 손녀딸입니다 [연재]",
-    "seriesTitle": "최강자 공작님의 하나뿐인 손녀딸입니다 [연재]",
+    "id": "womb_romance",
+    "url": "https://www.lezhin.com/ko/comic/womb_romance",
+    "title": "자궁 연애",
+    "seriesTitle": "자궁 연애",
     "authors": [
-      "미나",
-      "캐진",
-      "김노랑"
+      "사사에 노리코",
+      "마나부"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011787555407404/images/tall.webp?updated=1788398380912&width=440",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011794998654403/images/tall.webp?updated=1795051574776&width=440",
     "category": "romance",
     "rating": "all",
     "rank": 11,
     "rankList": "realtime:all",
-    "releasedAt": "2026-09-07T15:00:00.000Z",
-    "updatedAt": "2026-11-16T15:00:00.000Z",
+    "releasedAt": "2026-11-19T15:00:00.000Z",
+    "updatedAt": "2026-11-19T15:00:00.000Z",
     "price": {
       "currency": "COIN",
-      "current": 3,
-      "regular": 3,
+      "current": 4,
+      "regular": 4,
       "discountRate": 0,
       "unit": "episode"
     },
     "promo": {
-      "freeEpisodes": 2,
-      "completed": false,
+      "freeEpisodes": 1,
+      "completed": true,
       "text": null
     },
-    "titleKey": "최강자공작님의하나뿐인손녀딸입니다"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "heavy_rain",
-    "url": "https://www.lezhin.com/ko/comic/heavy_rain",
-    "title": "호우주의보",
-    "seriesTitle": "호우주의보",
-    "authors": [
-      "203"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.webp?updated=1794307456458&width=440",
-    "category": "bl",
-    "rating": "all",
-    "rank": 12,
-    "rankList": "realtime:all",
-    "releasedAt": "2026-11-10T15:00:00.000Z",
-    "updatedAt": "2026-11-10T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 2,
-      "regular": 2,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "completed": true,
-      "text": "[3 → 2코인] 파격할인 이벤트! (11/25 수요일 정오까지)"
-    },
-    "titleKey": "호우주의보"
+    "titleKey": "자궁연애"
   },
   {
     "source": "lezhin",
@@ -327,7 +327,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.webp?updated=1771934851800&width=440",
     "category": "day",
     "rating": "all",
-    "rank": 13,
+    "rank": 12,
     "rankList": "realtime:all",
     "releasedAt": "2022-04-07T15:00:00.000Z",
     "updatedAt": "2026-11-18T15:00:00.000Z",
@@ -358,7 +358,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.webp?updated=1762862966152&width=440",
     "category": "fantasy",
     "rating": "all",
-    "rank": 14,
+    "rank": 13,
     "rankList": "realtime:all",
     "releasedAt": "2013-07-05T15:00:00.000Z",
     "updatedAt": "2026-09-12T15:00:00.000Z",
@@ -379,84 +379,20 @@
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "aritown",
-    "url": "https://www.lezhin.com/ko/comic/aritown",
-    "title": "이상하고 아리타운",
-    "seriesTitle": "이상하고 아리타운",
+    "id": "rainy_season",
+    "url": "https://www.lezhin.com/ko/comic/rainy_season",
+    "title": "우기",
+    "seriesTitle": "우기",
     "authors": [
-      "대빵"
+      "도제"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011785917531892/images/tall.webp?updated=1788181698290&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 15,
-    "rankList": "realtime:all",
-    "releasedAt": "2026-08-31T15:00:00.000Z",
-    "updatedAt": "2026-11-16T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 2,
-      "regular": 2,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 1,
-      "completed": false,
-      "text": null
-    },
-    "titleKey": "이상하고아리타운"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "gamesal",
-    "url": "https://www.lezhin.com/ko/comic/gamesal",
-    "title": "게임은 살인이다",
-    "seriesTitle": "게임은 살인이다",
-    "authors": [
-      "우왕이",
-      "핫핑크"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.webp?updated=1757656336282&width=440",
-    "category": "fantasy",
-    "rating": "all",
-    "rank": 16,
-    "rankList": "realtime:all",
-    "releasedAt": "2023-10-06T15:00:00.000Z",
-    "updatedAt": "2026-11-13T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 2,
-      "regular": 2,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 6,
-      "completed": false,
-      "text": "이벤트! 6화 무료 (11/23 월요일 정오까지)"
-    },
-    "titleKey": "게임은살인이다"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "rain_warning_15",
-    "url": "https://www.lezhin.com/ko/comic/rain_warning_15",
-    "title": "강우주의보 [개정판]",
-    "seriesTitle": "강우주의보 [개정판]",
-    "authors": [
-      "살원",
-      "감자농부"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011792662049862/images/tall.webp?updated=1794307516531&width=440",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.webp?updated=1775104423000&width=440",
     "category": "bl",
     "rating": "all",
-    "rank": 17,
+    "rank": 14,
     "rankList": "realtime:all",
-    "releasedAt": "2026-11-10T15:00:00.000Z",
-    "updatedAt": "2026-11-10T15:00:00.000Z",
+    "releasedAt": "2024-12-31T15:00:00.000Z",
+    "updatedAt": "2026-04-02T15:00:00.000Z",
     "price": {
       "currency": "COIN",
       "current": 2,
@@ -465,108 +401,11 @@
       "unit": "episode"
     },
     "promo": {
-      "freeEpisodes": 2,
+      "freeEpisodes": 4,
       "completed": true,
-      "text": "[3 → 2코인] 파격할인 이벤트! (11/25 수요일 정오까지)"
-    },
-    "titleKey": "강우주의보"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "strongest_wizards_daughter",
-    "url": "https://www.lezhin.com/ko/comic/strongest_wizards_daughter",
-    "title": "세계관 최강 마법사의 사랑스러운 딸이 되겠습니다",
-    "seriesTitle": "세계관 최강 마법사의 사랑스러운 딸이 되겠습니다",
-    "authors": [
-      "니쿠로메",
-      "모모시로 네코오"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/5554302602117120/images/tall.webp?updated=1790579355896&width=440",
-    "category": "fantasy",
-    "rating": "all",
-    "rank": 18,
-    "rankList": "realtime:all",
-    "releasedAt": "2024-05-07T15:00:00.000Z",
-    "updatedAt": "2026-09-21T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 2,
-      "completed": false,
       "text": null
     },
-    "titleKey": "세계관최강마법사의사랑스러운딸이되겠습니다"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "cantskiprabbit",
-    "url": "https://www.lezhin.com/ko/comic/cantskiprabbit",
-    "title": "거북이는 잠자는 토끼를 지나칠 수 없어!",
-    "seriesTitle": "거북이는 잠자는 토끼를 지나칠 수 없어!",
-    "authors": [
-      "MOSEI"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011777435659027/images/tall.webp?updated=1786607865952&width=440",
-    "category": "fantasy",
-    "rating": "all",
-    "rank": 19,
-    "rankList": "realtime:all",
-    "releasedAt": "2026-05-14T15:00:00.000Z",
-    "updatedAt": "2026-11-19T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 1,
-      "completed": false,
-      "text": null
-    },
-    "titleKey": "거북이는잠자는토끼를지나칠수없어"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "into_the_rose_garden_15",
-    "url": "https://www.lezhin.com/ko/comic/into_the_rose_garden_15",
-    "title": "인투 더 로즈 가든(Into the Rose Garden) [개정판][연재]",
-    "seriesTitle": "인투 더 로즈 가든(Into the Rose Garden) [개정판][연재]",
-    "authors": [
-      "MEG",
-      "가잴",
-      "Winterbaum",
-      "앤드비"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/5311951734112256/images/tall.webp?updated=1750309943400&width=440",
-    "category": "bl",
-    "rating": "all",
-    "rank": 20,
-    "rankList": "realtime:all",
-    "releasedAt": "2023-04-27T15:00:00.000Z",
-    "updatedAt": "2026-10-19T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 5,
-      "regular": 5,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 5,
-      "completed": false,
-      "text": null
-    },
-    "titleKey": "인투더로즈가든intotherosegarden"
+    "titleKey": "우기"
   },
   {
     "source": "lezhin",
@@ -581,7 +420,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/6179963773714432/images/tall.webp?updated=1763451757522&width=440",
     "category": "gag",
     "rating": "all",
-    "rank": 22,
+    "rank": 17,
     "rankList": "realtime:all",
     "releasedAt": "2022-08-19T15:00:00.000Z",
     "updatedAt": "2026-09-11T15:00:00.000Z",
@@ -602,20 +441,21 @@
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "totokkan",
-    "url": "https://www.lezhin.com/ko/comic/totokkan",
-    "title": "오크의 포로가 된 엘프 여사령관",
-    "seriesTitle": "오크의 포로가 된 엘프 여사령관",
+    "id": "instead_husband_15",
+    "url": "https://www.lezhin.com/ko/comic/instead_husband_15",
+    "title": "남편 대신 먹었습니다 [개정판][연재]",
+    "seriesTitle": "남편 대신 먹었습니다 [개정판][연재]",
     "authors": [
-      "삭둑"
+      "서닐",
+      "유채"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/6093218132590592/images/tall.webp?updated=1780029022644&width=440",
-    "category": "fantasy",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011790667171033/images/tall.webp?updated=1791264455110&width=440",
+    "category": "romance",
     "rating": "all",
-    "rank": 23,
+    "rank": 19,
     "rankList": "realtime:all",
-    "releasedAt": "2021-10-27T15:00:00.000Z",
-    "updatedAt": "2026-05-22T15:00:00.000Z",
+    "releasedAt": "2026-10-07T15:00:00.000Z",
+    "updatedAt": "2026-10-29T15:00:00.000Z",
     "price": {
       "currency": "COIN",
       "current": 3,
@@ -624,30 +464,29 @@
       "unit": "episode"
     },
     "promo": {
-      "freeEpisodes": 11,
-      "completed": true,
-      "text": "11화부터 232화까지 24시간마다 1화 무료"
+      "freeEpisodes": 3,
+      "completed": false,
+      "text": null
     },
-    "titleKey": "오크의포로가된엘프여사령관"
+    "titleKey": "남편대신먹었습니다"
   },
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "summer_dense_15",
-    "url": "https://www.lezhin.com/ko/comic/summer_dense_15",
-    "title": "여름의 밀도 [개정판]",
-    "seriesTitle": "여름의 밀도 [개정판]",
+    "id": "villain_girl",
+    "url": "https://www.lezhin.com/ko/comic/villain_girl",
+    "title": "괴롭혀주세요 악역 아가씨",
+    "seriesTitle": "괴롭혀주세요 악역 아가씨",
     "authors": [
-      "레드피치스튜디오",
-      "채랑비"
+      "Chise"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011792565419298/images/tall.webp?updated=1793620776653&width=440",
-    "category": "romance",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011767768669244/images/tall.webp?updated=1768372444937&width=440",
+    "category": "gl",
     "rating": "all",
-    "rank": 26,
+    "rank": 21,
     "rankList": "realtime:all",
-    "releasedAt": "2026-11-06T15:00:00.000Z",
-    "updatedAt": "2026-11-06T15:00:00.000Z",
+    "releasedAt": "2026-01-14T15:00:00.000Z",
+    "updatedAt": "2026-11-14T15:00:00.000Z",
     "price": {
       "currency": "COIN",
       "current": 2,
@@ -656,124 +495,31 @@
       "unit": "episode"
     },
     "promo": {
-      "freeEpisodes": 1,
-      "completed": true,
-      "text": "[4 → 2코인] 파격할인 이벤트! (11/20 금요일 정오까지)"
-    },
-    "titleKey": "여름의밀도"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "dugeundugeun",
-    "url": "https://www.lezhin.com/ko/comic/dugeundugeun",
-    "title": "두근두근 공략기",
-    "seriesTitle": "두근두근 공략기",
-    "authors": [
-      "퓨키"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011752565964514/images/tall.webp?updated=1794545481114&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 27,
-    "rankList": "realtime:all",
-    "releasedAt": "2025-07-31T15:00:00.000Z",
-    "updatedAt": "2026-11-16T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 4,
-      "regular": 4,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 21,
-      "completed": true,
-      "text": null
-    },
-    "titleKey": "두근두근공략기"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "im_pr",
-    "url": "https://www.lezhin.com/ko/comic/im_pr",
-    "title": "각인되다",
-    "seriesTitle": "각인되다",
-    "authors": [
-      "여울",
-      "연솜",
-      "비설"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011781246657971/images/tall.webp?updated=1782715326710&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 28,
-    "rankList": "realtime:all",
-    "releasedAt": "2026-07-02T15:00:00.000Z",
-    "updatedAt": "2026-07-02T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 1,
-      "regular": 1,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 2,
-      "completed": true,
-      "text": "[3 → 1코인] 파격할인 이벤트! (11/26 목요일 정오까지)"
-    },
-    "titleKey": "각인되다"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "love_cant_stand",
-    "url": "https://www.lezhin.com/ko/comic/love_cant_stand",
-    "title": "[비애] 참을 수 없는 건 사랑인 걸까",
-    "seriesTitle": "[비애] 참을 수 없는 건 사랑인 걸까",
-    "authors": [
-      "소라하나 미아"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011752023381232/images/tall.webp?updated=1752735789210&width=440",
-    "category": "bl",
-    "rating": "all",
-    "rank": 29,
-    "rankList": "realtime:all",
-    "releasedAt": "2025-07-24T15:00:00.000Z",
-    "updatedAt": "2026-11-17T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 4,
-      "regular": 4,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 1,
+      "freeEpisodes": 3,
       "completed": false,
       "text": null
     },
-    "titleKey": "비애참을수없는건사랑인걸까"
+    "titleKey": "괴롭혀주세요악역아가씨"
   },
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "night_of_lovehate",
-    "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
-    "title": "애증의 밤",
-    "seriesTitle": "애증의 밤",
+    "id": "empress_scandal",
+    "url": "https://www.lezhin.com/ko/comic/empress_scandal",
+    "title": "황후 애첩 스캔들 [연재]",
+    "seriesTitle": "황후 애첩 스캔들 [연재]",
     "authors": [
-      "Cynnie"
+      "물만물",
+      "영신",
+      "은려원"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.webp?updated=1770619078514&width=440",
-    "category": "bl",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011762399287469/images/tall.webp?updated=1785287328226&width=440",
+    "category": "romance",
     "rating": "all",
-    "rank": 34,
+    "rank": 22,
     "rankList": "realtime:all",
-    "releasedAt": "2024-09-04T15:00:00.000Z",
-    "updatedAt": "2026-02-02T15:00:00.000Z",
+    "releasedAt": "2025-11-20T15:00:00.000Z",
+    "updatedAt": "2026-11-19T15:00:00.000Z",
     "price": {
       "currency": "COIN",
       "current": 3,
@@ -782,29 +528,31 @@
       "unit": "episode"
     },
     "promo": {
-      "freeEpisodes": 2,
-      "completed": true,
+      "freeEpisodes": 3,
+      "completed": false,
       "text": null
     },
-    "titleKey": "애증의밤"
+    "titleKey": "황후애첩스캔들"
   },
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "ImmortalDays",
-    "url": "https://www.lezhin.com/ko/comic/ImmortalDays",
-    "title": "불멸의 날들",
-    "seriesTitle": "불멸의 날들",
+    "id": "villain_youngae",
+    "url": "https://www.lezhin.com/ko/comic/villain_youngae",
+    "title": "악역 영애는 익애루트에 들어갔습니다?!",
+    "seriesTitle": "악역 영애는 익애루트에 들어갔습니다?!",
     "authors": [
-      "허긴개"
+      "사쿠마 렌",
+      "토야",
+      "요이 마치"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/5308438415671296/images/tall.webp?updated=1776994538655&width=440",
-    "category": "action",
+    "cover": "https://ccdn.lezhin.com/v2/comics/5728975393587200/images/tall.webp?updated=1706581830748&width=440",
+    "category": "romance",
     "rating": "all",
-    "rank": 36,
+    "rank": 23,
     "rankList": "realtime:all",
-    "releasedAt": "2016-10-07T15:00:00.000Z",
-    "updatedAt": "2026-09-25T15:00:00.000Z",
+    "releasedAt": "2024-02-01T15:00:00.000Z",
+    "updatedAt": "2026-11-19T15:00:00.000Z",
     "price": {
       "currency": "COIN",
       "current": 3,
@@ -813,11 +561,11 @@
       "unit": "episode"
     },
     "promo": {
-      "freeEpisodes": 258,
+      "freeEpisodes": 1,
       "completed": false,
       "text": null
     },
-    "titleKey": "불멸의날들"
+    "titleKey": "악역영애는익애루트에들어갔습니다"
   },
   {
     "source": "lezhin",
@@ -832,7 +580,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.webp?updated=1786806614440&width=440",
     "category": "gag",
     "rating": "all",
-    "rank": 37,
+    "rank": 24,
     "rankList": "realtime:all",
     "releasedAt": "2023-01-28T15:00:00.000Z",
     "updatedAt": "2026-09-10T15:00:00.000Z",
@@ -853,53 +601,83 @@
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "eternal_contract",
-    "url": "https://www.lezhin.com/ko/comic/eternal_contract",
-    "title": "영원한 계약 [연재]",
-    "seriesTitle": "영원한 계약 [연재]",
+    "id": "misfit_in_paradise",
+    "url": "https://www.lezhin.com/ko/comic/misfit_in_paradise",
+    "title": "지상낙원의 부적응자",
+    "seriesTitle": "지상낙원의 부적응자",
     "authors": [
-      "해진",
-      "앤드비"
+      "정원사"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/5321419002281984/images/tall.webp?updated=1794897801403&width=440",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011785139197610/images/tall.webp?updated=1785396104313&width=440",
     "category": "bl",
     "rating": "all",
-    "rank": 41,
+    "rank": 25,
     "rankList": "realtime:all",
-    "releasedAt": "2021-11-30T15:00:00.000Z",
-    "updatedAt": "2026-11-17T15:00:00.000Z",
+    "releasedAt": "2026-08-14T15:00:00.000Z",
+    "updatedAt": "2026-11-20T15:00:00.000Z",
     "price": {
       "currency": "COIN",
-      "current": 5,
-      "regular": 5,
+      "current": 3,
+      "regular": 3,
       "discountRate": 0,
       "unit": "episode"
     },
     "promo": {
-      "freeEpisodes": 16,
+      "freeEpisodes": 1,
       "completed": false,
-      "text": "이벤트! 15화 무료 (11/25 수요일 정오까지)"
+      "text": null
     },
-    "titleKey": "영원한계약"
+    "titleKey": "지상낙원의부적응자"
   },
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "relation_loop",
-    "url": "https://www.lezhin.com/ko/comic/relation_loop",
-    "title": "관계의 고리",
-    "seriesTitle": "관계의 고리",
+    "id": "heavy_rain",
+    "url": "https://www.lezhin.com/ko/comic/heavy_rain",
+    "title": "호우주의보",
+    "seriesTitle": "호우주의보",
     "authors": [
-      "WHAT",
-      "첼리아케"
+      "203"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011787622045418/images/tall.webp?updated=1789515563490&width=440",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.webp?updated=1794307456458&width=440",
     "category": "bl",
     "rating": "all",
-    "rank": 43,
+    "rank": 27,
     "rankList": "realtime:all",
-    "releasedAt": "2026-09-17T15:00:00.000Z",
-    "updatedAt": "2026-09-17T15:00:00.000Z",
+    "releasedAt": "2026-11-10T15:00:00.000Z",
+    "updatedAt": "2026-11-10T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 2,
+      "regular": 2,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "completed": true,
+      "text": "[3 → 2코인] 파격할인 이벤트! (11/25 수요일 정오까지)"
+    },
+    "titleKey": "호우주의보"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "payback_15",
+    "url": "https://www.lezhin.com/ko/comic/payback_15",
+    "title": "페이백(PAYBACK) [개정판]",
+    "seriesTitle": "페이백(PAYBACK) [개정판]",
+    "authors": [
+      "푸죠킹",
+      "samk"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/4917322736533504/images/tall.webp?updated=1774316392672&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 29,
+    "rankList": "realtime:all",
+    "releasedAt": "2022-10-26T15:00:00.000Z",
+    "updatedAt": "2026-02-10T15:00:00.000Z",
     "price": {
       "currency": "COIN",
       "current": 3,
@@ -912,38 +690,39 @@
       "completed": true,
       "text": null
     },
-    "titleKey": "관계의고리"
+    "titleKey": "페이백payback"
   },
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "servamp",
-    "url": "https://www.lezhin.com/ko/comic/servamp",
-    "title": "서뱀프 (SERVAMP)",
-    "seriesTitle": "서뱀프 (SERVAMP)",
+    "id": "yeoksal_15",
+    "url": "https://www.lezhin.com/ko/comic/yeoksal_15",
+    "title": "역살 [개정판][연재]",
+    "seriesTitle": "역살 [개정판][연재]",
     "authors": [
-      "타나카 스트라이크"
+      "킨고",
+      "당밀"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/6233942556803072/images/tall.webp?updated=1794479257293&width=440",
-    "category": "fantasy",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011758600588694/images/tall.webp?updated=1761122295280&width=440",
+    "category": "bl",
     "rating": "all",
-    "rank": 45,
+    "rank": 30,
     "rankList": "realtime:all",
-    "releasedAt": "2019-01-26T15:00:00.000Z",
-    "updatedAt": "2026-11-12T15:00:00.000Z",
+    "releasedAt": "2025-10-22T15:00:00.000Z",
+    "updatedAt": "2026-05-06T15:00:00.000Z",
     "price": {
       "currency": "COIN",
-      "current": 2,
-      "regular": 2,
+      "current": 3,
+      "regular": 3,
       "discountRate": 0,
       "unit": "episode"
     },
     "promo": {
-      "freeEpisodes": 1,
-      "completed": true,
-      "text": "[4 → 2코인] 파격할인 이벤트! (11/20 금요일 정오까지)"
+      "freeEpisodes": 2,
+      "completed": false,
+      "text": null
     },
-    "titleKey": "서뱀프servamp"
+    "titleKey": "역살"
   },
   {
     "source": "lezhin",
@@ -958,7 +737,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.webp?updated=1792406513883&width=440",
     "category": "bl",
     "rating": "all",
-    "rank": 46,
+    "rank": 32,
     "rankList": "realtime:all",
     "releasedAt": "2026-09-05T15:00:00.000Z",
     "updatedAt": "2026-11-14T15:00:00.000Z",
@@ -979,91 +758,24 @@
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "pregnant_refuse",
-    "url": "https://www.lezhin.com/ko/comic/pregnant_refuse",
-    "title": "아이를 가졌지만 사랑 없는 결혼은 거절합니다 [연재]",
-    "seriesTitle": "아이를 가졌지만 사랑 없는 결혼은 거절합니다 [연재]",
+    "id": "cantskiprabbit",
+    "url": "https://www.lezhin.com/ko/comic/cantskiprabbit",
+    "title": "거북이는 잠자는 토끼를 지나칠 수 없어!",
+    "seriesTitle": "거북이는 잠자는 토끼를 지나칠 수 없어!",
     "authors": [
-      "히노시카 타몬",
-      "이와시마 토모미",
-      "요시카와"
+      "MOSEI"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011782118376833/images/tall.webp?updated=1782173254665&width=440",
-    "category": "romance",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011777435659027/images/tall.webp?updated=1786607865952&width=440",
+    "category": "fantasy",
     "rating": "all",
-    "rank": 47,
+    "rank": 35,
     "rankList": "realtime:all",
-    "releasedAt": "2026-06-25T15:00:00.000Z",
+    "releasedAt": "2026-05-14T15:00:00.000Z",
     "updatedAt": "2026-11-19T15:00:00.000Z",
     "price": {
       "currency": "COIN",
-      "current": 2,
-      "regular": 2,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "completed": false,
-      "text": null
-    },
-    "titleKey": "아이를가졌지만사랑없는결혼은거절합니다"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "contract_husband_ssak",
-    "url": "https://www.lezhin.com/ko/comic/contract_husband_ssak",
-    "title": "계약 남편에게서 집착남의 싹이 보인다",
-    "seriesTitle": "계약 남편에게서 집착남의 싹이 보인다",
-    "authors": [
-      "길영",
-      "초록이슬",
-      "로랑",
-      "은영경"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011793250453817/images/tall.webp?updated=1794321201336&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 52,
-    "rankList": "realtime:all",
-    "releasedAt": "2026-11-18T15:00:00.000Z",
-    "updatedAt": "2026-11-18T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 2,
-      "regular": 2,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "completed": true,
-      "text": "[3 → 2코인] 파격할인 이벤트! (11/26 목요일 정오까지)"
-    },
-    "titleKey": "계약남편에게서집착남의싹이보인다"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "tamonkun_dochi",
-    "url": "https://www.lezhin.com/ko/comic/tamonkun_dochi",
-    "title": "타몬 군 지금 어느 쪽?!",
-    "seriesTitle": "타몬 군 지금 어느 쪽?!",
-    "authors": [
-      "시와스 유키"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/5676468246740992/images/tall.webp?updated=1794301630670&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 54,
-    "rankList": "realtime:all",
-    "releasedAt": "2023-08-31T15:00:00.000Z",
-    "updatedAt": "2026-11-10T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 4,
-      "regular": 4,
+      "current": 3,
+      "regular": 3,
       "discountRate": 0,
       "unit": "episode"
     },
@@ -1072,260 +784,40 @@
       "completed": false,
       "text": null
     },
-    "titleKey": "타몬군지금어느쪽"
+    "titleKey": "거북이는잠자는토끼를지나칠수없어"
   },
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "dance_with_wizard",
-    "url": "https://www.lezhin.com/ko/comic/dance_with_wizard",
-    "title": "마법사와 춤을",
-    "seriesTitle": "마법사와 춤을",
+    "id": "time_of_scorpion",
+    "url": "https://www.lezhin.com/ko/comic/time_of_scorpion",
+    "title": "전갈의 시간",
+    "seriesTitle": "전갈의 시간",
     "authors": [
-      "꽉"
+      "햇지애",
+      "홍조",
+      "J STUIDO"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/6005406548426752/images/tall.webp?updated=1785903458496&width=440",
-    "category": "fantasy",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011778550265966/images/tall.webp?updated=1779326572927&width=440",
+    "category": "gl",
     "rating": "all",
-    "rank": 63,
+    "rank": 36,
     "rankList": "realtime:all",
-    "releasedAt": "2022-12-11T15:00:00.000Z",
-    "updatedAt": "2026-03-01T15:00:00.000Z",
+    "releasedAt": "2026-05-21T15:00:00.000Z",
+    "updatedAt": "2026-05-21T15:00:00.000Z",
     "price": {
       "currency": "COIN",
-      "current": 2,
-      "regular": 2,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 13,
-      "completed": true,
-      "text": null
-    },
-    "titleKey": "마법사와춤을"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "ilimstory",
-    "url": "https://www.lezhin.com/ko/comic/ilimstory",
-    "title": "이림이야기",
-    "seriesTitle": "이림이야기",
-    "authors": [
-      "천호냥"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/5547609250136064/images/tall.webp?updated=1788936557208&width=440",
-    "category": "school",
-    "rating": "all",
-    "rank": 66,
-    "rankList": "realtime:all",
-    "releasedAt": "2022-06-20T15:00:00.000Z",
-    "updatedAt": "2026-09-15T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 2,
-      "regular": 2,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 16,
-      "completed": true,
-      "text": null
-    },
-    "titleKey": "이림이야기"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "jipchak_pamyeol",
-    "url": "https://www.lezhin.com/ko/comic/jipchak_pamyeol",
-    "title": "집착당하면 파멸합니다 [연재]",
-    "seriesTitle": "집착당하면 파멸합니다 [연재]",
-    "authors": [
-      "백화등",
-      "Plum",
-      "특급환상배송"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011742860988834/images/tall.webp?updated=1782693115172&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 67,
-    "rankList": "realtime:all",
-    "releasedAt": "2025-04-16T15:00:00.000Z",
-    "updatedAt": "2026-11-18T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "completed": false,
-      "text": null
-    },
-    "titleKey": "집착당하면파멸합니다"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "cold_duke",
-    "url": "https://www.lezhin.com/ko/comic/cold_duke",
-    "title": "추위타는 북부대공",
-    "seriesTitle": "추위타는 북부대공",
-    "authors": [
-      "누기"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011791872227564/images/tall.webp?updated=1793173561656&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 68,
-    "rankList": "realtime:all",
-    "releasedAt": "2026-10-28T15:00:00.000Z",
-    "updatedAt": "2026-10-28T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
+      "current": 1,
+      "regular": 1,
       "discountRate": 0,
       "unit": "episode"
     },
     "promo": {
       "freeEpisodes": 3,
       "completed": true,
-      "text": null
+      "text": "[3 → 1코인] 파격할인 이벤트! (11/26 목요일 정오까지)"
     },
-    "titleKey": "추위타는북부대공"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "secretofjjak",
-    "url": "https://www.lezhin.com/ko/comic/secretofjjak",
-    "title": "옆자리 짝꿍의 비밀",
-    "seriesTitle": "옆자리 짝꿍의 비밀",
-    "authors": [
-      "채군"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/6127795410632704/images/tall.webp?updated=1788906126963&width=440",
-    "category": "school",
-    "rating": "all",
-    "rank": 69,
-    "rankList": "realtime:all",
-    "releasedAt": "2022-05-20T15:00:00.000Z",
-    "updatedAt": "2026-04-10T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 2,
-      "regular": 2,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 16,
-      "completed": true,
-      "text": null
-    },
-    "titleKey": "옆자리짝꿍의비밀"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "curse_of_immortality",
-    "url": "https://www.lezhin.com/ko/comic/curse_of_immortality",
-    "title": "불사의 저주",
-    "seriesTitle": "불사의 저주",
-    "authors": [
-      "지필"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011789965480378/images/tall.webp?updated=1790138963632&width=440",
-    "category": "drama",
-    "rating": "all",
-    "rank": 73,
-    "rankList": "realtime:all",
-    "releasedAt": "2026-09-29T15:00:00.000Z",
-    "updatedAt": "2026-09-29T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 9,
-      "completed": false,
-      "text": "이벤트! 6화 무료 (11/23 월요일 정오까지)"
-    },
-    "titleKey": "불사의저주"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "anotherworld_uncle",
-    "url": "https://www.lezhin.com/ko/comic/anotherworld_uncle",
-    "title": "이세계 삼촌",
-    "seriesTitle": "이세계 삼촌",
-    "authors": [
-      "호톤도신데이루",
-      "픽시하우스"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/6491769883394048/images/tall.webp?updated=1756270197240&width=440",
-    "category": "fantasy",
-    "rating": "all",
-    "rank": 76,
-    "rankList": "realtime:all",
-    "releasedAt": "2023-11-12T15:00:00.000Z",
-    "updatedAt": "2026-10-21T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 5,
-      "regular": 5,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 2,
-      "completed": false,
-      "text": null
-    },
-    "titleKey": "이세계삼촌"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "emperor_obsession",
-    "url": "https://www.lezhin.com/ko/comic/emperor_obsession",
-    "title": "날 버린 황제의 집착은 거절합니다",
-    "seriesTitle": "날 버린 황제의 집착은 거절합니다",
-    "authors": [
-      "다지",
-      "연못",
-      "푸뿌"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011793165833805/images/tall.webp?updated=1794321203714&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 77,
-    "rankList": "realtime:all",
-    "releasedAt": "2026-11-18T15:00:00.000Z",
-    "updatedAt": "2026-11-18T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 2,
-      "regular": 2,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "completed": true,
-      "text": "[3 → 2코인] 파격할인 이벤트! (11/26 목요일 정오까지)"
-    },
-    "titleKey": "날버린황제의집착은거절합니다"
+    "titleKey": "전갈의시간"
   },
   {
     "source": "lezhin",
@@ -1340,7 +832,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/5132794414170112/images/tall.webp?updated=1786523021650&width=440",
     "category": "fantasy",
     "rating": "all",
-    "rank": 79,
+    "rank": 39,
     "rankList": "realtime:all",
     "releasedAt": "2024-02-09T15:00:00.000Z",
     "updatedAt": "2026-09-11T15:00:00.000Z",
@@ -1361,86 +853,20 @@
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "senza_replica_all",
-    "url": "https://www.lezhin.com/ko/comic/senza_replica_all",
-    "title": "센차 레플리카 [개정판]",
-    "seriesTitle": "센차 레플리카 [개정판]",
+    "id": "superstar",
+    "url": "https://www.lezhin.com/ko/comic/superstar",
+    "title": "사랑은 환상! ~슈퍼스타~",
+    "seriesTitle": "사랑은 환상! ~슈퍼스타~",
     "authors": [
-      "ham",
-      "하얀",
-      "서니주"
+      "파고"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/6717816907694080/images/tall.webp?updated=1783036024471&width=440",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011729836488210/images/tall.webp?updated=1774956710941&width=440",
     "category": "bl",
     "rating": "all",
-    "rank": 81,
+    "rank": 40,
     "rankList": "realtime:all",
-    "releasedAt": "2024-07-12T15:00:00.000Z",
-    "updatedAt": "2026-08-14T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "completed": true,
-      "text": null
-    },
-    "titleKey": "센차레플리카"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "saijoheun_bubu",
-    "url": "https://www.lezhin.com/ko/comic/saijoheun_bubu",
-    "title": "사이좋은 부부 이야기 [단행본]",
-    "seriesTitle": "사이좋은 부부 이야기 [단행본]",
-    "authors": [
-      "사이소우"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011793091283753/images/tall.webp?updated=1793886577588&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 83,
-    "rankList": "realtime:all",
-    "releasedAt": "2026-11-11T15:00:00.000Z",
-    "updatedAt": "2026-11-11T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 7,
-      "regular": 7,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 1,
-      "completed": true,
-      "text": null
-    },
-    "titleKey": "사이좋은부부이야기"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "seokryu_15",
-    "url": "https://www.lezhin.com/ko/comic/seokryu_15",
-    "title": "석류를 삼킨 뱀 [개정판][연재]",
-    "seriesTitle": "석류를 삼킨 뱀 [개정판][연재]",
-    "authors": [
-      "조수아",
-      "감자전",
-      "카르페XD"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011767074341653/images/tall.webp?updated=1779455349638&width=440",
-    "category": "bl",
-    "rating": "all",
-    "rank": 86,
-    "rankList": "realtime:all",
-    "releasedAt": "2025-12-31T15:00:00.000Z",
-    "updatedAt": "2026-11-14T15:00:00.000Z",
+    "releasedAt": "2024-11-25T15:00:00.000Z",
+    "updatedAt": "2026-08-12T15:00:00.000Z",
     "price": {
       "currency": "COIN",
       "current": 3,
@@ -1453,25 +879,314 @@
       "completed": false,
       "text": null
     },
-    "titleKey": "석류를삼킨뱀"
+    "titleKey": "사랑은환상슈퍼스타"
   },
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "fate_mate_all",
-    "url": "https://www.lezhin.com/ko/comic/fate_mate_all",
-    "title": "페이트 메이트 [개정판][연재]",
-    "seriesTitle": "페이트 메이트 [개정판][연재]",
+    "id": "totokkan",
+    "url": "https://www.lezhin.com/ko/comic/totokkan",
+    "title": "오크의 포로가 된 엘프 여사령관",
+    "seriesTitle": "오크의 포로가 된 엘프 여사령관",
     "authors": [
-      "시르"
+      "삭둑"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/5084486848151552/images/tall.webp?updated=1780903053887&width=440",
+    "cover": "https://ccdn.lezhin.com/v2/comics/6093218132590592/images/tall.webp?updated=1780029022644&width=440",
+    "category": "fantasy",
+    "rating": "all",
+    "rank": 41,
+    "rankList": "realtime:all",
+    "releasedAt": "2021-10-27T15:00:00.000Z",
+    "updatedAt": "2026-05-22T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 11,
+      "completed": true,
+      "text": "11화부터 232화까지 24시간마다 1화 무료"
+    },
+    "titleKey": "오크의포로가된엘프여사령관"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "iri_15",
+    "url": "https://www.lezhin.com/ko/comic/iri_15",
+    "title": "이리 [개정판]",
+    "seriesTitle": "이리 [개정판]",
+    "authors": [
+      "지은수",
+      "재히몬",
+      "피숙혜"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011755698478374/images/tall.webp?updated=1782351350479&width=440",
+    "category": "romance",
+    "rating": "all",
+    "rank": 42,
+    "rankList": "realtime:all",
+    "releasedAt": "2025-08-25T15:00:00.000Z",
+    "updatedAt": "2026-01-14T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "completed": false,
+      "text": null
+    },
+    "titleKey": "이리"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "eternal_contract",
+    "url": "https://www.lezhin.com/ko/comic/eternal_contract",
+    "title": "영원한 계약 [연재]",
+    "seriesTitle": "영원한 계약 [연재]",
+    "authors": [
+      "해진",
+      "앤드비"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/5321419002281984/images/tall.webp?updated=1794897801403&width=440",
     "category": "bl",
     "rating": "all",
-    "rank": 87,
+    "rank": 45,
     "rankList": "realtime:all",
-    "releasedAt": "2024-07-03T15:00:00.000Z",
-    "updatedAt": "2026-11-02T15:00:00.000Z",
+    "releasedAt": "2021-11-30T15:00:00.000Z",
+    "updatedAt": "2026-11-17T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 5,
+      "regular": 5,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 16,
+      "completed": false,
+      "text": "이벤트! 15화 무료 (11/25 수요일 정오까지)"
+    },
+    "titleKey": "영원한계약"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "playing_with_doll",
+    "url": "https://www.lezhin.com/ko/comic/playing_with_doll",
+    "title": "집착공의 인형놀이",
+    "seriesTitle": "집착공의 인형놀이",
+    "authors": [
+      "집사스튜디오"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/6082275279437824/images/tall.webp?updated=1786522472269&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 46,
+    "rankList": "realtime:all",
+    "releasedAt": "2022-08-10T15:00:00.000Z",
+    "updatedAt": "2026-11-20T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 2,
+      "regular": 2,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 5,
+      "completed": true,
+      "text": null
+    },
+    "titleKey": "집착공의인형놀이"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "rain_warning_15",
+    "url": "https://www.lezhin.com/ko/comic/rain_warning_15",
+    "title": "강우주의보 [개정판]",
+    "seriesTitle": "강우주의보 [개정판]",
+    "authors": [
+      "살원",
+      "감자농부"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011792662049862/images/tall.webp?updated=1794307516531&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 48,
+    "rankList": "realtime:all",
+    "releasedAt": "2026-11-10T15:00:00.000Z",
+    "updatedAt": "2026-11-10T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 2,
+      "regular": 2,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 2,
+      "completed": true,
+      "text": "[3 → 2코인] 파격할인 이벤트! (11/25 수요일 정오까지)"
+    },
+    "titleKey": "강우주의보"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "this_is_fiction",
+    "url": "https://www.lezhin.com/ko/comic/this_is_fiction",
+    "title": "이 작품은 픽션입니다",
+    "seriesTitle": "이 작품은 픽션입니다",
+    "authors": [
+      "박지은"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011765156619540/images/tall.webp?updated=1781137992733&width=440",
+    "category": "drama",
+    "rating": "all",
+    "rank": 49,
+    "rankList": "realtime:all",
+    "releasedAt": "2025-12-24T15:00:00.000Z",
+    "updatedAt": "2026-10-10T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "completed": true,
+      "text": null
+    },
+    "titleKey": "이작품은픽션입니다"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "leave_the_child_15",
+    "url": "https://www.lezhin.com/ko/comic/leave_the_child_15",
+    "title": "아이는 가만둬요 [개정판]",
+    "seriesTitle": "아이는 가만둬요 [개정판]",
+    "authors": [
+      "레드피치스튜디오",
+      "애디스"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011793175704835/images/tall.webp?updated=1794299470250&width=440",
+    "category": "romance",
+    "rating": "all",
+    "rank": 50,
+    "rankList": "realtime:all",
+    "releasedAt": "2026-11-16T15:00:00.000Z",
+    "updatedAt": "2026-11-16T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "completed": true,
+      "text": "[4 → 3코인] 파격할인 이벤트! (12/1 화요일 정오까지)"
+    },
+    "titleKey": "아이는가만둬요"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "uncle_ruin",
+    "url": "https://www.lezhin.com/ko/comic/uncle_ruin",
+    "title": "숙부는 무너뜨리고 싶었다 [연재]",
+    "seriesTitle": "숙부는 무너뜨리고 싶었다 [연재]",
+    "authors": [
+      "아쿠아펙스",
+      "패스터 댄 라이트 컬처",
+      "제오"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011787714028631/images/tall.webp?updated=1788251607877&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 52,
+    "rankList": "realtime:all",
+    "releasedAt": "2026-09-05T15:00:00.000Z",
+    "updatedAt": "2026-11-14T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 4,
+      "completed": false,
+      "text": null
+    },
+    "titleKey": "숙부는무너뜨리고싶었다"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "bisang_cheongchun",
+    "url": "https://www.lezhin.com/ko/comic/bisang_cheongchun",
+    "title": "비상! 청춘기록부",
+    "seriesTitle": "비상! 청춘기록부",
+    "authors": [
+      "이삼호",
+      "북큐브"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011747637118433/images/tall.webp?updated=1772178946761&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 58,
+    "rankList": "realtime:all",
+    "releasedAt": "2025-06-02T15:00:00.000Z",
+    "updatedAt": "2026-02-23T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "completed": true,
+      "text": null
+    },
+    "titleKey": "비상청춘기록부"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "yutonggihan_15",
+    "url": "https://www.lezhin.com/ko/comic/yutonggihan_15",
+    "title": "유통기한 [개정판][연재]",
+    "seriesTitle": "유통기한 [개정판][연재]",
+    "authors": [
+      "seemisu",
+      "269",
+      "samk"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011755827184591/images/tall.webp?updated=1776406590410&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 59,
+    "rankList": "realtime:all",
+    "releasedAt": "2025-09-17T15:00:00.000Z",
+    "updatedAt": "2026-08-11T15:00:00.000Z",
     "price": {
       "currency": "COIN",
       "current": 3,
@@ -1484,7 +1199,135 @@
       "completed": false,
       "text": null
     },
-    "titleKey": "페이트메이트"
+    "titleKey": "유통기한"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "choimyeon_soonae_15",
+    "url": "https://www.lezhin.com/ko/comic/choimyeon_soonae_15",
+    "title": "최면 순애 어플 [개정판]",
+    "seriesTitle": "최면 순애 어플 [개정판]",
+    "authors": [
+      "례수",
+      "인류",
+      "토깽 전사"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011782783491830/images/tall.webp?updated=1784701020276&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 60,
+    "rankList": "realtime:all",
+    "releasedAt": "2026-07-26T15:00:00.000Z",
+    "updatedAt": "2026-07-26T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 4,
+      "regular": 4,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "completed": true,
+      "text": null
+    },
+    "titleKey": "최면순애어플"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "lowborn_15",
+    "url": "https://www.lezhin.com/ko/comic/lowborn_15",
+    "title": "상놈 [개정판]",
+    "seriesTitle": "상놈 [개정판]",
+    "authors": [
+      "레드피치스튜디오",
+      "김단"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011792565432630/images/tall.webp?updated=1794543711827&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 65,
+    "rankList": "realtime:all",
+    "releasedAt": "2026-11-20T15:00:00.000Z",
+    "updatedAt": "2026-11-20T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 2,
+      "regular": 2,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "completed": true,
+      "text": "[4 → 2코인] 파격할인 이벤트! (11/30 월요일 정오까지)"
+    },
+    "titleKey": "상놈"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "womb_romance_b",
+    "url": "https://www.lezhin.com/ko/comic/womb_romance_b",
+    "title": "자궁 연애 [단행본]",
+    "seriesTitle": "자궁 연애 [단행본]",
+    "authors": [
+      "사사에 노리코",
+      "마나부"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011794999041637/images/tall.webp?updated=1795051643445&width=440",
+    "category": "romance",
+    "rating": "all",
+    "rank": 68,
+    "rankList": "realtime:all",
+    "releasedAt": "2026-11-19T15:00:00.000Z",
+    "updatedAt": "2026-11-19T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 25,
+      "regular": 25,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "completed": true,
+      "text": null
+    },
+    "titleKey": "자궁연애"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "love_cant_stand",
+    "url": "https://www.lezhin.com/ko/comic/love_cant_stand",
+    "title": "[비애] 참을 수 없는 건 사랑인 걸까",
+    "seriesTitle": "[비애] 참을 수 없는 건 사랑인 걸까",
+    "authors": [
+      "소라하나 미아"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011752023381232/images/tall.webp?updated=1752735789210&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 70,
+    "rankList": "realtime:all",
+    "releasedAt": "2025-07-24T15:00:00.000Z",
+    "updatedAt": "2026-11-17T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 4,
+      "regular": 4,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "completed": false,
+      "text": null
+    },
+    "titleKey": "비애참을수없는건사랑인걸까"
   },
   {
     "source": "lezhin",
@@ -1500,7 +1343,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/7011793173143003/images/tall.webp?updated=1794217075574&width=440",
     "category": "romance",
     "rating": "all",
-    "rank": 89,
+    "rank": 73,
     "rankList": "realtime:all",
     "releasedAt": "2026-11-14T15:00:00.000Z",
     "updatedAt": "2026-11-14T15:00:00.000Z",
@@ -1531,7 +1374,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/7011792045188710/images/tall.webp?updated=1794320921720&width=440",
     "category": "drama",
     "rating": "all",
-    "rank": 90,
+    "rank": 76,
     "rankList": "realtime:all",
     "releasedAt": "2026-11-18T15:00:00.000Z",
     "updatedAt": "2026-11-18T15:00:00.000Z",
@@ -1552,83 +1395,369 @@
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "womb_romance",
-    "url": "https://www.lezhin.com/ko/comic/womb_romance",
-    "title": "자궁 연애",
-    "seriesTitle": "자궁 연애",
+    "id": "planb",
+    "url": "https://www.lezhin.com/ko/comic/planb",
+    "title": "히어로즈 플랜비",
+    "seriesTitle": "히어로즈 플랜비",
     "authors": [
-      "사사에 노리코",
-      "마나부"
+      "인디고"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011794998654403/images/tall.webp?updated=1795051574776&width=440",
-    "category": "romance",
+    "cover": "https://ccdn.lezhin.com/v2/comics/312/images/tall.webp?updated=1785903931460&width=440",
+    "category": "action",
     "rating": "all",
-    "rank": 91,
+    "rank": 77,
     "rankList": "realtime:all",
-    "releasedAt": "2026-11-19T15:00:00.000Z",
-    "updatedAt": "2026-11-19T15:00:00.000Z",
+    "releasedAt": "2014-11-05T15:00:00.000Z",
+    "updatedAt": "2026-02-12T15:00:00.000Z",
     "price": {
       "currency": "COIN",
-      "current": 4,
-      "regular": 4,
+      "current": 2,
+      "regular": 2,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 10,
+      "completed": true,
+      "text": null
+    },
+    "titleKey": "히어로즈플랜비"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "wolf_care_me",
+    "url": "https://www.lezhin.com/ko/comic/wolf_care_me",
+    "title": "늑대가 날 책임지겠대 [연재]",
+    "seriesTitle": "늑대가 날 책임지겠대 [연재]",
+    "authors": [
+      "Liubeili",
+      "Shijiu",
+      "제이코믹스"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011777357542057/images/tall.webp?updated=1783576356171&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 78,
+    "rankList": "realtime:all",
+    "releasedAt": "2026-05-23T15:00:00.000Z",
+    "updatedAt": "2026-11-14T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "completed": false,
+      "text": null
+    },
+    "titleKey": "늑대가날책임지겠대"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "aritown",
+    "url": "https://www.lezhin.com/ko/comic/aritown",
+    "title": "이상하고 아리타운",
+    "seriesTitle": "이상하고 아리타운",
+    "authors": [
+      "대빵"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011785917531892/images/tall.webp?updated=1788181698290&width=440",
+    "category": "romance",
+    "rating": "all",
+    "rank": 79,
+    "rankList": "realtime:all",
+    "releasedAt": "2026-08-31T15:00:00.000Z",
+    "updatedAt": "2026-11-16T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 2,
+      "regular": 2,
       "discountRate": 0,
       "unit": "episode"
     },
     "promo": {
       "freeEpisodes": 1,
-      "completed": true,
+      "completed": false,
       "text": null
     },
-    "titleKey": "자궁연애"
+    "titleKey": "이상하고아리타운"
   },
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "baquimentary",
-    "url": "https://www.lezhin.com/ko/comic/baquimentary",
-    "title": "바퀴멘터리",
-    "seriesTitle": "바퀴멘터리",
+    "id": "wolf_master_bride",
+    "url": "https://www.lezhin.com/ko/comic/wolf_master_bride",
+    "title": "늑대 주인님에게 사랑받는 신부님 [연재]",
+    "seriesTitle": "늑대 주인님에게 사랑받는 신부님 [연재]",
     "authors": [
-      "박바퀴"
+      "cat-creativegroup",
+      "백두몽"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.webp?updated=1767835110625&width=440",
-    "category": "day",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011781254969792/images/tall.webp?updated=1781488838644&width=440",
+    "category": "romance",
     "rating": "all",
-    "rank": 99,
+    "rank": 80,
     "rankList": "realtime:all",
-    "releasedAt": "2018-06-03T15:00:00.000Z",
-    "updatedAt": "2026-10-27T15:00:00.000Z",
+    "releasedAt": "2026-06-16T15:00:00.000Z",
+    "updatedAt": "2026-11-17T15:00:00.000Z",
     "price": {
       "currency": "COIN",
-      "current": 1,
-      "regular": 1,
+      "current": 2,
+      "regular": 2,
       "discountRate": 0,
       "unit": "episode"
     },
     "promo": {
-      "freeEpisodes": 2283,
+      "freeEpisodes": 3,
       "completed": false,
       "text": null
     },
-    "titleKey": "바퀴멘터리"
+    "titleKey": "늑대주인님에게사랑받는신부님"
   },
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "misfit_in_paradise",
-    "url": "https://www.lezhin.com/ko/comic/misfit_in_paradise",
-    "title": "지상낙원의 부적응자",
-    "seriesTitle": "지상낙원의 부적응자",
+    "id": "jipchak_pamyeol",
+    "url": "https://www.lezhin.com/ko/comic/jipchak_pamyeol",
+    "title": "집착당하면 파멸합니다 [연재]",
+    "seriesTitle": "집착당하면 파멸합니다 [연재]",
     "authors": [
-      "정원사"
+      "백화등",
+      "Plum",
+      "특급환상배송"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011785139197610/images/tall.webp?updated=1785396104313&width=440",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011742860988834/images/tall.webp?updated=1782693115172&width=440",
+    "category": "romance",
+    "rating": "all",
+    "rank": 88,
+    "rankList": "realtime:all",
+    "releasedAt": "2025-04-16T15:00:00.000Z",
+    "updatedAt": "2026-11-18T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "completed": false,
+      "text": null
+    },
+    "titleKey": "집착당하면파멸합니다"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "iam_weakest",
+    "url": "https://www.lezhin.com/ko/comic/iam_weakest",
+    "title": "나는 최약체 드래곤 테이머 [연재]",
+    "seriesTitle": "나는 최약체 드래곤 테이머 [연재]",
+    "authors": [
+      "초격문화"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011758603630485/images/tall.webp?updated=1777535183419&width=440",
+    "category": "fantasy",
+    "rating": "all",
+    "rank": 89,
+    "rankList": "realtime:all",
+    "releasedAt": "2025-10-14T15:00:00.000Z",
+    "updatedAt": "2026-11-20T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 2,
+      "regular": 2,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 11,
+      "completed": false,
+      "text": null
+    },
+    "titleKey": "나는최약체드래곤테이머"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "momcam_bj",
+    "url": "https://www.lezhin.com/ko/comic/momcam_bj",
+    "title": "몸캠 BJ의 이중생활 [연재]",
+    "seriesTitle": "몸캠 BJ의 이중생활 [연재]",
+    "authors": [
+      "Lasso",
+      "스튜디오계동"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011776929129080/images/tall.webp?updated=1778237268630&width=440",
     "category": "bl",
+    "rating": "all",
+    "rank": 90,
+    "rankList": "realtime:all",
+    "releasedAt": "2026-05-08T15:00:00.000Z",
+    "updatedAt": "2026-11-15T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 2,
+      "regular": 2,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "completed": false,
+      "text": null
+    },
+    "titleKey": "몸캠bj의이중생활"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "shadow_domain_15",
+    "url": "https://www.lezhin.com/ko/comic/shadow_domain_15",
+    "title": "그림자의 영역 [개정판]",
+    "seriesTitle": "그림자의 영역 [개정판]",
+    "authors": [
+      "리런"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011787812342431/images/tall.webp?updated=1790936951667&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 91,
+    "rankList": "realtime:all",
+    "releasedAt": "2026-10-02T15:00:00.000Z",
+    "updatedAt": "2026-10-02T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "completed": true,
+      "text": null
+    },
+    "titleKey": "그림자의영역"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "guilty_innocence",
+    "url": "https://www.lezhin.com/ko/comic/guilty_innocence",
+    "title": "길티 이노센스",
+    "seriesTitle": "길티 이노센스",
+    "authors": [
+      "윤한"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/5215342426980352/images/tall.webp?updated=1785460690618&width=440",
+    "category": "drama",
+    "rating": "all",
+    "rank": 96,
+    "rankList": "realtime:all",
+    "releasedAt": "2019-09-06T15:00:00.000Z",
+    "updatedAt": "2026-08-13T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 4,
+      "completed": true,
+      "text": null
+    },
+    "titleKey": "길티이노센스"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "fool_wizard",
+    "url": "https://www.lezhin.com/ko/comic/fool_wizard",
+    "title": "사신 영웅전 : 바보 마법사 영웅이 되다 [연재]",
+    "seriesTitle": "사신 영웅전 : 바보 마법사 영웅이 되다 [연재]",
+    "authors": [
+      "당가삼소",
+      "Fat수(A-SOUL)"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/5706613137473536/images/tall.webp?updated=1773722089954&width=440",
+    "category": "fantasy",
+    "rating": "all",
+    "rank": 98,
+    "rankList": "realtime:all",
+    "releasedAt": "2019-07-06T15:00:00.000Z",
+    "updatedAt": "2026-11-20T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 4,
+      "completed": false,
+      "text": null
+    },
+    "titleKey": "사신영웅전바보마법사영웅이되다"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "levelup_in_future",
+    "url": "https://www.lezhin.com/ko/comic/levelup_in_future",
+    "title": "만년 후 미래에서 레벨업 [연재]",
+    "seriesTitle": "만년 후 미래에서 레벨업 [연재]",
+    "authors": [
+      "Changpan Warrior"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011758603458010/images/tall.webp?updated=1760058471552&width=440",
+    "category": "fantasy",
+    "rating": "all",
+    "rank": 99,
+    "rankList": "realtime:all",
+    "releasedAt": "2025-10-14T15:00:00.000Z",
+    "updatedAt": "2026-11-20T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 2,
+      "regular": 2,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 11,
+      "completed": false,
+      "text": null
+    },
+    "titleKey": "만년후미래에서레벨업"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "shabetsea",
+    "url": "https://www.lezhin.com/ko/comic/shabetsea",
+    "title": "안개 바다 위의 샤베트",
+    "seriesTitle": "안개 바다 위의 샤베트",
+    "authors": [
+      "뼈와피와살",
+      "돈곰"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011770946139370/images/tall.webp?updated=1775528842907&width=440",
+    "category": "gl",
     "rating": "all",
     "rank": 100,
     "rankList": "realtime:all",
-    "releasedAt": "2026-08-14T15:00:00.000Z",
-    "updatedAt": "2026-11-13T15:00:00.000Z",
+    "releasedAt": "2026-03-20T15:00:00.000Z",
+    "updatedAt": "2026-11-20T15:00:00.000Z",
     "price": {
       "currency": "COIN",
       "current": 3,
@@ -1641,58 +1770,25 @@
       "completed": false,
       "text": null
     },
-    "titleKey": "지상낙원의부적응자"
+    "titleKey": "안개바다위의샤베트"
   },
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "xxl_size_15",
-    "url": "https://www.lezhin.com/ko/comic/xxl_size_15",
-    "title": "[플래이 단편선] XXL 사이즈 아저씨 [개정판]",
-    "seriesTitle": "[플래이 단편선] XXL 사이즈 아저씨 [개정판]",
+    "id": "contract_husband_ssak",
+    "url": "https://www.lezhin.com/ko/comic/contract_husband_ssak",
+    "title": "계약 남편에게서 집착남의 싹이 보인다",
+    "seriesTitle": "계약 남편에게서 집착남의 싹이 보인다",
     "authors": [
-      "오오렌지",
-      "로와_ROWA",
-      "해다금",
-      "플래이툰"
+      "길영",
+      "초록이슬",
+      "로랑",
+      "은영경"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011792430133990/images/tall.webp?updated=1794320367519&width=440",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011793250453817/images/tall.webp?updated=1794321201336&width=440",
     "category": "romance",
     "rating": "all",
-    "rank": 11,
-    "rankList": "realtime:new",
-    "releasedAt": "2026-11-18T15:00:00.000Z",
-    "updatedAt": "2026-11-18T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 2,
-      "regular": 2,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 1,
-      "completed": true,
-      "text": "[3 → 2코인] 파격할인 이벤트! (11/26 목요일 정오까지)"
-    },
-    "titleKey": "플래이단편선xxl사이즈아저씨"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "destroy_come",
-    "url": "https://www.lezhin.com/ko/comic/destroy_come",
-    "title": "파괴하러 왔습니다",
-    "seriesTitle": "파괴하러 왔습니다",
-    "authors": [
-      "기쟈",
-      "레비",
-      "하찰떡"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011793255011197/images/tall.webp?updated=1794321286853&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 12,
+    "rank": 9,
     "rankList": "realtime:new",
     "releasedAt": "2026-11-18T15:00:00.000Z",
     "updatedAt": "2026-11-18T15:00:00.000Z",
@@ -1708,72 +1804,7 @@
       "completed": true,
       "text": "[3 → 2코인] 파격할인 이벤트! (11/26 목요일 정오까지)"
     },
-    "titleKey": "파괴하러왔습니다"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "leave_the_child_15",
-    "url": "https://www.lezhin.com/ko/comic/leave_the_child_15",
-    "title": "아이는 가만둬요 [개정판]",
-    "seriesTitle": "아이는 가만둬요 [개정판]",
-    "authors": [
-      "레드피치스튜디오",
-      "애디스"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011793175704835/images/tall.webp?updated=1794299470250&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 13,
-    "rankList": "realtime:new",
-    "releasedAt": "2026-11-16T15:00:00.000Z",
-    "updatedAt": "2026-11-16T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 1,
-      "completed": true,
-      "text": "[4 → 3코인] 파격할인 이벤트! (12/1 화요일 정오까지)"
-    },
-    "titleKey": "아이는가만둬요"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "playmate_15",
-    "url": "https://www.lezhin.com/ko/comic/playmate_15",
-    "title": "플레이메이트(PLAYMATE) [개정판][연재]",
-    "seriesTitle": "플레이메이트(PLAYMATE) [개정판][연재]",
-    "authors": [
-      "개꿀",
-      "hushkissex",
-      "LabelNEST"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011793170607526/images/tall.webp?updated=1793765182194&width=440",
-    "category": "bl",
-    "rating": "all",
-    "rank": 14,
-    "rankList": "realtime:new",
-    "releasedAt": "2026-11-06T15:00:00.000Z",
-    "updatedAt": "2026-11-13T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 4,
-      "regular": 4,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 1,
-      "completed": false,
-      "text": null
-    },
-    "titleKey": "플레이메이트playmate"
+    "titleKey": "계약남편에게서집착남의싹이보인다"
   },
   {
     "source": "lezhin",
@@ -1788,7 +1819,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/7011791345344768/images/tall.webp?updated=1793884044773&width=440",
     "category": "bl",
     "rating": "all",
-    "rank": 15,
+    "rank": 10,
     "rankList": "realtime:new",
     "releasedAt": "2026-11-10T15:00:00.000Z",
     "updatedAt": "2026-11-10T15:00:00.000Z",
@@ -1809,25 +1840,58 @@
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "naega_johahanda",
-    "url": "https://www.lezhin.com/ko/comic/naega_johahanda",
-    "title": "내가 좋아한다고 하면 어떡할래?",
-    "seriesTitle": "내가 좋아한다고 하면 어떡할래?",
+    "id": "summer_dense_15",
+    "url": "https://www.lezhin.com/ko/comic/summer_dense_15",
+    "title": "여름의 밀도 [개정판]",
+    "seriesTitle": "여름의 밀도 [개정판]",
     "authors": [
-      "쿠모소쿠",
-      "BB허니밀크"
+      "레드피치스튜디오",
+      "채랑비"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011793933090990/images/tall.webp?updated=1793952447647&width=440",
-    "category": "bl",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011792565419298/images/tall.webp?updated=1793620776653&width=440",
+    "category": "romance",
     "rating": "all",
-    "rank": 16,
+    "rank": 11,
     "rankList": "realtime:new",
-    "releasedAt": "2026-11-12T15:00:00.000Z",
-    "updatedAt": "2026-11-12T15:00:00.000Z",
+    "releasedAt": "2026-11-06T15:00:00.000Z",
+    "updatedAt": "2026-11-06T15:00:00.000Z",
     "price": {
       "currency": "COIN",
-      "current": 6,
-      "regular": 6,
+      "current": 4,
+      "regular": 4,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "completed": true,
+      "text": null
+    },
+    "titleKey": "여름의밀도"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "shichijunikou",
+    "url": "https://www.lezhin.com/ko/comic/shichijunikou",
+    "title": "칠십이후 나라의 후궁 약선 의사",
+    "seriesTitle": "칠십이후 나라의 후궁 약선 의사",
+    "authors": [
+      "하마사키",
+      "에모토 마시네사",
+      "AK COMICS"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011794271478319/images/tall.webp?updated=1794321873360&width=440",
+    "category": "fantasy",
+    "rating": "all",
+    "rank": 12,
+    "rankList": "realtime:new",
+    "releasedAt": "2026-11-19T15:00:00.000Z",
+    "updatedAt": "2026-11-19T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 5,
+      "regular": 5,
       "discountRate": 0,
       "unit": "episode"
     },
@@ -1836,26 +1900,124 @@
       "completed": false,
       "text": null
     },
-    "titleKey": "내가좋아한다고하면어떡할래"
+    "titleKey": "칠십이후나라의후궁약선의사"
   },
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "hurdle_15",
-    "url": "https://www.lezhin.com/ko/comic/hurdle_15",
-    "title": "허들 [개정판][연재]",
-    "seriesTitle": "허들 [개정판][연재]",
+    "id": "playmate_15",
+    "url": "https://www.lezhin.com/ko/comic/playmate_15",
+    "title": "플레이메이트(PLAYMATE) [개정판][연재]",
+    "seriesTitle": "플레이메이트(PLAYMATE) [개정판][연재]",
     "authors": [
-      "두연",
-      "좌청룡",
-      "임은성"
+      "개꿀",
+      "hushkissex",
+      "LabelNEST"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011792050456907/images/tall.webp?updated=1792404421140&width=440",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011793170607526/images/tall.webp?updated=1793765182194&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 13,
+    "rankList": "realtime:new",
+    "releasedAt": "2026-11-06T15:00:00.000Z",
+    "updatedAt": "2026-11-20T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 4,
+      "regular": 4,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "completed": false,
+      "text": null
+    },
+    "titleKey": "플레이메이트playmate"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "destroy_come",
+    "url": "https://www.lezhin.com/ko/comic/destroy_come",
+    "title": "파괴하러 왔습니다",
+    "seriesTitle": "파괴하러 왔습니다",
+    "authors": [
+      "기쟈",
+      "레비",
+      "하찰떡"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011793255011197/images/tall.webp?updated=1794321286853&width=440",
     "category": "romance",
     "rating": "all",
-    "rank": 17,
+    "rank": 14,
     "rankList": "realtime:new",
-    "releasedAt": "2026-10-23T15:00:00.000Z",
+    "releasedAt": "2026-11-18T15:00:00.000Z",
+    "updatedAt": "2026-11-18T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 2,
+      "regular": 2,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "completed": true,
+      "text": "[3 → 2코인] 파격할인 이벤트! (11/26 목요일 정오까지)"
+    },
+    "titleKey": "파괴하러왔습니다"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "emperor_obsession",
+    "url": "https://www.lezhin.com/ko/comic/emperor_obsession",
+    "title": "날 버린 황제의 집착은 거절합니다",
+    "seriesTitle": "날 버린 황제의 집착은 거절합니다",
+    "authors": [
+      "다지",
+      "연못",
+      "푸뿌"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011793165833805/images/tall.webp?updated=1794321203714&width=440",
+    "category": "romance",
+    "rating": "all",
+    "rank": 15,
+    "rankList": "realtime:new",
+    "releasedAt": "2026-11-18T15:00:00.000Z",
+    "updatedAt": "2026-11-18T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 2,
+      "regular": 2,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 3,
+      "completed": true,
+      "text": "[3 → 2코인] 파격할인 이벤트! (11/26 목요일 정오까지)"
+    },
+    "titleKey": "날버린황제의집착은거절합니다"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "perfect_trap",
+    "url": "https://www.lezhin.com/ko/comic/perfect_trap",
+    "title": "완벽한 덫 [연재]",
+    "seriesTitle": "완벽한 덫 [연재]",
+    "authors": [
+      "공윤",
+      "니니"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011791424202924/images/tall.webp?updated=1792730447824&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 16,
+    "rankList": "realtime:new",
+    "releasedAt": "2026-10-25T15:00:00.000Z",
     "updatedAt": "2026-11-17T15:00:00.000Z",
     "price": {
       "currency": "COIN",
@@ -1865,43 +2027,78 @@
       "unit": "episode"
     },
     "promo": {
-      "freeEpisodes": 1,
+      "freeEpisodes": 2,
       "completed": false,
       "text": null
     },
-    "titleKey": "허들"
+    "titleKey": "완벽한덫"
   },
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "womb_romance_b",
-    "url": "https://www.lezhin.com/ko/comic/womb_romance_b",
-    "title": "자궁 연애 [단행본]",
-    "seriesTitle": "자궁 연애 [단행본]",
+    "id": "x_friend_15",
+    "url": "https://www.lezhin.com/ko/comic/x_friend_15",
+    "title": "엑스 프렌드 [개정판]",
+    "seriesTitle": "엑스 프렌드 [개정판]",
     "authors": [
-      "사사에 노리코",
-      "마나부"
+      "따따이",
+      "볘르",
+      "아스테리아"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011794999041637/images/tall.webp?updated=1795051643445&width=440",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011792477351190/images/tall.webp?updated=1793877234889&width=440",
+    "category": "romance",
+    "rating": "all",
+    "rank": 17,
+    "rankList": "realtime:new",
+    "releasedAt": "2026-11-09T15:00:00.000Z",
+    "updatedAt": "2026-11-09T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 2,
+      "completed": true,
+      "text": null
+    },
+    "titleKey": "엑스프렌드"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "xxl_size_15",
+    "url": "https://www.lezhin.com/ko/comic/xxl_size_15",
+    "title": "[플래이 단편선] XXL 사이즈 아저씨 [개정판]",
+    "seriesTitle": "[플래이 단편선] XXL 사이즈 아저씨 [개정판]",
+    "authors": [
+      "오오렌지",
+      "로와_ROWA",
+      "해다금",
+      "플래이툰"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011792430133990/images/tall.webp?updated=1794320367519&width=440",
     "category": "romance",
     "rating": "all",
     "rank": 18,
     "rankList": "realtime:new",
-    "releasedAt": "2026-11-19T15:00:00.000Z",
-    "updatedAt": "2026-11-19T15:00:00.000Z",
+    "releasedAt": "2026-11-18T15:00:00.000Z",
+    "updatedAt": "2026-11-18T15:00:00.000Z",
     "price": {
       "currency": "COIN",
-      "current": 25,
-      "regular": 25,
+      "current": 2,
+      "regular": 2,
       "discountRate": 0,
       "unit": "episode"
     },
     "promo": {
       "freeEpisodes": 1,
       "completed": true,
-      "text": null
+      "text": "[3 → 2코인] 파격할인 이벤트! (11/26 목요일 정오까지)"
     },
-    "titleKey": "자궁연애"
+    "titleKey": "플래이단편선xxl사이즈아저씨"
   },
   {
     "source": "lezhin",
@@ -1938,6 +2135,102 @@
   {
     "source": "lezhin",
     "region": "KR",
+    "id": "hurdle_15",
+    "url": "https://www.lezhin.com/ko/comic/hurdle_15",
+    "title": "허들 [개정판][연재]",
+    "seriesTitle": "허들 [개정판][연재]",
+    "authors": [
+      "두연",
+      "좌청룡",
+      "임은성"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011792050456907/images/tall.webp?updated=1792404421140&width=440",
+    "category": "romance",
+    "rating": "all",
+    "rank": 20,
+    "rankList": "realtime:new",
+    "releasedAt": "2026-10-23T15:00:00.000Z",
+    "updatedAt": "2026-11-17T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "completed": false,
+      "text": null
+    },
+    "titleKey": "허들"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "jang_trouble",
+    "url": "https://www.lezhin.com/ko/comic/jang_trouble",
+    "title": "장트러블",
+    "seriesTitle": "장트러블",
+    "authors": [
+      "투바"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011793004464068/images/tall.webp?updated=1793702051788&width=440",
+    "category": "romance",
+    "rating": "all",
+    "rank": 21,
+    "rankList": "realtime:new",
+    "releasedAt": "2026-11-06T15:00:00.000Z",
+    "updatedAt": "2026-11-06T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 3,
+      "regular": 3,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 7,
+      "completed": true,
+      "text": null
+    },
+    "titleKey": "장트러블"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
+    "id": "honey_wolf_b",
+    "url": "https://www.lezhin.com/ko/comic/honey_wolf_b",
+    "title": "벌꿀과 늑대 [단행본]",
+    "seriesTitle": "벌꿀과 늑대 [단행본]",
+    "authors": [
+      "도자키",
+      "허니B"
+    ],
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011792978482056/images/tall.webp?updated=1793176013212&width=440",
+    "category": "bl",
+    "rating": "all",
+    "rank": 22,
+    "rankList": "realtime:new",
+    "releasedAt": "2026-10-28T15:00:00.000Z",
+    "updatedAt": "2026-10-28T15:00:00.000Z",
+    "price": {
+      "currency": "COIN",
+      "current": 36,
+      "regular": 36,
+      "discountRate": 0,
+      "unit": "episode"
+    },
+    "promo": {
+      "freeEpisodes": 1,
+      "completed": true,
+      "text": null
+    },
+    "titleKey": "벌꿀과늑대"
+  },
+  {
+    "source": "lezhin",
+    "region": "KR",
     "id": "deep_space_love",
     "url": "https://www.lezhin.com/ko/comic/deep_space_love",
     "title": "아주 깊은 우주에서 사랑을 담아",
@@ -1949,7 +2242,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/7011787643961376/images/tall.webp?updated=1793359432383&width=440",
     "category": "gl",
     "rating": "all",
-    "rank": 20,
+    "rank": 23,
     "rankList": "realtime:new",
     "releasedAt": "2026-09-03T15:00:00.000Z",
     "updatedAt": "2026-11-01T15:00:00.000Z",
@@ -1970,21 +2263,20 @@
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "perfect_trap",
-    "url": "https://www.lezhin.com/ko/comic/perfect_trap",
-    "title": "완벽한 덫 [연재]",
-    "seriesTitle": "완벽한 덫 [연재]",
+    "id": "cold_duke",
+    "url": "https://www.lezhin.com/ko/comic/cold_duke",
+    "title": "추위타는 북부대공",
+    "seriesTitle": "추위타는 북부대공",
     "authors": [
-      "공윤",
-      "니니"
+      "누기"
     ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011791424202924/images/tall.webp?updated=1792730447824&width=440",
-    "category": "bl",
+    "cover": "https://ccdn.lezhin.com/v2/comics/7011791872227564/images/tall.webp?updated=1793173561656&width=440",
+    "category": "romance",
     "rating": "all",
-    "rank": 21,
+    "rank": 24,
     "rankList": "realtime:new",
-    "releasedAt": "2026-10-25T15:00:00.000Z",
-    "updatedAt": "2026-11-17T15:00:00.000Z",
+    "releasedAt": "2026-10-28T15:00:00.000Z",
+    "updatedAt": "2026-10-28T15:00:00.000Z",
     "price": {
       "currency": "COIN",
       "current": 3,
@@ -1993,11 +2285,11 @@
       "unit": "episode"
     },
     "promo": {
-      "freeEpisodes": 2,
-      "completed": false,
+      "freeEpisodes": 3,
+      "completed": true,
       "text": null
     },
-    "titleKey": "완벽한덫"
+    "titleKey": "추위타는북부대공"
   },
   {
     "source": "lezhin",
@@ -2013,7 +2305,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/7011792538123155/images/tall.webp?updated=1792975407875&width=440",
     "category": "bl",
     "rating": "all",
-    "rank": 22,
+    "rank": 25,
     "rankList": "realtime:new",
     "releasedAt": "2026-10-26T15:00:00.000Z",
     "updatedAt": "2026-10-26T15:00:00.000Z",
@@ -2034,41 +2326,6 @@
   {
     "source": "lezhin",
     "region": "KR",
-    "id": "madly_brilliant",
-    "url": "https://www.lezhin.com/ko/comic/madly_brilliant",
-    "title": "미치도록 찬란하게",
-    "seriesTitle": "미치도록 찬란하게",
-    "authors": [
-      "복숭아",
-      "태이",
-      "예나",
-      "아일리파로",
-      "WOONGJIN THINKBIG"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011790818765618/images/tall.webp?updated=1792401556145&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 23,
-    "rankList": "realtime:new",
-    "releasedAt": "2026-10-21T15:00:00.000Z",
-    "updatedAt": "2026-10-21T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "completed": true,
-      "text": null
-    },
-    "titleKey": "미치도록찬란하게"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
     "id": "kimini_choco",
     "url": "https://www.lezhin.com/ko/comic/kimini_choco",
     "title": "너에게 초콜릿",
@@ -2079,7 +2336,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/7011793087423890/images/tall.webp?updated=1793702794467&width=440",
     "category": "bl",
     "rating": "all",
-    "rank": 24,
+    "rank": 26,
     "rankList": "realtime:new",
     "releasedAt": "2026-11-08T15:00:00.000Z",
     "updatedAt": "2026-11-08T15:00:00.000Z",
@@ -2111,7 +2368,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/7011791857444293/images/tall.webp?updated=1792479911793&width=440",
     "category": "romance",
     "rating": "all",
-    "rank": 25,
+    "rank": 27,
     "rankList": "realtime:new",
     "releasedAt": "2026-10-24T15:00:00.000Z",
     "updatedAt": "2026-10-24T15:00:00.000Z",
@@ -2144,7 +2401,7 @@
     "cover": "https://ccdn.lezhin.com/v2/comics/7011791785893452/images/tall.webp?updated=1793173697617&width=440",
     "category": "romance",
     "rating": "all",
-    "rank": 26,
+    "rank": 28,
     "rankList": "realtime:new",
     "releasedAt": "2026-10-28T15:00:00.000Z",
     "updatedAt": "2026-10-28T15:00:00.000Z",
@@ -2161,134 +2418,5 @@
       "text": null
     },
     "titleKey": "악역은곱게죽고싶다"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "best_friends",
-    "url": "https://www.lezhin.com/ko/comic/best_friends",
-    "title": "절친",
-    "seriesTitle": "절친",
-    "authors": [
-      "오시마 토와",
-      "마나부"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011792557507797/images/tall.webp?updated=1793005568872&width=440",
-    "category": "gl",
-    "rating": "all",
-    "rank": 27,
-    "rankList": "realtime:new",
-    "releasedAt": "2026-10-27T15:00:00.000Z",
-    "updatedAt": "2026-10-27T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 4,
-      "regular": 4,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 6,
-      "completed": false,
-      "text": null
-    },
-    "titleKey": "절친"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "monster_and_ghost",
-    "url": "https://www.lezhin.com/ko/comic/monster_and_ghost",
-    "title": "몬스터 앤드 고스트",
-    "seriesTitle": "몬스터 앤드 고스트",
-    "authors": [
-      "히메미코",
-      "허니B"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011794462635293/images/tall.webp?updated=1794470321291&width=440",
-    "category": "bl",
-    "rating": "all",
-    "rank": 28,
-    "rankList": "realtime:new",
-    "releasedAt": "2026-11-16T15:00:00.000Z",
-    "updatedAt": "2026-11-16T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 1,
-      "completed": false,
-      "text": null
-    },
-    "titleKey": "몬스터앤드고스트"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "odyssey_",
-    "url": "https://www.lezhin.com/ko/comic/odyssey_",
-    "title": "오디세이",
-    "seriesTitle": "오디세이",
-    "authors": [
-      "갈로아"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011792397480318/images/tall.webp?updated=1792729628445&width=440",
-    "category": "drama",
-    "rating": "all",
-    "rank": 29,
-    "rankList": "realtime:new",
-    "releasedAt": "2026-10-25T15:00:00.000Z",
-    "updatedAt": "2026-10-25T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 4,
-      "completed": true,
-      "text": null
-    },
-    "titleKey": "오디세이"
-  },
-  {
-    "source": "lezhin",
-    "region": "KR",
-    "id": "hwangjeui_biseo",
-    "url": "https://www.lezhin.com/ko/comic/hwangjeui_biseo",
-    "title": "황제의 비서는 살아남고 싶습니다",
-    "seriesTitle": "황제의 비서는 살아남고 싶습니다",
-    "authors": [
-      "이미이",
-      "MOL",
-      "궁야",
-      "주초나"
-    ],
-    "cover": "https://ccdn.lezhin.com/v2/comics/7011793165283449/images/tall.webp?updated=1793886772889&width=440",
-    "category": "romance",
-    "rating": "all",
-    "rank": 30,
-    "rankList": "realtime:new",
-    "releasedAt": "2026-11-11T15:00:00.000Z",
-    "updatedAt": "2026-11-11T15:00:00.000Z",
-    "price": {
-      "currency": "COIN",
-      "current": 3,
-      "regular": 3,
-      "discountRate": 0,
-      "unit": "episode"
-    },
-    "promo": {
-      "freeEpisodes": 3,
-      "completed": true,
-      "text": null
-    },
-    "titleKey": "황제의비서는살아남고싶습니다"
   }
 ]
