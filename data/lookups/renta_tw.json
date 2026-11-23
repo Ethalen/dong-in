@@ -229,6 +229,34 @@
   {
     "source": "renta_tw",
     "region": "TW",
+    "id": "451981",
+    "url": "https://tw.myrenta.com/item/451981",
+    "title": "冰之城牆",
+    "seriesTitle": "冰之城牆",
+    "authors": [
+      "阿賀沢紅茶"
+    ],
+    "cover": "https://cover.myrenta.com/977891.jpg",
+    "category": "少年漫畫",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2024-10-17T00:00:00.000Z",
+    "updatedAt": "2026-11-19T00:00:00.000Z",
+    "price": {
+      "currency": "TWD",
+      "current": 160,
+      "regular": 160,
+      "discountRate": 0,
+      "unit": "volume",
+      "volume": 8
+    },
+    "promo": null,
+    "titleKey": "冰之城牆"
+  },
+  {
+    "source": "renta_tw",
+    "region": "TW",
     "id": "207941",
     "url": "https://tw.myrenta.com/item/207941",
     "title": "破曉之歌",
@@ -365,6 +393,34 @@
     },
     "promo": null,
     "titleKey": "榎本學長才不是天使單行本版"
+  },
+  {
+    "source": "renta_tw",
+    "region": "TW",
+    "id": "945021",
+    "url": "https://tw.myrenta.com/item/945021",
+    "title": "戀上換裝娃娃",
+    "seriesTitle": "戀上換裝娃娃",
+    "authors": [
+      "福田晋一"
+    ],
+    "cover": "https://cover.myrenta.com/1786941.jpg",
+    "category": "少年漫畫",
+    "rating": "all",
+    "rank": null,
+    "rankList": "lookup",
+    "releasedAt": "2026-08-20T00:00:00.000Z",
+    "updatedAt": "2026-11-05T00:00:00.000Z",
+    "price": {
+      "currency": "TWD",
+      "current": 105,
+      "regular": 105,
+      "discountRate": 0,
+      "unit": "volume",
+      "volume": 15
+    },
+    "promo": null,
+    "titleKey": "戀上換裝娃娃"
   },
   {
     "source": "renta_tw",
