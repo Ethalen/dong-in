@@ -2,15 +2,15 @@
   "sources": {
     "dlsite": {
       "ok": true,
-      "at": "2026-11-25T04:08:58.975Z",
+      "at": "2026-11-25T19:13:12.303Z",
       "raw": 120,
       "adult": 0,
-      "old": 0,
-      "kept": 120
+      "old": 1,
+      "kept": 119
     },
     "bookwalker_tw": {
       "ok": true,
-      "at": "2026-11-25T04:08:58.975Z",
+      "at": "2026-11-25T19:13:12.303Z",
       "raw": 25,
       "adult": 0,
       "old": 1,
@@ -18,38 +18,40 @@
     },
     "renta_tw": {
       "ok": true,
-      "at": "2026-11-25T04:08:58.975Z",
+      "at": "2026-11-25T19:13:12.303Z",
       "raw": 37,
       "adult": 0,
-      "old": 11,
-      "kept": 26
+      "old": 12,
+      "kept": 25
     },
     "ridi": {
-      "ok": true,
+      "ok": false,
       "at": "2026-11-25T04:08:58.975Z",
       "raw": 120,
       "adult": 0,
       "old": 2,
-      "kept": 118
+      "kept": 118,
+      "lastError": "HTTP 590",
+      "failedAt": "2026-11-25T19:13:12.303Z"
     },
     "kakaopage": {
       "ok": true,
-      "at": "2026-11-25T04:08:58.975Z",
+      "at": "2026-11-25T19:13:12.303Z",
       "raw": 120,
-      "adult": 14,
+      "adult": 15,
       "old": 3,
-      "kept": 103
+      "kept": 102
     },
     "lezhin": {
       "ok": true,
-      "at": "2026-11-25T04:08:58.975Z",
-      "raw": 71,
+      "at": "2026-11-25T19:13:12.303Z",
+      "raw": 67,
       "adult": 0,
       "old": 0,
-      "kept": 71
+      "kept": 67
     }
   },
-  "generatedAt": "2026-11-25T04:08:58.975Z",
+  "generatedAt": "2026-11-25T19:13:12.303Z",
   "sinceDays": 365,
   "recency": "any"
 }
