@@ -123,6 +123,36 @@
   {
     "source": "bookwalker_tw",
     "region": "TW",
+    "id": "312779",
+    "url": "https://www.bookwalker.com.tw/product/312779",
+    "title": "去家庭餐廳吧。下 (2)",
+    "seriesTitle": "去家庭餐廳吧。",
+    "authors": [
+      "和山やま"
+    ],
+    "cover": "https://taiwan-image.bookwalker.com.tw/product/312779/312779_1.jpg",
+    "category": "漫畫",
+    "rating": "all",
+    "rank": 21,
+    "rankList": "rank",
+    "releasedAt": "2026-11-05T00:00:00.000Z",
+    "updatedAt": "2026-11-05T00:00:00.000Z",
+    "price": {
+      "currency": "TWD",
+      "current": 120,
+      "regular": 120,
+      "discountRate": 0,
+      "unit": "volume",
+      "rental": 15,
+      "isbn": null,
+      "volume": 2
+    },
+    "promo": null,
+    "titleKey": "去家庭餐廳吧"
+  },
+  {
+    "source": "bookwalker_tw",
+    "region": "TW",
     "id": "308246",
     "url": "https://www.bookwalker.com.tw/product/308246",
     "title": "你好，身為魔女的我，被心上人委託製作迷情藥 (5)",
@@ -134,7 +164,7 @@
     "cover": "https://taiwan-image.bookwalker.com.tw/product/308246/308246_1.jpg",
     "category": "漫畫",
     "rating": "all",
-    "rank": 30,
+    "rank": 31,
     "rankList": "rank",
     "releasedAt": "2026-09-25T00:00:00.000Z",
     "updatedAt": "2026-09-25T00:00:00.000Z",
@@ -164,15 +194,15 @@
     "cover": "https://taiwan-image.bookwalker.com.tw/product/308283/308283_1.jpg",
     "category": "漫畫",
     "rating": "all",
-    "rank": 35,
+    "rank": 36,
     "rankList": "rank",
     "releasedAt": "2026-09-25T00:00:00.000Z",
     "updatedAt": "2026-09-25T00:00:00.000Z",
     "price": {
       "currency": "TWD",
-      "current": 115,
+      "current": 98,
       "regular": 115,
-      "discountRate": 0,
+      "discountRate": 15,
       "unit": "volume",
       "rental": 14,
       "isbn": "9786264682374",
@@ -180,36 +210,6 @@
     },
     "promo": null,
     "titleKey": "藍天與蜃景"
-  },
-  {
-    "source": "bookwalker_tw",
-    "region": "TW",
-    "id": "312779",
-    "url": "https://www.bookwalker.com.tw/product/312779",
-    "title": "去家庭餐廳吧。下 (2)",
-    "seriesTitle": "去家庭餐廳吧。",
-    "authors": [
-      "和山やま"
-    ],
-    "cover": "https://taiwan-image.bookwalker.com.tw/product/312779/312779_1.jpg",
-    "category": "漫畫",
-    "rating": "all",
-    "rank": 36,
-    "rankList": "rank",
-    "releasedAt": "2026-11-05T00:00:00.000Z",
-    "updatedAt": "2026-11-05T00:00:00.000Z",
-    "price": {
-      "currency": "TWD",
-      "current": 120,
-      "regular": 120,
-      "discountRate": 0,
-      "unit": "volume",
-      "rental": 15,
-      "isbn": null,
-      "volume": 2
-    },
-    "promo": null,
-    "titleKey": "去家庭餐廳吧"
   },
   {
     "source": "bookwalker_tw",
