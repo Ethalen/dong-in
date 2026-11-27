@@ -858,13 +858,13 @@
       "헤라",
       "사하"
     ],
-    "cover": "https://img.ridicdn.net/cover/1746037175/large#1",
+    "cover": "https://img.ridicdn.net/cover/1746037202/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
     "rank": 22,
     "rankList": "webtoon:monthly",
     "releasedAt": "2023-10-27T15:00:00.000Z",
-    "updatedAt": "2026-11-20T15:00:00.000Z",
+    "updatedAt": "2026-11-27T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 500,
@@ -872,13 +872,13 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 52500,
-        "regular": 52500,
-        "count": 105
+        "current": 53000,
+        "regular": 53000,
+        "count": 106
       },
       "rentalTotal": {
-        "current": 30900,
-        "regular": 30900
+        "current": 31200,
+        "regular": 31200
       }
     },
     "promo": {
@@ -979,13 +979,13 @@
       "스르륵코믹스",
       "자서현"
     ],
-    "cover": "https://img.ridicdn.net/cover/5337000128/large#1",
+    "cover": "https://img.ridicdn.net/cover/5337000129/large#1",
     "category": "판타지/SF / 웹툰",
     "rating": "all",
     "rank": 25,
     "rankList": "webtoon:monthly",
     "releasedAt": "2023-09-01T15:00:00.000Z",
-    "updatedAt": "2026-11-20T15:00:00.000Z",
+    "updatedAt": "2026-11-27T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 500,
@@ -993,13 +993,13 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 64000,
-        "regular": 64000,
-        "count": 128
+        "current": 64500,
+        "regular": 64500,
+        "count": 129
       },
       "rentalTotal": {
-        "current": 37200,
-        "regular": 37200
+        "current": 37500,
+        "regular": 37500
       }
     },
     "promo": {
@@ -1627,13 +1627,13 @@
       "다맏",
       "예훤"
     ],
-    "cover": "https://img.ridicdn.net/cover/3776004186/large#1",
+    "cover": "https://img.ridicdn.net/cover/3776004203/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
     "rank": 41,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-04-10T15:00:00.000Z",
-    "updatedAt": "2026-11-13T15:00:00.000Z",
+    "updatedAt": "2026-11-27T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 500,
@@ -1641,13 +1641,13 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 21500,
-        "regular": 21500,
-        "count": 43
+        "current": 22000,
+        "regular": 22000,
+        "count": 44
       },
       "rentalTotal": {
-        "current": 12000,
-        "regular": 12000
+        "current": 12300,
+        "regular": 12300
       }
     },
     "promo": {
@@ -1758,22 +1758,22 @@
     "updatedAt": "2026-10-28T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 500,
+      "current": 300,
       "regular": 500,
-      "discountRate": 0,
+      "discountRate": 40,
       "unit": "episode",
       "seriesTotal": {
-        "current": 27000,
+        "current": 16200,
         "regular": 27000,
         "count": 54
       },
       "rentalTotal": {
-        "current": 15600,
-        "regular": 15600
+        "current": 0,
+        "regular": 0
       }
     },
     "promo": {
-      "freeEpisodes": 2,
+      "freeEpisodes": 54,
       "text": null
     },
     "titleKey": "이세계에서불법으로동물병원을개원했습니다"
@@ -2235,13 +2235,13 @@
       "감튀학살자",
       "밤오렌지"
     ],
-    "cover": "https://img.ridicdn.net/cover/2404040023/large#1",
+    "cover": "https://img.ridicdn.net/cover/2404040104/large#1",
     "category": "로판 / 웹툰",
     "rating": "all",
     "rank": 57,
     "rankList": "webtoon:monthly",
     "releasedAt": "2026-11-08T15:00:00.000Z",
-    "updatedAt": "2026-11-19T15:00:00.000Z",
+    "updatedAt": "2026-11-26T15:00:00.000Z",
     "price": {
       "currency": "KRW",
       "current": 600,
@@ -2249,13 +2249,13 @@
       "discountRate": 0,
       "unit": "episode",
       "seriesTotal": {
-        "current": 6600,
-        "regular": 6600,
-        "count": 11
+        "current": 7200,
+        "regular": 7200,
+        "count": 12
       },
       "rentalTotal": {
-        "current": 3000,
-        "regular": 3000
+        "current": 3300,
+        "regular": 3300
       }
     },
     "promo": {
@@ -4144,24 +4144,18 @@
     "updatedAt": "2026-10-27T15:00:00.000Z",
     "price": {
       "currency": "KRW",
-      "current": 3240,
+      "current": 3600,
       "regular": 3600,
-      "discountRate": 10,
+      "discountRate": 0,
       "unit": "volume",
       "seriesTotal": {
-        "current": 25920,
+        "current": 28800,
         "regular": 28800,
         "count": 8
       },
-      "rentalTotal": {
-        "current": 0,
-        "regular": 0
-      }
+      "rentalTotal": null
     },
-    "promo": {
-      "freeEpisodes": 1,
-      "text": null
-    },
+    "promo": null,
     "titleKey": "앨버트가의영애는몰락을소망합니다"
   },
   {
